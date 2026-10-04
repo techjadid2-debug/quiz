@@ -542,5 +542,1173 @@
     "difficulty": "easy",
     "source": "https://en.wikipedia.org/wiki/Hamlet",
     "status": "verified"
+  },
+  {
+    "id": "lit-035",
+    "question": "“Alpomish” dostonida Alpomishning sodiq oti qanday nomlanadi?",
+    "options": [
+      "Boychibor",
+      "G‘irot",
+      "Duldul",
+      "Rahsh"
+    ],
+    "answer": 0,
+    "explanation": "Boychibor — Alpomishning tulpori; doston qahramonning ot bilan birga ko‘rsatgan jasoratlarini kuylaydi.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Alpamysh",
+    "status": "verified"
+  },
+  {
+    "id": "lit-036",
+    "question": "“Alpomish” dostonida Alpomishning unashtirilgan sevgilisi kim?",
+    "options": [
+      "Kumush",
+      "Barchin",
+      "Gulnor",
+      "Layli"
+    ],
+    "answer": 1,
+    "explanation": "Barchin (Barchinoy) — Alpomishning qallig‘i; uni olish uchun Alpomish Qalmoq yurtiga yo‘l oladi.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Alpamysh",
+    "status": "verified"
+  },
+  {
+    "id": "lit-037",
+    "question": "“Go‘ro‘g‘li” turkumidagi dostonlarda Go‘ro‘g‘lining mashhur oti qanday nomlanadi?",
+    "options": [
+      "Boychibor",
+      "G‘irot",
+      "Duldul",
+      "Rahsh"
+    ],
+    "answer": 1,
+    "explanation": "G‘irot — Go‘ro‘g‘li dostonlaridagi afsonaviy tulpor; Boychibor esa Alpomishning oti.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Epic_of_Koroglu",
+    "status": "verified"
+  },
+  {
+    "id": "lit-038",
+    "question": "Ahmad Yassaviyning hikmatlari jamlangan asar qanday nomlanadi?",
+    "options": [
+      "Hibat ul-haqoyiq",
+      "Qutadg‘u bilig",
+      "Devoni hikmat",
+      "Mahbub ul-qulub"
+    ],
+    "answer": 2,
+    "explanation": "“Devoni hikmat” — Ahmad Yassaviy va uning izdoshlariga nisbat beriladigan tasavvufiy she’rlar (hikmatlar) to‘plami.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Ahmad_Yasawi",
+    "status": "verified"
+  },
+  {
+    "id": "lit-039",
+    "question": "“Hibat ul-haqoyiq” (“Haqiqatlar tuhfasi”) didaktik dostonining muallifi kim?",
+    "options": [
+      "Ahmad Yassaviy",
+      "Yusuf Xos Hojib",
+      "Ahmad Yugnakiy",
+      "Mahmud Koshg‘ariy"
+    ],
+    "answer": 2,
+    "explanation": "“Hibat ul-haqoyiq” — Ahmad Yugnakiy qalamiga mansub axloqiy-ta’limiy asar.",
+    "category": "literature",
+    "difficulty": "hard",
+    "source": "https://uz.wikipedia.org/wiki/Hibat_ul-haqoyiq",
+    "status": "verified"
+  },
+  {
+    "id": "lit-040",
+    "question": "Yusuf Xos Hojibning “Qutadg‘u bilig” asari qaysi sulola davrida yozilgan?",
+    "options": [
+      "Somoniylar",
+      "G‘aznaviylar",
+      "Temuriylar",
+      "Qoraxoniylar"
+    ],
+    "answer": 3,
+    "explanation": "“Qutadg‘u bilig” XI asrda (1069–1070) yozilib, Qoraxoniylar hukmdoriga taqdim etilgan.",
+    "category": "literature",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Kutadgu_Bilig",
+    "status": "verified"
+  },
+  {
+    "id": "lit-041",
+    "question": "Mahmud Koshg‘ariyning “Devonu lug‘otit turk” asarida turkiy so‘zlar qaysi tilda izohlangan?",
+    "options": [
+      "Fors tilida",
+      "Yunon tilida",
+      "Lotin tilida",
+      "Arab tilida"
+    ],
+    "answer": 3,
+    "explanation": "“Devonu lug‘otit turk” arab tilida so‘zlashuvchi o‘quvchilar uchun turkiy tillarni izohlab yozilgan lug‘atdir.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/D%C4%ABw%C4%81n_Lugh%C4%81t_al-Turk",
+    "status": "verified"
+  },
+  {
+    "id": "lit-042",
+    "question": "Alisher Navoiy qaysi yili tug‘ilgan?",
+    "options": [
+      "1370",
+      "1483",
+      "1441",
+      "1501"
+    ],
+    "answer": 2,
+    "explanation": "Alisher Navoiy 1441-yilda Hirotda tug‘ilgan va 1501-yilda shu shaharda vafot etgan.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Ali-Shir_Nava%27i",
+    "status": "verified"
+  },
+  {
+    "id": "lit-043",
+    "question": "Alisher Navoiyning aruz vazni nazariyasiga bag‘ishlangan risolasi qaysi?",
+    "options": [
+      "Mezon ul-avzon",
+      "Mahbub ul-qulub",
+      "Majolis un-nafois",
+      "Nasoyim ul-muhabbat"
+    ],
+    "answer": 0,
+    "explanation": "“Mezon ul-avzon” (“Vaznlar o‘lchovi”) — Navoiyning aruz vazni haqidagi ilmiy risolasi.",
+    "category": "literature",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Ali-Shir_Nava%27i",
+    "status": "verified"
+  },
+  {
+    "id": "lit-044",
+    "question": "Alisher Navoiyning zamondosh shoirlar haqidagi tazkirasi qanday nomlanadi?",
+    "options": [
+      "Mezon ul-avzon",
+      "Majolis un-nafois",
+      "Lison ut-tayr",
+      "Mahbub ul-qulub"
+    ],
+    "answer": 1,
+    "explanation": "“Majolis un-nafois” — turkiy tildagi ilk tazkira bo‘lib, unda bir necha yuz shoir haqida ma’lumot berilgan.",
+    "category": "literature",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Ali-Shir_Nava%27i",
+    "status": "verified"
+  },
+  {
+    "id": "lit-045",
+    "question": "Alisher Navoiyning “Lison ut-tayr” dostoni qaysi asarga javob tariqasida yozilgan?",
+    "options": [
+      "Nizomiyning “Maxzan ul-asror” asari",
+      "Rumiyning “Masnaviy” asari",
+      "Attorning “Mantiq ut-tayr” asari",
+      "Sa’diyning “Bo‘ston” asari"
+    ],
+    "answer": 2,
+    "explanation": "“Lison ut-tayr” (“Qush tili”) Fariduddin Attorning “Mantiq ut-tayr” (“Qushlar nutqi”) dostoniga javob sifatida yaratilgan.",
+    "category": "literature",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Ali-Shir_Nava%27i",
+    "status": "verified"
+  },
+  {
+    "id": "lit-046",
+    "question": "“Layli va Majnun” dostonidagi Majnunning asl ismi nima?",
+    "options": [
+      "Qays",
+      "Farhod",
+      "Bahrom",
+      "Navfal"
+    ],
+    "answer": 0,
+    "explanation": "Majnun (“devona”) — Qays ibn al-Mulavvahga berilgan laqab; u Layliga bo‘lgan ishqi tufayli shunday atalgan.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Layla_and_Majnun",
+    "status": "verified"
+  },
+  {
+    "id": "lit-047",
+    "question": "Zahiriddin Muhammad Boburning “Boburnoma” asari qaysi tilda yozilgan?",
+    "options": [
+      "Fors tilida",
+      "Chig‘atoy turkiy tilida",
+      "Arab tilida",
+      "Urdu tilida"
+    ],
+    "answer": 1,
+    "explanation": "“Boburnoma” eski o‘zbek (chig‘atoy turkiy) tilida yozilgan; keyinchalik fors tiliga tarjima qilingan.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Baburnama",
+    "status": "verified"
+  },
+  {
+    "id": "lit-048",
+    "question": "Shoir Mashrabning asl ismi nima bo‘lgan?",
+    "options": [
+      "Zokirjon",
+      "Muhammad Aminxo‘ja",
+      "Abdulhamid",
+      "Boborahim"
+    ],
+    "answer": 3,
+    "explanation": "Mashrab — Boborahim Vali o‘g‘lining taxallusi; u 1711-yilda Qunduzda qatl etilgan.",
+    "category": "literature",
+    "difficulty": "hard",
+    "source": "https://uz.wikipedia.org/wiki/Boborahim_Mashrab",
+    "status": "verified"
+  },
+  {
+    "id": "lit-049",
+    "question": "Shoira Nodira qaysi davlat hukmdori Umarxonning rafiqasi bo‘lgan?",
+    "options": [
+      "Xiva xonligi",
+      "Buxoro amirligi",
+      "Qo‘qon xonligi",
+      "Qrim xonligi"
+    ],
+    "answer": 2,
+    "explanation": "Nodira (asl ismi Mohlaroyim) Qo‘qon xoni Umarxonning rafiqasi bo‘lgan; Komila, Maknuna taxalluslari bilan ham yozgan.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Nodira",
+    "status": "verified"
+  },
+  {
+    "id": "lit-050",
+    "question": "Shoira Uvaysiyning asl ismi nima bo‘lgan?",
+    "options": [
+      "Jahon",
+      "Mohlaroyim",
+      "Zebuniso",
+      "Dilshod"
+    ],
+    "answer": 0,
+    "explanation": "Uvaysiyning asl ismi Jahon bo‘lib, xalq orasida Jahon otin nomi bilan tanilgan; Mohlaroyim esa Nodiraning ismi.",
+    "category": "literature",
+    "difficulty": "hard",
+    "source": "https://uz.wikipedia.org/wiki/Jahon_otin_Uvaysiy",
+    "status": "verified"
+  },
+  {
+    "id": "lit-051",
+    "question": "Muqimiyning qishloqlar va yo‘llardagi hayotni hajviy tasvirlagan she’rlar turkumi qanday nomlanadi?",
+    "options": [
+      "Boburnoma",
+      "Shajarai turk",
+      "Firdavs ul-iqbol",
+      "Sayohatnoma"
+    ],
+    "answer": 3,
+    "explanation": "“Sayohatnoma” — Muqimiyning qishloq hayotini yengil yumor bilan tasvirlagan mashhur she’rlar turkumi.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://uz.wikipedia.org/wiki/Muqimiy",
+    "status": "verified"
+  },
+  {
+    "id": "lit-052",
+    "question": "Xalq shoiri Avaz O‘tar qaysi shaharda yashab ijod qilgan?",
+    "options": [
+      "Xiva",
+      "Qo‘qon",
+      "Buxoro",
+      "Samarqand"
+    ],
+    "answer": 0,
+    "explanation": "Avaz O‘tar (1884–1919) — Xivada yashab ijod qilgan ma’rifatparvar shoir.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://uz.wikipedia.org/wiki/Avaz_O%CA%BBtar",
+    "status": "verified"
+  },
+  {
+    "id": "lit-053",
+    "question": "O‘zbek adabiyotidagi ilk drama hisoblangan “Padarkush” asarining muallifi kim?",
+    "options": [
+      "Abdurauf Fitrat",
+      "Mahmudxo‘ja Behbudiy",
+      "Hamza Hakimzoda Niyoziy",
+      "Abdulla Avloniy"
+    ],
+    "answer": 1,
+    "explanation": "“Padarkush” Behbudiy tomonidan 1911-yilda yozilgan; u jadid teatrining birinchi asari hisoblanadi.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Mahmudkhodja_Behbudiy",
+    "status": "verified"
+  },
+  {
+    "id": "lit-054",
+    "question": "Cho‘lponning 1922-yilda nashr etilgan birinchi she’riy to‘plami qanday nomlanadi?",
+    "options": [
+      "Buloqlar",
+      "Uyg‘onish",
+      "Tong sirlari",
+      "Soz"
+    ],
+    "answer": 1,
+    "explanation": "“Uyg‘onish” (1922) — Cho‘lponning ilk to‘plami; keyin “Buloqlar”, “Tong sirlari” va “Soz” to‘plamlari chiqqan.",
+    "category": "literature",
+    "difficulty": "hard",
+    "source": "https://www.ziyouz.com/portal-haqida/xarita/o-zbek-ziyolilari/cho-lpon-1897-1938",
+    "status": "verified"
+  },
+  {
+    "id": "lit-055",
+    "question": "Shekspirning “Gamlet” tragediyasini o‘zbek tiliga mahorat bilan tarjima qilgan shoir kim?",
+    "options": [
+      "Oybek",
+      "Fitrat",
+      "Cho‘lpon",
+      "Abdulla Qahhor"
+    ],
+    "answer": 2,
+    "explanation": "Cho‘lponning “Gamlet” tarjimasi o‘zbek tarjimachilik san’atining durdonasi sanaladi.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://www.ziyouz.com/portal-haqida/xarita/o-zbek-ziyolilari/cho-lpon-1897-1938",
+    "status": "verified"
+  },
+  {
+    "id": "lit-056",
+    "question": "“O‘tkan kunlar” romanida Otabekning otasi kim?",
+    "options": [
+      "Mirzakarim qutidor",
+      "Homid",
+      "Akram hoji",
+      "Yusufbek hoji"
+    ],
+    "answer": 3,
+    "explanation": "Yusufbek hoji — Otabekning otasi; Mirzakarim qutidor esa Kumushning otasi.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://uz.wikipedia.org/wiki/O%CA%BBtkan_kunlar",
+    "status": "verified"
+  },
+  {
+    "id": "lit-057",
+    "question": "“O‘tkan kunlar” romanida Otabekning ikkinchi xotini kim?",
+    "options": [
+      "Ra’no",
+      "Gulnor",
+      "Barchin",
+      "Zaynab"
+    ],
+    "answer": 3,
+    "explanation": "Otabek onasining talabi bilan Zaynabga uylanadi; Zaynab rashk tufayli Kumushni zaharlaydi.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://uz.wikipedia.org/wiki/O%CA%BBtkan_kunlar",
+    "status": "verified"
+  },
+  {
+    "id": "lit-058",
+    "question": "Abdulla Qodiriyning “Mehrobdan chayon” romani bosh qahramonlari kimlar?",
+    "options": [
+      "Anvar va Ra’no",
+      "Otabek va Kumush",
+      "Yo‘lchi va Gulnor",
+      "Farhod va Shirin"
+    ],
+    "answer": 0,
+    "explanation": "“Mehrobdan chayon” (1928) Anvar va Ra’no muhabbati orqali xonlik davri hayotini tasvirlaydi.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://uz.wikipedia.org/wiki/Abdulla_Qodiriy",
+    "status": "verified"
+  },
+  {
+    "id": "lit-059",
+    "question": "Oybekning “Qutlug‘ qon” romani bosh qahramoni kim?",
+    "options": [
+      "Yo‘lchi",
+      "Otabek",
+      "Anvar",
+      "Saidiy"
+    ],
+    "answer": 0,
+    "explanation": "Yo‘lchi — “Qutlug‘ qon” romanining bosh qahramoni; Saidiy esa Abdulla Qahhorning “Sarob” romani qahramoni.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Oybek",
+    "status": "verified"
+  },
+  {
+    "id": "lit-060",
+    "question": "“Sen yetim emassan” she’rining muallifi kim?",
+    "options": [
+      "Hamid Olimjon",
+      "G‘afur G‘ulom",
+      "Oybek",
+      "Uyg‘un"
+    ],
+    "answer": 1,
+    "explanation": "G‘afur G‘ulom bu she’rni Ikkinchi jahon urushi yillarida (1942) yozgan.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://uz.wikipedia.org/wiki/G%CA%BBafur_G%CA%BBulom",
+    "status": "verified"
+  },
+  {
+    "id": "lit-061",
+    "question": "“Oygul bilan Baxtiyor” dostonining muallifi kim?",
+    "options": [
+      "Zulfiya",
+      "Hamid Olimjon",
+      "Mirtemir",
+      "Uyg‘un"
+    ],
+    "answer": 1,
+    "explanation": "“Oygul bilan Baxtiyor” — Hamid Olimjonning xalq ertagi asosida yozilgan mashhur dostoni.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Hamid_Olimjon",
+    "status": "verified"
+  },
+  {
+    "id": "lit-062",
+    "question": "Hamid Olimjonning rafiqasi bo‘lgan mashhur o‘zbek shoirasi kim?",
+    "options": [
+      "Nodira",
+      "Uvaysiy",
+      "Zulfiya",
+      "Halima Xudoyberdiyeva"
+    ],
+    "answer": 2,
+    "explanation": "Zulfiya (1915–1996) Hamid Olimjonning rafiqasi bo‘lgan; uning nomida davlat mukofoti ta’sis etilgan.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Zulfiya",
+    "status": "verified"
+  },
+  {
+    "id": "lit-063",
+    "question": "“Kelinlar qo‘zg‘oloni” komediyasining muallifi kim?",
+    "options": [
+      "Abdulla Qahhor",
+      "O‘tkir Hoshimov",
+      "Erkin Vohidov",
+      "Said Ahmad"
+    ],
+    "answer": 3,
+    "explanation": "“Kelinlar qo‘zg‘oloni” — Said Ahmadning sahnada mashhur bo‘lgan komediyasi.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Said_Ahmad",
+    "status": "verified"
+  },
+  {
+    "id": "lit-064",
+    "question": "“Dunyoning ishlari” qissasining muallifi kim?",
+    "options": [
+      "O‘tkir Hoshimov",
+      "Said Ahmad",
+      "Tohir Malik",
+      "Pirimqul Qodirov"
+    ],
+    "answer": 0,
+    "explanation": "“Dunyoning ishlari” — O‘tkir Hoshimovning onaga bag‘ishlangan hikoyalardan iborat qissasi.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/O%CA%BBtkir_Hoshimov",
+    "status": "verified"
+  },
+  {
+    "id": "lit-065",
+    "question": "“Shaytanat” romanining muallifi kim?",
+    "options": [
+      "O‘tkir Hoshimov",
+      "Tohir Malik",
+      "Said Ahmad",
+      "Xudoyberdi To‘xtaboyev"
+    ],
+    "answer": 1,
+    "explanation": "“Shaytanat” — Tohir Malikning jinoyat olami haqidagi ko‘p kitobli romani.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://uz.wikipedia.org/wiki/Tohir_Malik",
+    "status": "verified"
+  },
+  {
+    "id": "lit-066",
+    "question": "Abdulla Oripovning Amir Temur haqidagi she’riy dramasi qanday nomlanadi?",
+    "options": [
+      "Ulug‘bek xazinasi",
+      "Yulduzli tunlar",
+      "Sohibqiron",
+      "Temur tuzuklari"
+    ],
+    "answer": 2,
+    "explanation": "“Sohibqiron” (1996) — Abdulla Oripovning she’riy dramasi; “Ulug‘bek xazinasi” Odil Yoqubov, “Yulduzli tunlar” Pirimqul Qodirov asari.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://uz.wikipedia.org/wiki/Abdulla_Oripov",
+    "status": "verified"
+  },
+  {
+    "id": "lit-067",
+    "question": "Dantening “Ilohiy komediya” asarining “Do‘zax” qismini o‘zbek tiliga kim tarjima qilgan?",
+    "options": [
+      "Erkin Vohidov",
+      "Cho‘lpon",
+      "Abdulla Oripov",
+      "Oybek"
+    ],
+    "answer": 2,
+    "explanation": "Abdulla Oripov “Ilohiy komediya”ning “Do‘zax” qismini o‘zbek tiliga tarjima qilgan; Erkin Vohidov esa Gyotening “Faust”ini tarjima qilgan.",
+    "category": "literature",
+    "difficulty": "hard",
+    "source": "https://uz.wikipedia.org/wiki/Abdulla_Oripov",
+    "status": "verified"
+  },
+  {
+    "id": "lit-068",
+    "question": "Ruboiy necha misradan iborat she’r shakli?",
+    "options": [
+      "2",
+      "5",
+      "4",
+      "14"
+    ],
+    "answer": 2,
+    "explanation": "Ruboiy — to‘rt misrali she’r; odatda 1-, 2- va 4-misralar o‘zaro qofiyalanadi.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://uz.wikipedia.org/wiki/Ruboiy",
+    "status": "verified"
+  },
+  {
+    "id": "lit-069",
+    "question": "G‘azalning birinchi bayti qanday ataladi?",
+    "options": [
+      "Maqta’",
+      "Radif",
+      "Qofiya",
+      "Matla’"
+    ],
+    "answer": 3,
+    "explanation": "Matla’ — g‘azalning ikki misrasi o‘zaro qofiyalanuvchi birinchi bayti; oxirgi bayt esa maqta’ deyiladi.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://uz.wikipedia.org/wiki/G%CA%BBazal",
+    "status": "verified"
+  },
+  {
+    "id": "lit-070",
+    "question": "Qofiyasi tajnis (shakldosh so‘zlar) asosida tuziladigan to‘rt misrali turkiy she’r shakli qanday nomlanadi?",
+    "options": [
+      "Ruboiy",
+      "Qit’a",
+      "Fard",
+      "Tuyuq"
+    ],
+    "answer": 3,
+    "explanation": "Tuyuq — qofiyadosh so‘zlari shakldosh (tajnis) bo‘lgan to‘rt misrali she’r shakli.",
+    "category": "literature",
+    "difficulty": "hard",
+    "source": "https://uz.wikipedia.org/wiki/Tuyuq",
+    "status": "verified"
+  },
+  {
+    "id": "lit-071",
+    "question": "O‘zbek she’riyatidagi barmoq vazni nimaga asoslanadi?",
+    "options": [
+      "Misralardagi bo‘g‘inlar soniga",
+      "Cho‘ziq va qisqa hijolar tartibiga",
+      "Urg‘uli bo‘g‘inlar navbatiga",
+      "Faqat qofiya turiga"
+    ],
+    "answer": 0,
+    "explanation": "Barmoq vaznida misralardagi bo‘g‘inlar soni teng bo‘ladi; aruz esa cho‘ziq va qisqa hijolar tartibiga tayanadi.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://uz.wikipedia.org/wiki/Barmoq_vazni",
+    "status": "verified"
+  },
+  {
+    "id": "lit-072",
+    "question": "“Iliada” va “Odisseya” dostonlari kimga nisbat beriladi?",
+    "options": [
+      "Vergiliy",
+      "Sofokl",
+      "Esxil",
+      "Gomer"
+    ],
+    "answer": 3,
+    "explanation": "“Iliada” va “Odisseya” — qadimgi yunon shoiri Gomerga nisbat beriladigan epik dostonlar.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Homer-Greek-poet",
+    "status": "verified"
+  },
+  {
+    "id": "lit-073",
+    "question": "“Odisseya” qahramoni Odissey qaysi orol hukmdori bo‘lgan?",
+    "options": [
+      "Krit",
+      "Itaka",
+      "Rodos",
+      "Sitsiliya"
+    ],
+    "answer": 1,
+    "explanation": "Odissey Troya urushidan so‘ng vatani Itakaga qaytish uchun o‘n yil sarson kezadi.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Odyssey",
+    "status": "verified"
+  },
+  {
+    "id": "lit-074",
+    "question": "Dantening “Ilohiy komediya”sida do‘zax va a’rofda Dantega kim yo‘lboshchilik qiladi?",
+    "options": [
+      "Gomer",
+      "Beatriche",
+      "Vergiliy",
+      "Ovidiy"
+    ],
+    "answer": 2,
+    "explanation": "Rim shoiri Vergiliy Dantega do‘zax va a’rofda hamroh bo‘ladi; jannatda esa Beatriche yo‘l ko‘rsatadi.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Divine_Comedy",
+    "status": "verified"
+  },
+  {
+    "id": "lit-075",
+    "question": "Shekspirning “Romeo va Julyetta” tragediyasi voqealari qaysi shaharda kechadi?",
+    "options": [
+      "Verona",
+      "Venetsiya",
+      "Rim",
+      "Florensiya"
+    ],
+    "answer": 0,
+    "explanation": "Tragediya Italiyaning Verona shahrida, Montekki va Kapuletti xonadonlari adovati fonida kechadi.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Romeo_and_Juliet",
+    "status": "verified"
+  },
+  {
+    "id": "lit-076",
+    "question": "Migel de Servantes va Uilyam Shekspir qaysi yili vafot etgan?",
+    "options": [
+      "1616",
+      "1564",
+      "1605",
+      "1623"
+    ],
+    "answer": 0,
+    "explanation": "Ikkala buyuk adib ham 1616-yil aprelida, bir necha kun farq bilan vafot etgan.",
+    "category": "literature",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/1616_in_literature",
+    "status": "verified"
+  },
+  {
+    "id": "lit-077",
+    "question": "Don Kixotning sodda va sodiq yo‘ldoshi (qurolbardori) kim?",
+    "options": [
+      "Rosinant",
+      "Sancho Pansa",
+      "Dulsineya",
+      "Samson Karrasko"
+    ],
+    "answer": 1,
+    "explanation": "Sancho Pansa — Don Kixotning qurolbardori; Rosinant — Don Kixotning oti, Dulsineya — u orzu qilgan xonim.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Sancho_Panza",
+    "status": "verified"
+  },
+  {
+    "id": "lit-078",
+    "question": "“Yosh Verterning iztiroblari” romanining muallifi kim?",
+    "options": [
+      "Fridrix Shiller",
+      "Genrix Geyne",
+      "Tomas Mann",
+      "Iogann Volfgang Gyote"
+    ],
+    "answer": 3,
+    "explanation": "Gyotening 1774-yilda nashr etilgan bu romani unga butun Yevropada shuhrat keltirgan.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/The_Sorrows_of_Young_Werther",
+    "status": "verified"
+  },
+  {
+    "id": "lit-079",
+    "question": "“Yevgeniy Onegin” she’riy romanining muallifi kim?",
+    "options": [
+      "Mixail Lermontov",
+      "Nikolay Gogol",
+      "Aleksandr Pushkin",
+      "Ivan Turgenev"
+    ],
+    "answer": 2,
+    "explanation": "“Yevgeniy Onegin” — Pushkinning she’riy romani, rus adabiyotining eng mashhur asarlaridan biri.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Eugene_Onegin",
+    "status": "verified"
+  },
+  {
+    "id": "lit-080",
+    "question": "“Anna Karenina” romanining muallifi kim?",
+    "options": [
+      "Fyodor Dostoyevskiy",
+      "Anton Chexov",
+      "Ivan Turgenev",
+      "Lev Tolstoy"
+    ],
+    "answer": 3,
+    "explanation": "“Anna Karenina” (1878) — Tolstoyning “Urush va tinchlik”dan keyingi ikkinchi yirik romani.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Anna_Karenina",
+    "status": "verified"
+  },
+  {
+    "id": "lit-081",
+    "question": "“Aka-uka Karamazovlar” romanining muallifi kim?",
+    "options": [
+      "Fyodor Dostoyevskiy",
+      "Lev Tolstoy",
+      "Nikolay Gogol",
+      "Mixail Bulgakov"
+    ],
+    "answer": 0,
+    "explanation": "“Aka-uka Karamazovlar” (1880) — Dostoyevskiyning so‘nggi romani.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov",
+    "status": "verified"
+  },
+  {
+    "id": "lit-082",
+    "question": "“Bechoralar” (“Les Misérables”) romanining muallifi kim?",
+    "options": [
+      "Aleksandr Dyuma",
+      "Viktor Gyugo",
+      "Onore de Balzak",
+      "Gustav Flober"
+    ],
+    "answer": 1,
+    "explanation": "“Bechoralar” (1862) — Viktor Gyugoning Jan Valjan taqdiri haqidagi romani.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables",
+    "status": "verified"
+  },
+  {
+    "id": "lit-083",
+    "question": "Kvazimodo qaysi romanning qahramoni?",
+    "options": [
+      "Parij Bibi Maryam sobori",
+      "Bechoralar",
+      "Graf Monte-Kristo",
+      "Qizil va qora"
+    ],
+    "answer": 0,
+    "explanation": "Kvazimodo — Viktor Gyugoning “Parij Bibi Maryam sobori” (1831) romanidagi sobor qo‘ng‘iroqchisi.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre-Dame",
+    "status": "verified"
+  },
+  {
+    "id": "lit-084",
+    "question": "D’Artanyan va uning do‘stlari haqidagi “Uch mushketyor” romanini kim yozgan?",
+    "options": [
+      "Viktor Gyugo",
+      "Jyul Vern",
+      "Aleksandr Dyuma",
+      "Stendal"
+    ],
+    "answer": 2,
+    "explanation": "“Uch mushketyor” (1844) — Aleksandr Dyuma (ota)ning tarixiy-sarguzasht romani.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/The_Three_Musketeers",
+    "status": "verified"
+  },
+  {
+    "id": "lit-085",
+    "question": "“Oliver Tvist” romanining muallifi kim?",
+    "options": [
+      "Uilyam Tekkerey",
+      "Robert Lui Stivenson",
+      "Oskar Uayld",
+      "Charlz Dikkens"
+    ],
+    "answer": 3,
+    "explanation": "“Oliver Tvist” — Charlz Dikkensning yetim bola Oliverning London ko‘chalaridagi sarguzashtlari haqidagi romani.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Oliver_Twist",
+    "status": "verified"
+  },
+  {
+    "id": "lit-086",
+    "question": "“Tom Soyerning sarguzashtlari” asarining muallifi kim?",
+    "options": [
+      "Mark Tven",
+      "Jek London",
+      "O. Genri",
+      "Fenimor Kuper"
+    ],
+    "answer": 0,
+    "explanation": "“Tom Soyerning sarguzashtlari” (1876) — Mark Tvenning Missisipi bo‘yidagi bolalik haqidagi romani.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer",
+    "status": "verified"
+  },
+  {
+    "id": "lit-087",
+    "question": "Amerikalik yozuvchi Mark Tvenning asl ismi nima?",
+    "options": [
+      "Uilyam Sidni Porter",
+      "Semyuel Klemens",
+      "Jon Griffit Cheyni",
+      "Erik Artur Bler"
+    ],
+    "answer": 1,
+    "explanation": "Mark Tven — Semyuel Lenghorn Klemensning taxallusi; Porter — O. Genri, Bler — Jorj Oruell.",
+    "category": "literature",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Mark_Twain",
+    "status": "verified"
+  },
+  {
+    "id": "lit-088",
+    "question": "“Chol va dengiz” qissasining muallifi kim?",
+    "options": [
+      "Jon Steynbek",
+      "Ernest Xeminguey",
+      "Uilyam Folkner",
+      "Frensis Skott Fitsjerald"
+    ],
+    "answer": 1,
+    "explanation": "“Chol va dengiz” (1952) — Xemingueyning kubalik baliqchi Santyago haqidagi qissasi.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea",
+    "status": "verified"
+  },
+  {
+    "id": "lit-089",
+    "question": "Ernest Xeminguey adabiyot bo‘yicha Nobel mukofotini qaysi yili olgan?",
+    "options": [
+      "1949",
+      "1962",
+      "1954",
+      "1938"
+    ],
+    "answer": 2,
+    "explanation": "Xeminguey 1954-yilda, “Chol va dengiz”dagi hikoya qilish mahorati e’tirof etilib, Nobel mukofotiga sazovor bo‘lgan.",
+    "category": "literature",
+    "difficulty": "hard",
+    "source": "https://www.nobelprize.org/prizes/literature/1954/summary/",
+    "status": "verified"
+  },
+  {
+    "id": "lit-090",
+    "question": "“Hayvonlar xo‘jaligi” (“Animal Farm”) qissasining muallifi kim?",
+    "options": [
+      "Oldos Haksli",
+      "Jorj Oruell",
+      "Gerbert Uells",
+      "Uilyam Golding"
+    ],
+    "answer": 1,
+    "explanation": "“Hayvonlar xo‘jaligi” (1945) — Jorj Oruellning totalitarizmni fosh etuvchi allegorik asari.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Animal_Farm",
+    "status": "verified"
+  },
+  {
+    "id": "lit-091",
+    "question": "Yozuvchi Chingiz Aytmatov qaysi xalq farzandi?",
+    "options": [
+      "Qozoq",
+      "Turkman",
+      "Qirg‘iz",
+      "Tojik"
+    ],
+    "answer": 2,
+    "explanation": "Chingiz Aytmatov (1928–2008) — qirg‘iz yozuvchisi; asarlarini qirg‘iz va rus tillarida yozgan.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Chinghiz_Aitmatov",
+    "status": "verified"
+  },
+  {
+    "id": "lit-092",
+    "question": "Manqurt haqidagi rivoyat keltirilgan “Asrni qaritgan kun” romanining muallifi kim?",
+    "options": [
+      "Muxtor Avezov",
+      "Rasul Hamzatov",
+      "Chingiz Aytmatov",
+      "Oljas Suleymenov"
+    ],
+    "answer": 2,
+    "explanation": "“Asrni qaritgan kun” (1980) romanidagi manqurt obrazi xotirasidan ayrilgan inson ramziga aylangan.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Chinghiz_Aitmatov",
+    "status": "verified"
+  },
+  {
+    "id": "lit-093",
+    "question": "Jaloliddin Rumiyning eng mashhur asari qaysi?",
+    "options": [
+      "Shohnoma",
+      "Guliston",
+      "Devoni hikmat",
+      "Masnaviyi ma’naviy"
+    ],
+    "answer": 3,
+    "explanation": "“Masnaviyi ma’naviy” — Rumiyning olti daftardan iborat tasavvufiy dostoni.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Masnavi",
+    "status": "verified"
+  },
+  {
+    "id": "lit-094",
+    "question": "Fors shoiri Hofiz qaysi shaharda yashab ijod qilgan?",
+    "options": [
+      "Sheroz",
+      "Isfahon",
+      "Hirot",
+      "Tabriz"
+    ],
+    "answer": 0,
+    "explanation": "Hofiz Sheroziy XIV asrda Sherozda yashagan; uning maqbarasi ham shu shaharda.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Hafez",
+    "status": "verified"
+  },
+  {
+    "id": "lit-095",
+    "question": "Umar Xayyom o‘z falsafiy she’rlarini asosan qaysi shaklda yozgan?",
+    "options": [
+      "G‘azal",
+      "Masnaviy",
+      "Tuyuq",
+      "Ruboiy"
+    ],
+    "answer": 3,
+    "explanation": "Umar Xayyom ruboiylari bilan dunyoga tanilgan; u matematik va astronom ham bo‘lgan.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Omar_Khayyam",
+    "status": "verified"
+  },
+  {
+    "id": "lit-096",
+    "question": "Adabiyot bo‘yicha Nobel mukofotini olgan birinchi rus yozuvchisi kim?",
+    "options": [
+      "Lev Tolstoy",
+      "Boris Pasternak",
+      "Maksim Gorkiy",
+      "Ivan Bunin"
+    ],
+    "answer": 3,
+    "explanation": "Ivan Bunin 1933-yilda adabiyot bo‘yicha Nobel mukofotini olgan birinchi rus yozuvchisi bo‘ldi.",
+    "category": "literature",
+    "difficulty": "hard",
+    "source": "https://www.nobelprize.org/prizes/literature/1933/summary/",
+    "status": "verified"
+  },
+  {
+    "id": "lit-097",
+    "question": "“Doktor Jivago” romanining muallifi kim?",
+    "options": [
+      "Mixail Sholoxov",
+      "Boris Pasternak",
+      "Mixail Bulgakov",
+      "Aleksandr Soljenitsin"
+    ],
+    "answer": 1,
+    "explanation": "Boris Pasternak 1958-yilda Nobel mukofotiga sazovor bo‘lgan, biroq siyosiy bosim tufayli undan voz kechgan.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://www.nobelprize.org/prizes/literature/1958/summary/",
+    "status": "verified"
+  },
+  {
+    "id": "lit-098",
+    "question": "Uinston Cherchill 1953-yilda qaysi soha bo‘yicha Nobel mukofotini olgan?",
+    "options": [
+      "Tinchlik",
+      "Iqtisodiyot",
+      "Adabiyot",
+      "Fiziologiya yoki tibbiyot"
+    ],
+    "answer": 2,
+    "explanation": "Cherchill tarixiy va biografik asarlari hamda notiqlik mahorati uchun adabiyot bo‘yicha Nobel mukofotini olgan.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://www.nobelprize.org/prizes/literature/1953/summary/",
+    "status": "verified"
+  },
+  {
+    "id": "lit-099",
+    "question": "2016-yilda adabiyot bo‘yicha Nobel mukofoti qaysi qo‘shiqchi-bastakorga berilgan?",
+    "options": [
+      "Leonard Koen",
+      "Pol Makkartni",
+      "Bryus Springstin",
+      "Bob Dilan"
+    ],
+    "answer": 3,
+    "explanation": "Bob Dilan “Amerika qo‘shiq an’anasida yangi she’riy ifodalar yaratgani uchun” mukofotlangan.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://www.nobelprize.org/prizes/literature/2016/summary/",
+    "status": "verified"
+  },
+  {
+    "id": "lit-100",
+    "question": "“Changalzor kitobi” muallifi, 1907-yilda 41 yoshida adabiyot bo‘yicha Nobel mukofotini olgan yozuvchi kim?",
+    "options": [
+      "Rediard Kipling",
+      "Oskar Uayld",
+      "Bernard Shou",
+      "Artur Konan Doyl"
+    ],
+    "answer": 0,
+    "explanation": "Rediard Kipling 1907-yilda adabiyot bo‘yicha Nobel mukofotini olgan eng yosh laureat hisoblanadi.",
+    "category": "literature",
+    "difficulty": "hard",
+    "source": "https://www.nobelprize.org/prizes/literature/1907/summary/",
+    "status": "verified"
+  },
+  {
+    "id": "lit-101",
+    "question": "“Robinzon Kruzo” romanining muallifi kim?",
+    "options": [
+      "Daniel Defo",
+      "Jonatan Svift",
+      "Robert Lui Stivenson",
+      "Jyul Vern"
+    ],
+    "answer": 0,
+    "explanation": "“Robinzon Kruzo” (1719) — Daniel Defoning kimsasiz orolda qolgan dengizchi haqidagi romani.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Robinson_Crusoe",
+    "status": "verified"
+  },
+  {
+    "id": "lit-102",
+    "question": "“Gulliverning sayohatlari” asarining muallifi kim?",
+    "options": [
+      "Daniel Defo",
+      "Jonatan Svift",
+      "Lyuis Kerroll",
+      "Charlz Dikkens"
+    ],
+    "answer": 1,
+    "explanation": "“Gulliverning sayohatlari” (1726) — irlandiyalik yozuvchi Jonatan Sviftning satirik asari.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels",
+    "status": "verified"
+  },
+  {
+    "id": "lit-103",
+    "question": "Kapitan Nemo va “Nautilus” suv osti kemasi qaysi yozuvchi asarlarida uchraydi?",
+    "options": [
+      "Robert Lui Stivenson",
+      "Gerbert Uells",
+      "Jyul Vern",
+      "Daniel Defo"
+    ],
+    "answer": 2,
+    "explanation": "Kapitan Nemo — Jyul Vernning “Suv ostida 20 000 lye” va “Sirli orol” romanlari qahramoni.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Captain_Nemo",
+    "status": "verified"
+  },
+  {
+    "id": "lit-104",
+    "question": "Sherlok Xolms obrazini kim yaratgan?",
+    "options": [
+      "Agata Kristi",
+      "Edgar Allan Po",
+      "Charlz Dikkens",
+      "Artur Konan Doyl"
+    ],
+    "answer": 3,
+    "explanation": "Shotlandiyalik yozuvchi Artur Konan Doyl Sherlok Xolms haqida to‘rtta roman va 56 ta hikoya yozgan.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Sherlock_Holmes",
+    "status": "verified"
+  },
+  {
+    "id": "lit-105",
+    "question": "Vazir qizi Shahrizodaning har kecha shohga hikoya aytib berishi qaysi asarning asosini tashkil etadi?",
+    "options": [
+      "Ming bir kecha",
+      "Kalila va Dimna",
+      "Tutinoma",
+      "Shohnoma"
+    ],
+    "answer": 0,
+    "explanation": "“Ming bir kecha”da Shahrizoda shoh Shahriyorga har kecha ertak aytib, o‘limdan qutulib qoladi.",
+    "category": "literature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights",
+    "status": "verified"
+  },
+  {
+    "id": "lit-106",
+    "question": "Sharq adabiyotida birinchi “Xamsa”ni yaratgan shoir kim?",
+    "options": [
+      "Nizomiy Ganjaviy",
+      "Xusrav Dehlaviy",
+      "Abdurahmon Jomiy",
+      "Alisher Navoiy"
+    ],
+    "answer": 0,
+    "explanation": "Nizomiy Ganjaviy (XII asr) besh dostondan iborat ilk “Xamsa”ni yaratgan; Navoiy turkiy tilda “Xamsa” yozgan.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Khamsa_of_Nizami",
+    "status": "verified"
+  },
+  {
+    "id": "lit-107",
+    "question": "Gregor Samsa bir kuni ertalab hasharotga aylanib qolishi tasvirlangan “Evrilish” asarining muallifi kim?",
+    "options": [
+      "Tomas Mann",
+      "Frans Kafka",
+      "Herman Gesse",
+      "Rayner Mariya Rilke"
+    ],
+    "answer": 1,
+    "explanation": "“Evrilish” (“Die Verwandlung”, 1915) — Frans Kafkaning eng mashhur qissasi.",
+    "category": "literature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/The_Metamorphosis",
+    "status": "verified"
   }
 ]

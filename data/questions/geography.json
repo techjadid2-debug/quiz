@@ -526,5 +526,1141 @@
     "difficulty": "hard",
     "source": "https://www.britannica.com/place/Nay-Pyi-Taw",
     "status": "verified"
+  },
+  {
+    "id": "geo-034",
+    "question": "Qaysi shahar Yaponiyaning poytaxti hisoblanadi?",
+    "options": [
+      "Iokogama",
+      "Tokio",
+      "Osaka",
+      "Kioto"
+    ],
+    "answer": 1,
+    "explanation": "Tokio (avvalgi nomi Edo) 1868-yilda shu nomni olgan va imperator qarorgohi Kiotodan ko‘chirilgach, Yaponiya poytaxtiga aylangan.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Tokyo",
+    "status": "verified"
+  },
+  {
+    "id": "geo-035",
+    "question": "Qaysi shahar Avstraliyaning poytaxti hisoblanadi?",
+    "options": [
+      "Pert",
+      "Sidney",
+      "Kanberra",
+      "Melburn"
+    ],
+    "answer": 2,
+    "explanation": "Kanberra Sidney va Melburn o‘rtasidagi murosa sifatida maxsus poytaxt qilib qurilgan shahar.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Canberra",
+    "status": "verified"
+  },
+  {
+    "id": "geo-036",
+    "question": "Qaysi shahar Misrning poytaxti hisoblanadi?",
+    "options": [
+      "Iskandariya",
+      "Luksor",
+      "Qohira",
+      "Asvan"
+    ],
+    "answer": 2,
+    "explanation": "Qohira Nil daryosining deltasi boshlanadigan joyda joylashgan va Misrning poytaxti hisoblanadi.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Cairo",
+    "status": "verified"
+  },
+  {
+    "id": "geo-037",
+    "question": "Shveytsariyaning federal shahri (amalda poytaxti) qaysi?",
+    "options": [
+      "Jeneva",
+      "Syurix",
+      "Bern",
+      "Bazel"
+    ],
+    "answer": 2,
+    "explanation": "Bern 1848-yildan beri Shveytsariya federal hukumati va parlamenti joylashgan shahar.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Bern",
+    "status": "verified"
+  },
+  {
+    "id": "geo-038",
+    "question": "Qaysi shahar Marokashning poytaxti hisoblanadi?",
+    "options": [
+      "Marrakesh",
+      "Kasablanka",
+      "Fes",
+      "Rabot"
+    ],
+    "answer": 3,
+    "explanation": "Rabot Atlantika okeani qirg‘og‘idagi shahar; Kasablanka mamlakatning eng yirik shahri bo‘lsa-da, poytaxt emas.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Rabat",
+    "status": "verified"
+  },
+  {
+    "id": "geo-039",
+    "question": "Qaysi shahar Nigeriyaning poytaxti hisoblanadi?",
+    "options": [
+      "Abuja",
+      "Ibadan",
+      "Lagos",
+      "Kano"
+    ],
+    "answer": 0,
+    "explanation": "Abuja 1991-yilda Lagos o‘rniga Nigeriyaning rasmiy poytaxti bo‘lgan.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Abuja",
+    "status": "verified"
+  },
+  {
+    "id": "geo-040",
+    "question": "Qaysi shahar Mo‘g‘ulistonning poytaxti hisoblanadi?",
+    "options": [
+      "Ulan-Ude",
+      "Darxan",
+      "Erdenet",
+      "Ulan-Bator"
+    ],
+    "answer": 3,
+    "explanation": "Ulan-Bator Tuul daryosi bo‘yida joylashgan; Ulan-Ude esa Rossiyadagi Buryatiya poytaxti.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Ulaanbaatar",
+    "status": "verified"
+  },
+  {
+    "id": "geo-041",
+    "question": "Qaysi shahar Butanning poytaxti hisoblanadi?",
+    "options": [
+      "Paro",
+      "Thimphu",
+      "Katmandu",
+      "Punaxa"
+    ],
+    "answer": 1,
+    "explanation": "Thimphu Butanning poytaxti va eng yirik shahri; Katmandu esa qo‘shni Nepalning poytaxti.",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/place/Thimphu",
+    "status": "verified"
+  },
+  {
+    "id": "geo-042",
+    "question": "Yaponiyaning milliy valyutasi qanday nomlanadi?",
+    "options": [
+      "Iyena",
+      "Yuan",
+      "Von",
+      "Bat"
+    ],
+    "answer": 0,
+    "explanation": "Yaponiya iyenasi (JPY) dunyodagi eng ko‘p savdo qilinadigan valyutalardan biri.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Japan/Finance",
+    "status": "verified"
+  },
+  {
+    "id": "geo-043",
+    "question": "Buyuk Britaniyaning milliy valyutasi qaysi?",
+    "options": [
+      "Funt sterling",
+      "Yevro",
+      "Dollar",
+      "Frank"
+    ],
+    "answer": 0,
+    "explanation": "Buyuk Britaniya yevroni qabul qilmagan; uning valyutasi funt sterling (GBP).",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Pound_sterling",
+    "status": "verified"
+  },
+  {
+    "id": "geo-044",
+    "question": "Shveytsariyaning milliy valyutasi qaysi?",
+    "options": [
+      "Shveytsariya franki",
+      "Krona",
+      "Marka",
+      "Yevro"
+    ],
+    "answer": 0,
+    "explanation": "Shveytsariya Yevropa Ittifoqi a’zosi emas va o‘z valyutasi — frankdan (CHF) foydalanadi.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Swiss_franc",
+    "status": "verified"
+  },
+  {
+    "id": "geo-045",
+    "question": "Janubiy Afrika Respublikasining milliy valyutasi qanday nomlanadi?",
+    "options": [
+      "Shilling",
+      "Naira",
+      "Rand",
+      "Kvacha"
+    ],
+    "answer": 2,
+    "explanation": "Rand 1961-yilda muomalaga kiritilgan; nomi Yoxannesburg joylashgan Vitvotersrand tizmasidan olingan.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/South_African_rand",
+    "status": "verified"
+  },
+  {
+    "id": "geo-046",
+    "question": "Braziliyaning rasmiy tili qaysi?",
+    "options": [
+      "Ispan tili",
+      "Ingliz tili",
+      "Fransuz tili",
+      "Portugal tili"
+    ],
+    "answer": 3,
+    "explanation": "Braziliya sobiq Portugaliya mustamlakasi bo‘lgani uchun uning rasmiy tili portugal tili.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Brazil",
+    "status": "verified"
+  },
+  {
+    "id": "geo-047",
+    "question": "Quyidagilardan qaysi biri Belgiyaning rasmiy tillaridan biri EMAS?",
+    "options": [
+      "Ispan tili",
+      "Fransuz tili",
+      "Nemis tili",
+      "Niderland tili"
+    ],
+    "answer": 0,
+    "explanation": "Belgiyaning uchta rasmiy tili bor: niderland, fransuz va nemis tillari.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Belgium",
+    "status": "verified"
+  },
+  {
+    "id": "geo-048",
+    "question": "Quyidagilardan qaysi biri Shveytsariyaning milliy tillaridan biri hisoblanadi?",
+    "options": [
+      "Retoroman (romansh) tili",
+      "Ispan tili",
+      "Portugal tili",
+      "Niderland tili"
+    ],
+    "answer": 0,
+    "explanation": "Shveytsariyaning to‘rtta milliy tili bor: nemis, fransuz, italyan va retoroman (romansh) tillari.",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Languages_of_Switzerland",
+    "status": "verified"
+  },
+  {
+    "id": "geo-049",
+    "question": "Oq fonda markazida qizil doira tasvirlangan bayroq qaysi davlatga tegishli?",
+    "options": [
+      "Xitoy",
+      "Yaponiya",
+      "Janubiy Koreya",
+      "Bangladesh"
+    ],
+    "answer": 1,
+    "explanation": "Yaponiya bayrog‘i «Xinomaru» deb ataladi va quyosh gardishini ifodalaydi.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Flag_of_Japan",
+    "status": "verified"
+  },
+  {
+    "id": "geo-050",
+    "question": "Kanada bayrog‘ida qaysi daraxtning bargi tasvirlangan?",
+    "options": [
+      "Eman",
+      "Zarang (chinor)",
+      "Terak",
+      "Qayin"
+    ],
+    "answer": 1,
+    "explanation": "Kanada bayrog‘i 1965-yildan beri qo‘llanadi; uning markazida qizil zarang bargi bor.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Flag_of_Canada",
+    "status": "verified"
+  },
+  {
+    "id": "geo-051",
+    "question": "Qaysi davlatning milliy bayrog‘i to‘rtburchak shaklida emas, balki ikki uchburchakdan iborat?",
+    "options": [
+      "Nepal",
+      "Bangladesh",
+      "Shri-Lanka",
+      "Butan"
+    ],
+    "answer": 0,
+    "explanation": "Nepal bayrog‘i dunyodagi yagona to‘rtburchak bo‘lmagan milliy bayroq; u ikki uchburchak vimpeldan iborat.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Flag_of_Nepal",
+    "status": "verified"
+  },
+  {
+    "id": "geo-052",
+    "question": "Bayrog‘ida o‘z hududining xaritasi tasvirlangan O‘rta yer dengizidagi orol davlat qaysi?",
+    "options": [
+      "Kipr",
+      "Islandiya",
+      "Yamayka",
+      "Malta"
+    ],
+    "answer": 0,
+    "explanation": "Kipr bayrog‘ida oq fonda mis rangidagi orol xaritasi va ikkita zaytun novdasi tasvirlangan.",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Flag_of_Cyprus",
+    "status": "verified"
+  },
+  {
+    "id": "geo-053",
+    "question": "Portugaliya quruqlikda faqat qaysi davlat bilan chegaradosh?",
+    "options": [
+      "Fransiya",
+      "Italiya",
+      "Ispaniya",
+      "Andorra"
+    ],
+    "answer": 2,
+    "explanation": "Portugaliya Pireney yarimorolining g‘arbida joylashgan va quruqlikda faqat Ispaniya bilan chegaradosh.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Portugal",
+    "status": "verified"
+  },
+  {
+    "id": "geo-054",
+    "question": "San-Marino davlati har tomondan qaysi davlat hududi bilan o‘ralgan?",
+    "options": [
+      "Fransiya",
+      "Italiya",
+      "Shveytsariya",
+      "Avstriya"
+    ],
+    "answer": 1,
+    "explanation": "San-Marino Apennin yarimorolida joylashgan anklav davlat bo‘lib, har tomondan Italiya bilan o‘ralgan.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/San-Marino",
+    "status": "verified"
+  },
+  {
+    "id": "geo-055",
+    "question": "Janubiy Amerikadagi dengizga chiqish yo‘li bo‘lmagan ikki davlat qaysilar?",
+    "options": [
+      "Urugvay va Paragvay",
+      "Boliviya va Ekvador",
+      "Boliviya va Paragvay",
+      "Gayana va Surinam"
+    ],
+    "answer": 2,
+    "explanation": "Janubiy Amerikada faqat Boliviya va Paragvay dengizga chiqish imkoniga ega emas.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Landlocked_country",
+    "status": "verified"
+  },
+  {
+    "id": "geo-056",
+    "question": "O‘zbekistondan tashqari dunyodagi yagona «ikki karra» dengizga chiqa olmaydigan davlat qaysi?",
+    "options": [
+      "San-Marino",
+      "Andorra",
+      "Lyuksemburg",
+      "Lixtenshteyn"
+    ],
+    "answer": 3,
+    "explanation": "Lixtenshteyn faqat dengizga chiqish yo‘li yo‘q Shveytsariya va Avstriya bilan chegaradosh.",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Landlocked_country",
+    "status": "verified"
+  },
+  {
+    "id": "geo-057",
+    "question": "Madagaskar oroli qaysi okeanda joylashgan?",
+    "options": [
+      "Shimoliy Muz okeani",
+      "Tinch okeani",
+      "Atlantika okeani",
+      "Hind okeani"
+    ],
+    "answer": 3,
+    "explanation": "Madagaskar Afrikaning janubi-sharqiy qirg‘og‘idan Mozambik bo‘g‘ozi orqali ajralgan, Hind okeanidagi orol.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Madagascar",
+    "status": "verified"
+  },
+  {
+    "id": "geo-058",
+    "question": "Sitsiliya oroli qaysi davlatga tegishli?",
+    "options": [
+      "Ispaniya",
+      "Malta",
+      "Gretsiya",
+      "Italiya"
+    ],
+    "answer": 3,
+    "explanation": "Sitsiliya O‘rta yer dengizidagi eng katta orol bo‘lib, Italiya tarkibiga kiradi.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Sicily",
+    "status": "verified"
+  },
+  {
+    "id": "geo-059",
+    "question": "Kanar orollari qaysi davlatga tegishli?",
+    "options": [
+      "Marokash",
+      "Fransiya",
+      "Portugaliya",
+      "Ispaniya"
+    ],
+    "answer": 3,
+    "explanation": "Kanar orollari Afrikaning shimoli-g‘arbiy qirg‘og‘i yaqinida joylashgan Ispaniyaning avtonom hamjamiyati.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Canary-Islands",
+    "status": "verified"
+  },
+  {
+    "id": "geo-060",
+    "question": "Azor orollari qaysi davlatga tegishli?",
+    "options": [
+      "Fransiya",
+      "Portugaliya",
+      "Ispaniya",
+      "Buyuk Britaniya"
+    ],
+    "answer": 1,
+    "explanation": "Azor orollari Atlantika okeani o‘rtasida joylashgan Portugaliyaning avtonom hududi.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Azores",
+    "status": "verified"
+  },
+  {
+    "id": "geo-061",
+    "question": "Galapagos orollari qaysi davlatga tegishli?",
+    "options": [
+      "Ekvador",
+      "Peru",
+      "Chili",
+      "Kolumbiya"
+    ],
+    "answer": 0,
+    "explanation": "Galapagos orollari Tinch okeanida, Ekvador materik qirg‘og‘idan taxminan 900 km g‘arbda joylashgan.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Galapagos-Islands",
+    "status": "verified"
+  },
+  {
+    "id": "geo-062",
+    "question": "Italiya asosan qaysi yarimorolda joylashgan?",
+    "options": [
+      "Pireney yarimoroli",
+      "Bolqon yarimoroli",
+      "Skandinaviya yarimoroli",
+      "Apennin yarimoroli"
+    ],
+    "answer": 3,
+    "explanation": "Apennin yarimoroli etik shakliga o‘xshaydi va Italiya hududining asosiy qismini tashkil etadi.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Italy",
+    "status": "verified"
+  },
+  {
+    "id": "geo-063",
+    "question": "Dunyodagi eng katta yarimorol qaysi?",
+    "options": [
+      "Arabiston yarimoroli",
+      "Hindiston yarimoroli",
+      "Labrador yarimoroli",
+      "Skandinaviya yarimoroli"
+    ],
+    "answer": 0,
+    "explanation": "Arabiston yarimoroli taxminan 3 mln km² maydonga ega bo‘lib, dunyodagi eng katta yarimorol hisoblanadi.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Arabia-peninsula-Asia",
+    "status": "verified"
+  },
+  {
+    "id": "geo-064",
+    "question": "Panama kanali qaysi ikki okeanni bog‘laydi?",
+    "options": [
+      "Hind va Tinch okeanlari",
+      "Atlantika va Hind okeanlari",
+      "Shimoliy Muz va Atlantika okeanlari",
+      "Atlantika va Tinch okeanlari"
+    ],
+    "answer": 3,
+    "explanation": "1914-yilda ochilgan Panama kanali Panama Bo‘yni orqali Atlantika va Tinch okeanlarini tutashtiradi.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Panama-Canal",
+    "status": "verified"
+  },
+  {
+    "id": "geo-065",
+    "question": "La-Mansh bo‘g‘ozi qaysi ikki davlatni ajratib turadi?",
+    "options": [
+      "Fransiya va Ispaniya",
+      "Daniya va Shvetsiya",
+      "Buyuk Britaniya va Fransiya",
+      "Irlandiya va Buyuk Britaniya"
+    ],
+    "answer": 2,
+    "explanation": "La-Mansh (Ingliz kanali) Buyuk Britaniyaning janubiy qirg‘og‘ini Fransiyaning shimolidan ajratadi.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/English-Channel",
+    "status": "verified"
+  },
+  {
+    "id": "geo-066",
+    "question": "Janubiy Amerikaning janubiy uchi (Horn burni) va Antarktida orasidagi bo‘g‘oz qaysi?",
+    "options": [
+      "Bering bo‘g‘ozi",
+      "Magellan bo‘g‘ozi",
+      "Bass bo‘g‘ozi",
+      "Dreyk bo‘g‘ozi"
+    ],
+    "answer": 3,
+    "explanation": "Dreyk bo‘g‘ozi Atlantika va Tinch okeanlarini bog‘laydi va dunyodagi eng to‘lqinli suv yo‘llaridan biri.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Drake-Passage",
+    "status": "verified"
+  },
+  {
+    "id": "geo-067",
+    "question": "Dardanell bo‘g‘ozi qaysi ikki dengizni bog‘laydi?",
+    "options": [
+      "Egey va Marmara dengizlari",
+      "Egey va Ion dengizlari",
+      "Qora va Marmara dengizlari",
+      "Qora va Azov dengizlari"
+    ],
+    "answer": 0,
+    "explanation": "Dardanell (Chanaqqal’a) bo‘g‘ozi Bosfor va Marmara dengizi bilan birga Qora dengizni O‘rta yer dengiziga tutashtiradi.",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/place/Dardanelles",
+    "status": "verified"
+  },
+  {
+    "id": "geo-068",
+    "question": "Qizil dengizni Aden ko‘rfazi bilan bog‘lovchi bo‘g‘oz qaysi?",
+    "options": [
+      "Bob al-Mandab",
+      "Hormuz",
+      "Malakka",
+      "Gibraltar"
+    ],
+    "answer": 0,
+    "explanation": "Bob al-Mandab bo‘g‘ozi Arabiston yarimoroli (Yaman) va Afrika (Jibuti, Eritreya) orasida joylashgan.",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/place/Bab-el-Mandeb-Strait",
+    "status": "verified"
+  },
+  {
+    "id": "geo-069",
+    "question": "An’anaviy ravishda Yevropa va Osiyo orasidagi chegara qaysi tog‘lar bo‘ylab o‘tkaziladi?",
+    "options": [
+      "Alp tog‘lari",
+      "Karpat tog‘lari",
+      "Ural tog‘lari",
+      "Pireney tog‘lari"
+    ],
+    "answer": 2,
+    "explanation": "Ural tog‘lari shimoldan janubga taxminan 2500 km cho‘zilgan va an’anaviy ravishda Yevropa bilan Osiyo chegarasi hisoblanadi.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Ural-Mountains",
+    "status": "verified"
+  },
+  {
+    "id": "geo-070",
+    "question": "Janubiy Amerikaning g‘arbiy qirg‘og‘i bo‘ylab cho‘zilgan tog‘ tizimi qaysi?",
+    "options": [
+      "And tog‘lari",
+      "Atlas tog‘lari",
+      "Appalachi tog‘lari",
+      "Qoyali tog‘lar"
+    ],
+    "answer": 0,
+    "explanation": "And tog‘lari dunyodagi eng uzun quruqlikdagi tog‘ tizmasi bo‘lib, taxminan 7000 km ga cho‘zilgan.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Andes-Mountains",
+    "status": "verified"
+  },
+  {
+    "id": "geo-071",
+    "question": "Dengiz sathidan balandligi bo‘yicha dunyodagi ikkinchi cho‘qqi qaysi?",
+    "options": [
+      "Makalu",
+      "Kanchenjanga",
+      "Lxotse",
+      "K2 (Chogori)"
+    ],
+    "answer": 3,
+    "explanation": "K2 balandligi 8611 m bo‘lib, Pokiston va Xitoy chegarasidagi Qoraqurum tizmasida joylashgan.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/K2",
+    "status": "verified"
+  },
+  {
+    "id": "geo-072",
+    "question": "Shimoliy Amerikaning eng baland cho‘qqisi qaysi?",
+    "options": [
+      "Logan",
+      "Denali (Makkinli tog‘i)",
+      "Orisaba",
+      "Uitni"
+    ],
+    "answer": 1,
+    "explanation": "Alyaskadagi bu tog‘ 6190 m baland; 2015-yilda rasman Denali deb atalgan, 2025-yilda AQSH federal nomi yana Makkinli tog‘i qilib qaytarilgan.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Denali",
+    "status": "verified"
+  },
+  {
+    "id": "geo-073",
+    "question": "Avstraliya materigining eng baland cho‘qqisi qaysi?",
+    "options": [
+      "Uluru",
+      "Kuk (Aoraki)",
+      "Kostyushko",
+      "Ossa"
+    ],
+    "answer": 2,
+    "explanation": "Kostyushko tog‘i 2228 m balandlikda bo‘lib, Avstraliya Alplarida joylashgan.",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/place/Mount-Kosciuszko",
+    "status": "verified"
+  },
+  {
+    "id": "geo-074",
+    "question": "Antarktidaning eng baland cho‘qqisi qaysi?",
+    "options": [
+      "Kirkpatrik",
+      "Vinson massivi",
+      "Erebus",
+      "Sidli"
+    ],
+    "answer": 1,
+    "explanation": "Vinson massivi (4892 m) Antarktidadagi Elsuort tog‘larida joylashgan.",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/place/Vinson-Massif",
+    "status": "verified"
+  },
+  {
+    "id": "geo-076",
+    "question": "Yaponiyaning eng baland cho‘qqisi bo‘lgan vulqon qaysi?",
+    "options": [
+      "Aso",
+      "Sakuradzima",
+      "Fudziyama",
+      "Ontake"
+    ],
+    "answer": 2,
+    "explanation": "Fudziyama (3776 m) Yaponiyaning eng baland cho‘qqisi va milliy ramzlaridan biri.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Mount-Fuji",
+    "status": "verified"
+  },
+  {
+    "id": "geo-077",
+    "question": "Faol vulqon Etna qaysi orolda joylashgan?",
+    "options": [
+      "Sitsiliya",
+      "Korsika",
+      "Sardiniya",
+      "Krit"
+    ],
+    "answer": 0,
+    "explanation": "Etna Kavkazdan tashqari Yevropadagi eng baland faol vulqon bo‘lib, Sitsiliya orolining sharqida joylashgan.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Mount-Etna",
+    "status": "verified"
+  },
+  {
+    "id": "geo-078",
+    "question": "Tinch okeani atrofidagi vulqonlar va zilzilalar ko‘p kuzatiladigan mintaqa qanday ataladi?",
+    "options": [
+      "Lava yo‘lagi",
+      "Vulqon uchburchagi",
+      "Olovli halqa",
+      "Issiq kamar"
+    ],
+    "answer": 2,
+    "explanation": "Olovli halqa Tinch okeanini o‘rab turgan hudud bo‘lib, dunyodagi faol vulqonlarning katta qismi shu yerda.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Ring-of-Fire",
+    "status": "verified"
+  },
+  {
+    "id": "geo-079",
+    "question": "Volga daryosi qaysi suv havzasiga quyiladi?",
+    "options": [
+      "Boltiq dengizi",
+      "Kaspiy dengizi",
+      "Azov dengizi",
+      "Qora dengiz"
+    ],
+    "answer": 1,
+    "explanation": "Volga Yevropaning eng uzun daryosi bo‘lib, Astraxan yaqinida delta hosil qilib Kaspiy dengiziga quyiladi.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Volga-River",
+    "status": "verified"
+  },
+  {
+    "id": "geo-080",
+    "question": "Nil daryosi qaysi dengizga quyiladi?",
+    "options": [
+      "Qizil dengiz",
+      "Arab dengizi",
+      "Qora dengiz",
+      "O‘rta yer dengizi"
+    ],
+    "answer": 3,
+    "explanation": "Nil daryosi Misrning shimolida keng delta hosil qilib O‘rta yer dengiziga quyiladi.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Nile-River",
+    "status": "verified"
+  },
+  {
+    "id": "geo-081",
+    "question": "Suv sarfi (oqimi hajmi) bo‘yicha dunyodagi eng sersuv daryo qaysi?",
+    "options": [
+      "Missisipi",
+      "Kongo",
+      "Amazonka",
+      "Yanszi"
+    ],
+    "answer": 2,
+    "explanation": "Amazonka okeanga quyiladigan jami daryo suvining taxminan beshdan bir qismini beradi.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Amazon-River",
+    "status": "verified"
+  },
+  {
+    "id": "geo-082",
+    "question": "Dunay daryosi qaysi dengizga quyiladi?",
+    "options": [
+      "Boltiq dengizi",
+      "Adriatika dengizi",
+      "Qora dengiz",
+      "Shimoliy dengiz"
+    ],
+    "answer": 2,
+    "explanation": "Dunay Germaniyadan boshlanib, Ruminiya va Ukraina chegarasida delta hosil qilib Qora dengizga quyiladi.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Danube-River",
+    "status": "verified"
+  },
+  {
+    "id": "geo-083",
+    "question": "Missisipi daryosi qayerga quyiladi?",
+    "options": [
+      "Buyuk ko‘llar",
+      "Gudzon ko‘rfazi",
+      "Meksika ko‘rfazi",
+      "Tinch okeani"
+    ],
+    "answer": 2,
+    "explanation": "Missisipi AQSHni shimoldan janubga kesib o‘tib, Luiziana shtatida Meksika ko‘rfaziga quyiladi.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Mississippi-River",
+    "status": "verified"
+  },
+  {
+    "id": "geo-084",
+    "question": "Dajla va Furot daryolari qo‘shilib hosil qilgan, Fors ko‘rfaziga quyiluvchi daryo qaysi?",
+    "options": [
+      "Shatt al-Arab",
+      "Iordan",
+      "Orontes",
+      "Karun"
+    ],
+    "answer": 0,
+    "explanation": "Shatt al-Arab Iroqning janubida Dajla va Furot qo‘shilishidan hosil bo‘ladi.",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/place/Shatt-al-Arab",
+    "status": "verified"
+  },
+  {
+    "id": "geo-085",
+    "question": "Ekvatorni ikki marta kesib o‘tadigan yirik Afrika daryosi qaysi?",
+    "options": [
+      "Niger",
+      "Kongo",
+      "Nil",
+      "Zambezi"
+    ],
+    "answer": 1,
+    "explanation": "Kongo daryosi yoysimon o‘zani tufayli ekvatorni ikki marta kesib o‘tadi.",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/place/Congo-River",
+    "status": "verified"
+  },
+  {
+    "id": "geo-086",
+    "question": "Afrikaning eng katta ko‘li qaysi?",
+    "options": [
+      "Malavi ko‘li",
+      "Viktoriya ko‘li",
+      "Chad ko‘li",
+      "Tanganika ko‘li"
+    ],
+    "answer": 1,
+    "explanation": "Viktoriya ko‘li Uganda, Keniya va Tanzaniya hududida joylashgan; u Afrikadagi eng katta ko‘l.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Lake-Victoria",
+    "status": "verified"
+  },
+  {
+    "id": "geo-087",
+    "question": "Shimoliy Amerikadagi Buyuk ko‘llarning eng kattasi qaysi?",
+    "options": [
+      "Yuqori ko‘l",
+      "Guron ko‘li",
+      "Ontario ko‘li",
+      "Michigan ko‘li"
+    ],
+    "answer": 0,
+    "explanation": "Yuqori (Superior) ko‘l maydoni bo‘yicha dunyodagi eng katta chuchuk suvli ko‘llardan biri.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Lake-Superior",
+    "status": "verified"
+  },
+  {
+    "id": "geo-088",
+    "question": "Niagara sharsharasi qaysi ikki davlat chegarasida joylashgan?",
+    "options": [
+      "Zambiya va Zimbabve",
+      "AQSH va Kanada",
+      "Braziliya va Argentina",
+      "AQSH va Meksika"
+    ],
+    "answer": 1,
+    "explanation": "Niagara sharsharasi Eri va Ontario ko‘llarini bog‘lovchi Niagara daryosida joylashgan.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Niagara-Falls",
+    "status": "verified"
+  },
+  {
+    "id": "geo-089",
+    "question": "Iguasu sharsharalari qaysi ikki davlat chegarasida joylashgan?",
+    "options": [
+      "Venesuela va Kolumbiya",
+      "Argentina va Braziliya",
+      "Braziliya va Paragvay",
+      "Argentina va Chili"
+    ],
+    "answer": 1,
+    "explanation": "Iguasu sharsharalari Iguasu daryosida, Argentina va Braziliya chegarasida joylashgan yuzlab sharsharalar tizimi.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Iguacu-Falls",
+    "status": "verified"
+  },
+  {
+    "id": "geo-090",
+    "question": "Gobi cho‘li qaysi ikki davlat hududida joylashgan?",
+    "options": [
+      "Qozog‘iston va Rossiya",
+      "Eron va Afg‘oniston",
+      "Mo‘g‘uliston va Xitoy",
+      "Hindiston va Pokiston"
+    ],
+    "answer": 2,
+    "explanation": "Gobi Osiyodagi eng yirik cho‘llardan biri bo‘lib, Mo‘g‘uliston janubi va Xitoy shimolini qamrab oladi.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Gobi",
+    "status": "verified"
+  },
+  {
+    "id": "geo-091",
+    "question": "Yog‘in miqdori mezoniga ko‘ra dunyodagi eng katta cho‘l qaysi?",
+    "options": [
+      "Antarktida",
+      "Arabiston cho‘li",
+      "Gobi",
+      "Sahroi Kabir"
+    ],
+    "answer": 0,
+    "explanation": "Cho‘l yog‘in kamligi bilan belgilanadi; shu jihatdan Antarktida dunyodagi eng katta (sovuq) cho‘l hisoblanadi.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/desert",
+    "status": "verified"
+  },
+  {
+    "id": "geo-092",
+    "question": "Arabiston yarimorolining janubidagi ulkan qumli cho‘l qanday nomlanadi?",
+    "options": [
+      "Negev",
+      "Sinay",
+      "Dasht-i Kavir",
+      "Rub al-Xoli"
+    ],
+    "answer": 3,
+    "explanation": "Rub al-Xoli («Bo‘sh chorak») dunyodagi eng katta yaxlit qumli hududlardan biri.",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/place/Rub-al-Khali",
+    "status": "verified"
+  },
+  {
+    "id": "geo-093",
+    "question": "Ekvator qaysi kenglikka to‘g‘ri keladi?",
+    "options": [
+      "23,4°",
+      "0°",
+      "90°",
+      "66,5°"
+    ],
+    "answer": 1,
+    "explanation": "Ekvator Yerni Shimoliy va Janubiy yarimsharlarga ajratuvchi 0° kenglik chizig‘i.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/equator",
+    "status": "verified"
+  },
+  {
+    "id": "geo-094",
+    "question": "Ekvatorga parallel ravishda o‘tkazilgan kenglik chiziqlari qanday ataladi?",
+    "options": [
+      "Meridianlar",
+      "Parallellar",
+      "Gorizontallar",
+      "Izobaralar"
+    ],
+    "answer": 1,
+    "explanation": "Parallellar ekvatorga parallel bo‘lgan kenglik chiziqlari; meridianlar esa qutbdan qutbga o‘tadi.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/latitude",
+    "status": "verified"
+  },
+  {
+    "id": "geo-095",
+    "question": "Xalqaro sana o‘zgarish chizig‘i asosan qaysi meridian bo‘ylab o‘tadi?",
+    "options": [
+      "90° sharqiy meridian",
+      "180° meridian",
+      "90° g‘arbiy meridian",
+      "0° meridian"
+    ],
+    "answer": 1,
+    "explanation": "Sana chizig‘i asosan 180° meridian bo‘ylab o‘tadi; uni kesib o‘tganda kalendar sanasi bir kunga o‘zgaradi.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/International-Date-Line",
+    "status": "verified"
+  },
+  {
+    "id": "geo-096",
+    "question": "Shimoliy qutb doirasi taxminan qaysi kenglikda joylashgan?",
+    "options": [
+      "45° shimoliy kenglik",
+      "80° shimoliy kenglik",
+      "66,5° shimoliy kenglik",
+      "23,4° shimoliy kenglik"
+    ],
+    "answer": 2,
+    "explanation": "Qutb doirasidan shimolda yiliga kamida bir kun quyosh botmaydi va kamida bir kun chiqmaydi.",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/place/Arctic-Circle",
+    "status": "verified"
+  },
+  {
+    "id": "geo-097",
+    "question": "Daryo quyilishida cho‘kindilardan hosil bo‘ladigan, ko‘pincha uchburchak shaklidagi pasttekislik qanday ataladi?",
+    "options": [
+      "Atoll",
+      "Kanyon",
+      "Delta",
+      "Fyord"
+    ],
+    "answer": 2,
+    "explanation": "Delta nomi yunoncha «Δ» harfidan olingan; masalan, Nil deltasi shunday shaklga ega.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/delta-landform",
+    "status": "verified"
+  },
+  {
+    "id": "geo-098",
+    "question": "Bir-biriga yaqin joylashgan orollar guruhi qanday ataladi?",
+    "options": [
+      "Bo‘yin",
+      "Yarimorol",
+      "Laguna",
+      "Arxipelag"
+    ],
+    "answer": 3,
+    "explanation": "Arxipelag — orollar to‘plami; masalan, Indoneziya va Filippin arxipelaglarda joylashgan.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/archipelago",
+    "status": "verified"
+  },
+  {
+    "id": "geo-099",
+    "question": "Muzliklar o‘yib ketgan, dengiz suvi kirgan tor va chuqur qo‘ltiq qanday ataladi?",
+    "options": [
+      "Estuariy",
+      "Fyord",
+      "Delta",
+      "Laguna"
+    ],
+    "answer": 1,
+    "explanation": "Fyordlar ayniqsa Norvegiya qirg‘oqlari uchun xos bo‘lib, muzliklar o‘yib ketgan vodiylardan hosil bo‘lgan.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/fjord",
+    "status": "verified"
+  },
+  {
+    "id": "geo-100",
+    "question": "Marjonlardan hosil bo‘lgan, o‘rtasida laguna bo‘lgan halqasimon orol qanday ataladi?",
+    "options": [
+      "Delta",
+      "Atoll",
+      "Shxer",
+      "Fyord"
+    ],
+    "answer": 1,
+    "explanation": "Atoll odatda cho‘kib ketgan vulqon orol atrofida o‘sgan marjon rifidan hosil bo‘ladi.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/atoll",
+    "status": "verified"
+  },
+  {
+    "id": "geo-101",
+    "question": "Mavsumga qarab yo‘nalishini o‘zgartiradigan, Janubiy Osiyoda yomg‘irli fasl keltiruvchi shamol qanday ataladi?",
+    "options": [
+      "Musson",
+      "Briz",
+      "Passat",
+      "Sirokko"
+    ],
+    "answer": 0,
+    "explanation": "Musson yozda okeandan quruqlikka, qishda quruqlikdan okeanga esadi va kuchli yomg‘irlar keltiradi.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/monsoon",
+    "status": "verified"
+  },
+  {
+    "id": "geo-102",
+    "question": "Daryo quyilish joyida dengiz suvi bilan chuchuk suv aralashadigan voronkasimon kengaygan og‘iz qanday ataladi?",
+    "options": [
+      "Fyord",
+      "Atoll",
+      "Delta",
+      "Estuariy"
+    ],
+    "answer": 3,
+    "explanation": "Estuariyda dengiz suvlari ichkariga kirib, chuchuk suv bilan aralashadi; masalan, Temza estuariysi.",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/place/estuary",
+    "status": "verified"
+  },
+  {
+    "id": "geo-103",
+    "question": "Katta Kanyon (Grand Canyon) qaysi daryo tomonidan o‘yib hosil qilingan?",
+    "options": [
+      "Kolumbiya",
+      "Missuri",
+      "Missisipi",
+      "Kolorado"
+    ],
+    "answer": 3,
+    "explanation": "Arizonadagi Katta Kanyon millionlab yillar davomida Kolorado daryosi eroziyasi natijasida hosil bo‘lgan.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Grand-Canyon",
+    "status": "verified"
+  },
+  {
+    "id": "geo-104",
+    "question": "Maydoni bo‘yicha eng kichik materik qaysi?",
+    "options": [
+      "Yevropa",
+      "Janubiy Amerika",
+      "Antarktida",
+      "Avstraliya"
+    ],
+    "answer": 3,
+    "explanation": "Avstraliya materiklarning eng kichigi bo‘lib, uni ko‘pincha «orol-materik» deb ham atashadi.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Australia",
+    "status": "verified"
+  },
+  {
+    "id": "geo-105",
+    "question": "O‘rtacha balandligi bo‘yicha eng baland materik qaysi?",
+    "options": [
+      "Osiyo",
+      "Afrika",
+      "Antarktida",
+      "Janubiy Amerika"
+    ],
+    "answer": 2,
+    "explanation": "Qalin muz qatlami tufayli Antarktidaning o‘rtacha balandligi boshqa barcha materiklardan yuqori.",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/place/Antarctica",
+    "status": "verified"
   }
 ]

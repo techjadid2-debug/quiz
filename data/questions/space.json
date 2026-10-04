@@ -526,5 +526,1141 @@
     "difficulty": "hard",
     "source": "https://science.nasa.gov/mission/voyager/voyager-1/",
     "status": "verified"
+  },
+  {
+    "id": "spa-034",
+    "question": "1957-yilda koinotga chiqarilgan it — Layka qaysi kosmik apparat bortida uchgan?",
+    "options": [
+      "«Sputnik-2»",
+      "«Vostok-1»",
+      "«Sputnik-1»",
+      "«Luna-2»"
+    ],
+    "answer": 0,
+    "explanation": "Layka 1957-yil 3-noyabrda «Sputnik-2» bortida Yer orbitasiga chiqarilgan birinchi hayvon bo‘ldi.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Laika",
+    "status": "verified"
+  },
+  {
+    "id": "spa-035",
+    "question": "Ochiq koinotga birinchi bo‘lib chiqqan inson kim?",
+    "options": [
+      "Yuriy Gagarin",
+      "Aleksey Leonov",
+      "German Titov",
+      "Edvard Uayt"
+    ],
+    "answer": 1,
+    "explanation": "Aleksey Leonov 1965-yil 18-martda «Voshod-2» kemasidan chiqib, ochiq koinotda qariyb 12 daqiqa bo‘lgan.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Alexei_Leonov",
+    "status": "verified"
+  },
+  {
+    "id": "spa-036",
+    "question": "Marsning ikkita tabiiy yo‘ldoshi qanday ataladi?",
+    "options": [
+      "Io va Yevropa",
+      "Triton va Nereida",
+      "Fobos va Deymos",
+      "Titan va Reya"
+    ],
+    "answer": 2,
+    "explanation": "Fobos va Deymos 1877-yilda amerikalik astronom Asaf Xoll tomonidan kashf etilgan.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://science.nasa.gov/mars/moons/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-037",
+    "question": "Quyosh tizimidagi asosiy asteroidlar kamari qaysi sayyoralar orbitalari orasida joylashgan?",
+    "options": [
+      "Yer va Mars",
+      "Yupiter va Saturn",
+      "Venera va Yer",
+      "Mars va Yupiter"
+    ],
+    "answer": 3,
+    "explanation": "Asteroidlar kamari Mars va Yupiter orbitalari oralig‘ida joylashgan bo‘lib, unda millionlab tosh jismlar aylanadi.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Asteroid_belt",
+    "status": "verified"
+  },
+  {
+    "id": "spa-038",
+    "question": "Quyosh asosan qaysi kimyoviy elementdan tashkil topgan?",
+    "options": [
+      "Vodorod",
+      "Kislorod",
+      "Uglerod",
+      "Temir"
+    ],
+    "answer": 0,
+    "explanation": "Quyosh massasining qariyb to‘rtdan uch qismini vodorod, qolgan asosiy qismini geliy tashkil etadi.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Sun",
+    "status": "verified"
+  },
+  {
+    "id": "spa-039",
+    "question": "Quyosh tutilishi qachon sodir bo‘ladi?",
+    "options": [
+      "Yer Oy bilan Quyosh orasidan o‘tganda",
+      "Oy Yer bilan Quyosh orasidan o‘tganda",
+      "Quyosh Yer bilan Oy orasida bo‘lganda",
+      "Venera Quyosh oldidan o‘tganda"
+    ],
+    "answer": 1,
+    "explanation": "Quyosh tutilishida Oy Quyoshni to‘sib, Yer yuzasiga soya tashlaydi; bu faqat yangi oy davrida bo‘lishi mumkin.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Solar_eclipse",
+    "status": "verified"
+  },
+  {
+    "id": "spa-040",
+    "question": "Oy tutilishi paytida nima sodir bo‘ladi?",
+    "options": [
+      "Oy Quyoshni to‘sib qo‘yadi",
+      "Yer Oyning soyasiga kiradi",
+      "Oy Yerning soyasiga kiradi",
+      "Oy Quyosh orqasiga o‘tadi"
+    ],
+    "answer": 2,
+    "explanation": "Oy tutilishi Yer Quyosh va Oy orasida turganda, ya’ni to‘lin oy davrida yuz beradi.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Lunar_eclipse",
+    "status": "verified"
+  },
+  {
+    "id": "spa-041",
+    "question": "Yerdagi okeanlarda suv ko‘tarilishi va qaytishi (qalqish) asosan nimaning ta’sirida yuz beradi?",
+    "options": [
+      "Yerning magnit maydoni",
+      "Shamol",
+      "Yerning issiq yadrosi",
+      "Oyning tortishish kuchi"
+    ],
+    "answer": 3,
+    "explanation": "Qalqishlarni asosan Oyning tortishish kuchi, kamroq darajada Quyoshning tortishishi yuzaga keltiradi.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://science.nasa.gov/moon/tides/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-042",
+    "question": "Oyning Yerga qaragan tomoni to‘liq yoritilgan fazasi qanday ataladi?",
+    "options": [
+      "To‘lin oy",
+      "Yangi oy",
+      "Birinchi chorak",
+      "O‘roqsimon oy"
+    ],
+    "answer": 0,
+    "explanation": "To‘lin oyda Oy Yerning Quyoshga qarama-qarshi tomonida bo‘ladi va butunlay yoritilgan ko‘rinadi.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Full_moon",
+    "status": "verified"
+  },
+  {
+    "id": "spa-043",
+    "question": "1781-yilda Uran sayyorasini kashf etgan astronom kim?",
+    "options": [
+      "Galileo Galiley",
+      "Uilyam Gershel",
+      "Iogann Kepler",
+      "Edmund Galley"
+    ],
+    "answer": 1,
+    "explanation": "Uilyam Gershel 1781-yil 13-martda Uranni teleskop orqali topdi — bu teleskop yordamida kashf etilgan birinchi sayyora.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Uranus",
+    "status": "verified"
+  },
+  {
+    "id": "spa-044",
+    "question": "Plutonni 1930-yilda kashf etgan astronom kim?",
+    "options": [
+      "Persival Louell",
+      "Edvin Habbl",
+      "Klayd Tombo",
+      "Karl Sagan"
+    ],
+    "answer": 2,
+    "explanation": "Klayd Tombo Plutonni 1930-yilda AQShdagi Louell rasadxonasida suratlarni solishtirish orqali topgan.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Clyde_Tombaugh",
+    "status": "verified"
+  },
+  {
+    "id": "spa-046",
+    "question": "Somon yo‘li galaktikasi shakliga ko‘ra qaysi turga kiradi?",
+    "options": [
+      "Spiral (to‘siqli spiral) galaktika",
+      "Elliptik galaktika",
+      "Noto‘g‘ri shaklli galaktika",
+      "Sharsimon yulduz to‘dasi"
+    ],
+    "answer": 0,
+    "explanation": "Somon yo‘li markazida yulduzlardan iborat to‘siq (bar) bo‘lgan spiral galaktikadir.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Milky_Way",
+    "status": "verified"
+  },
+  {
+    "id": "spa-047",
+    "question": "Boyqo‘ng‘ir kosmodromi qaysi davlat hududida joylashgan?",
+    "options": [
+      "Rossiya",
+      "Qozog‘iston",
+      "O‘zbekiston",
+      "Turkmaniston"
+    ],
+    "answer": 1,
+    "explanation": "Boyqo‘ng‘ir Qozog‘istonda joylashgan; 1961-yilda Gagarin ham shu kosmodromdan koinotga uchgan.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Baikonur_Cosmodrome",
+    "status": "verified"
+  },
+  {
+    "id": "spa-048",
+    "question": "An’anaviy burjlar (zodiak belgilari) soni nechta?",
+    "options": [
+      "10",
+      "13",
+      "12",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "Zodiakning 12 belgisi Quyoshning yil davomida osmonda bosib o‘tadigan yo‘li (ekliptika) bo‘ylab joylashgan.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Zodiac",
+    "status": "verified"
+  },
+  {
+    "id": "spa-049",
+    "question": "«Katta qizil dog‘» deb ataladigan ulkan bo‘ron qaysi sayyorada kuzatiladi?",
+    "options": [
+      "Mars",
+      "Saturn",
+      "Neptun",
+      "Yupiter"
+    ],
+    "answer": 3,
+    "explanation": "Katta qizil dog‘ Yupiter atmosferasidagi Yerdan kattaroq bo‘ronli girdob bo‘lib, kamida 1830-yillardan beri uzluksiz kuzatilib kelinadi.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://science.nasa.gov/jupiter/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-050",
+    "question": "«Voyajer-1» va «Voyajer-2» kosmik apparatlari qaysi yili uchirilgan?",
+    "options": [
+      "1977",
+      "1969",
+      "1981",
+      "1972"
+    ],
+    "answer": 0,
+    "explanation": "Ikkala «Voyajer» ham 1977-yilda uchirilgan: avval «Voyajer-2» (avgust), so‘ng «Voyajer-1» (sentabr).",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://science.nasa.gov/mission/voyager/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-051",
+    "question": "«Nyu Horayzons» apparati Pluton yonidan qaysi yili uchib o‘tib, uning birinchi yaqin suratlarini olgan?",
+    "options": [
+      "2006",
+      "2015",
+      "2010",
+      "2019"
+    ],
+    "answer": 1,
+    "explanation": "2006-yilda uchirilgan «Nyu Horayzons» 2015-yil 14-iyulda Plutonga eng yaqin masofadan o‘tgan.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://science.nasa.gov/mission/new-horizons/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-052",
+    "question": "2023-yilda Oyning janubiy qutbi yaqiniga muvaffaqiyatli qo‘ngan «Chandrayan-3» missiyasi qaysi davlatga tegishli?",
+    "options": [
+      "Xitoy",
+      "Yaponiya",
+      "Hindiston",
+      "Isroil"
+    ],
+    "answer": 2,
+    "explanation": "«Chandrayan-3» 2023-yil 23-avgustda Oyga qo‘nib, Hindistonni Oyning janubiy qutbi yaqiniga qo‘ngan birinchi davlatga aylantirdi.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Chandrayaan-3",
+    "status": "verified"
+  },
+  {
+    "id": "spa-053",
+    "question": "2019-yilda tarixda birinchi marta Oyning orqa tomoniga yumshoq qo‘nishni amalga oshirgan «Chang’e-4» qaysi davlatniki?",
+    "options": [
+      "AQSh",
+      "Rossiya",
+      "Hindiston",
+      "Xitoy"
+    ],
+    "answer": 3,
+    "explanation": "Xitoyning «Chang’e-4» apparati 2019-yil 3-yanvarda Oyning orqa tomonidagi Fon Karman kraterga qo‘ngan.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Chang%27e_4",
+    "status": "verified"
+  },
+  {
+    "id": "spa-054",
+    "question": "Quyosh tizimidagi sayyoralardan Quyoshdan eng uzoqda joylashgani qaysi?",
+    "options": [
+      "Neptun",
+      "Uran",
+      "Saturn",
+      "Pluton"
+    ],
+    "answer": 0,
+    "explanation": "Neptun Quyoshdan o‘rtacha 30 a.b. uzoqlikda; Pluton 2006-yildan beri mitti sayyora hisoblanadi.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://science.nasa.gov/neptune/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-055",
+    "question": "Mars sirtiga qizg‘ish rang beradigan modda nima?",
+    "options": [
+      "Mis sulfati",
+      "Temir oksidi (zang)",
+      "Oltingugurt",
+      "Qizil qum-tuz"
+    ],
+    "answer": 1,
+    "explanation": "Mars tuprog‘i va changidagi temir oksidlari sayyoraga qizg‘ish tus beradi.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://science.nasa.gov/mars/facts/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-056",
+    "question": "Quyosh tizimidagi qaysi ikki sayyoraning birorta ham tabiiy yo‘ldoshi yo‘q?",
+    "options": [
+      "Mars va Venera",
+      "Merkuriy va Mars",
+      "Merkuriy va Venera",
+      "Uran va Neptun"
+    ],
+    "answer": 2,
+    "explanation": "Merkuriy va Venera Quyoshga eng yaqin sayyoralar bo‘lib, ularning tabiiy yo‘ldoshlari yo‘q.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://science.nasa.gov/venus/facts/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-057",
+    "question": "Massiv yulduz hayotining oxirida yuz beradigan ulkan portlash qanday ataladi?",
+    "options": [
+      "Quyosh chaqnashi",
+      "Meteor yomg‘iri",
+      "Qutb yog‘dusi",
+      "O‘ta yangi yulduz (supernova)"
+    ],
+    "answer": 3,
+    "explanation": "Supernova portlashi qisqa vaqt ichida butun galaktika kabi yorqin porlashi mumkin; undan keyin neytron yulduz yoki qora tuynuk qoladi.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Supernova",
+    "status": "verified"
+  },
+  {
+    "id": "spa-058",
+    "question": "Tungi osmondagi eng yorqin yulduz qaysi?",
+    "options": [
+      "Sirius",
+      "Qutb yulduzi",
+      "Vega",
+      "Betelgeyze"
+    ],
+    "answer": 0,
+    "explanation": "Sirius Katta It yulduz turkumida joylashgan va Yerdan qariyb 8,6 yorug‘lik yili uzoqlikda.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Sirius",
+    "status": "verified"
+  },
+  {
+    "id": "spa-059",
+    "question": "Tungi osmonda chaqnab o‘tadigan «uchar yulduz» aslida nima?",
+    "options": [
+      "Uzoqlashayotgan yulduz",
+      "Atmosferada yonayotgan meteor",
+      "Sun’iy yo‘ldosh",
+      "Kometa dumi"
+    ],
+    "answer": 1,
+    "explanation": "Kosmik jinslar (meteoroidlar) atmosferaga katta tezlikda kirib qiziydi va yonib, yorug‘ iz — meteor hosil qiladi.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://science.nasa.gov/solar-system/meteors-meteorites/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-060",
+    "question": "Yerda yil fasllari almashinishining asosiy sababi nima?",
+    "options": [
+      "Yerning Quyoshga yaqinlashib-uzoqlashishi",
+      "Oyning tortishish kuchi",
+      "Yer o‘qining orbita tekisligiga og‘maligi",
+      "Quyosh faolligining o‘zgarishi"
+    ],
+    "answer": 2,
+    "explanation": "Yer o‘qi qariyb 23,4° ga og‘gan, shu bois yil davomida yarimsharlar Quyosh nurini turli burchakda oladi.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Season",
+    "status": "verified"
+  },
+  {
+    "id": "spa-061",
+    "question": "Yuriy Gagarin 1961-yilda qaysi kosmik kemada koinotga uchgan?",
+    "options": [
+      "«Voshod-1»",
+      "«Soyuz-1»",
+      "«Sputnik-3»",
+      "«Vostok-1»"
+    ],
+    "answer": 3,
+    "explanation": "Gagarin «Vostok-1» kemasida Yer atrofini bir marta aylanib chiqqan, parvoz 108 daqiqa davom etgan.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Vostok_1",
+    "status": "verified"
+  },
+  {
+    "id": "spa-062",
+    "question": "Oy sirtidagi tortishish kuchi Yerdagiga nisbatan taxminan qancha?",
+    "options": [
+      "Oltidan bir qismi",
+      "Yarmi",
+      "Ikki baravar ko‘p",
+      "O‘ndan bir qismi"
+    ],
+    "answer": 0,
+    "explanation": "Oyda erkin tushish tezlanishi qariyb 1,62 m/s², bu Yerdagining taxminan 1/6 qismiga teng.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Gravitation_of_the_Moon",
+    "status": "verified"
+  },
+  {
+    "id": "spa-063",
+    "question": "Quyosh tizimidagi vulqon jihatidan eng faol jism hisoblangan Yupiter yo‘ldoshi qaysi?",
+    "options": [
+      "Yevropa",
+      "Io",
+      "Kallisto",
+      "Ganimed"
+    ],
+    "answer": 1,
+    "explanation": "Bu yo‘ldoshda yuzlab faol vulqonlar bor; uning ichki issiqligi Yupiterning kuchli qalqish ta’siridan hosil bo‘ladi.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://science.nasa.gov/jupiter/jupiter-moons/io/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-064",
+    "question": "«Kassini» apparati janubiy qutbidan suv bug‘i va muz otilib chiqayotganini (geyzerlarni) aniqlagan Saturn yo‘ldoshi qaysi?",
+    "options": [
+      "Titan",
+      "Mimas",
+      "Enselad",
+      "Yapet"
+    ],
+    "answer": 2,
+    "explanation": "Enselad muz qobig‘i ostida sho‘r suvli okean borligi geyzerlari orqali tasdiqlangan.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://science.nasa.gov/saturn/moons/enceladus/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-065",
+    "question": "Muz qobig‘i ostida ulkan suyuq suv okeani bor deb hisoblanadigan Yupiter yo‘ldoshi qaysi?",
+    "options": [
+      "Io",
+      "Amalteya",
+      "Gimaliya",
+      "Yevropa"
+    ],
+    "answer": 3,
+    "explanation": "Yevropaning muz qobig‘i ostidagi okean hayot uchun qulay sharoit izlanadigan asosiy joylardan biri.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://science.nasa.gov/jupiter/jupiter-moons/europa/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-066",
+    "question": "Kuyper kamari Quyosh tizimining qaysi qismida joylashgan?",
+    "options": [
+      "Neptun orbitasidan tashqarida",
+      "Mars va Yupiter orasida",
+      "Merkuriy orbitasi ichida",
+      "Saturn va Uran orasida"
+    ],
+    "answer": 0,
+    "explanation": "Kuyper kamari Neptun orbitasidan nariga cho‘zilgan muzli jismlar mintaqasi; Pluton ham shu kamarda joylashgan.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://science.nasa.gov/solar-system/kuiper-belt/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-067",
+    "question": "Quyosh tizimini ulkan sfera kabi o‘rab turgan va uzoq davrli kometalar manbai deb hisoblanadigan muzli jismlar mintaqasi qanday ataladi?",
+    "options": [
+      "Kuyper kamari",
+      "Oort buluti",
+      "Asteroidlar kamari",
+      "Geliosfera"
+    ],
+    "answer": 1,
+    "explanation": "Oort buluti Quyoshdan juda olisda joylashgan; uni hali bevosita kuzatishning imkoni bo‘lmagan.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://science.nasa.gov/solar-system/oort-cloud/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-068",
+    "question": "2005-yilda kashf etilib, Pluton maqomini qayta ko‘rib chiqishga turtki bo‘lgan mitti sayyora qaysi?",
+    "options": [
+      "Serera",
+      "Makemake",
+      "Erida",
+      "Xaumeya"
+    ],
+    "answer": 2,
+    "explanation": "Erida kattaligi Plutonga juda yaqin; uning topilishi 2006-yilda XAI sayyora ta’rifini qabul qilishiga sabab bo‘ldi.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Eris_(dwarf_planet)",
+    "status": "verified"
+  },
+  {
+    "id": "spa-069",
+    "question": "Plutonning eng katta yo‘ldoshi qanday ataladi?",
+    "options": [
+      "Triton",
+      "Nikta",
+      "Fobos",
+      "Xaron"
+    ],
+    "answer": 3,
+    "explanation": "Xaron diametri Plutonnikining qariyb yarmiga teng, shuning uchun ular ba’zan qo‘shaloq tizim deb ataladi.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://science.nasa.gov/dwarf-planets/pluto/moons/charon/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-070",
+    "question": "Quyosh energiyasi uning yadrosida qanday jarayon natijasida hosil bo‘ladi?",
+    "options": [
+      "Vodorodning geliyga aylanishi (termoyadro sintezi)",
+      "Uranning parchalanishi",
+      "Ko‘mirning yonishi",
+      "Geliyning vodorodga ajralishi"
+    ],
+    "answer": 0,
+    "explanation": "Quyosh yadrosida juda yuqori harorat va bosimda vodorod yadrolari qo‘shilib geliy hosil qiladi va energiya ajraladi.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://science.nasa.gov/sun/facts/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-071",
+    "question": "Quyoshning biz ko‘radigan yorug‘ «sirti» qaysi qatlam hisoblanadi?",
+    "options": [
+      "Xromosfera",
+      "Fotosfera",
+      "Toj (korona)",
+      "Yadro"
+    ],
+    "answer": 1,
+    "explanation": "Fotosfera Quyoshning ko‘rinadigan yorug‘ligi tarqaladigan qatlam; Quyosh dog‘lari ham shu qatlamda kuzatiladi.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Photosphere",
+    "status": "verified"
+  },
+  {
+    "id": "spa-072",
+    "question": "Qutb yog‘dusi (aurora) asosan nimaning Yer magnit maydoni va atmosferasi bilan o‘zaro ta’siri natijasida yuzaga keladi?",
+    "options": [
+      "Meteor changlarining",
+      "Oy nurining",
+      "Quyosh shamoli zarralarining",
+      "Kosmik changning"
+    ],
+    "answer": 2,
+    "explanation": "Quyosh shamolidagi zaryadli zarralar qutblar yaqinida atmosfera gazlari bilan to‘qnashib, ularni nurlantiradi.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Aurora",
+    "status": "verified"
+  },
+  {
+    "id": "spa-073",
+    "question": "Oy Quyoshni to‘liq to‘sa olmay, uning atrofida yorug‘ halqa qoladigan tutilish turi qanday ataladi?",
+    "options": [
+      "To‘liq tutilish",
+      "Qisman Oy tutilishi",
+      "Yarim soyali tutilish",
+      "Halqasimon tutilish"
+    ],
+    "answer": 3,
+    "explanation": "Halqasimon tutilish Oy Yerdan uzoqroq nuqtada bo‘lib, Quyoshdan kichikroq ko‘ringanda yuz beradi.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Solar_eclipse",
+    "status": "verified"
+  },
+  {
+    "id": "spa-074",
+    "question": "1966-yilda Oy yuzasiga birinchi bo‘lib yumshoq qo‘nib, sirtdan suratlar yuborgan apparat qaysi?",
+    "options": [
+      "«Luna-9»",
+      "«Luna-2»",
+      "«Surveyor-1»",
+      "«Apollon-11»"
+    ],
+    "answer": 0,
+    "explanation": "Sovet «Luna-9» apparati 1966-yil 3-fevralda Oyga yumshoq qo‘ngan va panorama suratlarini uzatgan.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Luna_9",
+    "status": "verified"
+  },
+  {
+    "id": "spa-075",
+    "question": "1976-yilda Marsga muvaffaqiyatli qo‘nib, sirtdan suratlar yuborgan AQShning birinchi apparati qaysi?",
+    "options": [
+      "«Mariner-4»",
+      "«Viking-1»",
+      "«Pathfinder»",
+      "«Spirit»"
+    ],
+    "answer": 1,
+    "explanation": "«Viking-1» qo‘nuvchi moduli 1976-yil 20-iyulda Marsga qo‘nib, olti yildan ortiq ishlagan.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Viking_1",
+    "status": "verified"
+  },
+  {
+    "id": "spa-076",
+    "question": "«Kyuriositi» (Curiosity) roveri Marsdagi Geyl krateriga qaysi yili qo‘ngan?",
+    "options": [
+      "2004",
+      "2008",
+      "2012",
+      "2021"
+    ],
+    "answer": 2,
+    "explanation": "«Kyuriositi» 2012-yil 6-avgustda Geyl krateriga qo‘ngan va Marsda qadimda hayot uchun qulay sharoit bo‘lganini aniqlagan.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://science.nasa.gov/mission/msl-curiosity/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-077",
+    "question": "2021-yilda boshqa sayyorada birinchi boshqariladigan motorli parvozni amalga oshirgan vertolyot qanday nomlanadi?",
+    "options": [
+      "Perseverance",
+      "Dragonfly",
+      "Opportunity",
+      "Ingenuity"
+    ],
+    "answer": 3,
+    "explanation": "Ingenuity «Perseverance» roveri bilan Marsga yetkazilgan va 2021-yil 19-aprelda ilk parvozini bajargan.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-helicopter/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-078",
+    "question": "Yevropa kosmik agentligining «Rozetta» missiyasi qaysi kometani o‘rgangan va unga «Fila» qo‘nuvchi modulini tushirgan?",
+    "options": [
+      "Churyumov–Gerasimenko (67P)",
+      "Galley kometasi",
+      "Xeyl–Bopp kometasi",
+      "Shumeyker–Levi 9"
+    ],
+    "answer": 0,
+    "explanation": "«Rozetta» 2014-yilda 67P kometasi orbitasiga chiqqan, «Fila» esa kometa yadrosiga qo‘ngan birinchi apparat bo‘lgan.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta",
+    "status": "verified"
+  },
+  {
+    "id": "spa-079",
+    "question": "Keplerning birinchi qonuniga ko‘ra sayyoralar Quyosh atrofida qanday shakldagi orbita bo‘ylab harakatlanadi?",
+    "options": [
+      "Aylana, Quyosh uning markazida",
+      "Ellips, Quyosh uning fokuslaridan birida",
+      "Parabola",
+      "To‘g‘ri chiziq"
+    ],
+    "answer": 1,
+    "explanation": "Iogann Kepler bu qonunni 1609-yilda «Yangi astronomiya» asarida e’lon qilgan.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion",
+    "status": "verified"
+  },
+  {
+    "id": "spa-080",
+    "question": "«Almagest» asarida Yer olam markazida turadigan (geotsentrik) tizimni batafsil bayon qilgan qadimgi olim kim?",
+    "options": [
+      "Aristarx",
+      "Arximed",
+      "Klavdiy Ptolemey",
+      "Pifagor"
+    ],
+    "answer": 2,
+    "explanation": "Ptolemeyning II asrda yozilgan geotsentrik modeli qariyb 1400 yil davomida asosiy nazariya bo‘lib qolgan.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Ptolemy",
+    "status": "verified"
+  },
+  {
+    "id": "spa-081",
+    "question": "Galaktikalar bizdan qanchalik uzoq bo‘lsa, shunchalik tez uzoqlashayotganini ko‘rsatgan qonun kimning nomi bilan ataladi?",
+    "options": [
+      "Albert Eynshteyn",
+      "Iogann Kepler",
+      "Uilyam Gershel",
+      "Edvin Habbl"
+    ],
+    "answer": 3,
+    "explanation": "Habbl qonuni (1929) koinot kengayayotganining asosiy kuzatuv dalillaridan biri hisoblanadi.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Hubble%27s_law",
+    "status": "verified"
+  },
+  {
+    "id": "spa-082",
+    "question": "Yorug‘lik chiqarmaydigan, lekin tortishish ta’siri orqali mavjudligi aniqlanadigan modda qanday ataladi?",
+    "options": [
+      "Qorong‘i materiya",
+      "Antimateriya",
+      "Plazma",
+      "Yulduzlararo gaz"
+    ],
+    "answer": 0,
+    "explanation": "Galaktikalarning aylanish tezligi ko‘rinadigan modda bilan tushuntirib bo‘lmaydi — bu qorong‘i materiya mavjudligidan dalolat.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Dark_matter",
+    "status": "verified"
+  },
+  {
+    "id": "spa-083",
+    "question": "Katta va Kichik Magellan bulutlari nima?",
+    "options": [
+      "Yupiter atmosferasidagi bulutlar",
+      "Somon yo‘lining yo‘ldosh galaktikalari",
+      "Quyosh tizimidagi gaz tumanliklari",
+      "Yulduz turkumlari"
+    ],
+    "answer": 1,
+    "explanation": "Magellan bulutlari Somon yo‘li atrofidagi mitti galaktikalar bo‘lib, asosan Janubiy yarimshardan ko‘rinadi.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Magellanic_Clouds",
+    "status": "verified"
+  },
+  {
+    "id": "spa-084",
+    "question": "Somon yo‘li, Andromeda va Uchburchak galaktikalari kiradigan galaktikalar guruhi qanday ataladi?",
+    "options": [
+      "Virgo to‘dasi",
+      "Koma to‘dasi",
+      "Mahalliy guruh",
+      "Yulduzli olam"
+    ],
+    "answer": 2,
+    "explanation": "Mahalliy guruhda bir necha o‘nlab galaktika bor; ulardan eng yiriklari Andromeda va Somon yo‘li.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Local_Group",
+    "status": "verified"
+  },
+  {
+    "id": "spa-085",
+    "question": "Quyosh hayotining so‘nggi bosqichida, qizil gigantdan keyin qanday jismga aylanadi?",
+    "options": [
+      "Qora tuynuk",
+      "Neytron yulduz",
+      "Pulsar",
+      "Oq mitti"
+    ],
+    "answer": 3,
+    "explanation": "Quyosh qora tuynuk yoki neytron yulduz hosil qilish uchun yetarlicha massiv emas; u tashqi qatlamlarini tashlab, oq mittiga aylanadi.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/White_dwarf",
+    "status": "verified"
+  },
+  {
+    "id": "spa-086",
+    "question": "Tez aylanib, muntazam radio impulslar chiqaradigan neytron yulduz qanday ataladi?",
+    "options": [
+      "Pulsar",
+      "Kvazar",
+      "Qizil mitti",
+      "Kometa"
+    ],
+    "answer": 0,
+    "explanation": "Pulsarning nurlanish dastasi mayoq kabi aylanadi va Yerga aniq vaqt oraliqlarida impulslar yetib keladi.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Pulsar",
+    "status": "verified"
+  },
+  {
+    "id": "spa-087",
+    "question": "Bir parsek taxminan necha yorug‘lik yiliga teng?",
+    "options": [
+      "1",
+      "3,26",
+      "10",
+      "0,5"
+    ],
+    "answer": 1,
+    "explanation": "Parsek — yillik parallaksi 1 yoy sekundiga teng bo‘lgan masofa, u qariyb 3,26 yorug‘lik yiliga teng.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Parsec",
+    "status": "verified"
+  },
+  {
+    "id": "spa-088",
+    "question": "Xalqaro astronomiya ittifoqi (XAI) tomonidan rasman tan olingan yulduz turkumlari soni nechta?",
+    "options": [
+      "12",
+      "48",
+      "88",
+      "100"
+    ],
+    "answer": 2,
+    "explanation": "XAI butun osmonni chegaralari aniq belgilangan 88 ta yulduz turkumiga ajratgan.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://www.iau.org/public/themes/constellations/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-089",
+    "question": "2000-yilda Xalqaro kosmik stansiyaga (XKS) birinchi doimiy ekipaj qaysi oyda yetib kelgan?",
+    "options": [
+      "Yanvar",
+      "Iyul",
+      "Sentabr",
+      "Noyabr"
+    ],
+    "answer": 3,
+    "explanation": "1-ekspeditsiya ekipaji 2000-yil 2-noyabrda XKSga yetib kelgan; shundan beri stansiyada doimo odamlar yashaydi.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Expedition_1",
+    "status": "verified"
+  },
+  {
+    "id": "spa-090",
+    "question": "Nima uchun Yerdan doimo Oyning faqat bir tomoni ko‘rinadi?",
+    "options": [
+      "Oy o‘z o‘qi atrofida Yer atrofida aylanish davriga teng vaqtda aylanadi",
+      "Oy o‘z o‘qi atrofida umuman aylanmaydi",
+      "Oyning orqa tomoni doimo qorong‘i",
+      "Yer Oyning orqa tomonini to‘sib turadi"
+    ],
+    "answer": 0,
+    "explanation": "Bu sinxron aylanish Yerning qalqish ta’siri natijasida yuzaga kelgan; orqa tomon ham Quyosh nurini oladi.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Tidal_locking",
+    "status": "verified"
+  },
+  {
+    "id": "spa-091",
+    "question": "Qora tuynuk atrofidagi, undan nariga o‘tgan hech narsa, hatto yorug‘lik ham qaytib chiqa olmaydigan chegara qanday ataladi?",
+    "options": [
+      "Fotosfera",
+      "Hodisalar gorizonti",
+      "Geliopauza",
+      "Rosh chegarasi"
+    ],
+    "answer": 1,
+    "explanation": "Hodisalar gorizontidan ichkarida qochish tezligi yorug‘lik tezligidan katta bo‘ladi.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Event_horizon",
+    "status": "verified"
+  },
+  {
+    "id": "spa-092",
+    "question": "Sayyorasining aylanish yo‘nalishiga teskari (retrograd) orbita bo‘ylab harakatlanadigan, Quyosh tizimidagi yagona yirik yo‘ldosh qaysi?",
+    "options": [
+      "Titan",
+      "Xaron",
+      "Triton",
+      "Ganimed"
+    ],
+    "answer": 2,
+    "explanation": "Neptun yo‘ldoshi Triton retrograd orbitasi tufayli Kuyper kamaridan tutib olingan jism deb hisoblanadi.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://science.nasa.gov/neptune/moons/triton/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-093",
+    "question": "Cho‘ziq tuxumsimon shakli va o‘z o‘qi atrofida taxminan 4 soatda aylanishi bilan mashhur mitti sayyora qaysi?",
+    "options": [
+      "Serera",
+      "Erida",
+      "Pluton",
+      "Xaumeya"
+    ],
+    "answer": 3,
+    "explanation": "Xaumeya Quyosh tizimidagi eng tez aylanadigan yirik jismlardan biri; 2017-yilda uning halqasi borligi ham aniqlangan.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://science.nasa.gov/dwarf-planets/haumea/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-094",
+    "question": "Mitti sayyora Makemake kimning sharafiga nomlangan?",
+    "options": [
+      "Pasxa oroli (Rapa-Nui) xalqining yaratuvchi xudosi",
+      "Qadimgi Rim urush xudosi",
+      "Gavayi hosildorlik ma’budasi",
+      "Yunon yer osti xudosi"
+    ],
+    "answer": 0,
+    "explanation": "Makemake 2005-yilda Pasxa bayramidan ko‘p o‘tmay kashf etilgani uchun Rapa-Nui afsonalaridagi yaratuvchi xudo nomini olgan.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://science.nasa.gov/dwarf-planets/makemake/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-095",
+    "question": "1959-yilda Oyning Yerdan ko‘rinmaydigan orqa tomonini birinchi bo‘lib suratga olgan apparat qaysi?",
+    "options": [
+      "«Luna-9»",
+      "«Luna-3»",
+      "«Ranger-7»",
+      "«Zond-5»"
+    ],
+    "answer": 1,
+    "explanation": "Sovet «Luna-3» stansiyasi 1959-yil oktabrda Oyning orqa tomonini ilk bor suratga oldi.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Luna_3",
+    "status": "verified"
+  },
+  {
+    "id": "spa-096",
+    "question": "1970-yilda boshqa sayyora sirtiga birinchi bo‘lib yumshoq qo‘nib, u yerdan ma’lumot uzatgan apparat qaysi?",
+    "options": [
+      "«Mars-3»",
+      "«Viking-1»",
+      "«Venera-7»",
+      "«Mariner-10»"
+    ],
+    "answer": 2,
+    "explanation": "«Venera-7» 1970-yil 15-dekabrda Venera sirtiga qo‘nib, 20 daqiqadan ortiq signal yuborgan.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Venera_7",
+    "status": "verified"
+  },
+  {
+    "id": "spa-097",
+    "question": "Asteroidlar kamaridan birinchi bo‘lib o‘tib, 1973-yilda Yupiter yonidan uchib o‘tgan birinchi kosmik apparat qaysi?",
+    "options": [
+      "«Voyajer-1»",
+      "«Galiley»",
+      "«Pioner-11»",
+      "«Pioner-10»"
+    ],
+    "answer": 3,
+    "explanation": "1972-yilda uchirilgan «Pioner-10» 1973-yil dekabrda Yupiterga yaqinlashib, uning ilk yaqin suratlarini olgan.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://science.nasa.gov/mission/pioneer-10/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-098",
+    "question": "1997-yilda «Mars Pathfinder» missiyasi bilan Marsga yetkazilgan, boshqa sayyoradagi birinchi g‘ildirakli rover qaysi?",
+    "options": [
+      "Sojourner",
+      "Spirit",
+      "Opportunity",
+      "Lunoxod-1"
+    ],
+    "answer": 0,
+    "explanation": "Sojourner 1997-yil iyulda Marsga qo‘ngan va qariyb uch oy davomida tosh va tuproqlarni tahlil qilgan.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Sojourner_(rover)",
+    "status": "verified"
+  },
+  {
+    "id": "spa-099",
+    "question": "1965-yilda kosmik mikroto‘lqinli fon nurlanishini (Katta portlash «aks-sadosi»ni) kashf etgan olimlar kimlar?",
+    "options": [
+      "Edvin Habbl va Milton Xyumason",
+      "Arno Penzias va Robert Vilson",
+      "Jorj Gamov va Ralf Alfer",
+      "Fred Xoyl va Herman Bondi"
+    ],
+    "answer": 1,
+    "explanation": "Penzias va Vilson bu kashfiyot uchun 1978-yilda fizika bo‘yicha Nobel mukofotiga sazovor bo‘lgan.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+    "status": "verified"
+  },
+  {
+    "id": "spa-100",
+    "question": "Yulduzlarning O, B, A, F, G, K, M spektral sinflaridan qaysi biri eng issiq yulduzlarga to‘g‘ri keladi?",
+    "options": [
+      "M",
+      "G",
+      "O",
+      "A"
+    ],
+    "answer": 2,
+    "explanation": "Spektral ketma-ketlik eng issiq O sinfidan eng sovuq M sinfigacha boradi; Quyosh G sinfiga kiradi.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Stellar_classification",
+    "status": "verified"
+  },
+  {
+    "id": "spa-101",
+    "question": "Quyosh ekliptika bo‘ylab harakatida o‘tadigan, ammo an’anaviy 12 burjga kirmaydigan yulduz turkumi qaysi?",
+    "options": [
+      "Orion",
+      "Katta Ayiq",
+      "Pegas",
+      "Ilon eltuvchi (Ophiuchus)"
+    ],
+    "answer": 3,
+    "explanation": "Quyosh har yili noyabr oxiri — dekabr boshida Ilon eltuvchi yulduz turkumi orqali o‘tadi.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Ophiuchus",
+    "status": "verified"
+  },
+  {
+    "id": "spa-102",
+    "question": "Birinchi bo‘lib kashf etilgan asteroid — Serera qaysi yili kim tomonidan topilgan?",
+    "options": [
+      "1801-yilda Juzeppe Piatsi",
+      "1781-yilda Uilyam Gershel",
+      "1846-yilda Iogann Galle",
+      "1930-yilda Klayd Tombo"
+    ],
+    "answer": 0,
+    "explanation": "Piatsi Sererani 1801-yil 1-yanvarda topgan; 2006-yildan u mitti sayyora deb tasniflanadi.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)",
+    "status": "verified"
+  },
+  {
+    "id": "spa-103",
+    "question": "Keplerning uchinchi qonuniga ko‘ra sayyoraning aylanish davri (T) va orbitasining katta yarim o‘qi (a) qanday bog‘langan?",
+    "options": [
+      "T ga a proporsional",
+      "T² ga a³ proporsional",
+      "T² ga a proporsional",
+      "T³ ga a² proporsional"
+    ],
+    "answer": 1,
+    "explanation": "Kepler bu qonunni 1619-yilda e’lon qilgan; keyinchalik Nyuton uni tortishish qonuni orqali isbotlagan.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion",
+    "status": "verified"
+  },
+  {
+    "id": "spa-104",
+    "question": "1994-yilda bo‘laklarga bo‘linib, Yupiterga to‘qnashgan kometa qaysi?",
+    "options": [
+      "Xeyl–Bopp",
+      "Galley",
+      "Shumeyker–Levi 9",
+      "Tempel 1"
+    ],
+    "answer": 2,
+    "explanation": "Shumeyker–Levi 9 bo‘laklari 1994-yil iyulda Yupiterga urilgan — bu Quyosh tizimi jismlarining to‘qnashuvi bevosita kuzatilgan birinchi holat.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Comet_Shoemaker%E2%80%93Levy_9",
+    "status": "verified"
+  },
+  {
+    "id": "spa-105",
+    "question": "1967-yilda birinchi pulsarni kashf etgan astronom kim?",
+    "options": [
+      "Vera Rubin",
+      "Henrietta Livitt",
+      "Sesiliya Peyn",
+      "Joselin Bell Burnell"
+    ],
+    "answer": 3,
+    "explanation": "Joselin Bell Burnell aspirant bo‘lganida radioteleskop yozuvlarida g‘ayrioddiy muntazam impulslarni payqagan.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell",
+    "status": "verified"
   }
 ]

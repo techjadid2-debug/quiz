@@ -526,5 +526,1125 @@
     "difficulty": "hard",
     "source": "https://en.wikipedia.org/wiki/1st_Academy_Awards",
     "status": "verified"
+  },
+  {
+    "id": "art-034",
+    "question": "“Veneraning tug‘ilishi” (“La nascita di Venere”) kartinasining muallifi kim?",
+    "options": [
+      "Karavadjo",
+      "Sandro Bottichelli",
+      "Titsian",
+      "Rafael Santi"
+    ],
+    "answer": 1,
+    "explanation": "Bottichelli bu asarni 1480-yillarning o‘rtalarida chizgan; kartina Florensiyadagi Uffitsi galereyasida saqlanadi.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/The_Birth_of_Venus",
+    "status": "verified"
+  },
+  {
+    "id": "art-035",
+    "question": "“Marvarid sirg‘ali qiz” kartinasining muallifi kim?",
+    "options": [
+      "Piter Bruegel",
+      "Rembrandt",
+      "Yan Vermeer",
+      "Frans Hals"
+    ],
+    "answer": 2,
+    "explanation": "Gollandiyalik rassom Vermeer taxminan 1665-yilda chizgan bu asar Gaagadagi Mauritshuis muzeyida saqlanadi.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring",
+    "status": "verified"
+  },
+  {
+    "id": "art-036",
+    "question": "Balerinalar va raqs darslari tasvirlangan ko‘plab asarlari bilan mashhur fransuz rassomi kim?",
+    "options": [
+      "Klod Mone",
+      "Pol Sezann",
+      "Edgar Dega",
+      "Kamil Pissarro"
+    ],
+    "answer": 2,
+    "explanation": "Dega rasmlari, pastellari va haykallarining yarmidan ko‘pi raqqosalarga bag‘ishlangan.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Edgar_Degas",
+    "status": "verified"
+  },
+  {
+    "id": "art-037",
+    "question": "Taiti orolida yashab, Polineziya aholisi hayotini yorqin ranglarda tasvirlagan fransuz rassomi kim?",
+    "options": [
+      "Pol Sezann",
+      "Anri Matiss",
+      "Pol Gogen",
+      "Jorj Syora"
+    ],
+    "answer": 2,
+    "explanation": "Gogen 1891-yilda Taitiga ketgan; umrining so‘nggi yillarini Fransuz Polineziyasida o‘tkazib, 1903-yilda Markiz orollarida vafot etgan.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Paul_Gauguin",
+    "status": "verified"
+  },
+  {
+    "id": "art-038",
+    "question": "“O‘pich” (“Der Kuss”) kartinasining muallifi kim?",
+    "options": [
+      "Edvard Munk",
+      "Egon Shile",
+      "Alfons Muxa",
+      "Gustav Klimt"
+    ],
+    "answer": 3,
+    "explanation": "Avstriyalik rassomning “oltin davri”ga mansub bu asar (1907–1908) Venadagi Belvedere saroyida saqlanadi.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/The_Kiss_(Klimt)",
+    "status": "verified"
+  },
+  {
+    "id": "art-039",
+    "question": "Ko‘plab avtoportretlari bilan mashhur, Diego Riveraning turmush o‘rtog‘i bo‘lgan meksikalik rassoma kim?",
+    "options": [
+      "Frida Kalo",
+      "Meri Kassat",
+      "Tamara de Lempitska",
+      "Artemiziya Jentileski"
+    ],
+    "answer": 0,
+    "explanation": "Frida Kalo (1907–1954) asarlarining katta qismi avtoportretlar; Mexikodagi “Moviy uy” hozir uning muzeyi.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Frida_Kahlo",
+    "status": "verified"
+  },
+  {
+    "id": "art-040",
+    "question": "“Kempbell sho‘rva bankalari” (“Campbell’s Soup Cans”, 1962) asari bilan mashhur pop-art vakili kim?",
+    "options": [
+      "Devid Xokni",
+      "Jekson Pollok",
+      "Roy Lixtenshteyn",
+      "Endi Uorxol"
+    ],
+    "answer": 3,
+    "explanation": "32 ta kanvasdan iborat bu asar Nyu-Yorkdagi MoMA kolleksiyasida saqlanadi va pop-art ramzlaridan biri hisoblanadi.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Campbell%27s_Soup_Cans",
+    "status": "verified"
+  },
+  {
+    "id": "art-041",
+    "question": "“To‘qqizinchi to‘lqin” kartinasining muallifi kim?",
+    "options": [
+      "Ivan Shishkin",
+      "Ivan Ayvazovskiy",
+      "Isaak Levitan",
+      "Ilya Repin"
+    ],
+    "answer": 1,
+    "explanation": "Dengiz manzaralari ustasi Ayvazovskiy bu asarni 1850-yilda chizgan; u Sankt-Peterburgdagi Rus muzeyida saqlanadi.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/The_Ninth_Wave",
+    "status": "verified"
+  },
+  {
+    "id": "art-042",
+    "question": "“Qora kvadrat” asarining muallifi kim?",
+    "options": [
+      "Kazimir Malevich",
+      "Mark Shagal",
+      "Vasiliy Kandinskiy",
+      "Vladimir Tatlin"
+    ],
+    "answer": 0,
+    "explanation": "Malevich 1915-yilda namoyish etgan bu asar u asos solgan suprematizm oqimining ramzi hisoblanadi.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Black_Square_(painting)",
+    "status": "verified"
+  },
+  {
+    "id": "art-043",
+    "question": "Barselonadagi Sagrada Familiya bazilikasining me’mori kim?",
+    "options": [
+      "Antoni Gaudi",
+      "Le Korbyuzye",
+      "Santyago Kalatrava",
+      "Frenk Lloyd Rayt"
+    ],
+    "answer": 0,
+    "explanation": "Gaudi 1883-yildan umrining oxirigacha (1926) bu loyiha ustida ishlagan; qurilish uning vafotidan keyin ham davom etgan.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+    "status": "verified"
+  },
+  {
+    "id": "art-044",
+    "question": "Afina Akropolidagi Parfenon ibodatxonasi qaysi ma’budaga bag‘ishlangan?",
+    "options": [
+      "Afina",
+      "Gera",
+      "Artemida",
+      "Afrodita"
+    ],
+    "answer": 0,
+    "explanation": "Parfenon miloddan avvalgi 447–432-yillarda Perikl davrida Afina Parfenos sharafiga qurilgan.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Parthenon",
+    "status": "verified"
+  },
+  {
+    "id": "art-045",
+    "question": "Italiyadagi mashhur Piza qiya minorasi aslida qanday inshoot?",
+    "options": [
+      "Shahar soat minorasi",
+      "Qal’a mudofaa minorasi",
+      "Sobor qo‘ng‘iroqxonasi (kampanila)",
+      "Dengiz mayog‘i"
+    ],
+    "answer": 2,
+    "explanation": "Minora Piza soborining alohida turgan qo‘ng‘iroqxonasi; qurilish 1173-yilda boshlangan, qiyshayish esa zamin cho‘kishidan.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa",
+    "status": "verified"
+  },
+  {
+    "id": "art-046",
+    "question": "Florensiyadagi mashhur marmar “Dovud” (“David”) haykalining muallifi kim?",
+    "options": [
+      "Donatello",
+      "Antonio Kanova",
+      "Jan Lorenso Bernini",
+      "Mikelanjelo"
+    ],
+    "answer": 3,
+    "explanation": "Mikelanjelo haykalni 1501–1504-yillarda yaratgan; asl nusxa Florensiyadagi Akademiya galereyasida saqlanadi.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/David_(Michelangelo)",
+    "status": "verified"
+  },
+  {
+    "id": "art-047",
+    "question": "Gul, meva, idish kabi jonsiz narsalar tasvirlangan rangtasvir janri qanday ataladi?",
+    "options": [
+      "Natyurmort",
+      "Portret",
+      "Marina",
+      "Peyzaj"
+    ],
+    "answer": 0,
+    "explanation": "Natyurmort (fransuzcha “nature morte” — “o‘lik tabiat”) janri XVII asr Gollandiya rangtasvirida ayniqsa rivojlangan.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Still_life",
+    "status": "verified"
+  },
+  {
+    "id": "art-048",
+    "question": "Nokturn, mazurka va polonezlari bilan mashhur, asosan fortepiano uchun ijod qilgan polshalik bastakor kim?",
+    "options": [
+      "Frederik Shopen",
+      "Frans List",
+      "Robert Shuman",
+      "Feliks Mendelson"
+    ],
+    "answer": 0,
+    "explanation": "Shopen (1810–1849) deyarli barcha asarlarini fortepiano uchun yozgan; umrining ikkinchi yarmini Parijda o‘tkazgan.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin",
+    "status": "verified"
+  },
+  {
+    "id": "art-049",
+    "question": "Volfgang Amadey Motsart qaysi shaharda tug‘ilgan?",
+    "options": [
+      "Leyptsig",
+      "Zalsburg",
+      "Bonn",
+      "Vena"
+    ],
+    "answer": 1,
+    "explanation": "Motsart 1756-yilda Zalsburgda tug‘ilgan; shahardagi u tug‘ilgan uy hozir muzey.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+    "status": "verified"
+  },
+  {
+    "id": "art-050",
+    "question": "“Karmen” operasining muallifi kim?",
+    "options": [
+      "Sharl Guno",
+      "Jorj Bize",
+      "Jyul Massne",
+      "Jakomo Puchchini"
+    ],
+    "answer": 1,
+    "explanation": "Bize operasi 1875-yilda Parijda sahnalashtirilgan; asar Prosper Merimening novellasi asosida yozilgan.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Carmen",
+    "status": "verified"
+  },
+  {
+    "id": "art-051",
+    "question": "Torli kvartet nechta ijrochidan iborat?",
+    "options": [
+      "4",
+      "8",
+      "5",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "Klassik torli kvartet ikki skripka, alt va violonchel ijrochilaridan tashkil topadi.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/String_quartet",
+    "status": "verified"
+  },
+  {
+    "id": "art-052",
+    "question": "Musiqada “allegro” sur’at belgisi nimani bildiradi?",
+    "options": [
+      "Tez, quvnoq sur’atni",
+      "O‘rtacha, odim tezligidagi sur’atni",
+      "Asta-sekin sekinlashishni",
+      "Juda sekin sur’atni"
+    ],
+    "answer": 0,
+    "explanation": "Italyancha “allegro” so‘zi “quvnoq” ma’nosini beradi; musiqada u tez sur’atni ko‘rsatadi.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Tempo",
+    "status": "verified"
+  },
+  {
+    "id": "art-053",
+    "question": "“Oy sonatasi” nomi bilan mashhur 14-fortepiano sonatasining muallifi kim?",
+    "options": [
+      "Volfgang Amadey Motsart",
+      "Frederik Shopen",
+      "Lyudvig van Betxoven",
+      "Yozef Gaydn"
+    ],
+    "answer": 2,
+    "explanation": "Sonata 1801-yilda yozilgan; “Oy” nomini unga keyinroq tanqidchi Lyudvig Relshtab bergan.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Piano_Sonata_No._14_(Beethoven)",
+    "status": "verified"
+  },
+  {
+    "id": "art-054",
+    "question": "G‘ijjak qanday chalinadigan cholg‘u?",
+    "options": [
+      "Mizrob bilan chertib",
+      "Kamon bilan",
+      "Tayoqchalar bilan urib",
+      "Puflab"
+    ],
+    "answer": 1,
+    "explanation": "G‘ijjak — Markaziy Osiyoda keng tarqalgan, kamon bilan chalinadigan torli cholg‘u.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Ghijak",
+    "status": "verified"
+  },
+  {
+    "id": "art-055",
+    "question": "Quyidagi o‘zbek xalq cholg‘ularidan qaysi biri puflama cholg‘u?",
+    "options": [
+      "Rubob",
+      "Chang",
+      "Qo‘shnay",
+      "G‘ijjak"
+    ],
+    "answer": 2,
+    "explanation": "Qo‘shnay — bir-biriga biriktirilgan ikki naydan iborat puflama tilchali cholg‘u.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://uz.wikipedia.org/wiki/Qo%CA%BBshnay",
+    "status": "verified"
+  },
+  {
+    "id": "art-057",
+    "question": "“Cho‘qintirgan ota” (“The Godfather”, 1972) filmining rejissyori kim?",
+    "options": [
+      "Brayan De Palma",
+      "Stenli Kubrik",
+      "Martin Skorseze",
+      "Frensis Ford Koppola"
+    ],
+    "answer": 3,
+    "explanation": "Mario Pyuzo romani asosidagi film 1973-yilgi marosimda “Eng yaxshi film” uchun “Oskar”ni olgan.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/The_Godfather",
+    "status": "verified"
+  },
+  {
+    "id": "art-058",
+    "question": "“Psixo” (“Psycho”, 1960) trillerining rejissyori kim?",
+    "options": [
+      "Billi Uaylder",
+      "Stenli Kubrik",
+      "Orson Uells",
+      "Alfred Xichkok"
+    ],
+    "answer": 3,
+    "explanation": "“Triller ustasi” deb atalgan Xichkok bu filmni Robert Blokning romani asosida suratga olgan.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Psycho_(1960_film)",
+    "status": "verified"
+  },
+  {
+    "id": "art-059",
+    "question": "Kann kinofestivalining bosh mukofoti qanday ataladi?",
+    "options": [
+      "Oltin ayiq",
+      "Oltin globus",
+      "Oltin sher",
+      "Oltin palma shoxi"
+    ],
+    "answer": 3,
+    "explanation": "“Palme d’Or” (Oltin palma shoxi) 1955-yildan beri Kann festivalining eng yuqori mukofoti sifatida topshiriladi.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Palme_d%27Or",
+    "status": "verified"
+  },
+  {
+    "id": "art-060",
+    "question": "Londondagi “Globus” teatri qaysi dramaturg nomi bilan chambarchas bog‘liq?",
+    "options": [
+      "Ben Jonson",
+      "Uilyam Shekspir",
+      "Kristofer Marlo",
+      "Jon Milton"
+    ],
+    "answer": 1,
+    "explanation": "1599-yilda qurilgan “Globus” Shekspir truppasining teatri edi; uning ko‘plab pyesalari shu yerda sahnalashtirilgan.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Globe_Theatre",
+    "status": "verified"
+  },
+  {
+    "id": "art-061",
+    "question": "Mashhur “La Skala” opera teatri qaysi shaharda joylashgan?",
+    "options": [
+      "Milan",
+      "Rim",
+      "Venetsiya",
+      "Neapol"
+    ],
+    "answer": 0,
+    "explanation": "Teatro alla Scala 1778-yilda ochilgan va dunyodagi eng nufuzli opera sahnalaridan biri hisoblanadi.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/La_Scala",
+    "status": "verified"
+  },
+  {
+    "id": "art-062",
+    "question": "Flamenko raqsi va musiqasi qaysi mamlakatning milliy san’ati hisoblanadi?",
+    "options": [
+      "Portugaliya",
+      "Argentina",
+      "Meksika",
+      "Ispaniya"
+    ],
+    "answer": 3,
+    "explanation": "Flamenko Ispaniya janubidagi Andalusiyada shakllangan; 2010-yilda UNESCO nomoddiy merosi ro‘yxatiga kiritilgan.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://ich.unesco.org/en/RL/flamenco-00363",
+    "status": "verified"
+  },
+  {
+    "id": "art-063",
+    "question": "Vatikan saroyidagi “Afina maktabi” freskasining muallifi kim?",
+    "options": [
+      "Rafael Santi",
+      "Leonardo da Vinchi",
+      "Titsian",
+      "Mikelanjelo"
+    ],
+    "answer": 0,
+    "explanation": "Rafael bu freskani 1509–1511-yillarda ishlagan; uning markazida Platon va Aristotel tasvirlangan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/The_School_of_Athens",
+    "status": "verified"
+  },
+  {
+    "id": "art-064",
+    "question": "Keskin yorug‘lik-soya ziddiyati (tenebrizm) bilan mashhur, “Avliyo Mattoning da’vat etilishi” asari muallifi kim?",
+    "options": [
+      "Titsian",
+      "Rafael Santi",
+      "El Greko",
+      "Karavadjo"
+    ],
+    "answer": 3,
+    "explanation": "Italyan rassomi Karavadjo (1571–1610) barokko rangtasviri rivojiga kuchli ta’sir ko‘rsatgan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Caravaggio",
+    "status": "verified"
+  },
+  {
+    "id": "art-065",
+    "question": "“Las Meninas” (“Freylinalar”) kartinasining muallifi kim?",
+    "options": [
+      "Fransisko Goya",
+      "El Greko",
+      "Diego Velaskes",
+      "Bartolome Murilo"
+    ],
+    "answer": 2,
+    "explanation": "Ispaniya saroy rassomi Velaskes asarni 1656-yilda chizgan; u Madriddagi Prado muzeyida saqlanadi.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Las_Meninas",
+    "status": "verified"
+  },
+  {
+    "id": "art-066",
+    "question": "“1808-yil 3-may” (“El tres de mayo de 1808”) kartinasining muallifi kim?",
+    "options": [
+      "Ejen Delakrua",
+      "Diego Velaskes",
+      "Teodor Jeriko",
+      "Fransisko Goya"
+    ],
+    "answer": 3,
+    "explanation": "Goya 1814-yilda chizgan bu asar Madrid qo‘zg‘olonchilarining fransuz askarlari tomonidan otib tashlanishini aks ettiradi.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/The_Third_of_May_1808",
+    "status": "verified"
+  },
+  {
+    "id": "art-067",
+    "question": "Antverpendagi yirik ustaxonasi bilan mashhur, flamand barokko rangtasvirining yetakchi vakili kim?",
+    "options": [
+      "Piter Paul Rubens",
+      "Yan Vermeer",
+      "Rembrandt",
+      "Yan van Eyk"
+    ],
+    "answer": 0,
+    "explanation": "Rubens (1577–1640) diniy va mifologik asarlari hamda portretlari bilan butun Yevropada shuhrat qozongan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens",
+    "status": "verified"
+  },
+  {
+    "id": "art-068",
+    "question": "“Mulen de la Galettdagi bal” (“Bal du moulin de la Galette”, 1876) asarining muallifi kim?",
+    "options": [
+      "Ogyust Renuar",
+      "Edgar Dega",
+      "Eduard Mane",
+      "Alfred Sisley"
+    ],
+    "answer": 0,
+    "explanation": "Renuarning Monmartrdagi yakshanba kungi raqs bazmini tasvirlagan bu asari Parijdagi Orse muzeyida saqlanadi.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Bal_du_moulin_de_la_Galette",
+    "status": "verified"
+  },
+  {
+    "id": "art-069",
+    "question": "Sent-Viktuar tog‘ini o‘nlab marta tasvirlagan, kubizmga katta ta’sir ko‘rsatgan postimpressionist kim?",
+    "options": [
+      "Pol Gogen",
+      "Vinsent van Gog",
+      "Pol Sezann",
+      "Anri de Tuluz-Lotrek"
+    ],
+    "answer": 2,
+    "explanation": "Sezann tug‘ilgan shahri Eks-an-Provans yaqinidagi bu tog‘ni umrining oxirigacha qayta-qayta chizgan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Mont_Sainte-Victoire_(C%C3%A9zanne)",
+    "status": "verified"
+  },
+  {
+    "id": "art-070",
+    "question": "Yorqin, tabiatdagidan farqli ranglardan foydalangan fovizm oqimining yetakchisi kim?",
+    "options": [
+      "Anri Matiss",
+      "Klod Mone",
+      "Pablo Pikasso",
+      "Jorj Brak"
+    ],
+    "answer": 0,
+    "explanation": "Fovizm (fransuzcha “les fauves” — “yirtqichlar”) 1905-yilgi Parij ko‘rgazmasidan so‘ng shuhrat qozongan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Fauvism",
+    "status": "verified"
+  },
+  {
+    "id": "art-071",
+    "question": "Pablo Pikasso bilan birga kubizm oqimiga asos solgan fransuz rassomi kim?",
+    "options": [
+      "Mark Shagal",
+      "Anri Matiss",
+      "Fernan Leje",
+      "Jorj Brak"
+    ],
+    "answer": 3,
+    "explanation": "Kubizm 1907–1914-yillarda Parijda Pikasso va Brak tomonidan rivojlantirilgan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Cubism",
+    "status": "verified"
+  },
+  {
+    "id": "art-072",
+    "question": "“Volgadagi burlaklar” kartinasining muallifi kim?",
+    "options": [
+      "Vasiliy Perov",
+      "Ilya Repin",
+      "Vasiliy Surikov",
+      "Ivan Kramskoy"
+    ],
+    "answer": 1,
+    "explanation": "Repin bu asarni 1870–1873-yillarda chizgan; u Sankt-Peterburgdagi Rus muzeyida saqlanadi.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Barge_Haulers_on_the_Volga",
+    "status": "verified"
+  },
+  {
+    "id": "art-073",
+    "question": "“Arnolfinilar portreti” (1434) asarining muallifi kim?",
+    "options": [
+      "Piter Bruegel",
+      "Iyeronim Bosx",
+      "Yan van Eyk",
+      "Albrext Dyurer"
+    ],
+    "answer": 2,
+    "explanation": "Niderlandiyalik rassom van Eyk moyli bo‘yoq texnikasining yirik ustasi edi; asar Londondagi Milliy galereyada saqlanadi.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait",
+    "status": "verified"
+  },
+  {
+    "id": "art-074",
+    "question": "Sidney opera teatri binosining me’mori kim?",
+    "options": [
+      "Norman Foster",
+      "Yorn Utson",
+      "Oskar Nimeyer",
+      "Renzo Piano"
+    ],
+    "answer": 1,
+    "explanation": "Daniyalik me’mor Utson loyihasi asosidagi bino 1973-yilda ochilgan va 2007-yilda UNESCO Jahon merosi ro‘yxatiga kiritilgan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://whc.unesco.org/en/list/166",
+    "status": "verified"
+  },
+  {
+    "id": "art-076",
+    "question": "Bilbaodagi titan bilan qoplangan Guggenxaym muzeyi binosining me’mori kim?",
+    "options": [
+      "Zaha Hadid",
+      "Renzo Piano",
+      "Frenk Geri",
+      "Santyago Kalatrava"
+    ],
+    "answer": 2,
+    "explanation": "Kanadada tug‘ilgan amerikalik me’mor Geri loyihalagan muzey 1997-yilda ochilgan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Guggenheim_Museum_Bilbao",
+    "status": "verified"
+  },
+  {
+    "id": "art-077",
+    "question": "Mashhur “Halleluya” xori yangraydigan “Messiya” oratoriyasining muallifi kim?",
+    "options": [
+      "Georg Fridrix Gendel",
+      "Yozef Gaydn",
+      "Iogann Sebastyan Bax",
+      "Genri Pyorsell"
+    ],
+    "answer": 0,
+    "explanation": "Gendel oratoriyani 1741-yilda yozgan; asar ilk bor 1742-yilda Dublinda ijro etilgan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Messiah_(Handel)",
+    "status": "verified"
+  },
+  {
+    "id": "art-078",
+    "question": "Yuzdan ortiq simfoniya yozgani uchun ko‘pincha “simfoniya otasi” deb ataladigan avstriyalik bastakor kim?",
+    "options": [
+      "Anton Brukner",
+      "Frans Shubert",
+      "Yozef Gaydn",
+      "Volfgang Amadey Motsart"
+    ],
+    "answer": 2,
+    "explanation": "Gaydn 104 ta raqamlangan simfoniya yozgan va klassik simfoniya shaklini mustahkamlagan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Joseph_Haydn",
+    "status": "verified"
+  },
+  {
+    "id": "art-079",
+    "question": "“Aida” operasining muallifi kim?",
+    "options": [
+      "Joakkino Rossini",
+      "Juzeppe Verdi",
+      "Gaetano Donitsetti",
+      "Jakomo Puchchini"
+    ],
+    "answer": 1,
+    "explanation": "Verdi operasi 1871-yilda Qohiradagi Xidiv opera teatrida ilk bor sahnalashtirilgan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Aida",
+    "status": "verified"
+  },
+  {
+    "id": "art-080",
+    "question": "To‘rt operadan iborat “Nibelung uzugi” turkumining muallifi kim?",
+    "options": [
+      "Rixard Shtraus",
+      "Karl Mariya fon Veber",
+      "Gustav Maler",
+      "Richard Vagner"
+    ],
+    "answer": 3,
+    "explanation": "Vagner turkumni to‘liq holda ilk bor 1876-yilda Bayroytdagi o‘zi qurdirgan festival teatrida sahnalashtirgan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Der_Ring_des_Nibelungen",
+    "status": "verified"
+  },
+  {
+    "id": "art-081",
+    "question": "“Ruslan va Lyudmila” operasining muallifi, ko‘pincha “rus klassik musiqasining otasi” deb ataladigan bastakor kim?",
+    "options": [
+      "Pyotr Chaykovskiy",
+      "Modest Musorgskiy",
+      "Mixail Glinka",
+      "Aleksandr Borodin"
+    ],
+    "answer": 2,
+    "explanation": "Glinka operasi Pushkin dostoni asosida yozilgan va 1842-yilda Sankt-Peterburgda sahnalashtirilgan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Mikhail_Glinka",
+    "status": "verified"
+  },
+  {
+    "id": "art-082",
+    "question": "Opera yoki operettaning so‘zlari (matni) qanday ataladi?",
+    "options": [
+      "Ariya",
+      "Uvertyura",
+      "Libretto",
+      "Partitura"
+    ],
+    "answer": 2,
+    "explanation": "Italyancha “libretto” — “kitobcha” degani; opera matnini yozuvchi librettist deb ataladi.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Libretto",
+    "status": "verified"
+  },
+  {
+    "id": "art-083",
+    "question": "Ikki ingichka tayoqcha bilan torlariga urib chalinadigan o‘zbek xalq cholg‘usi qaysi?",
+    "options": [
+      "G‘ijjak",
+      "Dutor",
+      "Chang",
+      "Tanbur"
+    ],
+    "answer": 2,
+    "explanation": "O‘zbekistonda ishlatiladigan zamonaviy chang trapetsiya shaklidagi ko‘p torli cholg‘u bo‘lib, tayoqchalar bilan chalinadi.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://uz.wikipedia.org/wiki/Chang_(cholg%CA%BBu_asbobi)",
+    "status": "verified"
+  },
+  {
+    "id": "art-084",
+    "question": "“Dilorom” (1958) operasining muallifi kim?",
+    "options": [
+      "Muxtor Ashrafiy",
+      "Yunus Rajabiy",
+      "Mutal Burhonov",
+      "Tolibjon Sodiqov"
+    ],
+    "answer": 0,
+    "explanation": "Muxtor Ashrafiy (1912–1975) — o‘zbek opera va simfonik musiqasining asoschilaridan biri.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Mukhtar_Ashrafi",
+    "status": "verified"
+  },
+  {
+    "id": "art-085",
+    "question": "“Mahallada duv-duv gap” (1960) komediyasining rejissyori kim?",
+    "options": [
+      "Ali Hamroyev",
+      "Shuhrat Abbosov",
+      "Yo‘ldosh A’zamov",
+      "Elyor Eshmuhamedov"
+    ],
+    "answer": 1,
+    "explanation": "Avlodlar o‘rtasidagi kelishmovchilik haqidagi bu komediya o‘zbek kinosining eng sevimli filmlaridan biri hisoblanadi.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Shukhrat_Abbasov",
+    "status": "verified"
+  },
+  {
+    "id": "art-086",
+    "question": "1957-yilda “Bahor” raqs ansambliga asos solgan o‘zbek raqqosasi va xoreografi kim?",
+    "options": [
+      "Qunduz Mirkarimova",
+      "Mukarrama Turg‘unboyeva",
+      "Galiya Izmaylova",
+      "Tamara Xonim"
+    ],
+    "answer": 1,
+    "explanation": "Turg‘unboyeva (1913–1978) o‘zbek xalq raqsini mumtoz xoreografiya bilan uyg‘unlashtirgan; 1959-yilda SSSR xalq artisti bo‘lgan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Mukarram_Turgunbaeva",
+    "status": "verified"
+  },
+  {
+    "id": "art-087",
+    "question": "500 dan ortiq qo‘shiqni 80 dan ortiq tilda ijro etgan, qo‘shiq-raqs miniatyurasi janrini yaratgan o‘zbek san’atkori kim?",
+    "options": [
+      "Tamara Xonim",
+      "Halima Nosirova",
+      "Roziya Karimova",
+      "Mukarrama Turg‘unboyeva"
+    ],
+    "answer": 0,
+    "explanation": "Tamara Xonim (1906–1991) 1956-yilda SSSR xalq artisti unvoniga sazovor bo‘lgan; Toshkentda uning uy-muzeyi bor.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Tamara_Khanum",
+    "status": "verified"
+  },
+  {
+    "id": "art-088",
+    "question": "Nukusdagi Savitskiy nomidagi san’at muzeyi qaysi kolleksiyasi bilan dunyoga mashhur?",
+    "options": [
+      "Gollandiya “oltin asri” rangtasviri",
+      "Rus avangardi asarlari",
+      "Antik yunon haykallari",
+      "Temuriylar davri miniaturalari"
+    ],
+    "answer": 1,
+    "explanation": "Muzeyda rus avangardining dunyodagi ikkinchi yirik kolleksiyasi saqlanadi; kattarog‘i faqat Sankt-Peterburgdagi Rus muzeyida.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Savitsky_Museum",
+    "status": "verified"
+  },
+  {
+    "id": "art-089",
+    "question": "“Oskar”ning “Eng yaxshi film” nominatsiyasida g‘olib bo‘lgan ingliz tilidan boshqa tildagi ilk film qaysi?",
+    "options": [
+      "“Yetti samuray” (Yaponiya, 1954)",
+      "“Parazit” (Janubiy Koreya, 2019)",
+      "“Roma” (Meksika, 2018)",
+      "“Hayot go‘zal” (Italiya, 1997)"
+    ],
+    "answer": 1,
+    "explanation": "Bong Jun Xo filmi 2020-yilgi 92-marosimda to‘rtta “Oskar”, jumladan “Eng yaxshi film” mukofotini olgan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://www.oscars.org/oscars/ceremonies/2020",
+    "status": "verified"
+  },
+  {
+    "id": "art-090",
+    "question": "Aktyorlik san’atining mashhur “tizimi” muallifi, Moskva badiiy teatri asoschilaridan biri kim?",
+    "options": [
+      "Vsevolod Meyerxold",
+      "Mixail Chexov",
+      "Konstantin Stanislavskiy",
+      "Bertolt Brext"
+    ],
+    "answer": 2,
+    "explanation": "Stanislavskiy 1898-yilda Vladimir Nemirovich-Danchenko bilan birga Moskva badiiy teatriga asos solgan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Konstantin_Stanislavski",
+    "status": "verified"
+  },
+  {
+    "id": "art-091",
+    "question": "O‘zbek manzara rangtasvirini yangilagan, SSSR xalq rassomi O‘rol Tansiqboyev (1904–1974) asosan qaysi janrda ijod qilgan?",
+    "options": [
+      "Peyzaj (manzara)",
+      "Karikatura",
+      "Haykaltaroshlik",
+      "Natyurmort"
+    ],
+    "answer": 0,
+    "explanation": "Tansiqboyev O‘zbekiston tabiatini yorqin ranglarda tasvirlagan manzaralari bilan mashhur.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Ural_Tansykbayev",
+    "status": "verified"
+  },
+  {
+    "id": "art-092",
+    "question": "Ivan Shishkinning “Qarag‘ayzorda tong” kartinasidagi ayiqlarni qaysi rassom chizgan?",
+    "options": [
+      "Ivan Kramskoy",
+      "Viktor Vasnetsov",
+      "Isaak Levitan",
+      "Konstantin Savitskiy"
+    ],
+    "answer": 3,
+    "explanation": "Ayiqlarni Savitskiy chizgan, biroq Pavel Tretyakov uning imzosini o‘chirtirib, asarni faqat Shishkinga nisbat bergan.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Morning_in_a_Pine_Forest",
+    "status": "verified"
+  },
+  {
+    "id": "art-093",
+    "question": "1911-yilda Myunxenda Frans Mark bilan birga “Moviy chavandoz” (“Der Blaue Reiter”) guruhiga asos solgan rassom kim?",
+    "options": [
+      "Kazimir Malevich",
+      "Vasiliy Kandinskiy",
+      "Paul Kle",
+      "Mark Shagal"
+    ],
+    "answer": 1,
+    "explanation": "Kandinskiy abstrakt rangtasvirning ilk ijodkorlaridan biri hisoblanadi.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Der_Blaue_Reiter",
+    "status": "verified"
+  },
+  {
+    "id": "art-094",
+    "question": "1924-yilda “Syurrealizm manifesti”ni e’lon qilgan fransuz yozuvchisi kim?",
+    "options": [
+      "Salvador Dali",
+      "Andre Breton",
+      "Gijom Apolliner",
+      "Tristan Tsara"
+    ],
+    "answer": 1,
+    "explanation": "Breton syurrealizmni ong nazoratidan xoli fikr va tush olamini erkin ifodalashga asoslangan harakat sifatida ta’riflagan.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Surrealism",
+    "status": "verified"
+  },
+  {
+    "id": "art-095",
+    "question": "Eski harbiy kemaning so‘nggi safari tasvirlangan “The Fighting Temeraire” (1839) kartinasining muallifi kim?",
+    "options": [
+      "Tomas Geynsboro",
+      "Uilyam Terner",
+      "Jozef Rayt",
+      "Jon Konstebl"
+    ],
+    "answer": 1,
+    "explanation": "Ingliz rassomi Ternerning bu asari Londondagi Milliy galereyada saqlanadi.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-fighting-temeraire",
+    "status": "verified"
+  },
+  {
+    "id": "art-096",
+    "question": "Rimdagi Kolizey (Flaviylar amfiteatri) qurilishini qaysi imperator boshlagan?",
+    "options": [
+      "Avgust",
+      "Trayan",
+      "Vespasian",
+      "Neron"
+    ],
+    "answer": 2,
+    "explanation": "Qurilish taxminan milodiy 70–72-yillarda Vespasian davrida boshlangan va 80-yilda uning o‘g‘li Tit davrida ochilgan.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Colosseum",
+    "status": "verified"
+  },
+  {
+    "id": "art-097",
+    "question": "Fortepiano va orkestr uchun “Paganini mavzusiga rapsodiya” (1934) asarining muallifi kim?",
+    "options": [
+      "Aleksandr Skryabin",
+      "Sergey Prokofyev",
+      "Sergey Raxmaninov",
+      "Igor Stravinskiy"
+    ],
+    "answer": 2,
+    "explanation": "Raxmaninov bu asarni 1934-yilda Shveytsariyada yozgan; uning 18-variatsiyasi ayniqsa mashhur.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Rhapsody_on_a_Theme_of_Paganini",
+    "status": "verified"
+  },
+  {
+    "id": "art-098",
+    "question": "Reyngold Glier bilan hamkorlikda “Layli va Majnun” operasini (1940) yaratgan o‘zbek bastakori kim?",
+    "options": [
+      "Yunus Rajabiy",
+      "Muxtor Ashrafiy",
+      "Manas Leviyev",
+      "Tolibjon Sodiqov"
+    ],
+    "answer": 3,
+    "explanation": "Opera Alisher Navoiy dostoni asosida Xurshid librettosi bilan yozilgan va 1940-yilda Toshkentda sahnalashtirilgan.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Tolib_Sodiqov",
+    "status": "verified"
+  },
+  {
+    "id": "art-099",
+    "question": "1966–1975-yillarda nashr etilgan olti jildli “Shashmaqom” nota yozuvi qaysi musiqashunos rahbarligida tayyorlangan?",
+    "options": [
+      "Viktor Uspenskiy",
+      "Yunus Rajabiy",
+      "Abdurauf Fitrat",
+      "Muxtor Ashrafiy"
+    ],
+    "answer": 1,
+    "explanation": "Akademik Yunus Rajabiy (1897–1976) maqomlarni nota yozuviga tushirib, kelajak avlodlarga yetkazishga katta hissa qo‘shgan.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Yunus_Rajabiy",
+    "status": "verified"
+  },
+  {
+    "id": "art-100",
+    "question": "Shuhrat Abbosovning “Toshkent — non shahri” filmi qaysi yozuvchining asari asosida suratga olingan?",
+    "options": [
+      "Mixail Sholoxov",
+      "Aleksandr Neverov",
+      "Chingiz Aytmatov",
+      "Maksim Gorkiy"
+    ],
+    "answer": 1,
+    "explanation": "Film 1921-yilgi ocharchilikdan qochib, non izlab Toshkentga kelgan rus bolasi haqida hikoya qiladi.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Shukhrat_Abbasov",
+    "status": "verified"
+  },
+  {
+    "id": "art-101",
+    "question": "Tarixda eng ko‘p “Oskar” mukofotini olgan shaxs kim?",
+    "options": [
+      "Uolt Disney",
+      "Stiven Spilberg",
+      "Jon Uilyams",
+      "Ketrin Xepbern"
+    ],
+    "answer": 0,
+    "explanation": "Uolt Disney 22 ta raqobatli “Oskar” va 4 ta faxriy mukofotga sazovor bo‘lgan.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/List_of_Academy_Award_records",
+    "status": "verified"
+  },
+  {
+    "id": "art-102",
+    "question": "1976-yilda Toshkentda “Ilhom” teatriga asos solgan rejissyor kim?",
+    "options": [
+      "Bahodir Yo‘ldoshev",
+      "Ovlyakuli Xo‘jaquli",
+      "Shuhrat Abbosov",
+      "Mark Veyl"
+    ],
+    "answer": 3,
+    "explanation": "“Ilhom” Sovet Ittifoqidagi ilk mustaqil, davlat tasarrufida bo‘lmagan teatr sifatida tanilgan.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Ilkhom_Theatre",
+    "status": "verified"
+  },
+  {
+    "id": "art-103",
+    "question": "Toshkentdagi Alisher Navoiy nomidagi teatr foyesini Navoiy dostonlari asosidagi devoriy suratlar bilan bezagan rassom kim?",
+    "options": [
+      "Pavel Benkov",
+      "Aleksandr Volkov",
+      "O‘rol Tansiqboyev",
+      "Chingiz Axmarov"
+    ],
+    "answer": 3,
+    "explanation": "Axmarov bu suratlarni 1944–1947-yillarda ishlagan va 1948-yilda ular uchun Stalin mukofotiga sazovor bo‘lgan.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Chingiz_Akhmarov",
+    "status": "verified"
+  },
+  {
+    "id": "art-104",
+    "question": "Toshkentdagi Alisher Navoiy nomidagi Katta akademik opera va balet teatri binosining me’mori kim?",
+    "options": [
+      "Boris Iofan",
+      "Ivan Fomin",
+      "Konstantin Melnikov",
+      "Aleksey Shchusev"
+    ],
+    "answer": 3,
+    "explanation": "Bino 1942–1947-yillarda qurilgan va 1947-yil noyabrida ochilgan; Moskvadagi Lenin maqbarasi ham Shchusev loyihasi.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://uz.wikipedia.org/wiki/Navoiy_teatri",
+    "status": "verified"
+  },
+  {
+    "id": "art-105",
+    "question": "1925-yilda tashkil etilgan “O‘zbekfilm” kinostudiyasi dastlab qanday nomlangan?",
+    "options": [
+      "“Turon”",
+      "“Yangi Turkiston”",
+      "“Sharq yulduzi”",
+      "“Samarqandfilm”"
+    ],
+    "answer": 2,
+    "explanation": "Studiya 1925-yilda “Sharq yulduzi” nomi bilan ochilgan va 1936-yilda “O‘zbekfilm” deb qayta nomlangan.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Uzbekfilm",
+    "status": "verified"
   }
 ]

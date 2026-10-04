@@ -526,5 +526,1141 @@
     "difficulty": "hard",
     "source": "https://www.britannica.com/event/Battle-of-Marathon",
     "status": "verified"
+  },
+  {
+    "id": "his-034",
+    "question": "Mil. av. 27-yilda «Avgust» unvonini olgan Rim imperiyasining birinchi imperatori kim?",
+    "options": [
+      "Oktavian Avgust",
+      "Yuliy Sezar",
+      "Neron",
+      "Trayan"
+    ],
+    "answer": 0,
+    "explanation": "Oktavian Yuliy Sezarning asrandi o‘g‘li bo‘lgan; uning hukmronligi Rimda respublika davriga yakun yasagan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Augustus-Roman-emperor",
+    "status": "verified"
+  },
+  {
+    "id": "his-035",
+    "question": "Mil. av. 221-yilda Xitoyni yagona davlatga birlashtirib, o‘zini «birinchi imperator» deb atagan hukmdor kim?",
+    "options": [
+      "Xan Gaozu (Lyu Ban)",
+      "Sin Shi Xuandi (Qin Shi Huang)",
+      "Kubilayxon",
+      "Yunlo (Chju Di)"
+    ],
+    "answer": 1,
+    "explanation": "Sin Shi Xuandi Sin (Qin) sulolasiga asos solgan; uning maqbarasi yonidan mashhur «Terrakota qo‘shini» topilgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Qin-Shihuangdi",
+    "status": "verified"
+  },
+  {
+    "id": "his-036",
+    "question": "Germaniya imperiyasi 1871-yil 18-yanvarda qayerda e’lon qilingan?",
+    "options": [
+      "Berlindagi Reyxstag binosida",
+      "Potsdamdagi Sanssusi saroyida",
+      "Versal saroyining Ko‘zgular zalida",
+      "Frankfurtdagi Avliyo Pavel cherkovida"
+    ],
+    "answer": 2,
+    "explanation": "Fransiya-Prussiya urushida g‘alaba qozonilgach, Prussiya qiroli Vilgelm I Versalda Germaniya imperatori deb e’lon qilingan.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/place/German-Empire",
+    "status": "verified"
+  },
+  {
+    "id": "his-037",
+    "question": "Qadimgi Olimpiya o‘yinlari Yunonistonning qaysi joyida o‘tkazilgan?",
+    "options": [
+      "Afina",
+      "Sparta",
+      "Delfi",
+      "Olimpiya"
+    ],
+    "answer": 3,
+    "explanation": "O‘yinlar Peloponnesdagi Zevs ibodatxonasi joylashgan Olimpiyada har to‘rt yilda bir marta o‘tkazilgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/sports/Olympic-Games",
+    "status": "verified"
+  },
+  {
+    "id": "his-038",
+    "question": "Rim imperiyasi poytaxtini Vizantiy shahriga ko‘chirib, uni 330-yilda Konstantinopol nomi bilan ochgan imperator kim?",
+    "options": [
+      "Konstantin I",
+      "Yustinian I",
+      "Feodosiy I",
+      "Diokletian"
+    ],
+    "answer": 0,
+    "explanation": "Konstantin I shuningdek 313-yilgi Milan farmoni bilan imperiyada xristianlarga diniy erkinlik bergan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+    "status": "verified"
+  },
+  {
+    "id": "his-039",
+    "question": "Amerika mustaqillik urushini rasman yakunlagan va Britaniya AQSh mustaqilligini tan olgan Parij shartnomasi qaysi yili imzolangan?",
+    "options": [
+      "1776-yil",
+      "1783-yil",
+      "1781-yil",
+      "1789-yil"
+    ],
+    "answer": 1,
+    "explanation": "1783-yil 3-sentabrda imzolangan Parij shartnomasi bilan Britaniya AQShni mustaqil davlat sifatida tan olgan.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/event/Peace-of-Paris-1783",
+    "status": "verified"
+  },
+  {
+    "id": "his-040",
+    "question": "Birinchi jahon urushi qaysi yillarda bo‘lib o‘tgan?",
+    "options": [
+      "1905–1909-yillar",
+      "1912–1916-yillar",
+      "1914–1918-yillar",
+      "1918–1922-yillar"
+    ],
+    "answer": 2,
+    "explanation": "Urush 1918-yil 11-noyabrda Kompyen sulhi bilan to‘xtagan va to‘rtta imperiyaning qulashiga olib kelgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/event/World-War-I",
+    "status": "verified"
+  },
+  {
+    "id": "his-041",
+    "question": "Islomdagi hijriy taqvim qaysi yildagi voqea — Muhammad payg‘ambarning Makkadan Madinaga hijrati bilan boshlanadi?",
+    "options": [
+      "570-yil",
+      "610-yil",
+      "632-yil",
+      "622-yil"
+    ],
+    "answer": 3,
+    "explanation": "Hijriy taqvimni xalifa Umar ibn Xattob joriy etgan; uning boshlanishi sifatida 622-yildagi hijrat qabul qilingan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/topic/Hijrah-Islam",
+    "status": "verified"
+  },
+  {
+    "id": "his-042",
+    "question": "Ikkinchi jahon urushi qaysi yili tugagan?",
+    "options": [
+      "1945-yil",
+      "1943-yil",
+      "1944-yil",
+      "1946-yil"
+    ],
+    "answer": 0,
+    "explanation": "Germaniya 1945-yil may oyida, Yaponiya esa 1945-yil 2-sentabrda taslim bo‘lish aktini imzolagan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/event/World-War-II",
+    "status": "verified"
+  },
+  {
+    "id": "his-043",
+    "question": "Fir’avn Tutanxamonning deyarli talanmagan maqbarasini 1922-yilda Shohlar vodiysida kim topgan?",
+    "options": [
+      "Flinders Petri",
+      "Govard Karter",
+      "Ogyust Mariet",
+      "Jan-Fransua Shampolon"
+    ],
+    "answer": 1,
+    "explanation": "Qazishmalarni lord Karnarvon moliyalashtirgan; Tutanxamonning mashhur oltin niqobi ham shu maqbaradan topilgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Howard-Carter",
+    "status": "verified"
+  },
+  {
+    "id": "his-044",
+    "question": "1688-yilgi «Shonli inqilob» natijasida Angliya taxtini tark etishga majbur bo‘lgan qirol kim?",
+    "options": [
+      "Karl I",
+      "Karl II",
+      "Yakov II",
+      "Vilgelm III"
+    ],
+    "answer": 2,
+    "explanation": "Taxtga Yakov IIning qizi Mariya II va uning eri Vilgelm III Oranskiy o‘tirgan; 1689-yilda «Huquqlar billi» qabul qilingan.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/event/Glorious-Revolution",
+    "status": "verified"
+  },
+  {
+    "id": "his-045",
+    "question": "Sovet Ittifoqi (SSSR) qaysi yili tarqab ketgan?",
+    "options": [
+      "1985-yil",
+      "1989-yil",
+      "1993-yil",
+      "1991-yil"
+    ],
+    "answer": 3,
+    "explanation": "1991-yil 25-dekabrda Mixail Gorbachyov SSSR prezidentligidan iste’foga chiqqan, ertasi kuni ittifoq rasman tugatilgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/event/collapse-of-the-Soviet-Union",
+    "status": "verified"
+  },
+  {
+    "id": "his-046",
+    "question": "AQShning birinchi prezidenti kim bo‘lgan?",
+    "options": [
+      "Jorj Vashington",
+      "Tomas Jefferson",
+      "Jon Adams",
+      "Benjamin Franklin"
+    ],
+    "answer": 0,
+    "explanation": "Jorj Vashington 1789–1797-yillarda ikki muddat prezident bo‘lgan; mamlakat poytaxti uning nomi bilan atalgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/George-Washington",
+    "status": "verified"
+  },
+  {
+    "id": "his-047",
+    "question": "Napoleon Bonapart o‘zini fransuzlar imperatori deb e’lon qilib, toj kiygan yil qaysi?",
+    "options": [
+      "1799-yil",
+      "1804-yil",
+      "1807-yil",
+      "1812-yil"
+    ],
+    "answer": 1,
+    "explanation": "Toj kiyish marosimi 1804-yil 2-dekabrda Parijdagi Notr-Dam soborida bo‘lib o‘tgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Napoleon-I",
+    "status": "verified"
+  },
+  {
+    "id": "his-048",
+    "question": "Mil. av. VI asr oxirida Ahamoniylarning tantanali poytaxti Persepol qurilishini qaysi podsho boshlagan?",
+    "options": [
+      "Kir II",
+      "Kambiz II",
+      "Doro I",
+      "Doro III"
+    ],
+    "answer": 2,
+    "explanation": "Persepol qurilishi mil. av. taxminan 518-yilda boshlangan; shahar mil. av. 330-yilda Iskandar qo‘shinlari tomonidan yondirilgan.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/place/Persepolis",
+    "status": "verified"
+  },
+  {
+    "id": "his-049",
+    "question": "Uyg‘onish davri (Renessans) qaysi mamlakatda boshlangan?",
+    "options": [
+      "Fransiya",
+      "Angliya",
+      "Ispaniya",
+      "Italiya"
+    ],
+    "answer": 3,
+    "explanation": "Renessans XIV asrda Italiyada, ayniqsa Florensiyada boshlanib, keyinchalik butun Yevropaga tarqalgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/event/Renaissance",
+    "status": "verified"
+  },
+  {
+    "id": "his-050",
+    "question": "Xitoyda Xalq Respublikasi tashkil topganini Mao Szedun qaysi yili e’lon qilgan?",
+    "options": [
+      "1949-yil",
+      "1937-yil",
+      "1945-yil",
+      "1956-yil"
+    ],
+    "answer": 0,
+    "explanation": "Xitoy Xalq Respublikasi 1949-yil 1-oktabrda Pekindagi Tyananmen maydonida e’lon qilingan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/China/The-Peoples-Republic-of-China",
+    "status": "verified"
+  },
+  {
+    "id": "his-051",
+    "question": "Ptolemeylar sulolasidan bo‘lgan mashhur malika Kleopatra VII qaysi davlatni boshqargan?",
+    "options": [
+      "Qadimgi Yunoniston",
+      "Qadimgi Misr",
+      "Fors davlati",
+      "Karfagen"
+    ],
+    "answer": 1,
+    "explanation": "Kleopatra mil. av. 30-yilda vafot etgach, Misr Rim imperiyasining viloyatiga aylantirilgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt",
+    "status": "verified"
+  },
+  {
+    "id": "his-052",
+    "question": "Iskandar Zulqarnayn mil. av. 331-yilda Gavgamela jangida qaysi fors podshosini yenggan?",
+    "options": [
+      "Doro I",
+      "Kserks I",
+      "Doro III",
+      "Kir II"
+    ],
+    "answer": 2,
+    "explanation": "Gavgamela jangidagi mag‘lubiyat Ahamoniylar davlatining qulashini tezlashtirgan; Doro III mil. av. 330-yilda o‘ldirilgan.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/event/Battle-of-Gaugamela",
+    "status": "verified"
+  },
+  {
+    "id": "his-053",
+    "question": "Adolf Gitler Germaniya reyxskansleri etib qaysi yili tayinlangan?",
+    "options": [
+      "1923-yil",
+      "1929-yil",
+      "1939-yil",
+      "1933-yil"
+    ],
+    "answer": 3,
+    "explanation": "Gitler 1933-yil 30-yanvarda kansler etib tayinlangan va qisqa vaqt ichida yakkahokimlik tuzumini o‘rnatgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Adolf-Hitler",
+    "status": "verified"
+  },
+  {
+    "id": "his-054",
+    "question": "1941-yil 7-dekabrda AQShning Pyorl-Xarbor harbiy-dengiz bazasiga qaysi davlat hujum qilgan?",
+    "options": [
+      "Yaponiya",
+      "Germaniya",
+      "Italiya",
+      "SSSR"
+    ],
+    "answer": 0,
+    "explanation": "Bu hujumdan so‘ng AQSh Ikkinchi jahon urushiga rasman qo‘shilgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/event/Pearl-Harbor-attack",
+    "status": "verified"
+  },
+  {
+    "id": "his-055",
+    "question": "Mixxat (mixsimon) yozuvini Mesopotamiyada qaysi xalq yaratgan?",
+    "options": [
+      "Finikiyaliklar",
+      "Shumerlar",
+      "Misrliklar",
+      "Xettlar"
+    ],
+    "answer": 1,
+    "explanation": "Mixxat yozuvi mil. av. IV ming yillikning oxirida paydo bo‘lgan va loy taxtachalarga qamish qalam bilan bitilgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/topic/cuneiform",
+    "status": "verified"
+  },
+  {
+    "id": "his-056",
+    "question": "Mil. av. IV asr oxirida Hindistonda Mauryalar imperiyasiga asos solgan hukmdor kim?",
+    "options": [
+      "Ashoka",
+      "Bindusara",
+      "Chandragupta Maurya",
+      "Samudragupta"
+    ],
+    "answer": 2,
+    "explanation": "Chandragupta Maurya Nanda sulolasini ag‘darib, Shimoliy Hindistonning katta qismini birlashtirgan; Ashoka uning nabirasi bo‘lgan.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/biography/Chandragupta",
+    "status": "verified"
+  },
+  {
+    "id": "his-057",
+    "question": "Ittifoqchilarning Normandiyaga desant tushirishi (D-Day) qaysi yili bo‘lgan?",
+    "options": [
+      "1942-yil",
+      "1943-yil",
+      "1945-yil",
+      "1944-yil"
+    ],
+    "answer": 3,
+    "explanation": "1944-yil 6-iyunda boshlangan bu operatsiya tarixdagi eng yirik dengiz desanti hisoblanadi va G‘arbiy frontni ochgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/event/Normandy-Invasion",
+    "status": "verified"
+  },
+  {
+    "id": "his-058",
+    "question": "SSSR va AQSh o‘rtasida yadro urushi xavfini keltirib chiqargan Karib (Kuba raketa) inqirozi qaysi yili bo‘lgan?",
+    "options": [
+      "1962-yil",
+      "1956-yil",
+      "1961-yil",
+      "1968-yil"
+    ],
+    "answer": 0,
+    "explanation": "Inqiroz 1962-yil oktabrda SSSR Kubadan raketalarini, AQSh esa keyinroq Turkiyadan raketalarini olib chiqishga kelishishi bilan tugagan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/event/Cuban-missile-crisis",
+    "status": "verified"
+  },
+  {
+    "id": "his-059",
+    "question": "1258-yilda Bag‘dodni egallab, Abbosiylar xalifaligiga barham bergan mo‘g‘ul hukmdori kim?",
+    "options": [
+      "Botuxon",
+      "Xulaguxon",
+      "Kubilayxon",
+      "O‘gedeyxon"
+    ],
+    "answer": 1,
+    "explanation": "Chingizxonning nabirasi Xulagu Bag‘dod qulagach, Eronda Elxoniylar davlatiga asos solgan.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/biography/Hulegu",
+    "status": "verified"
+  },
+  {
+    "id": "his-060",
+    "question": "Ikkinchi jahon urushidan keyin boshlangan «Sovuq urush» asosan qaysi ikki davlat o‘rtasidagi qarama-qarshilik edi?",
+    "options": [
+      "Britaniya va Germaniya",
+      "Xitoy va Yaponiya",
+      "AQSh va SSSR",
+      "Fransiya va Italiya"
+    ],
+    "answer": 2,
+    "explanation": "Sovuq urush to‘g‘ridan to‘g‘ri harbiy to‘qnashuvsiz qurollanish poygasi va mafkuraviy kurash shaklida 1991-yilgacha davom etgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/event/Cold-War",
+    "status": "verified"
+  },
+  {
+    "id": "his-061",
+    "question": "Fransuz inqilobi davrida 1793-yilda gilyotinada qatl etilgan Fransiya qiroli kim?",
+    "options": [
+      "Lyudovik XIV",
+      "Lyudovik XV",
+      "Lyudovik XVIII",
+      "Lyudovik XVI"
+    ],
+    "answer": 3,
+    "explanation": "Lyudovik XVI 1793-yil 21-yanvarda qatl etilgan; uning rafiqasi Mariya-Antuanetta ham o‘sha yili gilyotinada o‘ldirilgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Louis-XVI",
+    "status": "verified"
+  },
+  {
+    "id": "his-062",
+    "question": "1260-yilda Falastindagi Ayn Jolut jangida mo‘g‘ullar qo‘shinini yenggan davlat qaysi?",
+    "options": [
+      "Misr mamluklari sultonligi",
+      "Saljuqiylar davlati",
+      "Ayyubiylar davlati",
+      "Usmonlilar davlati"
+    ],
+    "answer": 0,
+    "explanation": "Sulton Qutuz va sarkarda Baybars boshchiligidagi bu g‘alaba mo‘g‘ullarning Misr tomon yurishini to‘xtatgan.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/event/Battle-of-Ayn-Jalut",
+    "status": "verified"
+  },
+  {
+    "id": "his-063",
+    "question": "O‘rta asrlardagi salib yurishlarining asosiy maqsadi qaysi shaharni egallash bo‘lgan?",
+    "options": [
+      "Konstantinopol",
+      "Quddus",
+      "Iskandariya",
+      "Damashq"
+    ],
+    "answer": 1,
+    "explanation": "Birinchi salib yurishi qatnashchilari 1099-yilda Quddusni egallab, Quddus qirolligini tuzgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/event/Crusades",
+    "status": "verified"
+  },
+  {
+    "id": "his-064",
+    "question": "Shimoliy Atlantika shartnomasi tashkiloti (NATO) qaysi yili tuzilgan?",
+    "options": [
+      "1945-yil",
+      "1955-yil",
+      "1949-yil",
+      "1961-yil"
+    ],
+    "answer": 2,
+    "explanation": "NATO 1949-yil 4-aprelda Vashingtonda 12 davlat imzolagan shartnoma asosida tashkil topgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/topic/North-Atlantic-Treaty-Organization",
+    "status": "verified"
+  },
+  {
+    "id": "his-065",
+    "question": "1095-yilda Klermon cherkov kengashida Birinchi salib yurishiga da’vat qilgan Rim papasi kim?",
+    "options": [
+      "Grigoriy VII",
+      "Innokentiy III",
+      "Leo IX",
+      "Urban II"
+    ],
+    "answer": 3,
+    "explanation": "Urban IIning chaqirig‘idan so‘ng 1096-yilda Birinchi salib yurishi boshlangan.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/biography/Urban-II",
+    "status": "verified"
+  },
+  {
+    "id": "his-066",
+    "question": "Mil. av. 73–71-yillarda Rimga qarshi yirik qullar qo‘zg‘oloniga boshchilik qilgan gladiator kim?",
+    "options": [
+      "Spartak",
+      "Gannibal",
+      "Vertsingetoriks",
+      "Brut"
+    ],
+    "answer": 0,
+    "explanation": "Qo‘zg‘olon mil. av. 71-yilda Mark Krass qo‘shinlari tomonidan bostirilgan, Spartak jangda halok bo‘lgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Spartacus-Roman-gladiator",
+    "status": "verified"
+  },
+  {
+    "id": "his-067",
+    "question": "1943-yil fevralda nemis 6-armiyasining taslim bo‘lishi bilan yakunlangan, Ikkinchi jahon urushida burilish yasagan jang qaysi?",
+    "options": [
+      "Kursk jangi",
+      "Stalingrad jangi",
+      "Moskva jangi",
+      "El-Alamayn jangi"
+    ],
+    "answer": 1,
+    "explanation": "Fridrix Paulus qo‘mondonligidagi 6-armiya 1943-yil 2-fevralda butunlay taslim bo‘lgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/event/Battle-of-Stalingrad",
+    "status": "verified"
+  },
+  {
+    "id": "his-068",
+    "question": "1204-yilda Konstantinopolni egallab, talon-taroj qilgan salib yurishi qaysi?",
+    "options": [
+      "Birinchi salib yurishi",
+      "Uchinchi salib yurishi",
+      "To‘rtinchi salib yurishi",
+      "Beshinchi salib yurishi"
+    ],
+    "answer": 2,
+    "explanation": "Salibchilar shaharda Lotin imperiyasini tuzgan; Vizantiya poytaxtni faqat 1261-yilda qaytarib olgan.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/event/Fourth-Crusade",
+    "status": "verified"
+  },
+  {
+    "id": "his-069",
+    "question": "Hindiston Britaniya hukmronligidan qaysi yili mustaqillikka erishgan?",
+    "options": [
+      "1919-yil",
+      "1945-yil",
+      "1950-yil",
+      "1947-yil"
+    ],
+    "answer": 3,
+    "explanation": "Hindiston 1947-yil 15-avgustda mustaqil bo‘lgan; bir vaqtda Pokiston ham alohida davlat sifatida tuzilgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/India/The-transfer-of-power-and-the-birth-of-two-countries",
+    "status": "verified"
+  },
+  {
+    "id": "his-070",
+    "question": "1860-yilda «Mingtalik» (qizil ko‘ylaklilar) yurishi bilan Sitsiliyani egallab, Italiya birlashuviga katta hissa qo‘shgan sarkarda kim?",
+    "options": [
+      "Juzeppe Garibaldi",
+      "Kamillo Kavur",
+      "Juzeppe Matsini",
+      "Viktor Emmanuil II"
+    ],
+    "answer": 0,
+    "explanation": "Garibaldi egallagan hududlarni Sardiniya qiroliga topshirgan; 1861-yilda Italiya qirolligi e’lon qilingan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Giuseppe-Garibaldi",
+    "status": "verified"
+  },
+  {
+    "id": "his-071",
+    "question": "1884–1885-yillarda Yevropa davlatlari Afrikani bo‘lib olish qoidalarini kelishib olgan xalqaro konferensiya qaysi shaharda o‘tgan?",
+    "options": [
+      "Parij",
+      "Berlin",
+      "London",
+      "Vena"
+    ],
+    "answer": 1,
+    "explanation": "Konferensiyani Germaniya kansleri Otto fon Bismark chaqirgan; u «Afrika uchun kurash»ni jadallashtirgan.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/event/Berlin-West-Africa-Conference",
+    "status": "verified"
+  },
+  {
+    "id": "his-072",
+    "question": "Aparteidga qarshi kurash yetakchisi bo‘lgan va 1994-yilda Janubiy Afrika Respublikasi prezidenti etib saylangan siyosatchi kim?",
+    "options": [
+      "Desmond Tutu",
+      "Kofi Annan",
+      "Nelson Mandela",
+      "Robert Mugabe"
+    ],
+    "answer": 2,
+    "explanation": "Mandela 27 yil qamoqda o‘tirgan; 1993-yilda Frederik de Klerk bilan birga Nobel tinchlik mukofotini olgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Nelson-Mandela",
+    "status": "verified"
+  },
+  {
+    "id": "his-073",
+    "question": "Angliya inqilobi davrida 1649-yilda qatl etilgan qirol kim?",
+    "options": [
+      "Yakov I",
+      "Karl II",
+      "Genrix VIII",
+      "Karl I"
+    ],
+    "answer": 3,
+    "explanation": "Karl I qatl etilgach, Angliyada respublika e’lon qilingan; keyinroq hokimiyat Oliver Kromvel qo‘liga o‘tgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland",
+    "status": "verified"
+  },
+  {
+    "id": "his-074",
+    "question": "Kubilayxon saroyida uzoq yillar xizmat qilgan va Sharq bo‘ylab sayohatlari haqidagi kitobi bilan mashhur bo‘lgan venetsiyalik savdogar kim?",
+    "options": [
+      "Marko Polo",
+      "Vasko da Gama",
+      "Ibn Battuta",
+      "Amerigo Vespuchchi"
+    ],
+    "answer": 0,
+    "explanation": "Marko Polo 1271-yilda yo‘lga chiqib, 1295-yilda Venetsiyaga qaytgan; uning xotiralarini Rustikello yozib olgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Marco-Polo",
+    "status": "verified"
+  },
+  {
+    "id": "his-075",
+    "question": "Mil. av. VI asr o‘rtalarida Midiyani bo‘ysundirib, Ahamoniylar imperiyasiga asos solgan podsho kim?",
+    "options": [
+      "Doro I",
+      "Kir II (Buyuk Kir)",
+      "Kserks I",
+      "Kambiz II"
+    ],
+    "answer": 1,
+    "explanation": "Kir II mil. av. 539-yilda Bobilni ham egallagan va Fors davlatini o‘sha davrdagi eng yirik imperiyaga aylantirgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Cyrus-II",
+    "status": "verified"
+  },
+  {
+    "id": "his-076",
+    "question": "Afrikaning 17 ta mamlakati mustaqillikka erishgani sababli qaysi yil «Afrika yili» deb ataladi?",
+    "options": [
+      "1945-yil",
+      "1957-yil",
+      "1960-yil",
+      "1975-yil"
+    ],
+    "answer": 2,
+    "explanation": "1960-yilda mustaqil bo‘lganlar orasida Nigeriya, Kongo, Senegal va Madagaskar bor edi.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Year_of_Africa",
+    "status": "verified"
+  },
+  {
+    "id": "his-077",
+    "question": "Misr iyerogliflarini o‘qishga kalit bo‘lgan, bir xil matn uch xil yozuvda bitilgan qadimiy tosh qanday nomlanadi?",
+    "options": [
+      "Xammurapi ustuni",
+      "Behistun yozuvi",
+      "Palermo toshi",
+      "Rozetta toshi"
+    ],
+    "answer": 3,
+    "explanation": "Tosh 1799-yilda topilgan; Jan-Fransua Shampolon 1822-yilda u asosida iyerogliflarni o‘qishga muvaffaq bo‘lgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/topic/Rosetta-Stone",
+    "status": "verified"
+  },
+  {
+    "id": "his-078",
+    "question": "Mil. av. III asrda Kalinga urushidagi qonli janglardan so‘ng buddizmni qabul qilgan Mauryalar imperatori kim?",
+    "options": [
+      "Ashoka",
+      "Chandragupta Maurya",
+      "Kanishka",
+      "Harsha"
+    ],
+    "answer": 0,
+    "explanation": "Ashoka o‘z farmonlarini qoyalar va ustunlarga o‘ydirgan; ular Hindistonning qadimiy yozma yodgorliklaridan hisoblanadi.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Ashoka",
+    "status": "verified"
+  },
+  {
+    "id": "his-079",
+    "question": "Moskva davlatida 1613-yilda qaysi sulola hukmronligi boshlangan?",
+    "options": [
+      "Ryurikoviclar",
+      "Romanovlar",
+      "Godunovlar",
+      "Shuyskiylar"
+    ],
+    "answer": 1,
+    "explanation": "1613-yilgi Zemskiy sobor Mixail Romanovni podsho etib saylagan; sulola 1917-yilgacha hukmronlik qilgan.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/topic/Romanov-dynasty",
+    "status": "verified"
+  },
+  {
+    "id": "his-080",
+    "question": "Kristofor Kolumbning 1492-yilgi ekspeditsiyasini qaysi davlat qiroli va qirolichasi moliyalashtirgan?",
+    "options": [
+      "Portugaliya",
+      "Angliya",
+      "Ispaniya",
+      "Fransiya"
+    ],
+    "answer": 2,
+    "explanation": "Ekspeditsiyani Kastiliya qirolichasi Izabella I va Aragon qiroli Ferdinand II qo‘llab-quvvatlagan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Christopher-Columbus",
+    "status": "verified"
+  },
+  {
+    "id": "his-081",
+    "question": "Konstantinopoldagi Ayasofya ibodatxonasini 532–537-yillarda qurdirgan Vizantiya imperatori kim?",
+    "options": [
+      "Konstantin I",
+      "Vasiliy II",
+      "Iraklios",
+      "Yustinian I"
+    ],
+    "answer": 3,
+    "explanation": "Yustinian I davrida Rim huquqi «Yustinian kodeksi» sifatida tartibga solingan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/topic/Hagia-Sophia",
+    "status": "verified"
+  },
+  {
+    "id": "his-082",
+    "question": "Birinchi afyun urushini yakunlagan 1842-yilgi Nankin shartnomasiga ko‘ra Xitoy Britaniyaga qaysi hududni bergan?",
+    "options": [
+      "Gonkong oroli",
+      "Makao",
+      "Tayvan",
+      "Shanxay"
+    ],
+    "answer": 0,
+    "explanation": "Gonkong 1997-yil 1-iyulda Xitoy suverenitetiga qaytarilgan.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/event/Treaty-of-Nanjing",
+    "status": "verified"
+  },
+  {
+    "id": "his-083",
+    "question": "1985-yilda hokimiyatga kelib, «qayta qurish» (perestroyka) va «oshkoralik» (glasnost) siyosatini boshlagan SSSR rahbari kim?",
+    "options": [
+      "Leonid Brejnev",
+      "Mixail Gorbachyov",
+      "Boris Yelsin",
+      "Yuriy Andropov"
+    ],
+    "answer": 1,
+    "explanation": "Gorbachyov 1990-yilda Nobel tinchlik mukofotiga sazovor bo‘lgan; u SSSRning yagona prezidenti edi.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Mikhail-Gorbachev",
+    "status": "verified"
+  },
+  {
+    "id": "his-084",
+    "question": "Abbosiylar xalifaligining poytaxti sifatida 762-yilda xalifa al-Mansur asos solgan shahar qaysi?",
+    "options": [
+      "Damashq",
+      "Qohira",
+      "Bag‘dod",
+      "Basra"
+    ],
+    "answer": 2,
+    "explanation": "Bag‘dod dastlab «Madinat as-Salom» (Tinchlik shahri) deb atalgan va doira shaklida rejalashtirilgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Baghdad",
+    "status": "verified"
+  },
+  {
+    "id": "his-085",
+    "question": "1871-yilda Germaniyaning birlashuviga rahbarlik qilgan «temir kansler» kim?",
+    "options": [
+      "Vilgelm II",
+      "Klemens fon Metternix",
+      "Fridrix II",
+      "Otto fon Bismark"
+    ],
+    "answer": 3,
+    "explanation": "Bismark 1871–1890-yillarda Germaniya imperiyasining birinchi kansleri bo‘lgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Otto-von-Bismarck",
+    "status": "verified"
+  },
+  {
+    "id": "his-086",
+    "question": "1187-yilda salibchilardan Quddusni qaytarib olgan musulmon hukmdori kim?",
+    "options": [
+      "Salohiddin Ayyubiy",
+      "Nuriddin Zangiy",
+      "Baybars",
+      "Alp Arslon"
+    ],
+    "answer": 0,
+    "explanation": "Salohiddin Hittin jangida salibchilarni yenggach, Quddusni egallagan; bu Uchinchi salib yurishiga sabab bo‘lgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Saladin",
+    "status": "verified"
+  },
+  {
+    "id": "his-087",
+    "question": "Usmonli davlatiga asos solgan va sulolaga o‘z nomini bergan hukmdor kim?",
+    "options": [
+      "O‘rxon",
+      "Usmon I",
+      "Mehmed I",
+      "Murod I"
+    ],
+    "answer": 1,
+    "explanation": "Usmon I XIII asr oxiri — XIV asr boshlarida Anadoluning shimoli-g‘arbida beylikka asos solgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Osman-I",
+    "status": "verified"
+  },
+  {
+    "id": "his-088",
+    "question": "Xitoyda mo‘g‘ullar hukmronligi davridagi Yuan sulolasiga kim asos solgan?",
+    "options": [
+      "Chingizxon",
+      "O‘gedeyxon",
+      "Kubilayxon",
+      "Munkexon"
+    ],
+    "answer": 2,
+    "explanation": "Kubilay 1271-yilda Yuan sulolasini e’lon qilgan va poytaxtni hozirgi Pekin o‘rnidagi Xonbaliqqa ko‘chirgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Kublai-Khan",
+    "status": "verified"
+  },
+  {
+    "id": "his-089",
+    "question": "1923-yilda Turkiya Respublikasini e’lon qilib, uning birinchi prezidenti bo‘lgan davlat arbobi kim?",
+    "options": [
+      "Ismet Inonu",
+      "Anvar posho",
+      "Abdulhamid II",
+      "Mustafo Kamol Otaturk"
+    ],
+    "answer": 3,
+    "explanation": "Turkiya Respublikasi 1923-yil 29-oktabrda e’lon qilingan, poytaxt esa Anqara bo‘lgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Kemal-Ataturk",
+    "status": "verified"
+  },
+  {
+    "id": "his-090",
+    "question": "Pekindagi Taqiqlangan shahar (imperator saroyi majmuasi) qaysi sulola davrida qurilgan?",
+    "options": [
+      "Min sulolasi",
+      "Tan sulolasi",
+      "Song sulolasi",
+      "Xan sulolasi"
+    ],
+    "answer": 0,
+    "explanation": "Majmua 1406–1420-yillarda imperator Yunlo davrida qurilgan va 1987-yilda UNESCO ro‘yxatiga kiritilgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/topic/Forbidden-City",
+    "status": "verified"
+  },
+  {
+    "id": "his-091",
+    "question": "Mil. av. 480-yilda Fermopil jangida 300 nafar spartalik jangchiga boshchilik qilgan podsho kim?",
+    "options": [
+      "Perikl",
+      "Leonid I",
+      "Femistokl",
+      "Likurg"
+    ],
+    "answer": 1,
+    "explanation": "Leonid Kserks I boshchiligidagi fors qo‘shiniga qarshi jangda halok bo‘lgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Leonidas-king-of-Sparta",
+    "status": "verified"
+  },
+  {
+    "id": "his-092",
+    "question": "Papa bilan kelishmovchilik sababli Angliya cherkovini Rim katolik cherkovidan ajratgan qirol kim?",
+    "options": [
+      "Eduard VI",
+      "Yakov I",
+      "Genrix VIII",
+      "Richard III"
+    ],
+    "answer": 2,
+    "explanation": "1534-yilgi «Oliylik akti» bilan Genrix VIII Angliya cherkovining oliy boshlig‘i deb e’lon qilingan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Henry-VIII-king-of-England",
+    "status": "verified"
+  },
+  {
+    "id": "his-094",
+    "question": "Ispaniyaning «Yengilmas armada» floti 1588-yilda qaysi davlatga qarshi yurishda mag‘lubiyatga uchragan?",
+    "options": [
+      "Angliya",
+      "Fransiya",
+      "Niderlandiya",
+      "Usmonli imperiyasi"
+    ],
+    "answer": 0,
+    "explanation": "Armada qirolicha Yelizaveta I davrida ingliz floti va bo‘ronlar tufayli katta yo‘qotishga uchragan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/topic/Spanish-Armada",
+    "status": "verified"
+  },
+  {
+    "id": "his-095",
+    "question": "XIV asr o‘rtalarida Yevropa aholisining katta qismini qirib yuborgan vabo pandemiyasi qanday nom bilan mashhur?",
+    "options": [
+      "«Ispan grippi»",
+      "«Qora o‘lim»",
+      "«Qizil o‘lat»",
+      "«Oq vabo»"
+    ],
+    "answer": 1,
+    "explanation": "«Qora o‘lim» 1347–1351-yillarda Yevropa aholisining taxminan uchdan bir qismini nobud qilgan deb hisoblanadi.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/event/Black-Death",
+    "status": "verified"
+  },
+  {
+    "id": "his-096",
+    "question": "1519–1521-yillarda Atsteklar imperiyasini zabt etgan ispan konkistadori kim?",
+    "options": [
+      "Fransisko Pisarro",
+      "Vasko Nunyes de Balboa",
+      "Ernan Kortes",
+      "Ferdinand Magellan"
+    ],
+    "answer": 2,
+    "explanation": "Kortes Atsteklar poytaxti Tenochtitlanni egallagan; uning o‘rnida hozirgi Mexiko shahri barpo etilgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Hernan-Cortes",
+    "status": "verified"
+  },
+  {
+    "id": "his-097",
+    "question": "1703-yilda Neva daryosi bo‘yida Sankt-Peterburg shahriga asos solgan rus podshosi kim?",
+    "options": [
+      "Ivan IV",
+      "Yekaterina II",
+      "Aleksandr I",
+      "Pyotr I"
+    ],
+    "answer": 3,
+    "explanation": "Pyotr I 1712-yilda poytaxtni Moskvadan Sankt-Peterburgga ko‘chirgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Peter-I-tsar-of-Russia",
+    "status": "verified"
+  },
+  {
+    "id": "his-098",
+    "question": "1529-yilda Venani qamal qilgan Usmonli sultoni kim?",
+    "options": [
+      "Sulaymon I (Qonuniy)",
+      "Mehmed II (Fotih)",
+      "Salim I",
+      "Murod IV"
+    ],
+    "answer": 0,
+    "explanation": "Qamal muvaffaqiyatsiz tugagan; Usmonlilar Venani ikkinchi marta 1683-yilda qamal qilgan va yana mag‘lubiyatga uchragan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Suleyman-the-Magnificent",
+    "status": "verified"
+  },
+  {
+    "id": "his-099",
+    "question": "Sanoat inqilobi XVIII asr o‘rtalarida qaysi mamlakatda boshlangan?",
+    "options": [
+      "Fransiya",
+      "Buyuk Britaniya",
+      "Germaniya",
+      "AQSh"
+    ],
+    "answer": 1,
+    "explanation": "Jeyms Uatt takomillashtirgan bug‘ mashinasi sanoat inqilobining asosiy texnologiyalaridan biri bo‘lgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/event/Industrial-Revolution",
+    "status": "verified"
+  },
+  {
+    "id": "his-100",
+    "question": "Napoleonning 1812-yilgi Rossiyaga yurishi davridagi eng yirik jang qaysi?",
+    "options": [
+      "Austerlits jangi",
+      "Leypsig jangi",
+      "Borodino jangi",
+      "Iyena jangi"
+    ],
+    "answer": 2,
+    "explanation": "Borodino jangidan so‘ng Kutuzov Moskvani tashlab chiqqan; Napoleon shaharga kirgan, ammo tez orada chekinishga majbur bo‘lgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/event/Battle-of-Borodino",
+    "status": "verified"
+  },
+  {
+    "id": "his-101",
+    "question": "1940-yildan Ikkinchi jahon urushi davomida Buyuk Britaniya bosh vaziri bo‘lgan davlat arbobi kim?",
+    "options": [
+      "Nevill Chemberlen",
+      "Klement Ettli",
+      "Devid Lloyd Jorj",
+      "Uinston Cherchill"
+    ],
+    "answer": 3,
+    "explanation": "Cherchill 1953-yilda adabiyot bo‘yicha Nobel mukofotini olgan; u 1951–1955-yillarda yana bosh vazir bo‘lgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Winston-Churchill",
+    "status": "verified"
+  },
+  {
+    "id": "his-102",
+    "question": "1805-yilgi Trafalgar dengiz jangida Britaniya flotiga qo‘mondonlik qilgan va shu jangda halok bo‘lgan admiral kim?",
+    "options": [
+      "Horatsio Nelson",
+      "Frensis Dreyk",
+      "Jon Jervis",
+      "Jeyms Kuk"
+    ],
+    "answer": 0,
+    "explanation": "Trafalgardagi g‘alaba Napoleonning Britaniyaga bostirib kirish rejalariga barham bergan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/event/Battle-of-Trafalgar",
+    "status": "verified"
+  },
+  {
+    "id": "his-103",
+    "question": "1917-yil Oktabr inqilobiga rahbarlik qilgan bolsheviklar partiyasi yetakchisi kim?",
+    "options": [
+      "Iosif Stalin",
+      "Vladimir Lenin",
+      "Nikolay II",
+      "Aleksandr Kerenskiy"
+    ],
+    "answer": 1,
+    "explanation": "Lenin inqilobdan so‘ng Xalq komissarlari sovetining raisi bo‘lgan va 1924-yilda vafot etgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Vladimir-Lenin",
+    "status": "verified"
+  },
+  {
+    "id": "his-104",
+    "question": "1945-yil fevralda Ruzvelt, Cherchill va Stalin urushdan keyingi dunyo tartibini muhokama qilgan konferensiya qayerda bo‘lib o‘tgan?",
+    "options": [
+      "Tehron",
+      "Potsdam",
+      "Yalta",
+      "Myunxen"
+    ],
+    "answer": 2,
+    "explanation": "Yalta konferensiyasida Germaniyani ishg‘ol zonalariga bo‘lish va BMTni tuzish masalalari kelishilgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/event/Yalta-Conference",
+    "status": "verified"
+  },
+  {
+    "id": "his-105",
+    "question": "Berlin devori qaysi yili qurilgan?",
+    "options": [
+      "1949-yil",
+      "1953-yil",
+      "1968-yil",
+      "1961-yil"
+    ],
+    "answer": 3,
+    "explanation": "Devor 1961-yil 13-avgustda qurila boshlangan va 28 yil davomida Sharqiy va G‘arbiy Berlinni ajratib turgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/topic/Berlin-Wall",
+    "status": "verified"
   }
 ]

@@ -1,0 +1,36 @@
+[Unit]
+Description=Zakovat mashg'ulot (web + Telegram bot)
+After=network-online.target redis-server.service
+Wants=network-online.target
+Requires=redis-server.service
+
+[Service]
+Type=simple
+User=zakovat
+Group=zakovat
+WorkingDirectory=/opt/zakovat/current
+EnvironmentFile=/etc/zakovat/zakovat.env
+Environment=NODE_ENV=production HOSTNAME=127.0.0.1 PORT=3100 NODE_OPTIONS=--max-old-space-size=384
+ExecStart=/opt/node/bin/node server.js
+Restart=always
+RestartSec=3
+
+# Shu serverda fibotai LLM ishlaydi — xotira va CPU qat'iy cheklangan.
+MemoryHigh=448M
+MemoryMax=512M
+CPUQuota=150%
+
+NoNewPrivileges=yes
+ProtectSystem=strict
+ProtectHome=yes
+PrivateTmp=yes
+PrivateDevices=yes
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+ProtectControlGroups=yes
+RestrictSUIDSGID=yes
+LockPersonality=yes
+ReadWritePaths=/opt/zakovat/releases
+
+[Install]
+WantedBy=multi-user.target

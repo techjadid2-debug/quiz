@@ -526,5 +526,1157 @@
     "difficulty": "hard",
     "source": "https://en.wikipedia.org/wiki/Tungsten",
     "status": "verified"
+  },
+  {
+    "id": "sci-035",
+    "question": "Suvning kimyoviy formulasi qanday?",
+    "options": [
+      "H₂O₂",
+      "CO₂",
+      "H₂O",
+      "HO₂"
+    ],
+    "answer": 2,
+    "explanation": "Suv molekulasi ikkita vodorod va bitta kislorod atomidan tashkil topgan.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Properties_of_water",
+    "status": "verified"
+  },
+  {
+    "id": "sci-036",
+    "question": "Kimyoviy belgisi Fe bo‘lgan element qaysi?",
+    "options": [
+      "Temir",
+      "Ftor",
+      "Fosfor",
+      "Fransiy"
+    ],
+    "answer": 0,
+    "explanation": "Fe belgisi lotincha «ferrum» so‘zidan olingan; temirning atom raqami 26.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Iron",
+    "status": "verified"
+  },
+  {
+    "id": "sci-037",
+    "question": "Kimyoviy belgisi Na bo‘lgan element qaysi?",
+    "options": [
+      "Azot",
+      "Neon",
+      "Nikel",
+      "Natriy"
+    ],
+    "answer": 3,
+    "explanation": "Na belgisi lotincha «natrium» so‘zidan olingan; natriyning atom raqami 11.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Sodium",
+    "status": "verified"
+  },
+  {
+    "id": "sci-038",
+    "question": "Kimyoviy belgisi Ag bo‘lgan element qaysi?",
+    "options": [
+      "Simob",
+      "Kumush",
+      "Argon",
+      "Mishyak"
+    ],
+    "answer": 1,
+    "explanation": "Ag belgisi lotincha «argentum» so‘zidan olingan; kumushning atom raqami 47.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Silver",
+    "status": "verified"
+  },
+  {
+    "id": "sci-039",
+    "question": "Normal atmosfera bosimida toza suv necha gradus Selsiyda qaynaydi?",
+    "options": [
+      "90 °C",
+      "100 °C",
+      "80 °C",
+      "120 °C"
+    ],
+    "answer": 1,
+    "explanation": "Dengiz sathidagi normal bosimda (1 atm) toza suv taxminan 100 °C da qaynaydi.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Boiling_point",
+    "status": "verified"
+  },
+  {
+    "id": "sci-040",
+    "question": "Elektr toki kuchining SI birligi qaysi?",
+    "options": [
+      "Volt",
+      "Vatt",
+      "Kulon",
+      "Amper"
+    ],
+    "answer": 3,
+    "explanation": "Amper SI tizimining yetti asosiy birligidan biri; u fransuz fizigi Andre-Mari Amper sharafiga nomlangan.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Ampere",
+    "status": "verified"
+  },
+  {
+    "id": "sci-041",
+    "question": "Energiya va ishning SI birligi qaysi?",
+    "options": [
+      "Joul",
+      "Nyuton",
+      "Paskal",
+      "Gers"
+    ],
+    "answer": 0,
+    "explanation": "1 joul — 1 nyuton kuch jismni kuch yo‘nalishida 1 metrga siljitganda bajarilgan ish.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Joule",
+    "status": "verified"
+  },
+  {
+    "id": "sci-042",
+    "question": "Quvvatning SI birligi qaysi?",
+    "options": [
+      "Joul",
+      "Amper",
+      "Vatt",
+      "Om"
+    ],
+    "answer": 2,
+    "explanation": "1 vatt sekundiga 1 joul energiyaga teng; birlik Jeyms Uatt sharafiga nomlangan.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Watt",
+    "status": "verified"
+  },
+  {
+    "id": "sci-043",
+    "question": "Elektr kuchlanishining SI birligi qaysi?",
+    "options": [
+      "Amper",
+      "Tesla",
+      "Volt",
+      "Farad"
+    ],
+    "answer": 2,
+    "explanation": "Volt italyan fizigi Alessandro Volta sharafiga nomlangan.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Volt",
+    "status": "verified"
+  },
+  {
+    "id": "sci-044",
+    "question": "Odam yuragi nechta kameradan iborat?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "Odam yuragi ikki bo‘lmacha va ikki qorinchadan, jami to‘rt kameradan iborat.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Heart",
+    "status": "verified"
+  },
+  {
+    "id": "sci-045",
+    "question": "Inson tanasidagi eng uzun suyak qaysi?",
+    "options": [
+      "Yelka suyagi",
+      "Katta boldir suyagi",
+      "Umurtqa pog‘onasi",
+      "Son suyagi"
+    ],
+    "answer": 3,
+    "explanation": "Son suyagi (femur) inson skeletidagi eng uzun va eng mustahkam suyak hisoblanadi.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Femur",
+    "status": "verified"
+  },
+  {
+    "id": "sci-046",
+    "question": "Qonda kislorodni o‘pkadan to‘qimalarga tashiydigan hujayralar qaysi?",
+    "options": [
+      "Leykotsitlar",
+      "Eritrotsitlar",
+      "Trombotsitlar",
+      "Limfotsitlar"
+    ],
+    "answer": 1,
+    "explanation": "Eritrotsitlar (qizil qon tanachalari) tarkibidagi gemoglobin kislorodni biriktirib tashiydi.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Red_blood_cell",
+    "status": "verified"
+  },
+  {
+    "id": "sci-047",
+    "question": "Quyosh nuri (ultrabinafsha nurlar) ta’sirida terida hosil bo‘ladigan vitamin qaysi?",
+    "options": [
+      "C vitamini",
+      "D vitamini",
+      "A vitamini",
+      "B₁₂ vitamini"
+    ],
+    "answer": 1,
+    "explanation": "Terida ultrabinafsha B nurlari ta’sirida D vitamini sintezlanadi; u suyaklar uchun muhim.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Vitamin_D",
+    "status": "verified"
+  },
+  {
+    "id": "sci-048",
+    "question": "C vitamini uzoq vaqt yetishmasligi qaysi kasallikka olib keladi?",
+    "options": [
+      "Raxit",
+      "Tovuq ko‘rlik",
+      "Beri-beri",
+      "Singa (skorbut)"
+    ],
+    "answer": 3,
+    "explanation": "Singa (skorbut) C vitamini (askorbin kislota) tanqisligidan kelib chiqadi; milklar qonashi uning belgilaridan.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Scurvy",
+    "status": "verified"
+  },
+  {
+    "id": "sci-049",
+    "question": "π (pi) sonining taxminiy qiymati qancha?",
+    "options": [
+      "3,14",
+      "2,72",
+      "1,62",
+      "3,41"
+    ],
+    "answer": 0,
+    "explanation": "π — aylana uzunligining uning diametriga nisbati; π ≈ 3,14159.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Pi",
+    "status": "verified"
+  },
+  {
+    "id": "sci-050",
+    "question": "Tekislikdagi istalgan uchburchak ichki burchaklarining yig‘indisi necha gradus?",
+    "options": [
+      "90°",
+      "270°",
+      "180°",
+      "360°"
+    ],
+    "answer": 2,
+    "explanation": "Evklid geometriyasida har qanday uchburchakning ichki burchaklari yig‘indisi 180° ga teng.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Sum_of_angles_of_a_triangle",
+    "status": "verified"
+  },
+  {
+    "id": "sci-051",
+    "question": "To‘g‘ri burchakli uchburchakda a² + b² = c² munosabatini ifodalovchi teorema qanday ataladi?",
+    "options": [
+      "Fales teoremasi",
+      "Viyet teoremasi",
+      "Pifagor teoremasi",
+      "Ferma teoremasi"
+    ],
+    "answer": 2,
+    "explanation": "Pifagor teoremasiga ko‘ra gipotenuza kvadrati katetlar kvadratlari yig‘indisiga teng.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Pythagorean_theorem",
+    "status": "verified"
+  },
+  {
+    "id": "sci-052",
+    "question": "Quyidagi sonlardan qaysi biri tub son?",
+    "options": [
+      "17",
+      "21",
+      "27",
+      "15"
+    ],
+    "answer": 0,
+    "explanation": "17 faqat 1 ga va o‘ziga bo‘linadi; 21 = 3·7, 27 = 3·9, 15 = 3·5.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Prime_number",
+    "status": "verified"
+  },
+  {
+    "id": "sci-053",
+    "question": "Kompyuterning markaziy protsessori qanday qisqartma bilan ataladi?",
+    "options": [
+      "RAM",
+      "USB",
+      "SSD",
+      "CPU"
+    ],
+    "answer": 3,
+    "explanation": "CPU — Central Processing Unit (markaziy protsessor) — dastur buyruqlarini bajaradi.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Central_processing_unit",
+    "status": "verified"
+  },
+  {
+    "id": "sci-054",
+    "question": "Ikkilik (binar) sanoq sistemasida qaysi raqamlar ishlatiladi?",
+    "options": [
+      "0 dan 7 gacha",
+      "Faqat 0 va 1",
+      "0 dan 9 gacha",
+      "Faqat 1 va 2"
+    ],
+    "answer": 1,
+    "explanation": "Ikkilik sistema asosi 2 ga teng va unda faqat 0 hamda 1 raqamlari qo‘llaniladi.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Binary_number",
+    "status": "verified"
+  },
+  {
+    "id": "sci-055",
+    "question": "Tovush qaysi muhitda tarqala olmaydi?",
+    "options": [
+      "Suvda",
+      "Vakuumda",
+      "Havoda",
+      "Po‘latda"
+    ],
+    "answer": 1,
+    "explanation": "Tovush — mexanik to‘lqin, uning tarqalishi uchun modda zarralari kerak; vakuumda u tarqalmaydi.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Sound",
+    "status": "verified"
+  },
+  {
+    "id": "sci-056",
+    "question": "Bir xil ishorali elektr zaryadiga ega ikki jism bir-biri bilan qanday ta’sirlashadi?",
+    "options": [
+      "Tortishadi",
+      "Ta’sirlashmaydi",
+      "Zaryadlari yo‘qoladi",
+      "Itarishadi"
+    ],
+    "answer": 3,
+    "explanation": "Bir xil ishorali zaryadlar itarishadi, qarama-qarshi ishorali zaryadlar esa tortishadi.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Electric_charge",
+    "status": "verified"
+  },
+  {
+    "id": "sci-057",
+    "question": "Atom yadrosidagi musbat zaryadli zarra qanday ataladi?",
+    "options": [
+      "Proton",
+      "Elektron",
+      "Neytron",
+      "Foton"
+    ],
+    "answer": 0,
+    "explanation": "Atom yadrosi protonlar va neytronlardan iborat; protonlar musbat, neytronlar zaryadsiz.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Proton",
+    "status": "verified"
+  },
+  {
+    "id": "sci-058",
+    "question": "Olmos va grafit qaysi kimyoviy elementning turli shakllaridir?",
+    "options": [
+      "Kremniy",
+      "Oltingugurt",
+      "Uglerod",
+      "Bor"
+    ],
+    "answer": 2,
+    "explanation": "Olmos va grafit uglerodning allotropik shakllari bo‘lib, atomlarning joylashuvi bilan farqlanadi.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Allotropes_of_carbon",
+    "status": "verified"
+  },
+  {
+    "id": "sci-059",
+    "question": "Insulin gormoni qaysi organda ishlab chiqariladi?",
+    "options": [
+      "Jigarda",
+      "Buyrakda",
+      "Oshqozon osti bezida",
+      "Qalqonsimon bezda"
+    ],
+    "answer": 2,
+    "explanation": "Insulin oshqozon osti bezidagi Langerhans orolchalarining beta-hujayralarida ishlab chiqariladi.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Insulin",
+    "status": "verified"
+  },
+  {
+    "id": "sci-060",
+    "question": "Ko‘k lakmus qog‘ozi kislotali eritmada qanday rangga kiradi?",
+    "options": [
+      "Qizil",
+      "Ko‘k",
+      "Yashil",
+      "Sariq"
+    ],
+    "answer": 0,
+    "explanation": "Lakmus kislotali muhitda qizil, ishqoriy muhitda ko‘k rangga kiradi.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Litmus",
+    "status": "verified"
+  },
+  {
+    "id": "sci-061",
+    "question": "O‘t suyuqligini (safroni) ishlab chiqaradigan organ qaysi?",
+    "options": [
+      "Oshqozon",
+      "Taloq",
+      "Buyrak",
+      "Jigar"
+    ],
+    "answer": 3,
+    "explanation": "O‘t jigarda ishlab chiqariladi va o‘t pufagida to‘planib, yog‘larni hazm qilishga yordam beradi.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Bile",
+    "status": "verified"
+  },
+  {
+    "id": "sci-062",
+    "question": "Radiusi r bo‘lgan doira yuzi qaysi formula bilan hisoblanadi?",
+    "options": [
+      "S = 2πr",
+      "S = πr²",
+      "S = πd",
+      "S = 4πr²"
+    ],
+    "answer": 1,
+    "explanation": "Doira yuzi S = πr²; 2πr esa aylana uzunligi formulasi.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Area_of_a_circle",
+    "status": "verified"
+  },
+  {
+    "id": "sci-063",
+    "question": "Voyaga yetgan odamda to‘liq doimiy tishlar to‘plami nechta tishdan iborat?",
+    "options": [
+      "20",
+      "32",
+      "28",
+      "36"
+    ],
+    "answer": 1,
+    "explanation": "Doimiy tishlar to‘plami 32 ta (aql tishlari bilan birga), sut tishlari esa 20 ta.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Human_tooth",
+    "status": "verified"
+  },
+  {
+    "id": "sci-064",
+    "question": "Kimyoviy belgisi Pb bo‘lgan element qaysi?",
+    "options": [
+      "Platina",
+      "Palladiy",
+      "Fosfor",
+      "Qo‘rg‘oshin"
+    ],
+    "answer": 3,
+    "explanation": "Pb belgisi lotincha «plumbum» so‘zidan olingan; qo‘rg‘oshinning atom raqami 82.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Lead",
+    "status": "verified"
+  },
+  {
+    "id": "sci-065",
+    "question": "Kimyoviy belgisi Cu bo‘lgan element qaysi?",
+    "options": [
+      "Mis",
+      "Kobalt",
+      "Kyuriy",
+      "Xrom"
+    ],
+    "answer": 0,
+    "explanation": "Cu belgisi lotincha «cuprum» so‘zidan olingan; misning atom raqami 29.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Copper",
+    "status": "verified"
+  },
+  {
+    "id": "sci-066",
+    "question": "Geliy, neon, argon kabi asil (inert) gazlar davriy jadvalning qaysi guruhida joylashgan?",
+    "options": [
+      "1-guruh",
+      "2-guruh",
+      "18-guruh",
+      "17-guruh"
+    ],
+    "answer": 2,
+    "explanation": "Asil gazlar 18-guruhni tashkil etadi; tashqi elektron qobig‘i to‘lgani uchun ular kam faol.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Noble_gas",
+    "status": "verified"
+  },
+  {
+    "id": "sci-067",
+    "question": "Bosimning SI birligi qaysi?",
+    "options": [
+      "Nyuton",
+      "Bar",
+      "Paskal",
+      "Joul"
+    ],
+    "answer": 2,
+    "explanation": "1 paskal 1 m² yuzaga tik ta’sir qiluvchi 1 nyuton kuch hosil qiladigan bosimga teng.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Pascal_(unit)",
+    "status": "verified"
+  },
+  {
+    "id": "sci-068",
+    "question": "Elektr zaryadining SI birligi qaysi?",
+    "options": [
+      "Kulon",
+      "Amper",
+      "Farad",
+      "Veber"
+    ],
+    "answer": 0,
+    "explanation": "1 kulon — 1 amper tok 1 sekundda o‘tkazgich kesimidan olib o‘tadigan zaryad miqdori.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Coulomb",
+    "status": "verified"
+  },
+  {
+    "id": "sci-069",
+    "question": "Chastotaning SI birligi qaysi?",
+    "options": [
+      "Bekkerel",
+      "Tesla",
+      "Sekund",
+      "Gers"
+    ],
+    "answer": 3,
+    "explanation": "1 gers sekundiga bir tebranishga teng; birlik Genrix Gers sharafiga nomlangan.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Hertz",
+    "status": "verified"
+  },
+  {
+    "id": "sci-070",
+    "question": "Qarshiligi 10 Om bo‘lgan o‘tkazgichga 20 V kuchlanish berilsa, undan qancha tok o‘tadi?",
+    "options": [
+      "0,5 A",
+      "2 A",
+      "10 A",
+      "200 A"
+    ],
+    "answer": 1,
+    "explanation": "Om qonuniga ko‘ra I = U / R = 20 V / 10 Om = 2 A.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Ohm%27s_law",
+    "status": "verified"
+  },
+  {
+    "id": "sci-071",
+    "question": "Nyutonning ikkinchi qonuni qaysi formula bilan ifodalanadi?",
+    "options": [
+      "E = mc²",
+      "F = ma",
+      "p = mv",
+      "F = kx"
+    ],
+    "answer": 1,
+    "explanation": "Jismga ta’sir etuvchi kuch uning massasi va tezlanishi ko‘paytmasiga teng: F = ma.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion",
+    "status": "verified"
+  },
+  {
+    "id": "sci-072",
+    "question": "Suyuqlik yoki gazga botirilgan jismga siqib chiqarilgan suyuqlik og‘irligiga teng itaruvchi kuch ta’sir qilishi kimning qonuni?",
+    "options": [
+      "Paskal",
+      "Bernulli",
+      "Torrichelli",
+      "Arximed"
+    ],
+    "answer": 3,
+    "explanation": "Arximed qonuniga ko‘ra itaruvchi kuch jism siqib chiqargan suyuqlik (gaz) og‘irligiga teng.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Archimedes%27_principle",
+    "status": "verified"
+  },
+  {
+    "id": "sci-073",
+    "question": "Prizma yordamida oq yorug‘lik turli rangli nurlardan iborat ekanini tajribada ko‘rsatgan olim kim?",
+    "options": [
+      "Isaak Nyuton",
+      "Galileo Galiley",
+      "Kristian Gyuygens",
+      "Maykl Faradey"
+    ],
+    "answer": 0,
+    "explanation": "Nyuton 1660-yillarda prizma tajribalari orqali oq yorug‘lik spektr ranglaridan tashkil topganini isbotlagan.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Opticks",
+    "status": "verified"
+  },
+  {
+    "id": "sci-074",
+    "question": "Qon ivishida asosiy rol o‘ynaydigan qon tanachalari qaysi?",
+    "options": [
+      "Eritrotsitlar",
+      "Leykotsitlar",
+      "Trombotsitlar",
+      "Monotsitlar"
+    ],
+    "answer": 2,
+    "explanation": "Trombotsitlar (qon plastinkalari) qon tomiri shikastlanganda yig‘ilib, qon ivishini boshlab beradi.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Platelet",
+    "status": "verified"
+  },
+  {
+    "id": "sci-075",
+    "question": "Quyidagi azotli asoslardan qaysi biri DNK tarkibida uchramaydi?",
+    "options": [
+      "Adenin",
+      "Guanin",
+      "Uratsil",
+      "Timin"
+    ],
+    "answer": 2,
+    "explanation": "DNKda adenin, guanin, sitozin va timin bor; uratsil esa RNKda timin o‘rnida keladi.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Uracil",
+    "status": "verified"
+  },
+  {
+    "id": "sci-076",
+    "question": "Hujayrada oqsil sintezi qaysi organoidda amalga oshadi?",
+    "options": [
+      "Ribosomada",
+      "Lizosomada",
+      "Goldji apparatida",
+      "Vakuolada"
+    ],
+    "answer": 0,
+    "explanation": "Ribosomalar mRNK axborotini o‘qib, aminokislotalardan oqsil zanjirini yig‘adi.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Ribosome",
+    "status": "verified"
+  },
+  {
+    "id": "sci-077",
+    "question": "1796-yilda chechakka qarshi birinchi vaksinani yaratgan ingliz shifokori kim?",
+    "options": [
+      "Lui Paster",
+      "Robert Kox",
+      "Jozef Lister",
+      "Edvard Jenner"
+    ],
+    "answer": 3,
+    "explanation": "Jenner 1796-yilda sigir chechagi materiali yordamida chechakka qarshi emlashni amalga oshirgan.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Edward_Jenner",
+    "status": "verified"
+  },
+  {
+    "id": "sci-078",
+    "question": "1885-yilda quturishga qarshi vaksinani birinchi marta odamda qo‘llagan olim kim?",
+    "options": [
+      "Edvard Jenner",
+      "Lui Paster",
+      "Aleksandr Fleming",
+      "Ilya Mechnikov"
+    ],
+    "answer": 1,
+    "explanation": "Paster 1885-yilda quturgan it tishlagan bola Jozef Meysterni o‘zi yaratgan vaksina bilan davolagan.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+    "status": "verified"
+  },
+  {
+    "id": "sci-079",
+    "question": "1895-yilda X-nurlarni kashf etgan nemis fizigi kim?",
+    "options": [
+      "Maks Plank",
+      "Vilgelm Konrad Rentgen",
+      "Genrix Gers",
+      "Anri Bekkerel"
+    ],
+    "answer": 1,
+    "explanation": "Rentgen bu kashfiyoti uchun 1901-yilda fizika bo‘yicha birinchi Nobel mukofotini olgan.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen",
+    "status": "verified"
+  },
+  {
+    "id": "sci-080",
+    "question": "1896-yilda uran tuzlarining radioaktivligini kashf etgan fransuz fizigi kim?",
+    "options": [
+      "Per Kyuri",
+      "Ernest Rezerford",
+      "Lui de Broyl",
+      "Anri Bekkerel"
+    ],
+    "answer": 3,
+    "explanation": "Bekkerel radioaktivlikni kashf etgan; 1903-yilda Per va Mariya Kyuri bilan Nobel mukofotini bo‘lishgan.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Henri_Becquerel",
+    "status": "verified"
+  },
+  {
+    "id": "sci-081",
+    "question": "Natural logarifm asosi bo‘lgan e (Eyler soni) taxminan nechaga teng?",
+    "options": [
+      "2,718",
+      "3,142",
+      "1,618",
+      "1,414"
+    ],
+    "answer": 0,
+    "explanation": "e ≈ 2,71828 — natural logarifm asosi bo‘lgan irratsional son.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/E_(mathematical_constant)",
+    "status": "verified"
+  },
+  {
+    "id": "sci-082",
+    "question": "Python dasturlash tilini kim yaratgan?",
+    "options": [
+      "Dennis Ritchi",
+      "Jeyms Gosling",
+      "Gvido van Rossum",
+      "Byorn Straustrup"
+    ],
+    "answer": 2,
+    "explanation": "Gvido van Rossum Python ustida 1980-yillar oxirida ish boshlagan, birinchi versiya 1991-yilda chiqqan.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Guido_van_Rossum",
+    "status": "verified"
+  },
+  {
+    "id": "sci-083",
+    "question": "1991-yilda Linux operatsion tizimi yadrosini yaratgan dasturchi kim?",
+    "options": [
+      "Richard Stollmen",
+      "Ken Tompson",
+      "Linus Torvalds",
+      "Bill Geyts"
+    ],
+    "answer": 2,
+    "explanation": "Finlandiyalik talaba Linus Torvalds 1991-yilda Linux yadrosining birinchi versiyasini e’lon qilgan.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Linus_Torvalds",
+    "status": "verified"
+  },
+  {
+    "id": "sci-084",
+    "question": "No‘xat o‘simligi ustidagi tajribalari asosida irsiyat qonunlarini kashf etgan olim kim?",
+    "options": [
+      "Gregor Mendel",
+      "Charlz Darvin",
+      "Tomas Morgan",
+      "Jan-Batist Lamark"
+    ],
+    "answer": 0,
+    "explanation": "Gregor Mendel 1856–1863-yillarda no‘xat ustida tajribalar o‘tkazib, genetika asoslarini yaratgan.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Gregor_Mendel",
+    "status": "verified"
+  },
+  {
+    "id": "sci-085",
+    "question": "1665-yilda «Micrographia» asarida probkani kuzatib, «hujayra» (cell) atamasini fanga kiritgan olim kim?",
+    "options": [
+      "Antoni van Levenguk",
+      "Robert Broun",
+      "Teodor Shvann",
+      "Robert Guk"
+    ],
+    "answer": 3,
+    "explanation": "Robert Guk probka kesimidagi kataklarni «cell» deb atagan; atama shu tariqa biologiyaga kirgan.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Micrographia",
+    "status": "verified"
+  },
+  {
+    "id": "sci-086",
+    "question": "1831-yilda elektromagnit induksiya hodisasini kashf etgan ingliz olimi kim?",
+    "options": [
+      "Jeyms Maksvell",
+      "Maykl Faradey",
+      "Jeyms Joul",
+      "Uilyam Tomson"
+    ],
+    "answer": 1,
+    "explanation": "Faradey o‘zgaruvchan magnit maydon o‘tkazgichda elektr toki hosil qilishini 1831-yilda aniqlagan.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Electromagnetic_induction",
+    "status": "verified"
+  },
+  {
+    "id": "sci-087",
+    "question": "Oltin folga tajribasi asosida 1911-yilda atomning yadro modelini taklif qilgan olim kim?",
+    "options": [
+      "Nils Bor",
+      "Ernest Rezerford",
+      "Jon Dalton",
+      "Jozef Jon Tomson"
+    ],
+    "answer": 1,
+    "explanation": "Rezerford atom massasining deyarli hammasi kichik musbat yadroda to‘planganini ko‘rsatgan.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Rutherford_model",
+    "status": "verified"
+  },
+  {
+    "id": "sci-088",
+    "question": "AB0 tizimida qaysi qon guruhi «universal donor» deb ataladi?",
+    "options": [
+      "AB (IV) guruh, Rh musbat",
+      "A (II) guruh, Rh manfiy",
+      "B (III) guruh, Rh musbat",
+      "0 (I) guruh, Rh manfiy"
+    ],
+    "answer": 3,
+    "explanation": "0 Rh− qon eritrotsitlarida A, B va RhD antigenlari bo‘lmaydi, shu sababli shoshilinch holatda ko‘pchilikka mos keladi.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Blood_type",
+    "status": "verified"
+  },
+  {
+    "id": "sci-089",
+    "question": "Qaysi vitamin yetishmasligi «tovuq ko‘rlik» (shapko‘rlik)ka olib keladi?",
+    "options": [
+      "A vitamini",
+      "C vitamini",
+      "D vitamini",
+      "K vitamini"
+    ],
+    "answer": 0,
+    "explanation": "A vitamini ko‘zning to‘r pardasidagi yorug‘lik sezuvchi pigment uchun zarur.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Vitamin_A_deficiency",
+    "status": "verified"
+  },
+  {
+    "id": "sci-090",
+    "question": "Ammiakning kimyoviy formulasi qanday?",
+    "options": [
+      "NH₄",
+      "N₂O",
+      "NH₃",
+      "NO₂"
+    ],
+    "answer": 2,
+    "explanation": "Ammiak molekulasi bitta azot va uchta vodorod atomidan iborat.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Ammonia",
+    "status": "verified"
+  },
+  {
+    "id": "sci-091",
+    "question": "ax² + bx + c = 0 kvadrat tenglamaning diskriminanti qaysi formula bilan topiladi?",
+    "options": [
+      "D = b² + 4ac",
+      "D = 4ac − b²",
+      "D = b² − 4ac",
+      "D = b − 4ac"
+    ],
+    "answer": 2,
+    "explanation": "D > 0 bo‘lsa ikki haqiqiy ildiz, D = 0 da bitta, D < 0 da haqiqiy ildiz yo‘q.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Discriminant",
+    "status": "verified"
+  },
+  {
+    "id": "sci-092",
+    "question": "1936-yilda hisoblash nazariyasining asosi bo‘lgan abstrakt «universal mashina» modelini taklif etgan olim kim?",
+    "options": [
+      "Alan Tyuring",
+      "Jon fon Neyman",
+      "Klod Shennon",
+      "Charlz Bebbij"
+    ],
+    "answer": 0,
+    "explanation": "Tyuring 1936-yilgi «On Computable Numbers» maqolasida hozir Tyuring mashinasi deb ataladigan modelni bayon qilgan.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Turing_machine",
+    "status": "verified"
+  },
+  {
+    "id": "sci-093",
+    "question": "2019-yildagi SI tizimi islohotidan beri kilogramm qaysi fundamental doimiy orqali ta’riflanadi?",
+    "options": [
+      "Avogadro doimiysi",
+      "Gravitatsiya doimiysi",
+      "Bolsman doimiysi",
+      "Plank doimiysi"
+    ],
+    "answer": 3,
+    "explanation": "2019-yil 20-maydan kilogramm Plank doimiysi h ning qat’iy belgilangan qiymati orqali ta’riflanadi.",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://www.bipm.org/en/si-base-units/kilogram",
+    "status": "verified"
+  },
+  {
+    "id": "sci-094",
+    "question": "2019-yildan beri kelvin (termodinamik harorat birligi) qaysi doimiyning qat’iy qiymati orqali ta’riflanadi?",
+    "options": [
+      "Plank doimiysi",
+      "Bolsman doimiysi",
+      "Gaz doimiysi",
+      "Faradey doimiysi"
+    ],
+    "answer": 1,
+    "explanation": "Kelvin Bolsman doimiysi k = 1,380649 × 10⁻²³ J/K qiymatini qat’iy belgilash orqali ta’riflanadi.",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://www.bipm.org/en/si-base-units/kelvin",
+    "status": "verified"
+  },
+  {
+    "id": "sci-095",
+    "question": "Rasmiy nomlangan elementlar orasida atom raqami eng katta (118) bo‘lgan element qaysi?",
+    "options": [
+      "Tennessin",
+      "Oganesson",
+      "Livermoriy",
+      "Nixoniy"
+    ],
+    "answer": 1,
+    "explanation": "118-element 2016-yilda IUPAC tomonidan rus fizigi Yuriy Oganesyan sharafiga «oganesson» deb nomlangan.",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Oganesson",
+    "status": "verified"
+  },
+  {
+    "id": "sci-096",
+    "question": "Kimyoviy belgisi Sb bo‘lgan element qaysi?",
+    "options": [
+      "Qalay",
+      "Stronsiy",
+      "Selen",
+      "Surma"
+    ],
+    "answer": 3,
+    "explanation": "Sb belgisi lotincha «stibium» so‘zidan olingan; surmaning atom raqami 51.",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Antimony",
+    "status": "verified"
+  },
+  {
+    "id": "sci-097",
+    "question": "350 yildan ortiq isbotlanmay kelgan Fermaning buyuk teoremasini 1994-yilda isbotlagan matematik kim?",
+    "options": [
+      "Endryu Uayls",
+      "Grigoriy Perelman",
+      "Terens Tao",
+      "Devid Gilbert"
+    ],
+    "answer": 0,
+    "explanation": "Britaniyalik matematik Endryu Uayls isbotni 1994-yilda yakunlagan, u 1995-yilda nashr etilgan.",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Wiles%27s_proof_of_Fermat%27s_Last_Theorem",
+    "status": "verified"
+  },
+  {
+    "id": "sci-098",
+    "question": "Mingyillik muammolaridan biri bo‘lgan Puankare gipotezasini isbotlagan rossiyalik matematik kim?",
+    "options": [
+      "Endryu Uayls",
+      "Andrey Kolmogorov",
+      "Grigoriy Perelman",
+      "Sergey Novikov"
+    ],
+    "answer": 2,
+    "explanation": "Perelman isbotni 2002–2003-yillarda e’lon qilgan; Filds medali va Mingyillik mukofotidan voz kechgan.",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Grigori_Perelman",
+    "status": "verified"
+  },
+  {
+    "id": "sci-099",
+    "question": "Insulinni kashf etgani uchun 1923-yilda Jon Makleod bilan birga Nobel mukofotini olgan kanadalik olim kim?",
+    "options": [
+      "Paul Erlix",
+      "Selman Vaksman",
+      "Frederik Banting",
+      "Robert Kox"
+    ],
+    "answer": 2,
+    "explanation": "1923-yilgi fiziologiya va tibbiyot bo‘yicha Nobel mukofoti insulin kashfiyoti uchun Banting va Makleodga berilgan.",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://www.nobelprize.org/prizes/medicine/1923/summary/",
+    "status": "verified"
+  },
+  {
+    "id": "sci-100",
+    "question": "1820-yilda elektr toki o‘tayotgan o‘tkazgich yaqinidagi kompas mili og‘ishini kuzatib, elektr va magnetizm bog‘liqligini aniqlagan olim kim?",
+    "options": [
+      "Hans Kristian Ersted",
+      "Andre-Mari Amper",
+      "Georg Om",
+      "Alessandro Volta"
+    ],
+    "answer": 0,
+    "explanation": "Daniyalik fizik Ersted 1820-yilda elektr toki magnit maydon hosil qilishini kashf etgan.",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Hans_Christian_%C3%98rsted",
+    "status": "verified"
+  },
+  {
+    "id": "sci-101",
+    "question": "1932-yilda neytronni kashf etgan ingliz fizigi kim?",
+    "options": [
+      "Ernest Rezerford",
+      "Nils Bor",
+      "Enriko Fermi",
+      "Jeyms Chedvik"
+    ],
+    "answer": 3,
+    "explanation": "Chedvik neytron kashfiyoti uchun 1935-yilda fizika bo‘yicha Nobel mukofotini olgan.",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/James_Chadwick",
+    "status": "verified"
+  },
+  {
+    "id": "sci-102",
+    "question": "Albert Eynshteyn 1921-yilgi fizika bo‘yicha Nobel mukofotini asosan qaysi ishi uchun olgan?",
+    "options": [
+      "Maxsus nisbiylik nazariyasi",
+      "Fotoeffekt qonunini kashf etgani",
+      "Umumiy nisbiylik nazariyasi",
+      "Broun harakati nazariyasi"
+    ],
+    "answer": 1,
+    "explanation": "Nobel qo‘mitasi mukofotni nazariy fizikadagi xizmatlari, ayniqsa fotoeffekt qonunini kashf etgani uchun bergan.",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/",
+    "status": "verified"
+  },
+  {
+    "id": "sci-103",
+    "question": "Ichimlik sodasining (natriy gidrokarbonat) kimyoviy formulasi qanday?",
+    "options": [
+      "Na₂CO₃",
+      "NaHCO₃",
+      "NaOH",
+      "CaCO₃"
+    ],
+    "answer": 1,
+    "explanation": "Natriy gidrokarbonat NaHCO₃; Na₂CO₃ esa kir yuvish sodasi (natriy karbonat).",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Sodium_bicarbonate",
+    "status": "verified"
+  },
+  {
+    "id": "sci-104",
+    "question": "Dastlabki keng tarqalgan yuqori darajali dasturlash tillaridan biri — FORTRAN 1950-yillarda qaysi kompaniyada ishlab chiqilgan?",
+    "options": [
+      "Microsoft",
+      "Bell Labs",
+      "Apple",
+      "IBM"
+    ],
+    "answer": 3,
+    "explanation": "FORTRAN IBMda Jon Bekus boshchiligidagi jamoa tomonidan yaratilgan va 1957-yilda chiqarilgan.",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Fortran",
+    "status": "verified"
+  },
+  {
+    "id": "sci-105",
+    "question": "Standart ASCII kodlash tizimida har bir belgi necha bit bilan ifodalanadi?",
+    "options": [
+      "7 bit",
+      "8 bit",
+      "16 bit",
+      "4 bit"
+    ],
+    "answer": 0,
+    "explanation": "ASCII 7 bitli kod bo‘lib, 2⁷ = 128 ta belgini ifodalaydi.",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/ASCII",
+    "status": "verified"
+  },
+  {
+    "id": "sci-106",
+    "question": "Erkin tushish tezlanishining xalqaro qabul qilingan standart qiymati (gₙ) qancha?",
+    "options": [
+      "9,78033 m/s²",
+      "9,83218 m/s²",
+      "9,80665 m/s²",
+      "9,81000 m/s²"
+    ],
+    "answer": 2,
+    "explanation": "Standart erkin tushish tezlanishi 1901-yilda O‘lchovlar va og‘irliklar bo‘yicha Bosh konferensiyada 9,80665 m/s² deb belgilangan.",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Standard_gravity",
+    "status": "verified"
   }
 ]

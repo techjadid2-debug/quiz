@@ -526,5 +526,1189 @@
     "difficulty": "hard",
     "source": "https://www.britannica.com/animal/axolotl",
     "status": "verified"
+  },
+  {
+    "id": "nat-035",
+    "question": "Qurbaqaning suvda yashovchi, dumli va jabra bilan nafas oladigan lichinkasi qanday ataladi?",
+    "options": [
+      "G‘umbak",
+      "Itbaliq",
+      "Qurt",
+      "Uvildiriq"
+    ],
+    "answer": 1,
+    "explanation": "Qurbaqa tuxumidan itbaliq chiqadi; u metamorfoz natijasida o‘pka bilan nafas oluvchi voyaga yetgan qurbaqaga aylanadi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/animal/tadpole",
+    "status": "verified"
+  },
+  {
+    "id": "nat-036",
+    "question": "Quyidagilardan qaysi biri baliq emas, balki sutemizuvchi hisoblanadi?",
+    "options": [
+      "Akula",
+      "Laqqa baliq",
+      "Delfin",
+      "Tunets"
+    ],
+    "answer": 2,
+    "explanation": "Delfinlar o‘pka bilan nafas oladi, tirik bola tug‘adi va bolasini sut bilan boqadi — ular kitsimon sutemizuvchilardir.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/animal/dolphin",
+    "status": "verified"
+  },
+  {
+    "id": "nat-037",
+    "question": "Hayvonning rangi yoki shakli orqali atrof-muhitga o‘xshab, ko‘zga tashlanmay yashirinishi qanday ataladi?",
+    "options": [
+      "Kamuflyaj",
+      "Exolokatsiya",
+      "Migratsiya",
+      "Fotosintez"
+    ],
+    "answer": 0,
+    "explanation": "Kamuflyaj — himoya rangi va shakli yordamida atrof-muhitga singib ketish; u yirtqichdan yashirinish yoki o‘ljaga sezdirmay yaqinlashishga yordam beradi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Camouflage",
+    "status": "verified"
+  },
+  {
+    "id": "nat-038",
+    "question": "Tipratikan va yumronqoziq kabi hayvonlarning qishni modda almashinuvi keskin sekinlashgan holda uxlab o‘tkazishi qanday ataladi?",
+    "options": [
+      "Qishki uyqu (gibernatsiya)",
+      "Migratsiya",
+      "Tullash",
+      "Metamorfoz"
+    ],
+    "answer": 0,
+    "explanation": "Gibernatsiyada tana harorati, yurak urishi va nafas olish keskin pasayadi, hayvon esa to‘plangan yog‘ zaxirasi hisobiga yashaydi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/science/hibernation",
+    "status": "verified"
+  },
+  {
+    "id": "nat-039",
+    "question": "Qushlarning har yili ko‘payish va qishlash joylari o‘rtasida mavsumiy ravishda uzoq masofalarga ko‘chib o‘tishi qanday ataladi?",
+    "options": [
+      "Gibernatsiya",
+      "Mimikriya",
+      "Simbioz",
+      "Migratsiya"
+    ],
+    "answer": 3,
+    "explanation": "Migratsiya — hayvonlarning mavsumiy, muntazam ko‘chishi; ko‘plab qushlar qishda issiq o‘lkalarga uchib ketadi va bahorda qaytadi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/science/migration-animal",
+    "status": "verified"
+  },
+  {
+    "id": "nat-040",
+    "question": "Katta panda asosan nima bilan oziqlanadi?",
+    "options": [
+      "Evkalipt barglari",
+      "Baliq",
+      "Bambuk",
+      "Asal"
+    ],
+    "answer": 2,
+    "explanation": "Katta panda ratsionining deyarli barchasini bambuk tashkil etadi; u kuniga 12–38 kg bambuk yeyishi mumkin.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.worldwildlife.org/species/giant-panda",
+    "status": "verified"
+  },
+  {
+    "id": "nat-041",
+    "question": "Hozirgi kunda yashayotgan eng katta baliq turi qaysi?",
+    "options": [
+      "Ko‘k kit",
+      "Oq akula",
+      "Kit akulasi",
+      "Beluga baliq"
+    ],
+    "answer": 2,
+    "explanation": "Kit akulasi — eng yirik baliq. Ko‘k kit undan katta bo‘lsa-da, baliq emas, sutemizuvchi hisoblanadi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/animal/whale-shark",
+    "status": "verified"
+  },
+  {
+    "id": "nat-042",
+    "question": "Asalarilar oilasida tuxum qo‘yuvchi asosiy urg‘ochi qanday ataladi?",
+    "options": [
+      "Ishchi ari",
+      "Erkak ari (truten)",
+      "Qorovul ari",
+      "Ona ari"
+    ],
+    "answer": 3,
+    "explanation": "Asalari oilasida odatda bitta ona ari bo‘ladi va u tuxum qo‘yadi; ishchi arilar ham urg‘ochi, lekin odatda ko‘paymaydi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/animal/honeybee",
+    "status": "verified"
+  },
+  {
+    "id": "nat-043",
+    "question": "Hasharotlar tanasi qaysi uch asosiy bo‘limdan iborat?",
+    "options": [
+      "Bosh, bo‘yin va dum",
+      "Boshko‘krak va qorin",
+      "Bosh, tana va qanotlar",
+      "Bosh, ko‘krak va qorin"
+    ],
+    "answer": 3,
+    "explanation": "Hasharot tanasi bosh, ko‘krak va qorin bo‘limlaridan iborat; oyoq va qanotlar ko‘krak bo‘limiga birikkan.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/animal/insect",
+    "status": "verified"
+  },
+  {
+    "id": "nat-044",
+    "question": "Ipak qurti (Bombyx mori) asosan qaysi daraxt barglari bilan oziqlanadi?",
+    "options": [
+      "Terak",
+      "Olma",
+      "Yong‘oq",
+      "Tut"
+    ],
+    "answer": 3,
+    "explanation": "Ipak qurti tut barglari bilan oziqlanadi va g‘umbakka aylanishdan oldin ipak tolasidan pilla o‘raydi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/animal/silkworm-moth",
+    "status": "verified"
+  },
+  {
+    "id": "nat-045",
+    "question": "Gulning gulchang hosil qiluvchi erkak qismi qanday ataladi?",
+    "options": [
+      "Urug‘chi",
+      "Tojbarg",
+      "Kosachabarg",
+      "Changchi"
+    ],
+    "answer": 3,
+    "explanation": "Changchi changdon va changchi ipidan iborat; changdonda gulchang hosil bo‘ladi. Urug‘chi esa gulning urg‘ochi qismi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/science/stamen",
+    "status": "verified"
+  },
+  {
+    "id": "nat-046",
+    "question": "Daraxt tanasi kesimidagi yillik halqalar asosan nimani aniqlashga yordam beradi?",
+    "options": [
+      "Daraxtning yoshini",
+      "Daraxtning balandligini",
+      "Mevalar sonini",
+      "Ildizlar chuqurligini"
+    ],
+    "answer": 0,
+    "explanation": "Mo‘tadil iqlimda daraxt har yili bitta o‘sish halqasini hosil qiladi, shuning uchun halqalarni sanab uning yoshini bilish mumkin.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/science/dendrochronology",
+    "status": "verified"
+  },
+  {
+    "id": "nat-047",
+    "question": "Qoqio‘t (momaqaymoq) urug‘lari asosan qanday tarqaladi?",
+    "options": [
+      "Shamol yordamida",
+      "Suv oqimida",
+      "Hayvonlar yeb tarqatadi",
+      "Mevasi portlab otadi"
+    ],
+    "answer": 0,
+    "explanation": "Qoqio‘t urug‘larida parashyutga o‘xshash tukchalar bor, shu bois ular shamolda uzoq masofalarga uchib ketadi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/plant/dandelion",
+    "status": "verified"
+  },
+  {
+    "id": "nat-048",
+    "question": "Asosan ninabargli daraxtlardan iborat shimoliy o‘rmon zonasi qanday ataladi?",
+    "options": [
+      "Savanna",
+      "Tundra",
+      "Tayga",
+      "Dasht"
+    ],
+    "answer": 2,
+    "explanation": "Tayga (boreal o‘rmon) Shimoliy yarimsharning sovuq hududlarida joylashgan, unda qarag‘ay, qoraqarag‘ay, tilog‘och kabi ninabarglilar ustunlik qiladi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/science/taiga",
+    "status": "verified"
+  },
+  {
+    "id": "nat-049",
+    "question": "Yer osti abadiy muzloq bo‘lgan, daraxtlar deyarli o‘smaydigan sovuq tekislik zonasi qanday ataladi?",
+    "options": [
+      "Tundra",
+      "Tayga",
+      "Savanna",
+      "Prerya"
+    ],
+    "answer": 0,
+    "explanation": "Tundrada yoz qisqa va sovuq, yer osti abadiy muzloq; u yerda asosan mox, lishaynik va past bo‘yli butalar o‘sadi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/science/tundra",
+    "status": "verified"
+  },
+  {
+    "id": "nat-050",
+    "question": "Siyrak daraxtlar o‘sadigan, yomg‘irli va quruq fasllari aniq almashinadigan tropik o‘tloqli zona qanday ataladi?",
+    "options": [
+      "Tundra",
+      "Savanna",
+      "Tayga",
+      "Tropik yomg‘ir o‘rmoni"
+    ],
+    "answer": 1,
+    "explanation": "Savanna — tropik o‘tloqlar zonasi; eng mashhur savannalar Afrikada bo‘lib, u yerda zebra, jirafa, sher kabi hayvonlar yashaydi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/science/savanna",
+    "status": "verified"
+  },
+  {
+    "id": "nat-051",
+    "question": "Dunyodagi eng katta tropik yomg‘ir o‘rmoni qaysi?",
+    "options": [
+      "Amazonka o‘rmonlari",
+      "Kongo o‘rmonlari",
+      "Borneo o‘rmonlari",
+      "Daintri o‘rmoni"
+    ],
+    "answer": 0,
+    "explanation": "Amazonka o‘rmonlari Janubiy Amerikadagi bir necha davlat hududida joylashgan va dunyodagi eng katta tropik yomg‘ir o‘rmonidir.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.worldwildlife.org/places/amazon",
+    "status": "verified"
+  },
+  {
+    "id": "nat-052",
+    "question": "Faqat o‘simliklar bilan oziqlanadigan hayvonlar qanday ataladi?",
+    "options": [
+      "Yirtqichlar",
+      "Hammaxo‘rlar",
+      "Murdaxo‘rlar",
+      "O‘txo‘rlar"
+    ],
+    "answer": 3,
+    "explanation": "O‘txo‘rlar oziq zanjirida birinchi tartibli konsumentlar hisoblanadi; ularga sigir, quyon, jirafa misol bo‘ladi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/science/herbivore",
+    "status": "verified"
+  },
+  {
+    "id": "nat-053",
+    "question": "Faqat ma’lum bir cheklangan hududda tabiiy holda uchraydigan tur qanday ataladi?",
+    "options": [
+      "Kosmopolit tur",
+      "Invaziv tur",
+      "Endemik tur",
+      "Madaniy tur"
+    ],
+    "answer": 2,
+    "explanation": "Endemik turlar faqat bitta hududda (orol, tog‘ tizmasi, mamlakat) uchraydi; masalan, lemurlar Madagaskar endemiklaridir.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/science/endemism",
+    "status": "verified"
+  },
+  {
+    "id": "nat-054",
+    "question": "Noyob va yo‘qolib ketish xavfi ostidagi o‘simlik va hayvon turlari kiritiladigan rasmiy ro‘yxat qanday ataladi?",
+    "options": [
+      "Oq kitob",
+      "Yashil ro‘yxat",
+      "Oltin kitob",
+      "Qizil kitob"
+    ],
+    "answer": 3,
+    "explanation": "Qizil kitobga noyob va xavf ostidagi turlar kiritiladi; O‘zbekistonda ham Respublika Qizil kitobi mavjud.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Red_data_book",
+    "status": "verified"
+  },
+  {
+    "id": "nat-055",
+    "question": "Atmosferadagi karbonat angidrid kabi gazlarning Yer yuzasidan tarqalayotgan issiqlikni ushlab qolishi qanday ataladi?",
+    "options": [
+      "Issiqxona effekti",
+      "Ozon tuynugi",
+      "Kislotali yomg‘ir",
+      "El-Ninyo"
+    ],
+    "answer": 0,
+    "explanation": "Issiqxona gazlari Yerdan tarqalayotgan infraqizil nurlanishni yutib, sayyorani isitadi; bu hodisa issiqxona effekti deyiladi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/science/greenhouse-effect",
+    "status": "verified"
+  },
+  {
+    "id": "nat-056",
+    "question": "Nima uchun chaqmoq avval ko‘rinib, momaqaldiroq keyinroq eshitiladi?",
+    "options": [
+      "Yorug‘lik tovushdan ancha tez tarqaladi",
+      "Tovush yorug‘likdan tezroq tarqaladi",
+      "Momaqaldiroq chaqmoqdan ancha keyin hosil bo‘ladi",
+      "Ko‘z quloqdan sezgirroq"
+    ],
+    "answer": 0,
+    "explanation": "Chaqmoq va momaqaldiroq bir vaqtda hosil bo‘ladi, lekin yorug‘lik soniyasiga ~300 000 km, tovush esa atigi ~340 m tezlikda tarqaladi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/science/thunder",
+    "status": "verified"
+  },
+  {
+    "id": "nat-057",
+    "question": "Kechasi havo sovishi natijasida suv bug‘ining o‘t va barglar ustida tomchilar shaklida to‘planishi qanday ataladi?",
+    "options": [
+      "Qirov",
+      "Tuman",
+      "Shudring",
+      "Do‘l"
+    ],
+    "answer": 2,
+    "explanation": "Sirt shudring nuqtasigacha sovuganda havodagi suv bug‘i unda kondensatsiyalanib, tomchilar hosil qiladi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/science/dew",
+    "status": "verified"
+  },
+  {
+    "id": "nat-058",
+    "question": "Suvning tabiatda aylanishida suv bug‘ining sovib, mayda tomchilarga (bulutga) aylanishi qanday ataladi?",
+    "options": [
+      "Bug‘lanish",
+      "Infiltratsiya",
+      "Kondensatsiya",
+      "Transpiratsiya"
+    ],
+    "answer": 2,
+    "explanation": "Kondensatsiya — gazsimon suv bug‘ining suyuq holatga o‘tishi; bulut va tumanlar aynan shu jarayon natijasida hosil bo‘ladi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.usgs.gov/special-topics/water-science-school/science/condensation-and-water-cycle",
+    "status": "verified"
+  },
+  {
+    "id": "nat-059",
+    "question": "G‘or shiftidan pastga qarab osilib o‘sadigan ohak hosilalari qanday ataladi?",
+    "options": [
+      "Stalagmitlar",
+      "Geodlar",
+      "Barxanlar",
+      "Stalaktitlar"
+    ],
+    "answer": 3,
+    "explanation": "Stalaktitlar shiftdan tomayotgan suvdagi kalsitning cho‘kishidan hosil bo‘ladi; poldan yuqoriga o‘sadiganlari stalagmitlar deyiladi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/science/stalactite",
+    "status": "verified"
+  },
+  {
+    "id": "nat-060",
+    "question": "Tuproqning unumdor ustki qatlamining shamol yoki suv ta’sirida yemirilishi va olib ketilishi qanday ataladi?",
+    "options": [
+      "Sho‘rlanish",
+      "Kondensatsiya",
+      "Fotosintez",
+      "Eroziya"
+    ],
+    "answer": 3,
+    "explanation": "Tuproq eroziyasi o‘rmonlarni kesish, haddan tashqari mol boqish va noto‘g‘ri dehqonchilik natijasida kuchayadi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/science/soil-erosion",
+    "status": "verified"
+  },
+  {
+    "id": "nat-061",
+    "question": "Noto‘g‘ri sug‘orish va yer osti suvlari ko‘tarilishi natijasida tuproqda tuzlar to‘planib qolishi qanday ataladi?",
+    "options": [
+      "Tuproq eroziyasi",
+      "Tuproq sho‘rlanishi",
+      "Gumus hosil bo‘lishi",
+      "Changlanish"
+    ],
+    "answer": 1,
+    "explanation": "Sho‘rlangan tuproqda o‘simliklar suvni qiyin o‘zlashtiradi; bu muammo Orol bo‘yi kabi sug‘oriladigan hududlarda keng tarqalgan.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Soil_salinity",
+    "status": "verified"
+  },
+  {
+    "id": "nat-062",
+    "question": "Qor qoploni (irbis) tabiiy holda qanday muhitda yashaydi?",
+    "options": [
+      "Afrika savannalarida",
+      "Osiyoning baland tog‘larida",
+      "Tropik yomg‘ir o‘rmonlarida",
+      "Arktika muzliklarida"
+    ],
+    "answer": 1,
+    "explanation": "Qor qoploni (Panthera uncia) Markaziy va Janubiy Osiyoning baland tog‘larida, jumladan Tyan-Shan, Pomir va Himolayda yashaydi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.worldwildlife.org/species/snow-leopard",
+    "status": "verified"
+  },
+  {
+    "id": "nat-063",
+    "question": "Kapalakning to‘liq metamorfozida lichinka (qurt) bosqichidan keyin, voyaga yetgan kapalakdan oldin qaysi bosqich keladi?",
+    "options": [
+      "Itbaliq",
+      "Nimfa",
+      "Tuxum",
+      "G‘umbak"
+    ],
+    "answer": 3,
+    "explanation": "To‘liq metamorfoz: tuxum → lichinka → g‘umbak → voyaga yetgan hasharot. G‘umbak ichida tana butunlay qayta tuziladi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Pupa",
+    "status": "verified"
+  },
+  {
+    "id": "nat-064",
+    "question": "O‘rta Osiyo toshbaqasi (Testudo horsfieldii) yozning issiq va quruq davrini inida uxlab o‘tkazadi. Bunday yozgi tinim holati qanday ataladi?",
+    "options": [
+      "Gibernatsiya",
+      "Estivatsiya (yozgi uyqu)",
+      "Migratsiya",
+      "Fotoperiodizm"
+    ],
+    "answer": 1,
+    "explanation": "O‘rta Osiyo toshbaqasi yiliga atigi 3 oyga yaqin faol bo‘ladi; yozda estivatsiyaga, qishda gibernatsiyaga ketadi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.tortoisetrust.org/articles/horsfield2.html",
+    "status": "verified"
+  },
+  {
+    "id": "nat-065",
+    "question": "Filning xartumi aslida qaysi a’zolarning o‘zgargan shakli?",
+    "options": [
+      "Ostki jag‘",
+      "Burun va ustki lab",
+      "Til",
+      "Kesuvchi tishlar"
+    ],
+    "answer": 1,
+    "explanation": "Fil xartumi burun va ustki labning qo‘shilib cho‘zilishidan hosil bo‘lgan; u bilan fil nafas oladi, hid sezadi va narsalarni ushlaydi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/animal/elephant-mammal",
+    "status": "verified"
+  },
+  {
+    "id": "nat-066",
+    "question": "Tirik hayvonlar orasida faqat qushlarga xos bo‘lgan belgi qaysi?",
+    "options": [
+      "Patlar",
+      "Tuxum qo‘yish",
+      "Qanotlar",
+      "Issiqqonlilik"
+    ],
+    "answer": 0,
+    "explanation": "Patlar hozirgi tirik hayvonlardan faqat qushlarda bor. Tuxum qo‘yish, qanot va issiqqonlilik boshqa hayvonlarda ham uchraydi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/animal/bird-animal",
+    "status": "verified"
+  },
+  {
+    "id": "nat-067",
+    "question": "Oddiy kakku (Cuculus canorus) tuxumini qayerga qo‘yadi?",
+    "options": [
+      "O‘zi qurgan inga",
+      "Boshqa qushlarning iniga",
+      "Qumga ko‘mib",
+      "Suv ustidagi o‘simliklarga"
+    ],
+    "answer": 1,
+    "explanation": "Oddiy kakku in parazitidir: tuxumini boshqa qushlar iniga qo‘yadi va polaponlarini o‘sha qushlar boqib katta qiladi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/animal/cuckoo",
+    "status": "verified"
+  },
+  {
+    "id": "nat-068",
+    "question": "Flamingolarning pushti rangi nimaga bog‘liq?",
+    "options": [
+      "Qonidagi gemoglobinga",
+      "Quyosh nurida kuyishga",
+      "Ozuqasidagi karotinoid pigmentlarga",
+      "Patlaridagi melaninga"
+    ],
+    "answer": 2,
+    "explanation": "Flamingolar yeydigan suvo‘tlari va mayda qisqichbaqasimonlardagi karotinoidlar ularning patlarini pushti rangga bo‘yaydi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/animal/flamingo",
+    "status": "verified"
+  },
+  {
+    "id": "nat-069",
+    "question": "Chivinlarning (Culicidae) qaysilari odam va hayvonlardan qon so‘radi?",
+    "options": [
+      "Faqat erkaklari",
+      "Erkagi ham, urg‘ochisi ham",
+      "Faqat lichinkalari",
+      "Faqat urg‘ochilari"
+    ],
+    "answer": 3,
+    "explanation": "Urg‘ochi chivinlar tuxum yetiltirish uchun qon so‘radi; erkaklari esa o‘simlik shirasi va nektar bilan oziqlanadi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/animal/mosquito",
+    "status": "verified"
+  },
+  {
+    "id": "nat-070",
+    "question": "Ko‘k kit asosan nima bilan oziqlanadi?",
+    "options": [
+      "Kril (mayda qisqichbaqasimonlar)",
+      "Akulalar",
+      "Tyulenlar",
+      "Dengiz o‘tlari"
+    ],
+    "answer": 0,
+    "explanation": "Ko‘k kit mo‘ylovli kit bo‘lib, kit mo‘ylovi plastinkalari orqali suvni suzib, kunda bir necha tonna kril yeydi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/animal/blue-whale",
+    "status": "verified"
+  },
+  {
+    "id": "nat-071",
+    "question": "Barg sirtidagi gaz almashinuvi va suv bug‘lanishini ta’minlovchi mayda teshikchalar qanday ataladi?",
+    "options": [
+      "Xloroplastlar",
+      "Barg tomirlari",
+      "Og‘izchalar (ustitsalar)",
+      "Ildiz tukchalari"
+    ],
+    "answer": 2,
+    "explanation": "Og‘izchalar ikkita tutashtiruvchi hujayra bilan o‘ralgan; ular orqali CO₂ kiradi, kislorod va suv bug‘i chiqadi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/science/stoma",
+    "status": "verified"
+  },
+  {
+    "id": "nat-072",
+    "question": "Gulchangning changchidan urug‘chi tumshuqchasiga o‘tishi qanday ataladi?",
+    "options": [
+      "Urug‘lanish",
+      "Unib chiqish",
+      "Changlanish",
+      "Transpiratsiya"
+    ],
+    "answer": 2,
+    "explanation": "Changlanish shamol, suv yoki hasharotlar yordamida amalga oshadi; undan keyin urug‘lanish sodir bo‘ladi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/science/pollination",
+    "status": "verified"
+  },
+  {
+    "id": "nat-073",
+    "question": "Kaktuslardagi tikanlar aslida o‘simlikning qaysi organi o‘zgargan shakli?",
+    "options": [
+      "Ildizlar",
+      "Gullar",
+      "Barglar",
+      "Poya po‘stlog‘i"
+    ],
+    "answer": 2,
+    "explanation": "Kaktus tikanlari o‘zgargan barglardir; ular suv bug‘lanishini kamaytiradi, fotosintezni esa yashil poya bajaradi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/plant/cactus",
+    "status": "verified"
+  },
+  {
+    "id": "nat-074",
+    "question": "Yeryong‘oq (Arachis hypogaea) qaysi o‘simliklar oilasiga mansub?",
+    "options": [
+      "Yong‘oqdoshlar",
+      "Dukkakdoshlar",
+      "Ra’nodoshlar",
+      "Bug‘doydoshlar"
+    ],
+    "answer": 1,
+    "explanation": "Yeryong‘oq no‘xat va loviyaning qarindoshi — dukkakli o‘simlik; uning dukkaklari yer ostida yetiladi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/plant/peanut",
+    "status": "verified"
+  },
+  {
+    "id": "nat-075",
+    "question": "O‘rta Osiyo cho‘llarida o‘sadigan, ildizlari bilan qumni mustahkamlab, uning ko‘chishini to‘xtatuvchi daraxtsimon o‘simlik qaysi?",
+    "options": [
+      "Turang‘il",
+      "Saksovul",
+      "Archa",
+      "Tilog‘och"
+    ],
+    "answer": 1,
+    "explanation": "Saksovul (Haloxylon) qurg‘oqchilik va sho‘rga chidamli; Qizilqum va Qoraqum cho‘llarida keng tarqalgan.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Haloxylon",
+    "status": "verified"
+  },
+  {
+    "id": "nat-076",
+    "question": "Amudaryo va Sirdaryo bo‘yidagi to‘qay o‘rmonlarining eng xarakterli daraxtlaridan biri qaysi?",
+    "options": [
+      "Archa",
+      "Saksovul",
+      "Turang‘il (Populus euphratica)",
+      "Qarag‘ay"
+    ],
+    "answer": 2,
+    "explanation": "Turang‘il — sho‘r tuproq va issiqqa chidamli terak turi; u O‘rta Osiyo daryolari bo‘yidagi to‘qaylarning asosiy daraxtidir.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Populus_euphratica",
+    "status": "verified"
+  },
+  {
+    "id": "nat-077",
+    "question": "O‘lik organizmlar va organik qoldiqlarni parchalab, moddalarni tuproqqa qaytaruvchi bakteriya va zamburug‘lar ekologiyada qanday ataladi?",
+    "options": [
+      "Produsentlar",
+      "Redutsentlar",
+      "Konsumentlar",
+      "Yirtqichlar"
+    ],
+    "answer": 1,
+    "explanation": "Redutsentlar (parchalovchilar) organik moddani mineral moddalarga aylantiradi va moddalar aylanishini yopib beradi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/science/decomposer",
+    "status": "verified"
+  },
+  {
+    "id": "nat-078",
+    "question": "Do‘l odatda qaysi bulutlardan yog‘adi?",
+    "options": [
+      "Patsimon (cirrus) bulutlardan",
+      "Qatlamli (stratus) bulutlardan",
+      "Patsimon-qatlamli bulutlardan",
+      "To‘p-yomg‘irli (kumulonimbus) bulutlardan"
+    ],
+    "answer": 3,
+    "explanation": "Do‘l kuchli ko‘tariluvchi havo oqimlari bo‘lgan momaqaldiroqli kumulonimbus bulutlarida muz qatlamlari o‘sishidan hosil bo‘ladi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/science/hail",
+    "status": "verified"
+  },
+  {
+    "id": "nat-079",
+    "question": "Atlantika okeanidagi tropik bo‘ronlar (uraganlar) kuchi qaysi shkala bo‘yicha toifalarga ajratiladi?",
+    "options": [
+      "Rixter shkalasi",
+      "Moos shkalasi",
+      "Saffir–Simpson shkalasi",
+      "Kelvin shkalasi"
+    ],
+    "answer": 2,
+    "explanation": "Saffir–Simpson shkalasi uraganlarni shamolning doimiy tezligiga qarab 1-dan 5-gacha toifaga ajratadi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/science/Saffir-Simpson-hurricane-scale",
+    "status": "verified"
+  },
+  {
+    "id": "nat-080",
+    "question": "Ob-havo hodisalarining deyarli barchasi atmosferaning qaysi qatlamida sodir bo‘ladi?",
+    "options": [
+      "Troposferada",
+      "Stratosferada",
+      "Mezosferada",
+      "Termosferada"
+    ],
+    "answer": 0,
+    "explanation": "Troposfera — atmosferaning eng quyi qatlami; havo massasi va suv bug‘ining asosiy qismi shu yerda, bulut va yog‘inlar ham shu qatlamda hosil bo‘ladi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/science/troposphere",
+    "status": "verified"
+  },
+  {
+    "id": "nat-081",
+    "question": "Yerdagi chuchuk suvning eng katta qismi qayerda saqlanadi?",
+    "options": [
+      "Muzliklar va muz qoplamalarida",
+      "Daryolarda",
+      "Ko‘llarda",
+      "Atmosferada"
+    ],
+    "answer": 0,
+    "explanation": "USGS ma’lumotiga ko‘ra, chuchuk suvning qariyb 69 foizi muzliklar va muz qoplamalarida, 30 foizga yaqini yer osti suvlarida.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.usgs.gov/special-topics/water-science-school/science/where-earth-water",
+    "status": "verified"
+  },
+  {
+    "id": "nat-082",
+    "question": "Granit qaysi tog‘ jinslari guruhiga mansub?",
+    "options": [
+      "Cho‘kindi jinslar",
+      "Magmatik (otqindi) jinslar",
+      "Metamorfik jinslar",
+      "Organik jinslar"
+    ],
+    "answer": 1,
+    "explanation": "Granit magmaning yer po‘sti ichida sekin sovib qotishidan hosil bo‘ladi; tarkibida asosan kvars va dala shpati bor.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/science/granite",
+    "status": "verified"
+  },
+  {
+    "id": "nat-083",
+    "question": "Qor qoplonining (irbis) juda uzun va qalin dumi unga nimada yordam beradi?",
+    "options": [
+      "O‘ljani ushlab olishda",
+      "Qoyalarda muvozanat saqlash va sovuqda isinishda",
+      "Suvda suzishda",
+      "Raqiblarini zaharlashda"
+    ],
+    "answer": 1,
+    "explanation": "Uzun dum tik qoyalarda sakraganda muvozanat saqlashga yordam beradi; dam olayotganda irbis u bilan tumshug‘ini o‘rab isinadi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://snowleopard.org/snow-leopard-facts/physical-features/",
+    "status": "verified"
+  },
+  {
+    "id": "nat-084",
+    "question": "Buxoro bug‘usi (Cervus hanglu bactrianus) tabiiy holda qanday muhitda yashaydi?",
+    "options": [
+      "Daryo bo‘yidagi to‘qay o‘rmonlarida",
+      "Baland tog‘ qoyalarida",
+      "Qumli cho‘llarning markazida",
+      "Tundrada"
+    ],
+    "answer": 0,
+    "explanation": "Buxoro bug‘usi cho‘l bilan o‘ralgan daryo bo‘yi to‘qaylarida (tol, turang‘il o‘rmonlarida) yashaydi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Bactrian_deer",
+    "status": "verified"
+  },
+  {
+    "id": "nat-085",
+    "question": "XX asrda yo‘q bo‘lib ketgan, bir paytlar Amudaryo va Sirdaryo to‘qaylarida yashagan yirik yirtqich qaysi?",
+    "options": [
+      "Qor qoploni",
+      "Qo‘ng‘ir ayiq",
+      "Turon yo‘lbarsi",
+      "Bo‘ri"
+    ],
+    "answer": 2,
+    "explanation": "Turon (Kaspiy) yo‘lbarsi O‘rta Osiyo daryolari bo‘yidagi to‘qaylarda yashagan; ov va yashash joylarining yo‘qolishi uni XX asrda qirib yubordi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Caspian_tiger",
+    "status": "verified"
+  },
+  {
+    "id": "nat-086",
+    "question": "Ustyurt platosida uchraydigan, burni xartumsimon bo‘rtib chiqqan antilopa qaysi?",
+    "options": [
+      "Jayron",
+      "Morxo‘r",
+      "Saygak",
+      "Arxar"
+    ],
+    "answer": 2,
+    "explanation": "Saygakning yirik, bukri burni qishda sovuq havoni isitishga, yozda esa changni filtrlashga yordam beradi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/animal/saiga",
+    "status": "verified"
+  },
+  {
+    "id": "nat-087",
+    "question": "Spiral shaklidagi uzun shoxlari bilan mashhur, O‘zbekistonda Ko‘hitang tog‘larida saqlanib qolgan yovvoyi echki qaysi?",
+    "options": [
+      "Morxo‘r (Capra falconeri)",
+      "Tog‘ takasi (Capra sibirica)",
+      "Arxar",
+      "Saygak"
+    ],
+    "answer": 0,
+    "explanation": "Buxoro morxo‘ri O‘zbekistonda asosan Surxondaryo viloyatidagi Ko‘hitang tizmasida, Surxon qo‘riqxonasida muhofaza qilinadi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Markhor",
+    "status": "verified"
+  },
+  {
+    "id": "nat-088",
+    "question": "1926-yilda «Guralash» nomi bilan tashkil etilgan, O‘zbekistondagi eng qadimgi qo‘riqxona — Zomin qo‘riqxonasi qaysi viloyatda joylashgan?",
+    "options": [
+      "Toshkent viloyatida",
+      "Jizzax viloyatida",
+      "Qashqadaryo viloyatida",
+      "Surxondaryo viloyatida"
+    ],
+    "answer": 1,
+    "explanation": "Zomin qo‘riqxonasi Turkiston tizmasining Jizzax viloyatidagi qismida joylashgan; u archazorlari bilan mashhur.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Zaamin_National_Park",
+    "status": "verified"
+  },
+  {
+    "id": "nat-089",
+    "question": "1983-yilda Qizilsuv va Miroqi qo‘riqxonalari asosida tashkil etilgan Hisor davlat qo‘riqxonasi qaysi viloyatda joylashgan?",
+    "options": [
+      "Surxondaryo viloyatida",
+      "Qashqadaryo viloyatida",
+      "Jizzax viloyatida",
+      "Namangan viloyatida"
+    ],
+    "answer": 1,
+    "explanation": "Hisor qo‘riqxonasi Qashqadaryo viloyatida, Hisor tizmasining g‘arbiy yonbag‘irlarida joylashgan; maydoni 80 ming gektardan ortiq.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Hisar_State_Reserve",
+    "status": "verified"
+  },
+  {
+    "id": "nat-090",
+    "question": "Nurota qo‘riqxonasi (1975) asosan qaysi noyob tuyoqli hayvonni muhofaza qilish uchun tashkil etilgan?",
+    "options": [
+      "Severtsov arxari (Ovis ammon severtzovi)",
+      "Buxoro bug‘usi",
+      "Saygak",
+      "Morxo‘r"
+    ],
+    "answer": 0,
+    "explanation": "Nurota tog‘ tizmasidagi bu qo‘riqxona Severtsov arxari va relikt yong‘oqzorlarni saqlash maqsadida tashkil etilgan.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.gbif.org/publisher/12066000-3e44-48a6-86b3-e6f43c5b0474",
+    "status": "verified"
+  },
+  {
+    "id": "nat-091",
+    "question": "Buxoro yaqinidagi «Jayron» ekomarkazida quyidagi noyob hayvonlardan qaysi biri ko‘paytiriladi?",
+    "options": [
+      "Qor qoploni",
+      "Oq ayiq",
+      "Katta panda",
+      "Prjevalskiy oti"
+    ],
+    "answer": 3,
+    "explanation": "1977-yilda tashkil etilgan «Jayron» ekomarkazida jayron, qulon, Prjevalskiy oti va yo‘rg‘a tuvaloq ko‘paytiriladi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://uzbekistan.travel/en/o/ecocenter-jeyran/",
+    "status": "verified"
+  },
+  {
+    "id": "nat-092",
+    "question": "Zarafshon qo‘riqxonasi (Samarqand viloyati) asosan qaysi noyob qush kenja turini saqlash maqsadida tashkil etilgan?",
+    "options": [
+      "Yo‘rg‘a tuvaloq",
+      "Zarafshon qirg‘ovuli",
+      "Oqqush",
+      "Qora laylak"
+    ],
+    "answer": 1,
+    "explanation": "1975-yilda tashkil etilgan Zarafshon qo‘riqxonasi daryo bo‘yi to‘qaylarini va Zarafshon qirg‘ovulini muhofaza qiladi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://uzbekistan.travel/en/o/zarafshan-reserve/",
+    "status": "verified"
+  },
+  {
+    "id": "nat-093",
+    "question": "O‘simlikda suv va mineral moddalarni ildizdan barglarga o‘tkazuvchi to‘qima qanday ataladi?",
+    "options": [
+      "Floema",
+      "Epidermis",
+      "Ksilema",
+      "Kambiy"
+    ],
+    "answer": 2,
+    "explanation": "Ksilema suv va mineral tuzlarni yuqoriga o‘tkazadi; floema esa barglarda hosil bo‘lgan organik moddalarni tarqatadi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/science/xylem",
+    "status": "verified"
+  },
+  {
+    "id": "nat-094",
+    "question": "Zamburug‘lar hujayra devori asosan qaysi moddadan tashkil topgan?",
+    "options": [
+      "Xitin",
+      "Sellyuloza",
+      "Kraxmal",
+      "Lignin"
+    ],
+    "answer": 0,
+    "explanation": "Zamburug‘ hujayra devorida xitin bor (u hasharotlar tashqi skeletida ham uchraydi); o‘simliklarniki esa sellyulozadan iborat.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/science/fungus",
+    "status": "verified"
+  },
+  {
+    "id": "nat-095",
+    "question": "Yevropa ilonbalig‘i (Anguilla anguilla) ko‘payish uchun qaysi hududga suzib boradi?",
+    "options": [
+      "Kaspiy dengiziga",
+      "Sargasso dengiziga",
+      "Qizil dengizga",
+      "Bering dengiziga"
+    ],
+    "answer": 1,
+    "explanation": "Yevropa ilonbaliqlari Atlantika okeanining Sargasso dengizida tug‘iladi va u yerdan lichinka holida Yevropa daryolariga suzib keladi.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/European_eel",
+    "status": "verified"
+  },
+  {
+    "id": "nat-096",
+    "question": "Quyidagi ninabargli daraxtlardan qaysi biri qishga kelib ninabarglarini to‘kadi?",
+    "options": [
+      "Qarag‘ay",
+      "Archa",
+      "Qoraqarag‘ay",
+      "Tilog‘och (Larix)"
+    ],
+    "answer": 3,
+    "explanation": "Tilog‘och ninabargli bo‘lsa ham bargini to‘kuvchi daraxt: kuzda ninalari sarg‘ayib to‘kiladi, bahorda qayta o‘sadi.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/plant/larch",
+    "status": "verified"
+  },
+  {
+    "id": "nat-097",
+    "question": "Baobab (Adansonia) turlarining ko‘pchiligi qaysi hududda uchraydi?",
+    "options": [
+      "Avstraliyada",
+      "Madagaskarda",
+      "Janubiy Amerikada",
+      "Hindistonda"
+    ],
+    "answer": 1,
+    "explanation": "Baobabning 8 turidan 6 tasi faqat Madagaskarda o‘sadi; bittasi materik Afrikada, yana biri Avstraliyada uchraydi.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Adansonia",
+    "status": "verified"
+  },
+  {
+    "id": "nat-098",
+    "question": "Dunyodagi eng yirik yakka gul hosil qiluvchi o‘simlik qaysi?",
+    "options": [
+      "Rafflesiya (Rafflesia arnoldii)",
+      "Lotos",
+      "Viktoriya amazonika",
+      "Kungaboqar"
+    ],
+    "answer": 0,
+    "explanation": "Rafflesia arnoldii guli diametri taxminan 1 metrga yetadi; bu parazit o‘simlikning bargi, poyasi va haqiqiy ildizi yo‘q.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/plant/Rafflesia",
+    "status": "verified"
+  },
+  {
+    "id": "nat-099",
+    "question": "Kungaboqarning bitta katta «gul»i aslida nima?",
+    "options": [
+      "Ko‘plab mayda gullardan iborat savatcha to‘pgul",
+      "Bitta gulning kattalashgan kosachasi",
+      "O‘zgargan barglar to‘plami",
+      "Bitta gul va uning mevasi"
+    ],
+    "answer": 0,
+    "explanation": "Kungaboqar «guli» savatcha to‘pguldir: chetdagi tilsimon va o‘rtadagi yuzlab naysimon mayda gullardan tashkil topgan.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/plant/common-sunflower",
+    "status": "verified"
+  },
+  {
+    "id": "nat-100",
+    "question": "Oziq zanjirida bir trofik darajadan keyingisiga energiyaning taxminan qancha qismi o‘tadi (ekologik «10 foiz qoidasi»)?",
+    "options": [
+      "Taxminan 50 foizi",
+      "Taxminan 90 foizi",
+      "Taxminan 10 foizi",
+      "Deyarli 100 foizi"
+    ],
+    "answer": 2,
+    "explanation": "Energiyaning katta qismi nafas olish va issiqlik sifatida sarflanadi, keyingi darajaga o‘rtacha 10 foizga yaqini o‘tadi.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Ten_percent_law",
+    "status": "verified"
+  },
+  {
+    "id": "nat-101",
+    "question": "Biosfera haqidagi ta’limotni yaratgan, «Biosfera» (1926) asarining muallifi bo‘lgan olim kim?",
+    "options": [
+      "Charlz Darvin",
+      "Ernst Gekkel",
+      "Karl Linney",
+      "Vladimir Vernadskiy"
+    ],
+    "answer": 3,
+    "explanation": "Vernadskiy biosferani tirik organizmlar geologik kuch sifatida qatnashadigan Yer qobig‘i deb ta’riflagan.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/biography/Vladimir-Ivanovich-Vernadsky",
+    "status": "verified"
+  },
+  {
+    "id": "nat-102",
+    "question": "Yer aylanishi tufayli Shimoliy yarimsharda harakatlanayotgan havo oqimlarini o‘ngga og‘diruvchi ta’sir qanday ataladi?",
+    "options": [
+      "Dopler effekti",
+      "Koriolis effekti",
+      "Issiqxona effekti",
+      "Tindal effekti"
+    ],
+    "answer": 1,
+    "explanation": "Koriolis effekti tufayli shamollar Shimoliy yarimsharda o‘ngga, Janubiy yarimsharda chapga og‘adi.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/science/Coriolis-force",
+    "status": "verified"
+  },
+  {
+    "id": "nat-103",
+    "question": "Tinch okeanining ekvatorial qismida okean suvi g‘ayrioddiy isib, dunyo ob-havosiga ta’sir qiladigan davriy hodisa qanday ataladi?",
+    "options": [
+      "La-Ninya",
+      "El-Ninyo",
+      "Musson",
+      "Passat"
+    ],
+    "answer": 1,
+    "explanation": "El-Ninyoda Tinch okeanining sharqiy ekvatorial qismi isiydi; La-Ninya esa buning aksi — u yerdagi suvning sovishi.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/science/El-Nino",
+    "status": "verified"
+  },
+  {
+    "id": "nat-104",
+    "question": "Ohaktosh asosan qaysi mineraldan tashkil topgan?",
+    "options": [
+      "Kalsit (CaCO₃)",
+      "Kvars",
+      "Dala shpati",
+      "Gips"
+    ],
+    "answer": 0,
+    "explanation": "Ohaktosh cho‘kindi jins bo‘lib, asosan kalsiy karbonatdan — kalsit mineralidan iborat; ko‘pincha dengiz organizmlari qoldiqlaridan hosil bo‘ladi.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/science/limestone",
+    "status": "verified"
+  },
+  {
+    "id": "nat-105",
+    "question": "Yoqut (rubin) va sapfir qaysi mineralning turlari hisoblanadi?",
+    "options": [
+      "Kvars",
+      "Berill",
+      "Olmos",
+      "Korund"
+    ],
+    "answer": 3,
+    "explanation": "Ikkalasi ham alyuminiy oksidi — korunddir: qizil rangli korund yoqut, boshqa rangdagilari sapfir deb ataladi.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/science/corundum",
+    "status": "verified"
+  },
+  {
+    "id": "nat-106",
+    "question": "Jayron (Gazella subgutturosa) inglizcha «bo‘qoqli g‘izol» deb ataladi. Bu nom nimaga bog‘liq?",
+    "options": [
+      "Shoxlarining bo‘qoqsimon shakliga",
+      "Faqat tuzli ko‘llar yonida yashashiga",
+      "Urg‘ochilarining yirik sut bezlariga",
+      "Erkaklarining ko‘payish mavsumida tomog‘i shishishiga"
+    ],
+    "answer": 3,
+    "explanation": "Ko‘payish mavsumida erkak jayronlarning bo‘yni va tomog‘i shishib, bo‘qoqqa o‘xshab ko‘rinadi.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Goitered_gazelle",
+    "status": "verified"
+  },
+  {
+    "id": "nat-107",
+    "question": "UNESCO tomonidan 1978-yilda biosfera rezervati maqomini olgan, Toshkent viloyatidagi qo‘riqxona qaysi?",
+    "options": [
+      "Zomin qo‘riqxonasi",
+      "Hisor qo‘riqxonasi",
+      "Nurota qo‘riqxonasi",
+      "Chotqol qo‘riqxonasi"
+    ],
+    "answer": 3,
+    "explanation": "1947-yilda tashkil etilgan Chotqol qo‘riqxonasi G‘arbiy Tyan-Shanning Chotqol tizmasida joylashgan.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Chatkalskiy_State_Nature_Reserve",
+    "status": "verified"
+  },
+  {
+    "id": "nat-108",
+    "question": "1971-yilda Amudaryo bo‘yidagi to‘qay va qumli cho‘l ekotizimlarini, xususan Buxoro bug‘usini muhofaza qilish uchun tashkil etilgan qo‘riqxona qaysi?",
+    "options": [
+      "Chotqol qo‘riqxonasi",
+      "Zomin qo‘riqxonasi",
+      "Qizilqum qo‘riqxonasi",
+      "Surxon qo‘riqxonasi"
+    ],
+    "answer": 2,
+    "explanation": "Qizilqum qo‘riqxonasi Amudaryoning o‘rta oqimida, Buxoro va Xorazm viloyatlari hududida joylashgan; to‘qay va qumli cho‘l qismlaridan iborat.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8B%D0%B7%D1%8B%D0%BB%D0%BA%D1%83%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA",
+    "status": "verified"
   }
 ]

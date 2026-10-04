@@ -542,5 +542,1141 @@
     "difficulty": "hard",
     "source": "Mantiqiy yechim — izohga qarang",
     "status": "verified"
+  },
+  {
+    "id": "log-035",
+    "question": "Ketma-ketlikni davom ettiring: 2, 6, 18, 54, ...",
+    "options": [
+      "162",
+      "108",
+      "72",
+      "156"
+    ],
+    "answer": 0,
+    "explanation": "Har bir son oldingisidan 3 marta katta: 54 × 3 = 162.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-036",
+    "question": "Ketma-ketlikni davom ettiring: 100, 93, 86, 79, ...",
+    "options": [
+      "71",
+      "72",
+      "73",
+      "69"
+    ],
+    "answer": 1,
+    "explanation": "Har safar 7 ayriladi: 79 − 7 = 72.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-037",
+    "question": "Ketma-ketlikni davom ettiring: 1, 8, 27, 64, ...",
+    "options": [
+      "100",
+      "81",
+      "125",
+      "216"
+    ],
+    "answer": 2,
+    "explanation": "Bular natural sonlarning kublari: 1³, 2³, 3³, 4³; keyingisi 5³ = 125.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-038",
+    "question": "Ketma-ketlikni davom ettiring: 2, 3, 5, 7, 11, 13, ...",
+    "options": [
+      "15",
+      "19",
+      "16",
+      "17"
+    ],
+    "answer": 3,
+    "explanation": "Bular ketma-ket tub sonlar. 13 dan keyingi tub son — 17 (14, 15, 16 tub emas).",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-039",
+    "question": "Ketma-ketlikni davom ettiring: 1, 10, 2, 20, 3, 30, ...",
+    "options": [
+      "4",
+      "40",
+      "31",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "Toq o‘rinlarda 1, 2, 3, … , juft o‘rinlarda 10, 20, 30, … turadi. Keyingi (7-) had toq o‘rinda: 4.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-040",
+    "question": "Ketma-ketlikni davom ettiring: 1, 2, 4, 7, 11, 16, ...",
+    "options": [
+      "21",
+      "22",
+      "23",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "Ayirmalar 1, 2, 3, 4, 5 tarzida bittadan ortadi; keyingi ayirma 6: 16 + 6 = 22.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-041",
+    "question": "Toq sonlar ketma-ketligi 1, 3, 5, 7, ... ning 20-hadi nechaga teng?",
+    "options": [
+      "40",
+      "41",
+      "39",
+      "21"
+    ],
+    "answer": 2,
+    "explanation": "n-toq son 2n − 1 ga teng: 2 × 20 − 1 = 39.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-042",
+    "question": "Lola 8 yoshda, opasi undan 3 marta katta. 4 yildan keyin opasi necha yoshda bo‘ladi?",
+    "options": [
+      "32",
+      "24",
+      "36",
+      "28"
+    ],
+    "answer": 3,
+    "explanation": "Opasi hozir 8 × 3 = 24 yoshda; 4 yildan keyin 24 + 4 = 28 yoshda bo‘ladi.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-043",
+    "question": "Akam mendan 5 yosh katta. 10 yildan keyin u mendan necha yosh katta bo‘ladi?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "50"
+    ],
+    "answer": 0,
+    "explanation": "Yillar ikkalamizga baravar qo‘shiladi, shuning uchun yosh farqi o‘zgarmaydi — 5 yil.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-044",
+    "question": "Ota va onaning yoshlari yig‘indisi hozir 70 ga teng. 5 yildan keyin ularning yoshlari yig‘indisi qancha bo‘ladi?",
+    "options": [
+      "75",
+      "80",
+      "70",
+      "85"
+    ],
+    "answer": 1,
+    "explanation": "Har biri 5 yoshga ulg‘ayadi: 70 + 5 + 5 = 80.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-045",
+    "question": "Piyoda soatiga 5 km tezlikda yuradi. U 20 km yo‘lni necha soatda bosib o‘tadi?",
+    "options": [
+      "5 soat",
+      "3 soat",
+      "4 soat",
+      "100 soat"
+    ],
+    "answer": 2,
+    "explanation": "Vaqt = masofa : tezlik = 20 : 5 = 4 soat.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-046",
+    "question": "200 ning 15 foizi nechaga teng?",
+    "options": [
+      "15",
+      "20",
+      "35",
+      "30"
+    ],
+    "answer": 3,
+    "explanation": "200 × 15 : 100 = 30.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-047",
+    "question": "Narxi 50 000 so‘m bo‘lgan ko‘ylakka 20 foiz chegirma qilindi. Endi u necha so‘m turadi?",
+    "options": [
+      "40 000 so‘m",
+      "30 000 so‘m",
+      "45 000 so‘m",
+      "10 000 so‘m"
+    ],
+    "answer": 0,
+    "explanation": "Chegirma 50 000 × 0,2 = 10 000 so‘m; yangi narx 50 000 − 10 000 = 40 000 so‘m.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-048",
+    "question": "Sinfda 30 o‘quvchi bor, ulardan 18 nafari qiz. O‘g‘il bolalar sinfning necha foizini tashkil qiladi?",
+    "options": [
+      "60%",
+      "40%",
+      "12%",
+      "35%"
+    ],
+    "answer": 1,
+    "explanation": "O‘g‘illar 30 − 18 = 12 nafar; 12 : 30 × 100 = 40%.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-049",
+    "question": "1 kg olma 12 000 so‘m turadi. 2,5 kg olma necha so‘m turadi?",
+    "options": [
+      "24 000 so‘m",
+      "27 000 so‘m",
+      "30 000 so‘m",
+      "36 000 so‘m"
+    ],
+    "answer": 2,
+    "explanation": "12 000 × 2,5 = 30 000 so‘m.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-050",
+    "question": "Hovlida 3 ta tovuq va 2 ta qo‘y bor. Ularning jami nechta oyog‘i bor?",
+    "options": [
+      "10",
+      "12",
+      "20",
+      "14"
+    ],
+    "answer": 3,
+    "explanation": "Tovuqlar: 3 × 2 = 6 oyoq, qo‘ylar: 2 × 4 = 8 oyoq; jami 6 + 8 = 14.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-051",
+    "question": "Quyidagi sonlardan qaysi biri 9 ga qoldiqsiz bo‘linadi?",
+    "options": [
+      "7425",
+      "7424",
+      "7426",
+      "7423"
+    ],
+    "answer": 0,
+    "explanation": "Raqamlari yig‘indisi 9 ga bo‘linsa, son ham 9 ga bo‘linadi: 7 + 4 + 2 + 5 = 18.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-053",
+    "question": "Hozir soat 22:00. 5 soatdan keyin soat necha bo‘ladi?",
+    "options": [
+      "02:00",
+      "04:00",
+      "03:00",
+      "05:00"
+    ],
+    "answer": 2,
+    "explanation": "22 + 5 = 27; sutkada 24 soat bo‘lgani uchun 27 − 24 = 3, ya’ni 03:00.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-054",
+    "question": "Bugun juma. Indindan keyingi kun (ya’ni 3 kundan keyin) haftaning qaysi kuni bo‘ladi?",
+    "options": [
+      "Yakshanba",
+      "Seshanba",
+      "Shanba",
+      "Dushanba"
+    ],
+    "answer": 3,
+    "explanation": "Juma + 1 = shanba, + 2 = yakshanba (indin), + 3 = dushanba.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-055",
+    "question": "Kabisa bo‘lmagan yilda nechta to‘liq hafta bor?",
+    "options": [
+      "52",
+      "50",
+      "53",
+      "48"
+    ],
+    "answer": 0,
+    "explanation": "365 : 7 = 52 (qoldiq 1). Demak, 52 ta to‘liq hafta va yana 1 kun bor.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-056",
+    "question": "Hech bir quvnoq odam zerikmaydi. Anvar — quvnoq odam. Qaysi xulosa albatta to‘g‘ri?",
+    "options": [
+      "Anvar zerikadi",
+      "Anvar zerikmaydi",
+      "Barcha zerikmaydiganlar quvnoq",
+      "Anvar ba’zan zerikadi"
+    ],
+    "answer": 1,
+    "explanation": "Quvnoqlarning hech biri zerikmaydi, Anvar esa quvnoqlar qatorida — demak, u zerikmaydi.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-057",
+    "question": "Navbatda Ra’nodan oldin 4 kishi, undan keyin 6 kishi turibdi. Navbatda jami nechta kishi bor?",
+    "options": [
+      "10",
+      "12",
+      "11",
+      "24"
+    ],
+    "answer": 2,
+    "explanation": "Oldidagilar 4, keyingilar 6, Ra’noning o‘zi 1: 4 + 6 + 1 = 11.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-058",
+    "question": "Alida 3 ta turli ko‘ylak va 2 ta turli shim bor. U bitta ko‘ylak va bitta shimni necha xil usulda tanlab kiyishi mumkin?",
+    "options": [
+      "5",
+      "8",
+      "9",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "Har bir ko‘ylakni har bir shim bilan juftlash mumkin: 3 × 2 = 6.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-059",
+    "question": "Qopda 3 ta qizil va 7 ta ko‘k shar bor. Tavakkaliga olingan bitta shar qizil bo‘lish ehtimoli qancha?",
+    "options": [
+      "3/10",
+      "3/7",
+      "7/10",
+      "1/3"
+    ],
+    "answer": 0,
+    "explanation": "Jami 3 + 7 = 10 ta shar, ulardan 3 tasi qizil: ehtimol 3/10.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-060",
+    "question": "Bir ishchi devorni 12 kunda quradi. Xuddi shunday tezlikda ishlaydigan 3 ishchi bu devorni necha kunda quradi?",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "36"
+    ],
+    "answer": 1,
+    "explanation": "Ish hajmi 12 kishi-kun; 3 ishchi uni 12 : 3 = 4 kunda bajaradi.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-061",
+    "question": "Raqamlari turlicha bo‘lgan eng katta uch xonali son qaysi?",
+    "options": [
+      "999",
+      "998",
+      "987",
+      "789"
+    ],
+    "answer": 2,
+    "explanation": "Yuzlar xonasiga eng katta 9, keyin 8, keyin 7 qo‘yiladi: 987.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-062",
+    "question": "1 dan 50 gacha (50 ham kiradi) nechta juft son bor?",
+    "options": [
+      "24",
+      "26",
+      "50",
+      "25"
+    ],
+    "answer": 3,
+    "explanation": "Juft sonlar 2, 4, …, 50: ular 50 : 2 = 25 ta.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-063",
+    "question": "Yarim soatning yarmining yarmi necha daqiqa?",
+    "options": [
+      "7,5 daqiqa",
+      "15 daqiqa",
+      "10 daqiqa",
+      "5 daqiqa"
+    ],
+    "answer": 0,
+    "explanation": "30 : 2 = 15, 15 : 2 = 7,5 daqiqa.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-064",
+    "question": "Hovlida tovuqlar va quyonlar bor. Ularning jami 20 ta boshi va 56 ta oyog‘i bor. Quyonlar nechta?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": 1,
+    "explanation": "Hammasi tovuq bo‘lsa 40 oyoq bo‘lardi. Ortiqcha 16 oyoq har quyonga 2 tadan: 16 : 2 = 8 quyon.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-065",
+    "question": "Ona qizidan 24 yosh katta. 6 yil oldin ona qizidan 4 marta katta edi. Qiz hozir necha yoshda?",
+    "options": [
+      "12",
+      "16",
+      "14",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "6 yil oldin qiz x yoshda, ona 4x: 4x − x = 24, x = 8. Hozir qiz 8 + 6 = 14 yoshda.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-066",
+    "question": "Hozir aka-ukaning yoshlari yig‘indisi 30 ga teng. 3 yil oldin aka ukasidan 2 marta katta edi. Aka hozir necha yoshda?",
+    "options": [
+      "20",
+      "18",
+      "21",
+      "19"
+    ],
+    "answer": 3,
+    "explanation": "Uka x yoshda bo‘lsa, aka 30 − x: 27 − x = 2(x − 3), x = 11. Aka 30 − 11 = 19 yoshda.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-067",
+    "question": "Birinchi quvur hovuzni 6 soatda, ikkinchisi 3 soatda to‘ldiradi. Ikkala quvur birga ochilsa, hovuz necha soatda to‘ladi?",
+    "options": [
+      "2 soat",
+      "4,5 soat",
+      "3 soat",
+      "1,5 soat"
+    ],
+    "answer": 0,
+    "explanation": "Bir soatda birga 1/6 + 1/3 = 1/2 qismini to‘ldiradi; butun hovuz 2 soatda to‘ladi.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-068",
+    "question": "Oralari 300 km bo‘lgan ikki shahardan bir vaqtda ikki avtomobil bir-biriga qarab yo‘lga chiqdi. Tezliklari soatiga 70 km va 80 km. Ular necha soatdan keyin uchrashadi?",
+    "options": [
+      "3 soat",
+      "2 soat",
+      "2,5 soat",
+      "4 soat"
+    ],
+    "answer": 1,
+    "explanation": "Yaqinlashish tezligi 70 + 80 = 150 km/soat; 300 : 150 = 2 soat.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-069",
+    "question": "Avtomobil A dan B ga soatiga 60 km, qaytishda esa soatiga 40 km tezlikda yurdi. Butun yo‘l bo‘yicha o‘rtacha tezligi qancha?",
+    "options": [
+      "50 km/soat",
+      "45 km/soat",
+      "48 km/soat",
+      "52 km/soat"
+    ],
+    "answer": 2,
+    "explanation": "Masofa 120 km bo‘lsin: borish 2 soat, qaytish 3 soat. 240 km : 5 soat = 48 km/soat.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-070",
+    "question": "Mahsulot narxi avval 20 foizga oshirildi, so‘ng yangi narx 20 foizga tushirildi. Natijada boshlang‘ich narxga nisbatan nima bo‘ldi?",
+    "options": [
+      "O‘zgarmadi",
+      "4% ga oshdi",
+      "2% ga kamaydi",
+      "4% ga kamaydi"
+    ],
+    "answer": 3,
+    "explanation": "1,2 × 0,8 = 0,96; demak, narx boshlang‘ichidan 4% ga kam.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-071",
+    "question": "Uchrashuvda har bir kishi qolgan har biri bilan bir martadan qo‘l berib ko‘rishdi. Jami 45 ta qo‘l berish bo‘ldi. Uchrashuvda necha kishi bo‘lgan?",
+    "options": [
+      "10",
+      "9",
+      "11",
+      "15"
+    ],
+    "answer": 0,
+    "explanation": "n kishida n(n − 1)/2 ta qo‘l berish bo‘ladi: 10 × 9 : 2 = 45.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-072",
+    "question": "5 kishi bir qatorga turmoqchi. Ali faqat qatorning chetida (birinchi yoki oxirgi o‘rinda) turishi kerak. Necha xil tartibda turish mumkin?",
+    "options": [
+      "24",
+      "48",
+      "120",
+      "96"
+    ],
+    "answer": 1,
+    "explanation": "Alining o‘rni 2 xil, qolgan 4 kishi 4! = 24 xil turadi: 2 × 24 = 48.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-073",
+    "question": "Soat 2:20 ni ko‘rsatganda soat va daqiqa millari orasidagi kichik burchak necha gradus?",
+    "options": [
+      "40°",
+      "60°",
+      "50°",
+      "45°"
+    ],
+    "answer": 2,
+    "explanation": "Daqiqa mili: 20 × 6° = 120°. Soat mili: 2 × 30° + 20 × 0,5° = 70°. Farq 50°.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-074",
+    "question": "Oyning 1-sanasi shanba kuniga to‘g‘ri keldi. Shu oyning 25-sanasi haftaning qaysi kuni?",
+    "options": [
+      "Dushanba",
+      "Chorshanba",
+      "Yakshanba",
+      "Seshanba"
+    ],
+    "answer": 3,
+    "explanation": "25 − 1 = 24 kun o‘tadi; 24 = 3 × 7 + 3. Shanbadan 3 kun keyin — seshanba.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-075",
+    "question": "Agar 2025-yilning 1-yanvari chorshanba bo‘lsa, 2025-yilning 1-marti haftaning qaysi kuni bo‘ladi?",
+    "options": [
+      "Shanba",
+      "Juma",
+      "Yakshanba",
+      "Payshanba"
+    ],
+    "answer": 0,
+    "explanation": "2025 kabisa emas: yanvar 31 + fevral 28 = 59 kun o‘tadi. 59 = 8 × 7 + 3; chorshanbadan 3 kun keyin — shanba.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-076",
+    "question": "Orolda rostgo‘ylar (doim rost gapiradi) va yolg‘onchilar (doim yolg‘on gapiradi) yashaydi. A dedi: «Ikkalamiz ham yolg‘onchimiz». A va B kim?",
+    "options": [
+      "A — rostgo‘y, B — yolg‘onchi",
+      "A — yolg‘onchi, B — rostgo‘y",
+      "Ikkalasi ham yolg‘onchi",
+      "Ikkalasi ham rostgo‘y"
+    ],
+    "answer": 1,
+    "explanation": "Rostgo‘y o‘zini yolg‘onchi demaydi, demak A yolg‘onchi. Uning gapi yolg‘on, ya’ni ikkalasi yolg‘onchi emas — B rostgo‘y.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-077",
+    "question": "2, 3, 4, 5 va 6 ga bo‘linganda har safar 1 qoldiq beradigan, 1 dan katta eng kichik natural son qaysi?",
+    "options": [
+      "31",
+      "121",
+      "61",
+      "59"
+    ],
+    "answer": 2,
+    "explanation": "Son − 1 son 2, 3, 4, 5, 6 ga bo‘linishi kerak; ularning EKUKi 60. Demak, 60 + 1 = 61.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-078",
+    "question": "Ikki xonali sonning raqamlari yig‘indisi 9 ga teng. Raqamlarining o‘rni almashtirilsa, son 27 ga ortadi. Bu qaysi son?",
+    "options": [
+      "63",
+      "45",
+      "27",
+      "36"
+    ],
+    "answer": 3,
+    "explanation": "Sonni 10a + b desak: a + b = 9 va 9(b − a) = 27, ya’ni b − a = 3. Demak a = 3, b = 6: 36.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-079",
+    "question": "Ketma-ketlikni davom ettiring: 3, 5, 9, 17, 33, ...",
+    "options": [
+      "65",
+      "49",
+      "64",
+      "66"
+    ],
+    "answer": 0,
+    "explanation": "Har bir son oldingisini 2 ga ko‘paytirib, 1 ni ayirishdan hosil bo‘ladi: 33 × 2 − 1 = 65.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-080",
+    "question": "Ketma-ketlikni davom ettiring: 2, 5, 4, 7, 6, 9, ...",
+    "options": [
+      "11",
+      "8",
+      "10",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "Navbat bilan +3 va −1 qilinadi: 6 + 3 = 9, 9 − 1 = 8.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-081",
+    "question": "Ketma-ketlikni davom ettiring: 1, 4, 13, 40, ...",
+    "options": [
+      "120",
+      "160",
+      "121",
+      "81"
+    ],
+    "answer": 2,
+    "explanation": "Har bir son oldingisini 3 ga ko‘paytirib, 1 qo‘shishdan hosil bo‘ladi: 40 × 3 + 1 = 121.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-082",
+    "question": "1 dan 30 gacha bo‘lgan sonlardan biri tavakkaliga tanlandi. Uning 4 ga qoldiqsiz bo‘linish ehtimoli qancha?",
+    "options": [
+      "1/4",
+      "2/15",
+      "4/15",
+      "7/30"
+    ],
+    "answer": 3,
+    "explanation": "4 ga bo‘linadiganlar: 4, 8, …, 28 — jami 7 ta. Ehtimol 7/30.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-083",
+    "question": "Uchta tanga tashlandi. Kamida bittasining «gerb» tomoni bilan tushish ehtimoli qancha?",
+    "options": [
+      "7/8",
+      "1/2",
+      "3/8",
+      "3/4"
+    ],
+    "answer": 0,
+    "explanation": "Birorta ham gerb tushmasligi ehtimoli (1/2)³ = 1/8. Demak, kamida bitta gerb: 1 − 1/8 = 7/8.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-084",
+    "question": "Hamyonda faqat 500 va 1000 so‘mlik kupyuralar bor: jami 12 dona, umumiy summasi 8 500 so‘m. 1000 so‘mlik kupyuralar nechta?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Hammasi 500 lik bo‘lsa 6 000 so‘m bo‘lardi. Ortiqcha 2 500 so‘m, har 1000 lik 500 qo‘shadi: 2 500 : 500 = 5.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-085",
+    "question": "Daryo bo‘yida 6 kishi turibdi. Qayiqqa ko‘pi bilan 2 kishi sig‘adi, uni har doim kimdir boshqarishi kerak. Hamma narigi qirg‘oqqa o‘tishi uchun qayiq kamida necha marta suzishi kerak (borish va qaytish alohida sanaladi)?",
+    "options": [
+      "11",
+      "6",
+      "9",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "Har «borish–qaytish» qirg‘oqqa sof 1 kishi o‘tkazadi. 4 ta shunday juftlik (8 suzish) dan so‘ng qolgan 2 kishi bir suzishda o‘tadi: 9.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-086",
+    "question": "Barcha shaxmatchilar — matematik. Ba’zi matematiklar — rassom. Qaysi xulosa albatta to‘g‘ri?",
+    "options": [
+      "Ba’zi shaxmatchilar — rassom",
+      "Barcha rassomlar — shaxmatchi",
+      "Hech bir shaxmatchi rassom emas",
+      "Berilganlardan hech biri albatta kelib chiqmaydi"
+    ],
+    "answer": 3,
+    "explanation": "Rassom matematiklar shaxmatchilar orasida bo‘lishi ham, bo‘lmasligi ham mumkin. Shuning uchun boshqa variantlarning hech biri qat’iy emas.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-087",
+    "question": "Agar yomg‘ir yog‘sa, Akmal soyabon oladi. Bugun Akmal soyabon olmadi. Qaysi xulosa albatta to‘g‘ri?",
+    "options": [
+      "Bugun yomg‘ir yog‘magan",
+      "Bugun yomg‘ir yoqqan",
+      "Akmalda soyabon yo‘q",
+      "Hech narsa aytib bo‘lmaydi"
+    ],
+    "answer": 0,
+    "explanation": "«Yomg‘ir → soyabon» to‘g‘ri bo‘lsa, «soyabon yo‘q → yomg‘ir yo‘q» ham to‘g‘ri. Soyabon olinmagan, demak yomg‘ir yog‘magan.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-088",
+    "question": "Yugurishda 5 do‘st qatnashdi. Doniyor birinchi keldi. Ali Validan oldin, ammo Salimdan keyin keldi. Erkin Validan keyin keldi. Kim uchinchi bo‘ldi?",
+    "options": [
+      "Vali",
+      "Ali",
+      "Salim",
+      "Erkin"
+    ],
+    "answer": 1,
+    "explanation": "Doniyor 1-o‘rinda; qolganlar Salim → Ali → Vali → Erkin tartibida. Demak, tartib: Doniyor, Salim, Ali, Vali, Erkin.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-089",
+    "question": "Soat har soatda 2 daqiqa orqada qoladi. U kunduzi aynan 12:00 da to‘g‘rilab qo‘yildi. Haqiqiy vaqt 18:00 bo‘lganda bu soat nechani ko‘rsatadi?",
+    "options": [
+      "17:52",
+      "18:12",
+      "17:48",
+      "17:54"
+    ],
+    "answer": 2,
+    "explanation": "6 soat ichida 6 × 2 = 12 daqiqa orqada qoladi: 18:00 − 12 daqiqa = 17:48.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-090",
+    "question": "3 ta tovuq 3 kunda 3 ta tuxum qo‘yadi. Xuddi shunday 12 ta tovuq 12 kunda nechta tuxum qo‘yadi?",
+    "options": [
+      "12",
+      "36",
+      "144",
+      "48"
+    ],
+    "answer": 3,
+    "explanation": "Bitta tovuq 3 kunda 1 ta tuxum qo‘yadi. 12 kunda u 4 ta qo‘yadi; 12 ta tovuq: 12 × 4 = 48.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-091",
+    "question": "To‘rtta sonning o‘rta arifmetigi 15 ga teng. Ularga beshinchi son qo‘shilgach, o‘rta arifmetik 18 bo‘ldi. Beshinchi son nechaga teng?",
+    "options": [
+      "30",
+      "21",
+      "18",
+      "33"
+    ],
+    "answer": 0,
+    "explanation": "Avval yig‘indi 4 × 15 = 60, keyin 5 × 18 = 90. Beshinchi son: 90 − 60 = 30.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-092",
+    "question": "Ikki ota va ikki o‘g‘il baliq oviga borishdi. Har biri bittadan baliq tutdi, lekin jami 3 ta baliq bo‘ldi. Ovga eng kamida necha kishi borgan?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "Bobo, uning o‘g‘li va nabirasi borgan: o‘g‘il ham ota, ham o‘g‘il. Ikki ota (bobo, o‘g‘il), ikki o‘g‘il (o‘g‘il, nabira) — 3 kishi.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-093",
+    "question": "Orolda rostgo‘ylar (doim rost) va yolg‘onchilar (doim yolg‘on gapiradi) yashaydi. A: «B — yolg‘onchi». B: «C — yolg‘onchi». C: «A ham, B ham yolg‘onchi». Kim rostgo‘y?",
+    "options": [
+      "Faqat A",
+      "Faqat C",
+      "Faqat B",
+      "A va C"
+    ],
+    "answer": 2,
+    "explanation": "C rost bo‘lsa, A va B yolg‘onchi, lekin A ning «B yolg‘onchi» gapi rost chiqadi — ziddiyat. Demak C yolg‘onchi, B rostgo‘y, A yolg‘onchi.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-094",
+    "question": "Orolda rostgo‘ylar (doim rost) va yolg‘onchilar (doim yolg‘on gapiradi) yashaydi. Uch kishining har biri: «Oramizda aynan bitta yolg‘onchi bor», dedi. Ular orasida nechta yolg‘onchi bor?",
+    "options": [
+      "1",
+      "2",
+      "0",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "Agar kimdir rost gapirsa, yolg‘onchi aynan 1 ta bo‘ladi, lekin u ham shu rost gapni aytgan — ziddiyat. Demak, hammasi yolg‘onchi: 3 ta.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-095",
+    "question": "100 kg tarvuzning 99 foizi suvdan iborat edi. Bir oz qurigandan keyin suv ulushi 98 foizga tushdi. Endi tarvuz necha kilogramm?",
+    "options": [
+      "50 kg",
+      "99 kg",
+      "98 kg",
+      "90 kg"
+    ],
+    "answer": 0,
+    "explanation": "Quruq modda 1 kg va o‘zgarmaydi. Endi u massaning 2% ini tashkil qiladi: 1 : 0,02 = 50 kg.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-096",
+    "question": "Soat 3:00 dan keyin soat va daqiqa millari birinchi marta qachon ustma-ust tushadi?",
+    "options": [
+      "3 soat 15 daqiqada",
+      "3 soat 16 4/11 daqiqada",
+      "3 soat 16 daqiqada",
+      "3 soat 17 daqiqada"
+    ],
+    "answer": 1,
+    "explanation": "Daqiqa mili soat milini daqiqasiga 5,5° dan quvadi; 3:00 da oraliq 90°. 90 : 5,5 = 16 4/11 daqiqa.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-097",
+    "question": "1 dan 100 gacha bo‘lgan natural sonlardan nechtasi 3 ga yoki 5 ga (kamida bittasiga) qoldiqsiz bo‘linadi?",
+    "options": [
+      "53",
+      "45",
+      "47",
+      "50"
+    ],
+    "answer": 2,
+    "explanation": "3 ga: 33 ta, 5 ga: 20 ta, ikkalasiga (15 ga): 6 ta. 33 + 20 − 6 = 47.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-098",
+    "question": "1 dan 100 gacha bo‘lgan barcha sonlar ketma-ket yozib chiqildi. Jami nechta raqam yozildi?",
+    "options": [
+      "190",
+      "200",
+      "189",
+      "192"
+    ],
+    "answer": 3,
+    "explanation": "1–9: 9 ta, 10–99: 90 × 2 = 180 ta, 100: 3 ta raqam. Jami 9 + 180 + 3 = 192.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-099",
+    "question": "1 dan 100 gacha bo‘lgan sonlarni yozishda 7 raqami necha marta yoziladi?",
+    "options": [
+      "20",
+      "19",
+      "11",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "Birlar xonasida: 7, 17, …, 97 — 10 marta. O‘nlar xonasida: 70–79 — 10 marta (77 ikkala hisobda bor). Jami 20.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-100",
+    "question": "Ali ishni yolg‘iz 10 kunda, Vali 15 kunda bajaradi. Ular 2 kun birga ishlashdi, so‘ng Ali ketdi. Qolgan ishni Vali yolg‘iz necha kunda tugatadi?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "Birga kuniga 1/10 + 1/15 = 1/6 ish. 2 kunda 1/3 bajarildi, 2/3 qoldi. Vali: (2/3) : (1/15) = 10 kun.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-101",
+    "question": "Uzunligi 200 m bo‘lgan poyezd soatiga 72 km tezlikda harakatlanib, uzunligi 400 m bo‘lgan ko‘prikdan to‘liq o‘tdi. Bunga necha soniya ketdi?",
+    "options": [
+      "20 soniya",
+      "10 soniya",
+      "30 soniya",
+      "25 soniya"
+    ],
+    "answer": 2,
+    "explanation": "72 km/soat = 20 m/s. Poyezd ko‘prik va o‘z uzunligini bosib o‘tadi: (400 + 200) : 20 = 30 soniya.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-102",
+    "question": "Ketma-ketlikni davom ettiring: 1, 2, 6, 15, 31, ...",
+    "options": [
+      "47",
+      "48",
+      "62",
+      "56"
+    ],
+    "answer": 3,
+    "explanation": "Ayirmalar 1, 4, 9, 16 — ketma-ket kvadratlar. Keyingi ayirma 5² = 25: 31 + 25 = 56.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-103",
+    "question": "Kabisa yili dushanba kuni bilan boshlandi. Shu yilda nechta dushanba bor?",
+    "options": [
+      "53",
+      "52",
+      "54",
+      "51"
+    ],
+    "answer": 0,
+    "explanation": "366 kun = 52 hafta + 2 kun. Ortiqcha 2 kun yil boshidagi dushanba va seshanbaga to‘g‘ri keladi, shuning uchun dushanba 53 ta.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-104",
+    "question": "Natural son 7 ga qoldiqsiz bo‘linadi, 2, 3, 4, 5 va 6 ga bo‘linganda esa har safar 1 qoldiq beradi. Bunday eng kichik son qaysi?",
+    "options": [
+      "61",
+      "301",
+      "121",
+      "421"
+    ],
+    "answer": 1,
+    "explanation": "Son 60k + 1 ko‘rinishida: 61, 121, 181, 241, 301… Ulardan birinchi bo‘lib 7 ga bo‘linadigani 301 = 7 × 43.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-105",
+    "question": "Qayiq daryo oqimi bo‘ylab 36 km ni 3 soatda, oqimga qarshi esa xuddi shu 36 km ni 4 soatda suzib o‘tdi. Daryo oqimining tezligi qancha?",
+    "options": [
+      "3 km/soat",
+      "2 km/soat",
+      "1,5 km/soat",
+      "1 km/soat"
+    ],
+    "answer": 2,
+    "explanation": "Oqim bo‘ylab 12 km/soat, qarshi 9 km/soat. Oqim tezligi ularning ayirmasining yarmi: (12 − 9) : 2 = 1,5 km/soat.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-106",
+    "question": "10 000 so‘mni 1 000, 2 000 va 5 000 so‘mlik kupyuralar bilan necha xil usulda to‘lash mumkin (kupyuralar tartibi ahamiyatsiz)?",
+    "options": [
+      "8",
+      "12",
+      "9",
+      "10"
+    ],
+    "answer": 3,
+    "explanation": "5 000 lik 2 ta: 1 usul; 1 ta: qolgan 5 000 ga 2 000 lik 0–2 ta — 3 usul; 0 ta: 2 000 lik 0–5 ta — 6 usul. Jami 10.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
   }
 ]

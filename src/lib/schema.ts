@@ -15,10 +15,11 @@ export const DIFFICULTY_POINTS: Record<Difficulty, number> = {
 export const QuestionSchema = z
   .object({
     id: z.string().regex(/^[a-z]+-\d{3,}$/, "id formati: <kategoriya>-<raqam>, masalan geo-012"),
-    question: z.string().trim().min(10),
-    options: z.array(z.string().trim().min(1)).length(4),
+    // Uzunlik cheklovlari Telegram quiz-poll limitlariga mos (savol 300, variant 100, izoh 200).
+    question: z.string().trim().min(10).max(300),
+    options: z.array(z.string().trim().min(1).max(100)).length(4),
     answer: z.number().int().min(0).max(3),
-    explanation: z.string().trim().min(10),
+    explanation: z.string().trim().min(10).max(200),
     category: z.string().min(1),
     difficulty: z.enum(DIFFICULTIES),
     source: z.string().trim().min(3),

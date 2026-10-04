@@ -527,5 +527,1173 @@
     "difficulty": "hard",
     "source": "https://www.britannica.com/sports/volleyball",
     "status": "verified"
+  },
+  {
+    "id": "spo-034",
+    "question": "Tennisda o‘yinchining nol ochkoli hisobi maxsus qanday ataladi?",
+    "options": [
+      "Lav (love)",
+      "Dyus (deuce)",
+      "Ess (ace)",
+      "Brek (break)"
+    ],
+    "answer": 0,
+    "explanation": "Tennisda nol hisob «love» (lav) deb ataladi: masalan, 15:0 «fifteen–love» deb e’lon qilinadi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/sports/tennis",
+    "status": "verified"
+  },
+  {
+    "id": "spo-035",
+    "question": "Tennisda geym davomida 40:40 hisobi qanday ataladi?",
+    "options": [
+      "Lav (love)",
+      "Dyus (deuce)",
+      "Tay-breyk",
+      "Ess (ace)"
+    ],
+    "answer": 1,
+    "explanation": "40:40 hisobi «dyus» deyiladi; geymni yutish uchun shundan keyin ketma-ket ikki ochko olish kerak.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/sports/tennis",
+    "status": "verified"
+  },
+  {
+    "id": "spo-036",
+    "question": "Tennisda nechta turnir «Katta dubulg‘a» (Grand Slam) turnirlari hisoblanadi?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "Katta dubulg‘a to‘rt turnirdan iborat: Avstraliya ochiq chempionati, Roland Garros, Uimbldon va AQSh ochiq chempionati.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Grand_Slam_(tennis)",
+    "status": "verified"
+  },
+  {
+    "id": "spo-037",
+    "question": "Professional boksda bitta raund odatda necha daqiqa davom etadi?",
+    "options": [
+      "2 daqiqa",
+      "5 daqiqa",
+      "4 daqiqa",
+      "3 daqiqa"
+    ],
+    "answer": 3,
+    "explanation": "Erkaklar professional boksida har bir raund 3 daqiqa, raundlar orasidagi tanaffus esa 1 daqiqa davom etadi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/sports/boxing",
+    "status": "verified"
+  },
+  {
+    "id": "spo-038",
+    "question": "Olimpiya suzish basseynining uzunligi qancha?",
+    "options": [
+      "50 m",
+      "25 m",
+      "100 m",
+      "40 m"
+    ],
+    "answer": 0,
+    "explanation": "Olimpiya o‘yinlaridagi suzish musobaqalari uzunligi 50 metr bo‘lgan basseynda o‘tkaziladi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Olympic-size_swimming_pool",
+    "status": "verified"
+  },
+  {
+    "id": "spo-039",
+    "question": "Olimpiya shiori «Citius, Altius, Fortius» qaysi tilda yozilgan?",
+    "options": [
+      "Yunon tilida",
+      "Lotin tilida",
+      "Fransuz tilida",
+      "Ingliz tilida"
+    ],
+    "answer": 1,
+    "explanation": "«Citius, Altius, Fortius» lotincha bo‘lib, «Tezroq, yuqoriroq, kuchliroq» ma’nosini beradi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Olympic_motto",
+    "status": "verified"
+  },
+  {
+    "id": "spo-040",
+    "question": "2018-yilgi futbol bo‘yicha jahon chempionati qaysi davlatda o‘tkazilgan?",
+    "options": [
+      "Germaniya",
+      "Braziliya",
+      "Rossiya",
+      "Janubiy Afrika Respublikasi"
+    ],
+    "answer": 2,
+    "explanation": "2018-yilgi FIFA jahon chempionati Rossiyaning 11 ta shahrida bo‘lib o‘tgan.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup",
+    "status": "verified"
+  },
+  {
+    "id": "spo-041",
+    "question": "2022-yilgi futbol bo‘yicha jahon chempionatida qaysi terma jamoa g‘olib bo‘lgan?",
+    "options": [
+      "Fransiya",
+      "Xorvatiya",
+      "Marokash",
+      "Argentina"
+    ],
+    "answer": 3,
+    "explanation": "Argentina finalda Fransiya bilan 3:3 durang o‘ynab, penaltilar seriyasida g‘alaba qozongan.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_final",
+    "status": "verified"
+  },
+  {
+    "id": "spo-042",
+    "question": "2018-yilgi futbol bo‘yicha jahon chempionatida qaysi terma jamoa chempion bo‘lgan?",
+    "options": [
+      "Fransiya",
+      "Xorvatiya",
+      "Belgiya",
+      "Angliya"
+    ],
+    "answer": 0,
+    "explanation": "Fransiya Moskvadagi finalda Xorvatiyani 4:2 hisobida yengib, ikkinchi marta jahon chempioni bo‘lgan.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_final",
+    "status": "verified"
+  },
+  {
+    "id": "spo-043",
+    "question": "Quyidagilardan qaysi biri qilichbozlik (fextovaniye) qurollari qatoriga KIRMAYDI?",
+    "options": [
+      "Shpaga",
+      "Katana",
+      "Rapira",
+      "Sablya"
+    ],
+    "answer": 1,
+    "explanation": "Zamonaviy qilichbozlikda uch xil qurol bor: shpaga, rapira va sablya. Katana — yapon qilichi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/sports/fencing",
+    "status": "verified"
+  },
+  {
+    "id": "spo-044",
+    "question": "Dzyudo sport turi qaysi mamlakatda paydo bo‘lgan?",
+    "options": [
+      "Xitoy",
+      "Koreya",
+      "Yaponiya",
+      "Tailand"
+    ],
+    "answer": 2,
+    "explanation": "Dzyudoni 1882-yilda yaponiyalik Kano Jigoro asos solgan.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/sports/judo",
+    "status": "verified"
+  },
+  {
+    "id": "spo-045",
+    "question": "Shaxmatda shohga hujum qilingan va undan qutulishning iloji qolmagan holat nima deb ataladi?",
+    "options": [
+      "Pat",
+      "Rokirovka",
+      "Gambit",
+      "Mot"
+    ],
+    "answer": 3,
+    "explanation": "Mot — shoh shax ostida bo‘lib, undan qutulishning qonuniy yo‘li qolmagan holat; bu o‘yinning yutqazilishini bildiradi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/topic/chess",
+    "status": "verified"
+  },
+  {
+    "id": "spo-046",
+    "question": "2014-yilgi qishki Olimpiya o‘yinlari qaysi shaharda o‘tkazilgan?",
+    "options": [
+      "Sochi",
+      "Vankuver",
+      "Pxyonchxan",
+      "Pekin"
+    ],
+    "answer": 0,
+    "explanation": "XXII qishki Olimpiya o‘yinlari 2014-yilda Rossiyaning Sochi shahrida bo‘lib o‘tgan.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.olympics.com/en/olympic-games/sochi-2014",
+    "status": "verified"
+  },
+  {
+    "id": "spo-047",
+    "question": "Formula 1 poygasining marra chizig‘ida g‘olibga qanday bayroq silkitiladi?",
+    "options": [
+      "Qizil bayroq",
+      "Oq-qora katakli bayroq",
+      "Sariq bayroq",
+      "Ko‘k bayroq"
+    ],
+    "answer": 1,
+    "explanation": "Poyga yakunini oq-qora katakli (shaxmat) bayroq bildiradi; qizil bayroq esa poygani to‘xtatish belgisi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/sports/automobile-racing",
+    "status": "verified"
+  },
+  {
+    "id": "spo-048",
+    "question": "Futbolda hakam o‘yinchini maydondan chetlatish uchun qaysi rangdagi kartochkani ko‘rsatadi?",
+    "options": [
+      "Sariq",
+      "Yashil",
+      "Qizil",
+      "Oq"
+    ],
+    "answer": 2,
+    "explanation": "Qizil kartochka o‘yinchining maydondan chetlatilganini bildiradi; sariq kartochka esa ogohlantirishdir.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.theifab.com/laws/latest/fouls-and-misconduct/",
+    "status": "verified"
+  },
+  {
+    "id": "spo-049",
+    "question": "Kurash qaysi xalqning an’anaviy milliy kurashi asosida xalqaro sport turiga aylantirilgan?",
+    "options": [
+      "Yapon",
+      "Mo‘g‘ul",
+      "Turk",
+      "O‘zbek"
+    ],
+    "answer": 3,
+    "explanation": "Kurash — o‘zbek xalqining qadimiy milliy kurashi; uning zamonaviy qoidalari Komil Yusupov tomonidan ishlab chiqilgan.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Kurash",
+    "status": "verified"
+  },
+  {
+    "id": "spo-050",
+    "question": "Badmintonda to‘p o‘rniga nima ishlatiladi?",
+    "options": [
+      "Volan",
+      "Shayba",
+      "Tennis to‘pi",
+      "Disk"
+    ],
+    "answer": 0,
+    "explanation": "Badmintonda raketkalar bilan patli yoki sintetik volan (shuttlecock) urib o‘ynaladi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/sports/badminton",
+    "status": "verified"
+  },
+  {
+    "id": "spo-051",
+    "question": "«Tur de Frans» qaysi sport turidagi mashhur musobaqa?",
+    "options": [
+      "Avtopoyga",
+      "Velosport",
+      "Yengil atletika",
+      "Ot sporti"
+    ],
+    "answer": 1,
+    "explanation": "«Tur de Frans» — 1903-yildan beri o‘tkazib kelinayotgan ko‘p bosqichli velopoyga.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/sports/Tour-de-France",
+    "status": "verified"
+  },
+  {
+    "id": "spo-052",
+    "question": "2016-yilgi yozgi Olimpiya o‘yinlari qaysi shaharda o‘tkazilgan?",
+    "options": [
+      "London",
+      "Tokio",
+      "Rio-de-Janeyro",
+      "Pekin"
+    ],
+    "answer": 2,
+    "explanation": "XXXI yozgi Olimpiya o‘yinlari 2016-yilda Braziliyaning Rio-de-Janeyro shahrida o‘tgan — Janubiy Amerikadagi ilk Olimpiada.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.olympics.com/en/olympic-games/rio-2016",
+    "status": "verified"
+  },
+  {
+    "id": "spo-054",
+    "question": "Shaxmat o‘yinini qaysi rangdagi donalar boshlaydi?",
+    "options": [
+      "Oq donalar",
+      "Qora donalar",
+      "Qur’a tushgan rang",
+      "Hakam tanlagan rang"
+    ],
+    "answer": 0,
+    "explanation": "Shaxmat qoidalariga ko‘ra birinchi yurishni har doim oq donalar bilan o‘ynayotgan o‘yinchi qiladi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://handbook.fide.com/chapter/E012023",
+    "status": "verified"
+  },
+  {
+    "id": "spo-055",
+    "question": "Basketbolda muvaffaqiyatli jarima to‘pi (erkin tashlash) necha ochko beradi?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "0,5"
+    ],
+    "answer": 1,
+    "explanation": "Basketbolda har bir muvaffaqiyatli jarima to‘pi 1 ochko keltiradi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/sports/basketball",
+    "status": "verified"
+  },
+  {
+    "id": "spo-056",
+    "question": "Kriket sport turi qaysi mamlakatda paydo bo‘lgan?",
+    "options": [
+      "Hindiston",
+      "Avstraliya",
+      "Angliya",
+      "AQSh"
+    ],
+    "answer": 2,
+    "explanation": "Kriket Angliyada paydo bo‘lgan va keyinchalik Britaniya imperiyasi orqali dunyoga tarqalgan.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/sports/cricket-sport",
+    "status": "verified"
+  },
+  {
+    "id": "spo-057",
+    "question": "Olimpiya halqalarida quyidagi ranglardan qaysi biri YO‘Q?",
+    "options": [
+      "Ko‘k",
+      "Yashil",
+      "Qizil",
+      "Binafsha"
+    ],
+    "answer": 3,
+    "explanation": "Olimpiya halqalari ko‘k, sariq, qora, yashil va qizil rangda bo‘lib, oq fonda tasvirlanadi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.olympics.com/ioc/olympic-rings",
+    "status": "verified"
+  },
+  {
+    "id": "spo-058",
+    "question": "Yozgi Olimpiya o‘yinlari odatda necha yilda bir marta o‘tkaziladi?",
+    "options": [
+      "4 yilda",
+      "2 yilda",
+      "3 yilda",
+      "5 yilda"
+    ],
+    "answer": 0,
+    "explanation": "Yozgi Olimpiya o‘yinlari to‘rt yillik sikl — Olimpiada bilan har to‘rt yilda bir marta o‘tkaziladi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/sports/Olympic-Games",
+    "status": "verified"
+  },
+  {
+    "id": "spo-059",
+    "question": "Standart yengil atletika stadioni yugurish yo‘lakchasining bir aylanasi (1-yo‘lak bo‘yicha) qancha?",
+    "options": [
+      "200 m",
+      "400 m",
+      "500 m",
+      "300 m"
+    ],
+    "answer": 1,
+    "explanation": "Standart yengil atletika yo‘lakchasining ichki yo‘lak bo‘yicha uzunligi 400 metrni tashkil etadi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Running_track",
+    "status": "verified"
+  },
+  {
+    "id": "spo-060",
+    "question": "Olimpiya suzish musobaqalarida nechta asosiy suzish usuli mavjud?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "To‘rtta usul bor: erkin usul (kraul), chalqancha, brass va batterflyay.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/sports/swimming-sport",
+    "status": "verified"
+  },
+  {
+    "id": "spo-061",
+    "question": "Shaxmatda piyoda raqib tomonining oxirgi qatoriga yetib borganda nima bo‘ladi?",
+    "options": [
+      "Taxtadan olib tashlanadi",
+      "Orqaga qaytadi",
+      "O‘yin durang bilan tugaydi",
+      "Boshqa donaga aylantiriladi"
+    ],
+    "answer": 3,
+    "explanation": "Oxirgi qatorga yetgan piyoda shohdan boshqa istalgan dona — farzin, rux, fil yoki otga aylantiriladi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/topic/chess",
+    "status": "verified"
+  },
+  {
+    "id": "spo-062",
+    "question": "2018-yilgi qishki Olimpiya o‘yinlari qaysi shaharda o‘tkazilgan?",
+    "options": [
+      "Pxyonchxan",
+      "Sochi",
+      "Sapporo",
+      "Nagano"
+    ],
+    "answer": 0,
+    "explanation": "XXIII qishki Olimpiya o‘yinlari 2018-yilda Janubiy Koreyaning Pxyonchxan shahrida bo‘lib o‘tgan.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.olympics.com/en/olympic-games/pyeongchang-2018",
+    "status": "verified"
+  },
+  {
+    "id": "spo-063",
+    "question": "Yengil atletikada erkaklar o‘nkurashi (dekatlon) nechta turdan iborat?",
+    "options": [
+      "7",
+      "10",
+      "5",
+      "12"
+    ],
+    "answer": 1,
+    "explanation": "Dekatlon ikki kun davomida o‘tkaziladigan 10 ta yugurish, sakrash va uloqtirish turidan iborat.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/sports/decathlon",
+    "status": "verified"
+  },
+  {
+    "id": "spo-064",
+    "question": "Og‘ir atletikada sportchilar qaysi ikki mashqda bellashadi?",
+    "options": [
+      "Skameykada siqish va o‘lik tortish",
+      "O‘tirib turish va skameykada siqish",
+      "Yulqib ko‘tarish va siltab ko‘tarish",
+      "Yulqib ko‘tarish va o‘lik tortish"
+    ],
+    "answer": 2,
+    "explanation": "Og‘ir atletikada natija yulqib ko‘tarish (snatch) va siltab ko‘tarish (clean and jerk) yig‘indisi bilan aniqlanadi.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/sports/weightlifting",
+    "status": "verified"
+  },
+  {
+    "id": "spo-065",
+    "question": "Qaysi kurash turida raqibning belidan pastki qismini ushlash va oyoq bilan usul qo‘llash taqiqlanadi?",
+    "options": [
+      "Erkin kurash",
+      "Sambo",
+      "Dzyudo",
+      "Yunon-rum kurashi"
+    ],
+    "answer": 3,
+    "explanation": "Yunon-rum kurashida faqat beldan yuqori qism bilan kurashiladi; erkin kurashda esa oyoqlardan ushlashga ruxsat bor.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/sports/Greco-Roman-wrestling",
+    "status": "verified"
+  },
+  {
+    "id": "spo-066",
+    "question": "Quyidagi velopoygalardan qaysi biri uch «Gran-tur» qatoriga KIRMAYDI?",
+    "options": [
+      "Parij — Rube",
+      "Tur de Frans",
+      "Jiro (Italiya aylanasi)",
+      "Vuelta (Ispaniya aylanasi)"
+    ],
+    "answer": 0,
+    "explanation": "Gran-turlar: Jiro, Tur de Frans va Vuelta. Parij — Rube esa bir kunlik klassik poyga.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Grand_Tour_(cycling)",
+    "status": "verified"
+  },
+  {
+    "id": "spo-067",
+    "question": "«Tur de Frans» velopoygasida umumiy hisob yetakchisi qanday rangdagi mayka kiyadi?",
+    "options": [
+      "Pushti",
+      "Sariq",
+      "Qizil",
+      "Yashil"
+    ],
+    "answer": 1,
+    "explanation": "Tur de Fransda umumiy hisob yetakchisi sariq mayka kiyadi; pushti mayka Jiroga, qizil mayka Vueltaga xos.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/sports/Tour-de-France",
+    "status": "verified"
+  },
+  {
+    "id": "spo-068",
+    "question": "Avstraliya ochiq tennis chempionati qanday qoplamali kortlarda o‘tkaziladi?",
+    "options": [
+      "Maysa (o‘t)",
+      "Tuproq (grunt)",
+      "Qattiq qoplama",
+      "Gilam"
+    ],
+    "answer": 2,
+    "explanation": "Avstraliya ochiq chempionati Melburnda qattiq (hard) qoplamali kortlarda o‘tkaziladi.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/sports/Australian-Open",
+    "status": "verified"
+  },
+  {
+    "id": "spo-069",
+    "question": "Tennisda setni yutish uchun kamida nechta geym yutish kerak (ikki geym farq bilan)?",
+    "options": [
+      "4",
+      "5",
+      "7",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "Set kamida 6 ta geym va raqibdan 2 geym farq bilan yutiladi; 6:6 da odatda tay-breyk o‘ynaladi.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/sports/tennis",
+    "status": "verified"
+  },
+  {
+    "id": "spo-071",
+    "question": "Stol tennisida bitta partiya (geym) necha ochkogacha o‘ynaladi (ikki ochko farq bilan)?",
+    "options": [
+      "21",
+      "11",
+      "15",
+      "25"
+    ],
+    "answer": 1,
+    "explanation": "2001-yildan beri stol tennisida partiya 11 ochkogacha, kamida 2 ochko farq bilan o‘ynaladi.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/sports/table-tennis",
+    "status": "verified"
+  },
+  {
+    "id": "spo-072",
+    "question": "Sport gimnastikasida erkaklar ko‘pkurashi nechta snaryaddan iborat?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "Erkaklar 6 ta snaryadda chiqishadi: erkin mashqlar, dastakli ot, halqalar, tayanib sakrash, brus va turnik.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/sports/gymnastics",
+    "status": "verified"
+  },
+  {
+    "id": "spo-073",
+    "question": "Quyidagi gimnastika snaryadlaridan qaysi biri faqat ayollar dasturida mavjud?",
+    "options": [
+      "Halqalar",
+      "Dastakli ot",
+      "Turnik",
+      "Gimnastika g‘o‘lasi (brevno)"
+    ],
+    "answer": 3,
+    "explanation": "Ayollar 4 ta snaryadda chiqishadi: tayanib sakrash, turli balandlikdagi brus, g‘o‘la va erkin mashqlar.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/sports/gymnastics",
+    "status": "verified"
+  },
+  {
+    "id": "spo-074",
+    "question": "2004-yilda Liviyaning Tripoli shahrida FIDE versiyasi bo‘yicha shaxmat jahon chempioni bo‘lgan o‘zbekistonlik grossmeyster kim?",
+    "options": [
+      "Rustam Qosimjonov",
+      "Nodirbek Abdusattorov",
+      "Javohir Sindarov",
+      "Nodirbek Yoqubboyev"
+    ],
+    "answer": 0,
+    "explanation": "Rustam Qosimjonov 2004-yilgi FIDE jahon chempionati finalida Maykl Adamsni yengib, chempionlik unvonini olgan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Rustam_Kasimdzhanov",
+    "status": "verified"
+  },
+  {
+    "id": "spo-075",
+    "question": "2021-yilda Varshavada tezkor shaxmat (rapid) bo‘yicha jahon chempioni bo‘lgan o‘zbek shaxmatchisi kim?",
+    "options": [
+      "Rustam Qosimjonov",
+      "Nodirbek Abdusattorov",
+      "Javohir Sindarov",
+      "Shamsiddin Vohidov"
+    ],
+    "answer": 1,
+    "explanation": "Nodirbek Abdusattorov 2021-yilda 17 yoshida rapid bo‘yicha jahon chempioni bo‘lgan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Nodirbek_Abdusattorov",
+    "status": "verified"
+  },
+  {
+    "id": "spo-076",
+    "question": "Garri Kasparov qaysi yili Anatoliy Karpovni yengib, shaxmat bo‘yicha jahon chempioni bo‘lgan?",
+    "options": [
+      "1978",
+      "1990",
+      "1985",
+      "1993"
+    ],
+    "answer": 2,
+    "explanation": "Kasparov 1985-yilda Moskvada Karpovni yengib, 22 yoshida jahon chempioniga aylangan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/World_Chess_Championship_1985",
+    "status": "verified"
+  },
+  {
+    "id": "spo-077",
+    "question": "Magnus Karlsen qaysi yili Vishvanatan Anandni yengib, ilk bor shaxmat bo‘yicha jahon chempioni bo‘lgan?",
+    "options": [
+      "2010",
+      "2016",
+      "2008",
+      "2013"
+    ],
+    "answer": 3,
+    "explanation": "Karlsen 2013-yilda Hindistonning Chennay shahrida Anandni yengib, jahon chempioni unvonini qo‘lga kiritgan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/World_Chess_Championship_2013",
+    "status": "verified"
+  },
+  {
+    "id": "spo-078",
+    "question": "Bobbi Fisher Boris Spasskiyni yengib, shaxmat bo‘yicha jahon chempioni bo‘lgan o‘yin 1972-yilda qaysi shaharda o‘tgan?",
+    "options": [
+      "Reykyavik",
+      "Moskva",
+      "Nyu-York",
+      "Belgrad"
+    ],
+    "answer": 0,
+    "explanation": "1972-yilgi jahon chempionligi uchun o‘yin Islandiya poytaxti Reykyavikda bo‘lib o‘tgan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/World_Chess_Championship_1972",
+    "status": "verified"
+  },
+  {
+    "id": "spo-079",
+    "question": "2014-yilgi Braziliya jahon chempionatida qaysi terma jamoa g‘olib bo‘lgan?",
+    "options": [
+      "Argentina",
+      "Germaniya",
+      "Braziliya",
+      "Niderlandiya"
+    ],
+    "answer": 1,
+    "explanation": "Germaniya Rio-de-Janeyrodagi finalda Argentinani qo‘shimcha vaqtda 1:0 hisobida yengib, chempion bo‘lgan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_final",
+    "status": "verified"
+  },
+  {
+    "id": "spo-080",
+    "question": "2010-yilgi Janubiy Afrika jahon chempionatida qaysi terma jamoa chempion bo‘lgan?",
+    "options": [
+      "Niderlandiya",
+      "Germaniya",
+      "Ispaniya",
+      "Italiya"
+    ],
+    "answer": 2,
+    "explanation": "Ispaniya finalda Niderlandiyani qo‘shimcha vaqtda 1:0 hisobida yengib, ilk bor jahon chempioni bo‘lgan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final",
+    "status": "verified"
+  },
+  {
+    "id": "spo-081",
+    "question": "2002-yilgi futbol bo‘yicha jahon chempionatiga qaysi davlatlar birgalikda mezbonlik qilgan?",
+    "options": [
+      "Xitoy va Yaponiya",
+      "AQSh va Kanada",
+      "Avstriya va Shveysariya",
+      "Janubiy Koreya va Yaponiya"
+    ],
+    "answer": 3,
+    "explanation": "2002-yilgi jahon chempionati Osiyoda o‘tgan ilk va ikki davlat birgalikda mezbonlik qilgan birinchi chempionat bo‘lgan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup",
+    "status": "verified"
+  },
+  {
+    "id": "spo-082",
+    "question": "2024-yilgi Yevropa chempionati (Euro 2024) g‘olibi qaysi terma jamoa?",
+    "options": [
+      "Ispaniya",
+      "Angliya",
+      "Fransiya",
+      "Germaniya"
+    ],
+    "answer": 0,
+    "explanation": "Ispaniya Berlindagi finalda Angliyani 2:1 hisobida yengib, to‘rtinchi marta Yevropa chempioni bo‘lgan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/UEFA_Euro_2024_final",
+    "status": "verified"
+  },
+  {
+    "id": "spo-083",
+    "question": "2016-yilgi Yevropa chempionatida (Fransiya) qaysi terma jamoa g‘olib bo‘lgan?",
+    "options": [
+      "Fransiya",
+      "Portugaliya",
+      "Germaniya",
+      "Uels"
+    ],
+    "answer": 1,
+    "explanation": "Portugaliya finalda mezbon Fransiyani qo‘shimcha vaqtda 1:0 hisobida yengib, ilk bor Yevropa chempioni bo‘lgan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_final",
+    "status": "verified"
+  },
+  {
+    "id": "spo-084",
+    "question": "«Rio-2016» Olimpiadasida og‘ir atletika bo‘yicha (105 kg) oltin medal yutgan o‘zbek sportchisi kim?",
+    "options": [
+      "Akbar Jo‘rayev",
+      "Bahodir Jalolov",
+      "Ruslan Nurudinov",
+      "Bekzod Abdurahmonov"
+    ],
+    "answer": 2,
+    "explanation": "Ruslan Nurudinov 2016-yilgi Rio Olimpiadasida og‘ir atletikaning 105 kg vazn toifasida Olimpiya chempioni bo‘lgan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Ruslan_Nurudinov",
+    "status": "verified"
+  },
+  {
+    "id": "spo-085",
+    "question": "«Tokio-2020» Olimpiadasida boks bo‘yicha eng og‘ir (+91 kg) vazn toifasida oltin medal yutgan o‘zbek bokschisi kim?",
+    "options": [
+      "Hasanboy Do‘smatov",
+      "Shahobiddin Zoirov",
+      "Fazliddin G‘oibnazarov",
+      "Bahodir Jalolov"
+    ],
+    "answer": 3,
+    "explanation": "Bahodir Jalolov «Tokio-2020»da +91 kg toifasida oltin yutgan va bu muvaffaqiyatni «Parij-2024»da ham takrorlagan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Bakhodir_Jalolov",
+    "status": "verified"
+  },
+  {
+    "id": "spo-086",
+    "question": "«Rio-2016» Olimpiadasida boks bo‘yicha 49 kg vazn toifasida oltin medal yutgan o‘zbek bokschisi kim?",
+    "options": [
+      "Hasanboy Do‘smatov",
+      "Shahobiddin Zoirov",
+      "Bahodir Jalolov",
+      "Abdumalik Xalokov"
+    ],
+    "answer": 0,
+    "explanation": "Hasanboy Do‘smatov 2016-yilda Rioda 49 kg toifasida Olimpiya chempioni bo‘lgan va «Parij-2024»da 51 kg da yana oltin yutgan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Hasanboy_Dusmatov",
+    "status": "verified"
+  },
+  {
+    "id": "spo-087",
+    "question": "2024-yilgi Parij Olimpiadasida O‘zbekiston terma jamoasi jami nechta oltin medal qo‘lga kiritgan?",
+    "options": [
+      "5",
+      "8",
+      "4",
+      "10"
+    ],
+    "answer": 1,
+    "explanation": "O‘zbekiston «Parij-2024»da 8 ta oltin, 2 ta kumush va 3 ta bronza medal yutgan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Uzbekistan_at_the_2024_Summer_Olympics",
+    "status": "verified"
+  },
+  {
+    "id": "spo-088",
+    "question": "«Tokio-2020» va «Parij-2024» Olimpiadalarida taekvondo bo‘yicha (68 kg) ketma-ket oltin medal yutgan o‘zbek sportchisi kim?",
+    "options": [
+      "Nikita Rafalovich",
+      "Jasurbek Jaysunov",
+      "Ulug‘bek Rashitov",
+      "Dmitriy Shokin"
+    ],
+    "answer": 2,
+    "explanation": "Ulug‘bek Rashitov taekvondoning 68 kg toifasida 2021 va 2024-yillarda ikki marta Olimpiya chempioni bo‘lgan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Ulugbek_Rashitov",
+    "status": "verified"
+  },
+  {
+    "id": "spo-089",
+    "question": "2024-yilgi Parij Olimpiadasida dzyudo bo‘yicha ayollar o‘rtasida (52 kg) oltin medal yutgan o‘zbek sportchisi kim?",
+    "options": [
+      "Svetlana Osipova",
+      "Gulnoza Matniyozova",
+      "Farangiz Xo‘jamberdiyeva",
+      "Diyora Keldiyorova"
+    ],
+    "answer": 3,
+    "explanation": "Diyora Keldiyorova «Parij-2024»da 52 kg toifasida g‘olib bo‘lib, dzyudo bo‘yicha O‘zbekistonning ilk Olimpiya oltinini yutgan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Diyora_Keldiyorova",
+    "status": "verified"
+  },
+  {
+    "id": "spo-090",
+    "question": "Dzyudoda bellashuvni darhol yakunlaydigan, to‘liq g‘alaba keltiruvchi eng yuqori baho nima deb ataladi?",
+    "options": [
+      "Ippon",
+      "Vaza-ari",
+      "Shido",
+      "Hansoku-make"
+    ],
+    "answer": 0,
+    "explanation": "Ippon — to‘liq g‘alaba bahosi; vaza-ari yarim ball, shido esa jazo (ogohlantirish) hisoblanadi.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/sports/judo",
+    "status": "verified"
+  },
+  {
+    "id": "spo-091",
+    "question": "Shaxmatda navbatdagi o‘yinchining shohi shax ostida bo‘lmasa-da, uning birorta ham qonuniy yurishi qolmagan holat nima deyiladi?",
+    "options": [
+      "Mot",
+      "Pat",
+      "Sugtsvang",
+      "Gambit"
+    ],
+    "answer": 1,
+    "explanation": "Pat holatida o‘yin durang bilan tugaydi.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/topic/chess",
+    "status": "verified"
+  },
+  {
+    "id": "spo-092",
+    "question": "Regbi-ittifoq (rugby union) o‘yinida har bir jamoadan maydonda nechta o‘yinchi bo‘ladi?",
+    "options": [
+      "11",
+      "13",
+      "15",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "Regbi-ittifoqda har bir jamoa 15 nafar o‘yinchi bilan o‘ynaydi; regbi-ligada 13, regbi-7 da esa 7 nafar.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/sports/rugby",
+    "status": "verified"
+  },
+  {
+    "id": "spo-093",
+    "question": "Professional boksda jahon chempionligi uchun jang odatda necha raunddan iborat bo‘ladi?",
+    "options": [
+      "10",
+      "15",
+      "8",
+      "12"
+    ],
+    "answer": 3,
+    "explanation": "1980-yillardan beri erkaklar professional boksida chempionlik janglari 12 raund qilib o‘tkaziladi.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/sports/boxing",
+    "status": "verified"
+  },
+  {
+    "id": "spo-094",
+    "question": "Qaysi shahar ham yozgi (2008), ham qishki (2022) Olimpiya o‘yinlariga mezbonlik qilgan birinchi shahar bo‘lgan?",
+    "options": [
+      "Pekin",
+      "Tokio",
+      "Sapporo",
+      "Sochi"
+    ],
+    "answer": 0,
+    "explanation": "Pekin 2008-yilda yozgi, 2022-yilda esa qishki Olimpiya o‘yinlarini o‘tkazib, bu yutuqqa erishgan ilk shahar bo‘lgan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.olympics.com/en/olympic-games/beijing-2022",
+    "status": "verified"
+  },
+  {
+    "id": "spo-095",
+    "question": "Kompleks suzish (individual) musobaqasida birinchi bo‘lib qaysi usulda suziladi?",
+    "options": [
+      "Chalqancha",
+      "Brass",
+      "Batterflyay",
+      "Erkin usul"
+    ],
+    "answer": 2,
+    "explanation": "Individual kompleks suzish tartibi: batterflyay, chalqancha, brass va erkin usul.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Individual_medley",
+    "status": "verified"
+  },
+  {
+    "id": "spo-096",
+    "question": "Olimpiya o‘yinlarida klassik (rekursiv) kamondan otishda nishongacha bo‘lgan masofa qancha?",
+    "options": [
+      "50 m",
+      "90 m",
+      "30 m",
+      "70 m"
+    ],
+    "answer": 3,
+    "explanation": "Olimpiya kamondan otish musobaqalarida rekursiv kamon bilan 70 metr masofadan nishonga otiladi.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/sports/archery",
+    "status": "verified"
+  },
+  {
+    "id": "spo-097",
+    "question": "Rasmiy tan olingan birinchi shaxmat bo‘yicha jahon chempioni kim bo‘lgan?",
+    "options": [
+      "Vilgelm Steynits",
+      "Emanuel Lasker",
+      "Xose Raul Kapablanka",
+      "Aleksandr Alyoxin"
+    ],
+    "answer": 0,
+    "explanation": "Vilgelm Steynits 1886-yilda Iogann Sukertortni yengib, birinchi rasmiy jahon chempioni bo‘lgan.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/World_Chess_Championship_1886",
+    "status": "verified"
+  },
+  {
+    "id": "spo-098",
+    "question": "Bekzod Abdurahmonov «Tokio-2020» Olimpiadasida erkin kurash (74 kg) bo‘yicha qanday medal qo‘lga kiritgan?",
+    "options": [
+      "Oltin",
+      "Bronza",
+      "Kumush",
+      "Medal olmagan"
+    ],
+    "answer": 1,
+    "explanation": "Bekzod Abdurahmonov «Tokio-2020»da erkin kurashning 74 kg toifasida bronza medalni qo‘lga kiritgan.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Bekzod_Abdurakhmonov",
+    "status": "verified"
+  },
+  {
+    "id": "spo-099",
+    "question": "«Rio-2016» Olimpiadasida boks bo‘yicha 52 kg vazn toifasida Olimpiya chempioni bo‘lgan o‘zbek bokschisi kim?",
+    "options": [
+      "Hasanboy Do‘smatov",
+      "Fazliddin G‘oibnazarov",
+      "Shahobiddin Zoirov",
+      "Bahodir Jalolov"
+    ],
+    "answer": 2,
+    "explanation": "Shahobiddin Zoirov 2016-yilgi Rio Olimpiadasida 52 kg toifasida oltin medal yutgan.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Shakhobidin_Zoirov",
+    "status": "verified"
+  },
+  {
+    "id": "spo-100",
+    "question": "«Rio-2016» Olimpiadasida boks bo‘yicha 64 kg vazn toifasida oltin medal yutgan o‘zbek bokschisi kim?",
+    "options": [
+      "Shahobiddin Zoirov",
+      "Hasanboy Do‘smatov",
+      "Lazizbek Mullajonov",
+      "Fazliddin G‘oibnazarov"
+    ],
+    "answer": 3,
+    "explanation": "Fazliddin G‘oibnazarov 2016-yilda Rio-de-Janeyroda 64 kg toifasida Olimpiya chempioni bo‘lgan.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Fazliddin_Gaibnazarov",
+    "status": "verified"
+  },
+  {
+    "id": "spo-101",
+    "question": "2000-yilgi Sidney Olimpiadasida boks bo‘yicha oltin medal yutgan o‘zbek bokschisi kim?",
+    "options": [
+      "Muhammadqodir Abdullayev",
+      "Ruslan Chagayev",
+      "Hasanboy Do‘smatov",
+      "Bahodir Jalolov"
+    ],
+    "answer": 0,
+    "explanation": "Muhammadqodir Abdullayev 2000-yilgi Sidney Olimpiadasida 63,5 kg toifasida Olimpiya chempioni bo‘lgan.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Mahammatkodir_Abdoollayev",
+    "status": "verified"
+  },
+  {
+    "id": "spo-102",
+    "question": "«Tokio-2020» Olimpiadasida og‘ir atletika bo‘yicha (109 kg) oltin medal yutgan o‘zbek sportchisi kim?",
+    "options": [
+      "Ruslan Nurudinov",
+      "Akbar Jo‘rayev",
+      "Bahodir Jalolov",
+      "Ulug‘bek Rashitov"
+    ],
+    "answer": 1,
+    "explanation": "Akbar Jo‘rayev «Tokio-2020»da og‘ir atletikaning 109 kg toifasida Olimpiya chempioni bo‘lgan.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Akbar_Djuraev",
+    "status": "verified"
+  },
+  {
+    "id": "spo-103",
+    "question": "«Parij-2024» Olimpiadasida erkin kurash bo‘yicha (74 kg) oltin medal yutgan o‘zbek polvoni kim?",
+    "options": [
+      "Bekzod Abdurahmonov",
+      "Gulomjon Abdullayev",
+      "Razambek Jamalov",
+      "Muzaffarbek To‘raboyev"
+    ],
+    "answer": 2,
+    "explanation": "Razambek Jamalov «Parij-2024»da erkin kurashning 74 kg toifasida Olimpiya chempioni bo‘lgan.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Razambek_Zhamalov",
+    "status": "verified"
+  },
+  {
+    "id": "spo-104",
+    "question": "Erkaklar o‘nkurashining (dekatlon) eng so‘nggi, o‘ninchi turi qaysi?",
+    "options": [
+      "400 m ga yugurish",
+      "Nayza uloqtirish",
+      "Langarcho‘p bilan sakrash",
+      "1500 m ga yugurish"
+    ],
+    "answer": 3,
+    "explanation": "Dekatlonning ikkinchi kuni 110 m to‘siqli yugurish bilan boshlanib, 1500 m ga yugurish bilan yakunlanadi.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/sports/decathlon",
+    "status": "verified"
+  },
+  {
+    "id": "spo-105",
+    "question": "Yengil atletikada to‘siqlar osha yugurishning (stipl-chez) Olimpiya masofasi qancha?",
+    "options": [
+      "3000 m",
+      "2000 m",
+      "5000 m",
+      "1500 m"
+    ],
+    "answer": 0,
+    "explanation": "Olimpiya dasturidagi stipl-chez 3000 m masofada, to‘siqlar va suvli chuqur osha o‘tkaziladi.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/3000_metres_steeplechase",
+    "status": "verified"
+  },
+  {
+    "id": "spo-106",
+    "question": "Qilichbozlikning qaysi qurolida sportchi tanasining istalgan qismiga (boshdan oyoqqacha) tegish ochko hisoblanadi?",
+    "options": [
+      "Rapira",
+      "Shpaga",
+      "Sablya",
+      "Barcha qurollarda"
+    ],
+    "answer": 1,
+    "explanation": "Shpagada butun tana nishon hisoblanadi; rapirada faqat tana (gavda), sablyada esa beldan yuqori qism.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/sports/fencing",
+    "status": "verified"
+  },
+  {
+    "id": "spo-107",
+    "question": "Xalqaro kurash assotsiatsiyasi (IKA) qaysi yili va qayerda tashkil topgan?",
+    "options": [
+      "1991-yil, Samarqand",
+      "2001-yil, Tokio",
+      "1998-yil, Toshkent",
+      "1995-yil, Istanbul"
+    ],
+    "answer": 2,
+    "explanation": "Xalqaro kurash assotsiatsiyasi 1998-yil sentyabrda Toshkentda 28 davlat vakillari ishtirokidagi qurultoyda tashkil etilgan.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Kurash",
+    "status": "verified"
+  },
+  {
+    "id": "spo-108",
+    "question": "Kurash Osiyo o‘yinlari dasturiga ilk bor qaysi yili kiritilgan?",
+    "options": [
+      "2010",
+      "2014",
+      "2022",
+      "2018"
+    ],
+    "answer": 3,
+    "explanation": "Kurash ilk bor 2018-yilda Indoneziyaning Jakarta va Palembang shaharlarida o‘tgan Osiyo o‘yinlarida o‘tkazilgan.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Kurash_at_the_2018_Asian_Games",
+    "status": "verified"
   }
 ]
