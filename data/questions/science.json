@@ -1,0 +1,530 @@
+[
+  {
+    "id": "sci-001",
+    "question": "Kimyoviy belgisi Au bo‘lgan element qaysi?",
+    "options": [
+      "Kumush",
+      "Oltin",
+      "Alyuminiy",
+      "Argon"
+    ],
+    "answer": 1,
+    "explanation": "Au belgisi lotincha «aurum» so‘zidan olingan; oltinning atom raqami 79.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Gold",
+    "status": "verified"
+  },
+  {
+    "id": "sci-002",
+    "question": "Davriy jadvalda atom raqami 1 bo‘lgan element qaysi?",
+    "options": [
+      "Vodorod",
+      "Geliy",
+      "Litiy",
+      "Kislorod"
+    ],
+    "answer": 0,
+    "explanation": "Vodorod eng yengil va Koinotda eng ko‘p tarqalgan element; uning yadrosida bitta proton bor.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Hydrogen",
+    "status": "verified"
+  },
+  {
+    "id": "sci-003",
+    "question": "Xalqaro birliklar tizimida (SI) kuch qanday birlikda o‘lchanadi?",
+    "options": [
+      "Joul",
+      "Vatt",
+      "Paskal",
+      "Nyuton"
+    ],
+    "answer": 3,
+    "explanation": "Nyuton — 1 kg massaga 1 m/s² tezlanish beradigan kuch; birlik Isaak Nyuton sharafiga nomlangan.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Newton_(unit)",
+    "status": "verified"
+  },
+  {
+    "id": "sci-004",
+    "question": "Elektr qarshiligining SI birligi qaysi?",
+    "options": [
+      "Volt",
+      "Om",
+      "Amper",
+      "Farad"
+    ],
+    "answer": 1,
+    "explanation": "Om birligi nemis fizigi Georg Om nomi bilan atalgan; Om qonuniga ko‘ra U = I·R.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Ohm",
+    "status": "verified"
+  },
+  {
+    "id": "sci-005",
+    "question": "Inson tanasidagi eng katta organ qaysi?",
+    "options": [
+      "Jigar",
+      "O‘pka",
+      "Teri",
+      "Miya"
+    ],
+    "answer": 2,
+    "explanation": "Teri kattalarda taxminan 1,5–2 m² maydonni egallaydi; jigar esa eng katta ichki organ hisoblanadi.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Human_skin",
+    "status": "verified"
+  },
+  {
+    "id": "sci-006",
+    "question": "Penitsillinni 1928-yilda kim kashf etgan?",
+    "options": [
+      "Aleksandr Fleming",
+      "Lui Paster",
+      "Robert Kox",
+      "Edvard Jenner"
+    ],
+    "answer": 0,
+    "explanation": "Fleming zamburug‘ mog‘ori bakteriyalar o‘sishini to‘xtatganini payqagan; 1945-yilda Nobel mukofotiga sazovor bo‘lgan.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Alexander-Fleming",
+    "status": "verified"
+  },
+  {
+    "id": "sci-007",
+    "question": "Kimyoviy elementlar davriy jadvalini 1869-yilda kim e’lon qilgan?",
+    "options": [
+      "Antuan Lavuazye",
+      "Jon Dalton",
+      "Dmitriy Mendeleyev",
+      "Ernest Rezerford"
+    ],
+    "answer": 2,
+    "explanation": "Mendeleyev jadvalda hali kashf etilmagan elementlar uchun bo‘sh joy qoldirib, ularning xossalarini oldindan aytib bergan.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+    "status": "verified"
+  },
+  {
+    "id": "sci-008",
+    "question": "Hujayraning «energiya stansiyasi» deb ataladigan organoidi qaysi?",
+    "options": [
+      "Ribosoma",
+      "Golji apparati",
+      "Lizosoma",
+      "Mitoxondriya"
+    ],
+    "answer": 3,
+    "explanation": "Mitoxondriyada hujayra nafasi jarayonida ATF (adenozintrifosfat) hosil bo‘ladi; mitoxondriyaning o‘z DNKsi ham bor.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Mitochondrion",
+    "status": "verified"
+  },
+  {
+    "id": "sci-009",
+    "question": "Yer atmosferasida hajm bo‘yicha eng ko‘p tarqalgan gaz qaysi?",
+    "options": [
+      "Azot",
+      "Kislorod",
+      "Karbonat angidrid",
+      "Argon"
+    ],
+    "answer": 0,
+    "explanation": "Quruq havoning taxminan 78 foizi azot, 21 foizi kislorod, qariyb 0,9 foizi argondan iborat.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Atmosphere_of_Earth",
+    "status": "verified"
+  },
+  {
+    "id": "sci-010",
+    "question": "E = mc² formulasi qaysi olimning nisbiylik nazariyasi bilan bog‘liq?",
+    "options": [
+      "Isaak Nyuton",
+      "Albert Eynshteyn",
+      "Nils Bor",
+      "Maks Plank"
+    ],
+    "answer": 1,
+    "explanation": "Eynshteyn 1905-yilda massa va energiyaning ekvivalentligini ko‘rsatgan; formulada c — yorug‘likning vakuumdagi tezligi.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence",
+    "status": "verified"
+  },
+  {
+    "id": "sci-011",
+    "question": "Oddiy xona haroratida suyuq holatda bo‘ladigan metall qaysi?",
+    "options": [
+      "Qo‘rg‘oshin",
+      "Natriy",
+      "Simob",
+      "Qalay"
+    ],
+    "answer": 2,
+    "explanation": "Simob (Hg) −38,8 °C da muzlaydi, shuning uchun xona haroratida suyuq; avvallari termometrlarda keng ishlatilgan.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Mercury_(element)",
+    "status": "verified"
+  },
+  {
+    "id": "sci-012",
+    "question": "Bir baytda necha bit bor?",
+    "options": [
+      "4",
+      "16",
+      "2",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "Zamonaviy kompyuterlarda bayt 8 bitdan iborat va 256 xil qiymatni ifodalay oladi.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Byte",
+    "status": "verified"
+  },
+  {
+    "id": "sci-013",
+    "question": "pH shkalasida neytral muhit qaysi qiymatga to‘g‘ri keladi?",
+    "options": [
+      "0",
+      "7",
+      "10",
+      "14"
+    ],
+    "answer": 1,
+    "explanation": "25 °C da toza suvning pH qiymati 7 ga teng; 7 dan kichik — kislotali, katta — ishqoriy muhit.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/PH",
+    "status": "verified"
+  },
+  {
+    "id": "sci-014",
+    "question": "Fotosintez jarayonida o‘simliklar havodan qaysi gazni yutadi?",
+    "options": [
+      "Karbonat angidrid",
+      "Kislorod",
+      "Azot",
+      "Vodorod"
+    ],
+    "answer": 0,
+    "explanation": "O‘simliklar yorug‘lik energiyasi yordamida karbonat angidrid va suvdan glyukoza hosil qiladi va kislorod ajratadi.",
+    "category": "science",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Photosynthesis",
+    "status": "verified"
+  },
+  {
+    "id": "sci-015",
+    "question": "DNKning qo‘sh spiral tuzilishi modelini 1953-yilda kimlar taklif qilgan?",
+    "options": [
+      "Mendel va Morgan",
+      "Paster va Kox",
+      "Uotson va Krik",
+      "Bor va Rezerford"
+    ],
+    "answer": 2,
+    "explanation": "Jeyms Uotson va Frensis Krik modeli Rozalind Franklin olgan rentgen tasvirlariga tayangan; ular 1962-yilda Nobel mukofotini olgan.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Molecular_Structure_of_Nucleic_Acids:_A_Structure_for_Deoxyribose_Nucleic_Acid",
+    "status": "verified"
+  },
+  {
+    "id": "sci-016",
+    "question": "Yorug‘likning vakuumdagi tezligi taxminan qancha?",
+    "options": [
+      "30 000 km/s",
+      "300 000 km/s",
+      "3 000 000 km/s",
+      "150 000 km/s"
+    ],
+    "answer": 1,
+    "explanation": "Aniq qiymati 299 792 458 m/s; 1983-yildan beri metr aynan shu tezlik orqali ta’riflanadi.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Speed_of_light",
+    "status": "verified"
+  },
+  {
+    "id": "sci-017",
+    "question": "Voyaga yetgan odam skeletida odatda nechta suyak bo‘ladi?",
+    "options": [
+      "186",
+      "256",
+      "300",
+      "206"
+    ],
+    "answer": 3,
+    "explanation": "Chaqaloqlarda 270 ga yaqin suyak bo‘ladi, o‘sish davomida ularning bir qismi qo‘shilib ketadi.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/science/human-skeleton",
+    "status": "verified"
+  },
+  {
+    "id": "sci-018",
+    "question": "Absolyut nol (0 K) Selsiy shkalasida qancha?",
+    "options": [
+      "−273,15 °C",
+      "−100 °C",
+      "−459,67 °C",
+      "−173,15 °C"
+    ],
+    "answer": 0,
+    "explanation": "Absolyut nol — nazariy jihatdan eng past harorat; −459,67 qiymati Farengeyt shkalasiga tegishli.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Absolute_zero",
+    "status": "verified"
+  },
+  {
+    "id": "sci-019",
+    "question": "Kimyoviy belgisi K bo‘lgan element qaysi?",
+    "options": [
+      "Kalsiy",
+      "Kobalt",
+      "Kaliy",
+      "Kripton"
+    ],
+    "answer": 2,
+    "explanation": "K belgisi yangi lotincha «kalium» nomidan olingan; kalsiy — Ca, kobalt — Co, kripton — Kr.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Potassium",
+    "status": "verified"
+  },
+  {
+    "id": "sci-020",
+    "question": "Ikki xil tabiiy fan bo‘yicha Nobel mukofotini olgan yagona olim kim?",
+    "options": [
+      "Mariya Kyuri",
+      "Lays Poling",
+      "Jon Bardin",
+      "Frederik Senger"
+    ],
+    "answer": 0,
+    "explanation": "Mariya Kyuri 1903-yilda fizika, 1911-yilda kimyo bo‘yicha Nobel mukofotiga sazovor bo‘lgan; Poling ikkinchi mukofotini Tinchlik uchun olgan.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Marie_Curie",
+    "status": "verified"
+  },
+  {
+    "id": "sci-021",
+    "question": "Isaak Nyutonning butun olam tortishish qonuni bayon etilgan «Principia» asari qaysi yili nashr etilgan?",
+    "options": [
+      "1543",
+      "1609",
+      "1687",
+      "1755"
+    ],
+    "answer": 2,
+    "explanation": "«Natural falsafaning matematik asoslari» asarida Nyuton harakatning uch qonunini ham bayon qilgan.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica",
+    "status": "verified"
+  },
+  {
+    "id": "sci-023",
+    "question": "Xalqaro birliklar tizimida (SI) nechta asosiy birlik bor?",
+    "options": [
+      "5",
+      "7",
+      "9",
+      "12"
+    ],
+    "answer": 1,
+    "explanation": "Ular: metr, kilogramm, sekund, amper, kelvin, mol va kandela; qolgan birliklar ulardan hosil qilinadi.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/SI_base_unit",
+    "status": "verified"
+  },
+  {
+    "id": "sci-024",
+    "question": "Butunjahon o‘rgimchak to‘ri (World Wide Web) g‘oyasini 1989-yilda CERNda kim taklif qilgan?",
+    "options": [
+      "Bill Geyts",
+      "Tim Berners-Li",
+      "Stiv Jobs",
+      "Linus Torvalds"
+    ],
+    "answer": 1,
+    "explanation": "Berners-Li HTML, HTTP va URL asoslarini yaratgan; dunyodagi birinchi veb-sayt 1991-yilda ishga tushgan.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+    "status": "verified"
+  },
+  {
+    "id": "sci-025",
+    "question": "Qondagi gemoglobin tarkibida qaysi metall bo‘ladi?",
+    "options": [
+      "Mis",
+      "Rux",
+      "Magniy",
+      "Temir"
+    ],
+    "answer": 3,
+    "explanation": "Gemoglobindagi temir atomlari kislorodni biriktirib tashiydi; qonning qizil rangi ham shu bilan bog‘liq.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Hemoglobin",
+    "status": "verified"
+  },
+  {
+    "id": "sci-026",
+    "question": "Odamning oddiy (somatik) hujayrasida nechta xromosoma bo‘ladi?",
+    "options": [
+      "46",
+      "23",
+      "44",
+      "48"
+    ],
+    "answer": 0,
+    "explanation": "Somatik hujayrada 23 juft, ya’ni 46 ta xromosoma bor; jinsiy hujayralarda esa 23 ta bo‘ladi.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Karyotype",
+    "status": "verified"
+  },
+  {
+    "id": "sci-027",
+    "question": "Charlz Darvinning «Turlarning kelib chiqishi» kitobi qaysi yili nashr etilgan?",
+    "options": [
+      "1809",
+      "1838",
+      "1859",
+      "1882"
+    ],
+    "answer": 2,
+    "explanation": "Kitobda tabiiy tanlanish orqali evolyutsiya nazariyasi asoslab berilgan; 1809 — Darvinning tug‘ilgan yili, 1882 — vafot etgan yili.",
+    "category": "science",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species",
+    "status": "verified"
+  },
+  {
+    "id": "sci-028",
+    "question": "ABO qon guruhlari tizimini kashf etgani uchun 1930-yilda Nobel mukofotini olgan olim kim?",
+    "options": [
+      "Karl Landshteyner",
+      "Pol Erlix",
+      "Ilya Mechnikov",
+      "Robert Kox"
+    ],
+    "answer": 0,
+    "explanation": "Landshteyner qon guruhlarini 1901-yilda aniqlagan, bu esa xavfsiz qon quyish imkonini bergan.",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Karl_Landsteiner",
+    "status": "verified"
+  },
+  {
+    "id": "sci-029",
+    "question": "Avogadro doimiysining qiymati taxminan qancha (mol⁻¹)?",
+    "options": [
+      "6,626 × 10⁻³⁴",
+      "1,602 × 10⁻¹⁹",
+      "3,0 × 10⁸",
+      "6,022 × 10²³"
+    ],
+    "answer": 3,
+    "explanation": "2019-yildan Avogadro doimiysi aniq 6,02214076 × 10²³ mol⁻¹ deb belgilangan; boshqa variantlar Plank doimiysi, elementar zaryad va yorug‘lik tezligiga mos.",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Avogadro_constant",
+    "status": "verified"
+  },
+  {
+    "id": "sci-030",
+    "question": "Poling shkalasi bo‘yicha eng yuqori elektromanfiylikka ega element qaysi?",
+    "options": [
+      "Kislorod",
+      "Xlor",
+      "Ftor",
+      "Azot"
+    ],
+    "answer": 2,
+    "explanation": "Ftorning elektromanfiyligi 3,98 ga teng — bu barcha elementlar ichida eng yuqori qiymat.",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Electronegativity",
+    "status": "verified"
+  },
+  {
+    "id": "sci-031",
+    "question": "Elektronni 1897-yilda katod nurlari tajribalari orqali kim kashf etgan?",
+    "options": [
+      "Ernest Rezerford",
+      "Jozef Jon Tomson",
+      "Jeyms Chedvik",
+      "Nils Bor"
+    ],
+    "answer": 1,
+    "explanation": "Tomson 1906-yilda Nobel mukofotini olgan; Chedvik esa 1932-yilda neytronni kashf etgan.",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/J._J._Thomson",
+    "status": "verified"
+  },
+  {
+    "id": "sci-032",
+    "question": "Doimiy haroratda gaz bosimi uning hajmiga teskari proporsional ekanini ifodalovchi qonun qanday ataladi?",
+    "options": [
+      "Gey-Lyussak qonuni",
+      "Boyl–Mariott qonuni",
+      "Sharl qonuni",
+      "Avogadro qonuni"
+    ],
+    "answer": 1,
+    "explanation": "Boyl–Mariott qonuni: pV = const (T o‘zgarmas bo‘lganda); Robert Boyl uni 1662-yilda e’lon qilgan.",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Boyle%27s_law",
+    "status": "verified"
+  },
+  {
+    "id": "sci-033",
+    "question": "Yer po‘stida massa bo‘yicha eng ko‘p tarqalgan kimyoviy element qaysi?",
+    "options": [
+      "Kremniy",
+      "Temir",
+      "Alyuminiy",
+      "Kislorod"
+    ],
+    "answer": 3,
+    "explanation": "Kislorod Yer po‘sti massasining qariyb 46 foizini tashkil etadi, ikkinchi o‘rinda kremniy (taxminan 28 foiz).",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Abundance_of_elements_in_Earth%27s_crust",
+    "status": "verified"
+  },
+  {
+    "id": "sci-034",
+    "question": "Kimyoviy belgisi W bo‘lgan element qaysi?",
+    "options": [
+      "Volfram",
+      "Vanadiy",
+      "Ksenon",
+      "Rux"
+    ],
+    "answer": 0,
+    "explanation": "W belgisi elementning nemischa «Wolfram» nomidan olingan; volfram barcha metallar ichida eng yuqori erish haroratiga ega.",
+    "category": "science",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Tungsten",
+    "status": "verified"
+  }
+]

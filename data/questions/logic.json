@@ -1,0 +1,546 @@
+[
+  {
+    "id": "log-001",
+    "question": "Ketma-ketlikni davom ettiring: 2, 4, 8, 16, ...",
+    "options": [
+      "24",
+      "30",
+      "32",
+      "36"
+    ],
+    "answer": 2,
+    "explanation": "Har bir son oldingisidan 2 marta katta: 16 × 2 = 32.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-002",
+    "question": "Ketma-ketlikni davom ettiring: 1, 4, 9, 16, 25, ...",
+    "options": [
+      "36",
+      "30",
+      "34",
+      "49"
+    ],
+    "answer": 0,
+    "explanation": "Bular ketma-ket natural sonlarning kvadratlari: 1², 2², …, 5²; keyingisi 6² = 36.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-003",
+    "question": "Ketma-ketlikni davom ettiring: 1, 1, 2, 3, 5, 8, ...",
+    "options": [
+      "11",
+      "12",
+      "16",
+      "13"
+    ],
+    "answer": 3,
+    "explanation": "Har bir son oldingi ikki sonning yig‘indisiga teng (Fibonachchi qatori): 5 + 8 = 13.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-004",
+    "question": "Ketma-ketlikni davom ettiring: 3, 7, 11, 15, ...",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "21"
+    ],
+    "answer": 1,
+    "explanation": "Har bir son oldingisidan 4 ga katta: 15 + 4 = 19.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-005",
+    "question": "Soat aynan 3:00 ni ko‘rsatganda soat va daqiqa millari orasidagi burchak necha gradus?",
+    "options": [
+      "60°",
+      "90°",
+      "45°",
+      "120°"
+    ],
+    "answer": 1,
+    "explanation": "Siferblat 12 bo‘lakka bo‘lingan, har biri 30°. Soat 3:00 da millar orasida 3 bo‘lak bor: 3 × 30° = 90°.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-006",
+    "question": "Uch aka-uka yoshlari ketma-ket kelgan butun sonlar, ularning yig‘indisi 36 ga teng. Eng kattasi necha yoshda?",
+    "options": [
+      "12",
+      "14",
+      "11",
+      "13"
+    ],
+    "answer": 3,
+    "explanation": "Yoshlar x, x+1, x+2 bo‘lsin: 3x + 3 = 36, x = 11. Demak, yoshlar 11, 12, 13; eng kattasi 13 yoshda.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-007",
+    "question": "Barcha mushuklar — sutemizuvchi. Mosh — mushuk. Qaysi xulosa albatta to‘g‘ri?",
+    "options": [
+      "Mosh — sutemizuvchi",
+      "Barcha sutemizuvchilar — mushuk",
+      "Mosh — qush",
+      "Ba’zi mushuklar sutemizuvchi emas"
+    ],
+    "answer": 0,
+    "explanation": "Agar barcha mushuklar sutemizuvchi bo‘lsa va Mosh mushuk bo‘lsa, Mosh ham albatta sutemizuvchi bo‘ladi.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-008",
+    "question": "Poyezd soatiga 60 km tezlikda 2,5 soat yurdi. U qancha masofani bosib o‘tdi?",
+    "options": [
+      "120 km",
+      "125 km",
+      "150 km",
+      "160 km"
+    ],
+    "answer": 2,
+    "explanation": "Masofa = tezlik × vaqt = 60 × 2,5 = 150 km.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-009",
+    "question": "Quyidagi sonlardan qaysi biri tub son emas?",
+    "options": [
+      "2",
+      "5",
+      "9",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "2, 5 va 11 faqat 1 ga va o‘ziga bo‘linadi (tub sonlar), 9 esa 3 × 3 ga teng, shuning uchun tub son emas.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-010",
+    "question": "Ali Validan baland, Vali esa Salimdan baland. Uchalasidan eng past bo‘yli kim?",
+    "options": [
+      "Salim",
+      "Ali",
+      "Vali",
+      "Aniqlab bo‘lmaydi"
+    ],
+    "answer": 0,
+    "explanation": "Ali > Vali > Salim tartibi hosil bo‘ladi, demak eng past bo‘yli — Salim.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-011",
+    "question": "Bir sonning 25 foizi 20 ga teng. Bu son nechaga teng?",
+    "options": [
+      "50",
+      "100",
+      "60",
+      "80"
+    ],
+    "answer": 3,
+    "explanation": "25% — sonning to‘rtdan biri: 20 × 4 = 80.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-012",
+    "question": "Kvadratning perimetri 20 sm. Uning yuzi qancha?",
+    "options": [
+      "20 sm²",
+      "25 sm²",
+      "16 sm²",
+      "100 sm²"
+    ],
+    "answer": 1,
+    "explanation": "Tomoni 20 : 4 = 5 sm, yuzi 5 × 5 = 25 sm².",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-013",
+    "question": "Bugun dushanba. 10 kundan keyin haftaning qaysi kuni bo‘ladi?",
+    "options": [
+      "Chorshanba",
+      "Payshanba",
+      "Juma",
+      "Seshanba"
+    ],
+    "answer": 1,
+    "explanation": "10 kun = 1 hafta + 3 kun. Dushanbadan 3 kun keyin payshanba bo‘ladi.",
+    "category": "logic",
+    "difficulty": "easy",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-014",
+    "question": "Soat 3:30 ni ko‘rsatganda soat va daqiqa millari orasidagi kichik burchak necha gradus?",
+    "options": [
+      "90°",
+      "60°",
+      "80°",
+      "75°"
+    ],
+    "answer": 3,
+    "explanation": "Daqiqa mili 180° da. Soat mili 3 × 30° + 30 × 0,5° = 105° da. Farq: 180° − 105° = 75°.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-015",
+    "question": "Ota 40 yoshda, o‘g‘li 10 yoshda. Necha yildan keyin ota o‘g‘lidan aynan 2 marta katta bo‘ladi?",
+    "options": [
+      "20",
+      "10",
+      "15",
+      "30"
+    ],
+    "answer": 0,
+    "explanation": "40 + x = 2(10 + x) tenglamadan x = 20. Tekshiruv: 60 = 2 × 30.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-016",
+    "question": "Xonada 6 kishi bor. Har bir kishi qolgan har biri bilan bir martadan qo‘l berib ko‘rishdi. Jami nechta qo‘l berish bo‘ldi?",
+    "options": [
+      "30",
+      "12",
+      "15",
+      "36"
+    ],
+    "answer": 2,
+    "explanation": "Har bir juftlik bir marta ko‘rishadi: 6 × 5 : 2 = 15.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-017",
+    "question": "4 ta turli kitobni javonga bir qatorga necha xil usulda terish mumkin?",
+    "options": [
+      "16",
+      "12",
+      "24",
+      "10"
+    ],
+    "answer": 2,
+    "explanation": "Turli tartiblar soni 4! = 4 × 3 × 2 × 1 = 24.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-018",
+    "question": "Bugun chorshanba. 100 kundan keyin haftaning qaysi kuni bo‘ladi?",
+    "options": [
+      "Juma",
+      "Payshanba",
+      "Shanba",
+      "Chorshanba"
+    ],
+    "answer": 0,
+    "explanation": "100 = 7 × 14 + 2. Chorshanbadan 2 kun keyin juma bo‘ladi.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-019",
+    "question": "Shilliqqurt 10 metr chuqurlikdagi quduq tubidan chiqmoqchi. U kunduzi 3 m ko‘tariladi, kechasi 2 m pastga sirg‘aladi. U nechanchi kuni quduqdan chiqadi?",
+    "options": [
+      "10-kuni",
+      "7-kuni",
+      "9-kuni",
+      "8-kuni"
+    ],
+    "answer": 3,
+    "explanation": "Har sutkada 1 m ko‘tariladi. 7 sutkadan keyin 7 m balandlikda bo‘ladi, 8-kuni kunduzi 3 m ko‘tarilib 10 m ga yetadi va chiqib ketadi.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-020",
+    "question": "Kabisa bo‘lmagan yilning 1-yanvari dushanba kuniga to‘g‘ri keldi. Shu yilning 31-dekabri haftaning qaysi kuni?",
+    "options": [
+      "Seshanba",
+      "Dushanba",
+      "Yakshanba",
+      "Shanba"
+    ],
+    "answer": 1,
+    "explanation": "Yilda 365 kun bor; 31-dekabr 1-yanvardan 364 kun keyin keladi. 364 = 7 × 52, demak u ham dushanba.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-021",
+    "question": "Ketma-ketlikni davom ettiring: 2, 6, 12, 20, 30, ...",
+    "options": [
+      "40",
+      "42",
+      "36",
+      "44"
+    ],
+    "answer": 1,
+    "explanation": "Hadlar n(n + 1) ko‘rinishida: 1·2, 2·3, 3·4, 4·5, 5·6; keyingisi 6·7 = 42 (ayirmalar 4, 6, 8, 10, 12).",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-022",
+    "question": "Muntazam oltiburchakning nechta diagonali bor?",
+    "options": [
+      "6",
+      "12",
+      "15",
+      "9"
+    ],
+    "answer": 3,
+    "explanation": "n burchakli ko‘pburchak diagonallari soni n(n − 3) : 2. n = 6 da 6 × 3 : 2 = 9.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-023",
+    "question": "Ketma-ketlikni davom ettiring: 1, 2, 6, 24, 120, ...",
+    "options": [
+      "720",
+      "240",
+      "600",
+      "840"
+    ],
+    "answer": 0,
+    "explanation": "Har bir had oldingisini navbatdagi natural songa ko‘paytirishdan hosil bo‘ladi (×2, ×3, ×4, ×5); keyingisi 120 × 6 = 720.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-024",
+    "question": "Tortmada faqat qora va oq paypoqlar aralash yotibdi. Qorong‘ida bir xil rangli juftlik albatta chiqishi uchun kamida nechta paypoq olish kerak?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "Rang faqat ikkita, shuning uchun 3 ta paypoqdan kamida ikkitasi bir xil rangda bo‘ladi (Dirixle prinsipi).",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-025",
+    "question": "Ikkita tanga bir vaqtda tashlandi. Ikkalasining ham «gerb» tomoni bilan tushish ehtimoli qancha?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "3/4"
+    ],
+    "answer": 2,
+    "explanation": "Teng ehtimolli 4 ta natija bor (GG, GR, RG, RR), ulardan faqat bittasi mos: 1/4.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-026",
+    "question": "Ketma-ketlikni davom ettiring: 1, 3, 7, 15, 31, ...",
+    "options": [
+      "63",
+      "62",
+      "47",
+      "61"
+    ],
+    "answer": 0,
+    "explanation": "Har bir had oldingisini 2 ga ko‘paytirib 1 qo‘shishdan hosil bo‘ladi (2ⁿ − 1): 31 × 2 + 1 = 63.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-027",
+    "question": "1 dan 100 gacha bo‘lgan barcha natural sonlar yig‘indisi nechaga teng?",
+    "options": [
+      "5000",
+      "5100",
+      "10100",
+      "5050"
+    ],
+    "answer": 3,
+    "explanation": "Yig‘indi n(n + 1) : 2 = 100 × 101 : 2 = 5050.",
+    "category": "logic",
+    "difficulty": "medium",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-028",
+    "question": "Soat 9:45 ni ko‘rsatganda soat va daqiqa millari orasidagi kichik burchak necha gradus?",
+    "options": [
+      "15°",
+      "22,5°",
+      "30°",
+      "0°"
+    ],
+    "answer": 1,
+    "explanation": "Daqiqa mili 270° da. Soat mili 9 × 30° + 45 × 0,5° = 292,5° da. Farq: 292,5° − 270° = 22,5°.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-029",
+    "question": "27 ta bir xil ko‘rinishdagi tangadan bittasi qolganlaridan og‘irroq. Pallali tarozida (toshsiz) uni aniq topish uchun eng kamida nechta tortish kerak?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "Har tortishda tangalar 3 guruhga bo‘linadi va nomzodlar soni 3 marta kamayadi: 27 → 9 → 3 → 1. 2 ta tortish faqat 3² = 9 tangagacha yetadi.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-030",
+    "question": "Kitob va ruchka birgalikda 11 000 so‘m turadi. Kitob ruchkadan 10 000 so‘m qimmat. Ruchka necha so‘m turadi?",
+    "options": [
+      "1 000 so‘m",
+      "1 500 so‘m",
+      "100 so‘m",
+      "500 so‘m"
+    ],
+    "answer": 3,
+    "explanation": "Ruchka x bo‘lsa, kitob x + 10 000: 2x + 10 000 = 11 000, x = 500 so‘m (kitob 10 500 so‘m).",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-031",
+    "question": "Ikkita o‘yin soqqasi tashlandi. Tushgan ochkolar yig‘indisi 7 ga teng bo‘lish ehtimoli qancha?",
+    "options": [
+      "1/6",
+      "1/12",
+      "7/36",
+      "1/9"
+    ],
+    "answer": 0,
+    "explanation": "Jami 36 ta teng ehtimolli natija bor; yig‘indi 7 bo‘ladiganlari 6 ta (1+6, 2+5, 3+4, 4+3, 5+2, 6+1): 6/36 = 1/6.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-032",
+    "question": "Soat 12:00 dan keyingi 12:00 gacha bo‘lgan 12 soat ichida (boshlang‘ich payt hisobga olinadi, oxirgisi olinmaydi) soat va daqiqa millari necha marta ustma-ust tushadi?",
+    "options": [
+      "12",
+      "24",
+      "11",
+      "22"
+    ],
+    "answer": 2,
+    "explanation": "Daqiqa mili soat milini har 12/11 soatda bir marta quvib yetadi, shuning uchun 12 soatda 12 : (12/11) = 11 marta ustma-ust tushadi.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-033",
+    "question": "Shaxmat taxtasida (8×8) turli o‘lchamdagi jami nechta kvadrat bor (1×1 dan 8×8 gacha)?",
+    "options": [
+      "64",
+      "120",
+      "204",
+      "256"
+    ],
+    "answer": 2,
+    "explanation": "k×k kvadratlar soni (9 − k)²; jami 1² + 2² + … + 8² = 204.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  },
+  {
+    "id": "log-034",
+    "question": "5 ta usta 5 ta stulni 5 kunda yasaydi (barchasi bir xil tezlikda ishlaydi). 100 ta usta 100 ta stulni necha kunda yasaydi?",
+    "options": [
+      "5",
+      "100",
+      "20",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "Bitta usta bitta stulni 5 kunda yasaydi. Demak 100 ta usta parallel ishlab, 100 ta stulni ham 5 kunda yasaydi.",
+    "category": "logic",
+    "difficulty": "hard",
+    "source": "Mantiqiy yechim — izohga qarang",
+    "status": "verified"
+  }
+]

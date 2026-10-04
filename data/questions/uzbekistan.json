@@ -1,0 +1,530 @@
+[
+  {
+    "id": "uzb-001",
+    "question": "Amir Temur saltanatining poytaxti qaysi shahar bo‘lgan?",
+    "options": [
+      "Hirot",
+      "Shahrisabz",
+      "Buxoro",
+      "Samarqand"
+    ],
+    "answer": 3,
+    "explanation": "Amir Temur Samarqandni saltanati poytaxtiga aylantirib, unda Bibixonim masjidi kabi ulkan inshootlar qurdirgan.",
+    "category": "uzbekistan",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Timur",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-002",
+    "question": "Amir Temur qaysi yili tug‘ilgan?",
+    "options": [
+      "1370-yil",
+      "1405-yil",
+      "1320-yil",
+      "1336-yil"
+    ],
+    "answer": 3,
+    "explanation": "Amir Temur 1336-yilda Kesh (hozirgi Shahrisabz) yaqinida tug‘ilgan; 1370-yilda esa Movarounnahrda hokimiyatni qo‘lga olgan.",
+    "category": "uzbekistan",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Timur",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-003",
+    "question": "Amir Temur 1405-yilda Xitoyga yurish chog‘ida qaysi shaharda vafot etgan?",
+    "options": [
+      "Samarqand",
+      "O‘tror",
+      "Hirot",
+      "Shahrisabz"
+    ],
+    "answer": 1,
+    "explanation": "Temur 1405-yil fevralda Sirdaryo bo‘yidagi O‘trorda vafot etgan va Samarqanddagi Go‘ri Amir maqbarasiga dafn qilingan.",
+    "category": "uzbekistan",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/biography/Timur",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-004",
+    "question": "Samarqanddagi Amir Temur va temuriylar dafn etilgan maqbara qanday nomlanadi?",
+    "options": [
+      "Ishratxona",
+      "Oqsaroy",
+      "Shohi Zinda",
+      "Go‘ri Amir"
+    ],
+    "answer": 3,
+    "explanation": "Go‘ri Amir maqbarasida Amir Temur bilan birga uning o‘g‘illari va nabirasi Mirzo Ulug‘bek ham dafn etilgan.",
+    "category": "uzbekistan",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Gur-e-Amir",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-005",
+    "question": "Mirzo Ulug‘bekning asl ismi nima bo‘lgan?",
+    "options": [
+      "Muhammad Tarag‘ay",
+      "Shohrux",
+      "Abdullatif",
+      "Umarshayx"
+    ],
+    "answer": 0,
+    "explanation": "Ulug‘bek («buyuk bek») — Muhammad Tarag‘ayning laqabi; u Shohruxning o‘g‘li va Amir Temurning nabirasi bo‘lgan.",
+    "category": "uzbekistan",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/biography/Ulugh-Beg",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-006",
+    "question": "Mirzo Ulug‘bekning mingdan ortiq yulduz o‘rnini qayd etgan astronomik asari qanday nomlanadi?",
+    "options": [
+      "Mezon ul-avzon",
+      "Al-Qonun fit-tib",
+      "Zij-i jadidi Ko‘ragoniy",
+      "Qonuni Mas’udiy"
+    ],
+    "answer": 2,
+    "explanation": "«Zij-i jadidi Ko‘ragoniy» Samarqand rasadxonasidagi kuzatuvlar asosida tuzilgan va o‘rta asrlarning eng aniq yulduz jadvallaridan biri hisoblanadi.",
+    "category": "uzbekistan",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Zij-i_Sultani",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-007",
+    "question": "Zahiriddin Muhammad Bobur qaysi shaharda tug‘ilgan?",
+    "options": [
+      "Qo‘qon",
+      "Andijon",
+      "Kobul",
+      "Samarqand"
+    ],
+    "answer": 1,
+    "explanation": "Bobur 1483-yilda Farg‘ona hokimi Umarshayx Mirzo oilasida, o‘sha davrda viloyat poytaxti bo‘lgan Andijonda tug‘ilgan.",
+    "category": "uzbekistan",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Babur",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-008",
+    "question": "Bobur 1526-yilda Ibrohim Lo‘diyni qaysi jangda yengib, Hindistonda Boburiylar saltanatiga asos solgan?",
+    "options": [
+      "Anqara jangi",
+      "Kanva jangi",
+      "Talas jangi",
+      "Panipat jangi"
+    ],
+    "answer": 3,
+    "explanation": "1526-yildagi birinchi Panipat jangida Bobur Dehli sultoni Ibrohim Lo‘diyni yengib, Dehli va Agrani egallagan.",
+    "category": "uzbekistan",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/First_Battle_of_Panipat",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-009",
+    "question": "Boburning o‘z hayoti va davri haqida yozgan mashhur xotira asari qanday nomlanadi?",
+    "options": [
+      "Shajarai turk",
+      "Temurnoma",
+      "Boburnoma",
+      "Xamsa"
+    ],
+    "answer": 2,
+    "explanation": "«Boburnoma» chig‘atoy turkiy tilida yozilgan bo‘lib, islom dunyosi adabiyotidagi ilk avtobiografik asarlardan biri hisoblanadi.",
+    "category": "uzbekistan",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Baburnama",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-010",
+    "question": "«Algoritm» atamasi qaysi olimning nomidan kelib chiqqan?",
+    "options": [
+      "Muhammad ibn Muso al-Xorazmiy",
+      "Abu Rayhon Beruniy",
+      "Ahmad al-Farg‘oniy",
+      "Mirzo Ulug‘bek"
+    ],
+    "answer": 0,
+    "explanation": "Al-Xorazmiy nomining lotincha shakli «Algoritmi» «algoritm» so‘ziga, uning «al-jabr» asari nomi esa «algebra» atamasiga asos bo‘lgan.",
+    "category": "uzbekistan",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/al-Khwarizmi",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-011",
+    "question": "Ibn Sinoning asrlar davomida Yevropada tibbiyot darsligi bo‘lib xizmat qilgan asari qaysi?",
+    "options": [
+      "Qonuni Mas’udiy",
+      "Hindiston",
+      "Mezon ul-avzon",
+      "Al-Qonun fit-tib (Tib qonunlari)"
+    ],
+    "answer": 3,
+    "explanation": "Ibn Sinoning «Tib qonunlari» lotin tiliga tarjima qilinib, Yevropa universitetlarida bir necha asr davomida asosiy tibbiyot qo‘llanmasi bo‘lgan.",
+    "category": "uzbekistan",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/topic/The-Canon-of-Medicine",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-012",
+    "question": "Ahmad al-Farg‘oniy o‘rta asrlar Yevropasida qanday nom bilan mashhur bo‘lgan?",
+    "options": [
+      "Alfraganus",
+      "Avicenna",
+      "Averroes",
+      "Algorismus"
+    ],
+    "answer": 0,
+    "explanation": "Al-Farg‘oniyning astronomiyaga oid asari lotin tiliga tarjima qilingan va u Yevropada «Alfraganus» nomi bilan tanilgan; Avicenna — Ibn Sino, Averroes — Ibn Rushd.",
+    "category": "uzbekistan",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/biography/al-Farghani",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-013",
+    "question": "Imom Buxoriy maqbarasi joylashgan Xartang qishlog‘i qaysi viloyatda?",
+    "options": [
+      "Buxoro viloyati",
+      "Qashqadaryo viloyati",
+      "Samarqand viloyati",
+      "Navoiy viloyati"
+    ],
+    "answer": 2,
+    "explanation": "Buxoroda tug‘ilgan Imom Buxoriy umrining oxirida Samarqand yaqinidagi Xartangda vafot etgan; u «Al-Jomi’ as-sahih» hadislar to‘plamining muallifi.",
+    "category": "uzbekistan",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Muhammad_al-Bukhari",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-014",
+    "question": "Ismoil Somoniy maqbarasi qaysi shaharda joylashgan?",
+    "options": [
+      "Buxoro",
+      "Samarqand",
+      "Xiva",
+      "Termiz"
+    ],
+    "answer": 0,
+    "explanation": "X asr boshlarida qurilgan bu maqbara Somoniylar davlati poytaxti bo‘lgan Buxoroda joylashgan va Markaziy Osiyo me’morchiligining eng qadimiy durdonalaridan biridir.",
+    "category": "uzbekistan",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Samanid_Mausoleum",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-015",
+    "question": "Xorazmshoh Alouddin Muhammadning o‘g‘li, mo‘g‘ul bosqinchilariga qarshi kurashi bilan mashhur sarkarda kim?",
+    "options": [
+      "Temur Malik",
+      "Ismoil Somoniy",
+      "Jaloliddin Manguberdi",
+      "Najmiddin Kubro"
+    ],
+    "answer": 2,
+    "explanation": "Jaloliddin Manguberdi XIII asr boshida Chingizxon qo‘shinlariga qarshi uzoq yillar kurash olib borgan; 1221-yilda Parvon yonida mo‘g‘ullarni mag‘lub etgan.",
+    "category": "uzbekistan",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Jalal-al-Din-Mingburnu",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-016",
+    "question": "Quyidagi madrasalardan qaysi biri Samarqanddagi Registon maydonida joylashmagan?",
+    "options": [
+      "Tillakori madrasasi",
+      "Mir Arab madrasasi",
+      "Ulug‘bek madrasasi",
+      "Sherdor madrasasi"
+    ],
+    "answer": 1,
+    "explanation": "Registon ansambli Ulug‘bek, Sherdor va Tillakori madrasalaridan iborat; Mir Arab madrasasi esa Buxoroda, Poyi Kalon majmuasida joylashgan.",
+    "category": "uzbekistan",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Registan",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-017",
+    "question": "O‘zbekistondan UNESCO Jahon merosi ro‘yxatiga birinchi bo‘lib kiritilgan obyekt qaysi?",
+    "options": [
+      "Shahrisabz tarixiy markazi",
+      "Xivadagi Ichan Qal’a",
+      "Buxoro tarixiy markazi",
+      "Samarqand — madaniyatlar chorrahasi"
+    ],
+    "answer": 1,
+    "explanation": "Ichan Qal’a 1990-yilda ro‘yxatga kiritilgan; Buxoro 1993-yilda, Shahrisabz 2000-yilda, Samarqand esa 2001-yilda kiritilgan.",
+    "category": "uzbekistan",
+    "difficulty": "medium",
+    "source": "https://whc.unesco.org/en/list/543",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-018",
+    "question": "«Samarqand — madaniyatlar chorrahasi» UNESCO Jahon merosi ro‘yxatiga qaysi yili kiritilgan?",
+    "options": [
+      "2000-yil",
+      "1993-yil",
+      "1990-yil",
+      "2001-yil"
+    ],
+    "answer": 3,
+    "explanation": "Samarqand 2001-yilda Jahon merosi ro‘yxatiga kiritilgan; ro‘yxatga Registon, Bibixonim va Shohi Zinda kabi yodgorliklar ham kiradi.",
+    "category": "uzbekistan",
+    "difficulty": "hard",
+    "source": "https://whc.unesco.org/en/list/603",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-019",
+    "question": "Xiva shahridagi eng baland minora qaysi?",
+    "options": [
+      "Kalta minor",
+      "Islom Xo‘ja minorasi",
+      "Juma masjidi minorasi",
+      "Kalon minorasi"
+    ],
+    "answer": 1,
+    "explanation": "XX asr boshida qurilgan Islom Xo‘ja minorasi Xivaning eng baland inshootidir; Kalon minorasi esa Buxoroda, Kalta minor esa qurilishi tugallanmagan.",
+    "category": "uzbekistan",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Islam_Khoja_Minaret",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-020",
+    "question": "O‘zbekistonda Mustaqillik kuni qaysi sanada nishonlanadi?",
+    "options": [
+      "31-avgust",
+      "18-noyabr",
+      "1-sentabr",
+      "8-dekabr"
+    ],
+    "answer": 2,
+    "explanation": "1991-yil 31-avgustda Oliy Kengash mustaqillikni e’lon qilgan va 1-sentabr Mustaqillik kuni deb belgilangan.",
+    "category": "uzbekistan",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Independence_Day_(Uzbekistan)",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-021",
+    "question": "O‘zbekiston Respublikasining Davlat bayrog‘i qachon qabul qilingan?",
+    "options": [
+      "1991-yil 18-noyabr",
+      "1992-yil 2-iyul",
+      "1991-yil 31-avgust",
+      "1992-yil 8-dekabr"
+    ],
+    "answer": 0,
+    "explanation": "«Davlat bayrog‘i to‘g‘risida»gi qonun 1991-yil 18-noyabrda Oliy Kengashning navbatdan tashqari VII sessiyasida qabul qilingan; 18-noyabr Davlat bayrog‘i qabul qilingan kun sifatida nishonlanadi.",
+    "category": "uzbekistan",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Flag_of_Uzbekistan",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-022",
+    "question": "Mustaqil O‘zbekistonning birinchi Konstitutsiyasi qachon qabul qilingan?",
+    "options": [
+      "1992-yil 8-dekabr",
+      "1993-yil 8-dekabr",
+      "1991-yil 18-noyabr",
+      "1991-yil 1-sentabr"
+    ],
+    "answer": 0,
+    "explanation": "Konstitutsiya 1992-yil 8-dekabrda Oliy Kengashning XI sessiyasida qabul qilingan; 8-dekabr Konstitutsiya kuni sifatida nishonlanadi.",
+    "category": "uzbekistan",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Constitution_of_Uzbekistan",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-023",
+    "question": "Yangi tahrirdagi Konstitutsiya bo‘yicha O‘zbekistonda umumxalq referendumi qachon o‘tkazilgan?",
+    "options": [
+      "2024-yil 27-oktabr",
+      "2022-yil 8-dekabr",
+      "2023-yil 30-aprel",
+      "2021-yil 24-oktabr"
+    ],
+    "answer": 2,
+    "explanation": "2023-yil 30-apreldagi referendumda yangi tahrirdagi Konstitutsiya ma’qullangan va u 2023-yil 1-maydan kuchga kirgan.",
+    "category": "uzbekistan",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/2023_Uzbek_constitutional_referendum",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-024",
+    "question": "O‘zbekiston Respublikasi Davlat madhiyasi musiqasini kim bastalagan?",
+    "options": [
+      "Yunus Rajabiy",
+      "To‘xtasin Jalilov",
+      "Doni Zokirov",
+      "Mutal Burhonov"
+    ],
+    "answer": 3,
+    "explanation": "Madhiya musiqasini Mutal Burhonov bastalagan (bu kuy avval O‘zbekiston SSR madhiyasida ham yangragan), so‘zlari esa Abdulla Oripovga tegishli; madhiya 1992-yil 10-dekabrda tasdiqlangan.",
+    "category": "uzbekistan",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/State_Anthem_of_Uzbekistan",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-025",
+    "question": "O‘zbekistonning eng baland nuqtasi qaysi?",
+    "options": [
+      "Adelung cho‘qqisi",
+      "Katta Chimyon cho‘qqisi",
+      "Beshtor cho‘qqisi",
+      "Xazrat Sulton cho‘qqisi"
+    ],
+    "answer": 3,
+    "explanation": "Xazrat Sulton cho‘qqisi (taxminan 4643 m) Surxondaryo viloyatida, Hisor tizmasida, Tojikiston bilan chegarada joylashgan.",
+    "category": "uzbekistan",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Khazret_Sultan",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-026",
+    "question": "Amudaryo qaysi ikki daryoning qo‘shilishidan hosil bo‘ladi?",
+    "options": [
+      "Zarafshon va Qashqadaryo",
+      "Panj va Vaxsh",
+      "Norin va Qoradaryo",
+      "Chirchiq va Ohangaron"
+    ],
+    "answer": 1,
+    "explanation": "Amudaryo Pomir tog‘laridan boshlanuvchi Panj va Vaxsh daryolarining qo‘shilishidan hosil bo‘ladi; Norin va Qoradaryo esa Sirdaryoni hosil qiladi.",
+    "category": "uzbekistan",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Amu-Darya",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-027",
+    "question": "Orol dengizi O‘zbekiston va qaysi davlat hududida joylashgan?",
+    "options": [
+      "Turkmaniston",
+      "Qirg‘iziston",
+      "Qozog‘iston",
+      "Tojikiston"
+    ],
+    "answer": 2,
+    "explanation": "Orol dengizi O‘zbekiston (Qoraqalpog‘iston) va Qozog‘iston chegarasida joylashgan; XX asrning ikkinchi yarmidan boshlab u keskin qurib bormoqda.",
+    "category": "uzbekistan",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Aral-Sea",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-028",
+    "question": "Qoraqalpog‘iston Respublikasining poytaxti qaysi shahar?",
+    "options": [
+      "Urganch",
+      "Mo‘ynoq",
+      "Nukus",
+      "Xiva"
+    ],
+    "answer": 2,
+    "explanation": "Nukus Qoraqalpog‘iston poytaxti; shaharda Savitskiy nomidagi mashhur san’at muzeyi joylashgan.",
+    "category": "uzbekistan",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Nukus",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-029",
+    "question": "Xorazm viloyatining ma’muriy markazi qaysi shahar?",
+    "options": [
+      "Xiva",
+      "Urganch",
+      "Nukus",
+      "Gurlan"
+    ],
+    "answer": 1,
+    "explanation": "Xorazm viloyatining markazi Urganch; tarixiy Xiva shahri ham shu viloyatda, Urganchdan janubi-g‘arbda joylashgan.",
+    "category": "uzbekistan",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Xorazm_Region",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-030",
+    "question": "Navro‘z bayrami har yili qaysi kuni nishonlanadi?",
+    "options": [
+      "21-mart",
+      "1-yanvar",
+      "9-may",
+      "1-oktabr"
+    ],
+    "answer": 0,
+    "explanation": "Navro‘z bahorgi kun-tun tengligiga to‘g‘ri keladi; BMT Bosh Assambleyasi 21-martni Xalqaro Navro‘z kuni deb e’lon qilgan.",
+    "category": "uzbekistan",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/International_Nowruz_Day",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-031",
+    "question": "Shashmaqom UNESCO nomoddiy madaniy merosi ro‘yxatiga O‘zbekiston va qaysi davlat tomonidan birgalikda kiritilgan?",
+    "options": [
+      "Tojikiston",
+      "Turkmaniston",
+      "Afg‘oniston",
+      "Qozog‘iston"
+    ],
+    "answer": 0,
+    "explanation": "Shashmaqom 2003-yilda O‘zbekiston va Tojikistonning umumiy durdonasi deb e’lon qilingan, 2008-yilda Reprezentativ ro‘yxatga kiritilgan.",
+    "category": "uzbekistan",
+    "difficulty": "medium",
+    "source": "https://ich.unesco.org/en/RL/shashmaqom-music-00089",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-032",
+    "question": "UNESCO nomoddiy madaniy merosi ro‘yxatiga kiritilgan «Boysun madaniy makoni» qaysi viloyatda joylashgan?",
+    "options": [
+      "Qashqadaryo viloyati",
+      "Surxondaryo viloyati",
+      "Navoiy viloyati",
+      "Jizzax viloyati"
+    ],
+    "answer": 1,
+    "explanation": "Boysun tumani Surxondaryo viloyatida; uning madaniy makoni 2001-yilda UNESCO durdonasi deb e’lon qilingan, 2008-yilda ro‘yxatga kiritilgan.",
+    "category": "uzbekistan",
+    "difficulty": "hard",
+    "source": "https://ich.unesco.org/en/state/uzbekistan-UZ",
+    "status": "verified"
+  },
+  {
+    "id": "uzb-033",
+    "question": "2016-yilda UNESCO nomoddiy madaniy merosining Reprezentativ ro‘yxatiga O‘zbekistondan qaysi element kiritilgan?",
+    "options": [
+      "Palov madaniyati va an’analari",
+      "Katta ashula",
+      "Askiya san’ati",
+      "Xorazm lazgisi"
+    ],
+    "answer": 0,
+    "explanation": "«Palov madaniyati va an’analari» 2016-yilda kiritilgan; Katta ashula 2009-yilda, Askiya 2014-yilda, Lazgi esa 2019-yilda ro‘yxatga olingan.",
+    "category": "uzbekistan",
+    "difficulty": "hard",
+    "source": "https://ich.unesco.org/en/state/uzbekistan-UZ",
+    "status": "verified"
+  }
+]

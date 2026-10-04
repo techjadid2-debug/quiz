@@ -1,0 +1,531 @@
+[
+  {
+    "id": "spo-001",
+    "question": "Birinchi zamonaviy Olimpiya o‘yinlari qaysi shaharda o‘tkazilgan?",
+    "options": [
+      "Parij",
+      "London",
+      "Afina",
+      "Rim"
+    ],
+    "answer": 2,
+    "explanation": "Birinchi zamonaviy Olimpiya o‘yinlari 1896-yilda Gretsiya poytaxti Afinada bo‘lib o‘tgan.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.olympics.com/en/olympic-games/athens-1896",
+    "status": "verified"
+  },
+  {
+    "id": "spo-002",
+    "question": "1930-yilda o‘tkazilgan birinchi futbol bo‘yicha jahon chempionatiga qaysi davlat mezbonlik qilgan?",
+    "options": [
+      "Urugvay",
+      "Braziliya",
+      "Italiya",
+      "Argentina"
+    ],
+    "answer": 0,
+    "explanation": "Birinchi FIFA jahon chempionati 1930-yilda Urugvayda o‘tgan va final g‘olibi ham Urugvay bo‘lgan.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup/1930uruguay",
+    "status": "verified"
+  },
+  {
+    "id": "spo-003",
+    "question": "Futbolda o‘yin davomida maydonda har bir jamoadan nechta o‘yinchi (darvozabon bilan) bo‘ladi?",
+    "options": [
+      "10",
+      "9",
+      "12",
+      "11"
+    ],
+    "answer": 3,
+    "explanation": "Futbol qoidalariga ko‘ra har bir jamoa maydonga darvozabon bilan birga 11 nafar o‘yinchi chiqaradi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.theifab.com/laws/latest/the-number-of-players/",
+    "status": "verified"
+  },
+  {
+    "id": "spo-004",
+    "question": "Basketbolda maydonda bir vaqtning o‘zida har bir jamoadan nechta o‘yinchi o‘ynaydi?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Basketbolda har bir jamoadan maydonda bir vaqtda 5 nafar o‘yinchi bo‘ladi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/sports/basketball",
+    "status": "verified"
+  },
+  {
+    "id": "spo-005",
+    "question": "Klassik voleybolda maydonda har bir jamoadan nechta o‘yinchi bo‘ladi?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "Klassik (zal) voleybolida har bir jamoa maydonda 6 nafar o‘yinchi bilan o‘ynaydi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/sports/volleyball",
+    "status": "verified"
+  },
+  {
+    "id": "spo-006",
+    "question": "Olimpiya ramzida nechta halqa tasvirlangan?",
+    "options": [
+      "4",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "Olimpiya ramzi bir-biriga ulangan 5 ta halqadan iborat bo‘lib, ular qit’alarning birligini anglatadi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.olympics.com/ioc/olympic-rings",
+    "status": "verified"
+  },
+  {
+    "id": "spo-007",
+    "question": "Shaxmat taxtasida jami nechta katak bor?",
+    "options": [
+      "64",
+      "72",
+      "81",
+      "49"
+    ],
+    "answer": 0,
+    "explanation": "Shaxmat taxtasi 8×8 o‘lchamda bo‘lib, unda 64 ta katak bor.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/topic/chess",
+    "status": "verified"
+  },
+  {
+    "id": "spo-008",
+    "question": "Shaxmat o‘yini boshida har bir o‘yinchida nechta dona bo‘ladi?",
+    "options": [
+      "12",
+      "18",
+      "16",
+      "20"
+    ],
+    "answer": 2,
+    "explanation": "Har bir tomonda 8 ta piyoda va 8 ta boshqa dona (shoh, farzin, 2 rux, 2 fil, 2 ot) — jami 16 ta dona bo‘ladi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/topic/chess",
+    "status": "verified"
+  },
+  {
+    "id": "spo-009",
+    "question": "Futbolda asosiy o‘yin vaqti (qo‘shimcha vaqtsiz) necha daqiqa davom etadi?",
+    "options": [
+      "80",
+      "100",
+      "90",
+      "60"
+    ],
+    "answer": 2,
+    "explanation": "Futbol o‘yini har biri 45 daqiqadan iborat ikki taymdan, jami 90 daqiqadan iborat.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.theifab.com/laws/latest/the-duration-of-the-match/",
+    "status": "verified"
+  },
+  {
+    "id": "spo-010",
+    "question": "Uimbldon tennis turniri qanday qoplamali kortlarda o‘tkaziladi?",
+    "options": [
+      "Maysa (o‘t)",
+      "Tuproq (grunt)",
+      "Qattiq qoplama",
+      "Gilam"
+    ],
+    "answer": 0,
+    "explanation": "Uimbldon — Katta dubulg‘a turnirlari ichida maysa qoplamali kortlarda o‘tkaziladigan yagona turnir.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/sports/Wimbledon-Championships",
+    "status": "verified"
+  },
+  {
+    "id": "spo-011",
+    "question": "Shaxmatda qaysi dona «G» harfi shaklida yuradi va boshqa donalar ustidan sakrab o‘ta oladi?",
+    "options": [
+      "Fil",
+      "Rux",
+      "Farzin",
+      "Ot"
+    ],
+    "answer": 3,
+    "explanation": "Ot «G» shaklida (ikki katak to‘g‘ri va bir katak yonga) yuradi va donalar ustidan sakray oladigan yagona dona hisoblanadi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/topic/chess",
+    "status": "verified"
+  },
+  {
+    "id": "spo-012",
+    "question": "2024-yilgi yozgi Olimpiya o‘yinlari qaysi shaharda o‘tkazilgan?",
+    "options": [
+      "Los-Anjeles",
+      "Parij",
+      "Tokio",
+      "London"
+    ],
+    "answer": 1,
+    "explanation": "XXXIII yozgi Olimpiya o‘yinlari 2024-yilda Fransiya poytaxti Parijda bo‘lib o‘tgan.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.olympics.com/en/olympic-games/paris-2024",
+    "status": "verified"
+  },
+  {
+    "id": "spo-013",
+    "question": "2022-yilgi futbol bo‘yicha jahon chempionati qaysi davlatda o‘tkazilgan?",
+    "options": [
+      "Rossiya",
+      "Qatar",
+      "Braziliya",
+      "Birlashgan Arab Amirliklari"
+    ],
+    "answer": 1,
+    "explanation": "2022-yilgi FIFA jahon chempionati Qatarda o‘tgan — bu Yaqin Sharqdagi birinchi jahon chempionati edi.",
+    "category": "sport",
+    "difficulty": "easy",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup/qatar2022",
+    "status": "verified"
+  },
+  {
+    "id": "spo-014",
+    "question": "Marafon yugurishining rasmiy masofasi qancha?",
+    "options": [
+      "40 km",
+      "42 km",
+      "45,5 km",
+      "42,195 km"
+    ],
+    "answer": 3,
+    "explanation": "Marafon masofasi 1921-yildan rasmiy ravishda 42,195 km etib belgilangan (1908-yilgi London Olimpiadasi masofasi asosida).",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/sports/marathon-race",
+    "status": "verified"
+  },
+  {
+    "id": "spo-015",
+    "question": "Basketbol halqasi poldan qanday balandlikda o‘rnatiladi?",
+    "options": [
+      "3,05 m",
+      "2,85 m",
+      "3,25 m",
+      "3,50 m"
+    ],
+    "answer": 0,
+    "explanation": "Basketbol halqasining yuqori cheti poldan 3,05 m (10 fut) balandlikda joylashadi.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/sports/basketball",
+    "status": "verified"
+  },
+  {
+    "id": "spo-016",
+    "question": "Katta dubulg‘a turnirlaridan qaysi biri tuproq (grunt) kortlarda o‘tkaziladi?",
+    "options": [
+      "Uimbldon",
+      "AQSh ochiq chempionati",
+      "Roland Garros (Fransiya ochiq chempionati)",
+      "Avstraliya ochiq chempionati"
+    ],
+    "answer": 2,
+    "explanation": "Roland Garros — Parijda o‘tkaziladigan va tuproq kortlarda o‘ynaladigan yagona Katta dubulg‘a turniri.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/sports/French-Open",
+    "status": "verified"
+  },
+  {
+    "id": "spo-017",
+    "question": "Zamonaviy Olimpiya harakatining asoschisi va Xalqaro Olimpiya qo‘mitasini tashkil etgan shaxs kim?",
+    "options": [
+      "Avery Brendej",
+      "Xuan Antonio Samaranch",
+      "Per de Kuberten",
+      "Jak Rogge"
+    ],
+    "answer": 2,
+    "explanation": "Fransuz baroni Per de Kuberten 1894-yilda Xalqaro Olimpiya qo‘mitasini tashkil etib, zamonaviy Olimpiya o‘yinlarini qayta tikladi.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Pierre-baron-de-Coubertin",
+    "status": "verified"
+  },
+  {
+    "id": "spo-018",
+    "question": "Basketbol o‘yinini 1891-yilda kim ixtiro qilgan?",
+    "options": [
+      "Jeyms Neysmit",
+      "Uilyam Morgan",
+      "Per de Kuberten",
+      "Uebb Ellis"
+    ],
+    "answer": 0,
+    "explanation": "Basketbolni 1891-yilda AQShning Springfild shahrida jismoniy tarbiya o‘qituvchisi Jeyms Neysmit ixtiro qilgan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/James-Naismith",
+    "status": "verified"
+  },
+  {
+    "id": "spo-019",
+    "question": "Xokkeyda (shayba bilan) maydonda har bir jamoadan darvozabon bilan birga nechta o‘yinchi bo‘ladi?",
+    "options": [
+      "5",
+      "7",
+      "11",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "Xokkeyda har bir jamoadan muzda bir vaqtda 6 nafar o‘yinchi — 5 ta maydon o‘yinchisi va darvozabon bo‘ladi.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/sports/ice-hockey",
+    "status": "verified"
+  },
+  {
+    "id": "spo-020",
+    "question": "Gandbolda maydonda har bir jamoadan darvozabon bilan birga nechta o‘yinchi bo‘ladi?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "Gandbolda har bir jamoa maydonda 7 nafar o‘yinchi (6 maydon o‘yinchisi va darvozabon) bilan o‘ynaydi.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/sports/team-handball",
+    "status": "verified"
+  },
+  {
+    "id": "spo-021",
+    "question": "«Tokio-2020» yozgi Olimpiya o‘yinlari amalda qaysi yilda o‘tkazilgan?",
+    "options": [
+      "2020",
+      "2021",
+      "2022",
+      "2019"
+    ],
+    "answer": 1,
+    "explanation": "COVID-19 pandemiyasi sababli «Tokio-2020» o‘yinlari bir yilga ko‘chirilib, 2021-yilning yozida o‘tkazilgan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.olympics.com/en/olympic-games/tokyo-2020",
+    "status": "verified"
+  },
+  {
+    "id": "spo-022",
+    "question": "2022-yilda Hindistonning Chennay shahrida o‘tgan 44-Shaxmat olimpiadasining ochiq bo‘limida qaysi jamoa g‘olib bo‘lgan?",
+    "options": [
+      "Armaniston",
+      "Hindiston",
+      "AQSh",
+      "O‘zbekiston"
+    ],
+    "answer": 3,
+    "explanation": "2022-yilgi Shaxmat olimpiadasining ochiq bo‘limida O‘zbekiston terma jamoasi birinchi o‘rinni egallagan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/44th_Chess_Olympiad",
+    "status": "verified"
+  },
+  {
+    "id": "spo-023",
+    "question": "Futbolda penalti nuqtasi darvoza chizig‘idan qancha masofada joylashgan?",
+    "options": [
+      "11 m",
+      "9,15 m",
+      "16,5 m",
+      "12 m"
+    ],
+    "answer": 0,
+    "explanation": "Penalti belgisi darvoza chizig‘ining o‘rtasidan 11 m (12 yard) masofada joylashadi.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.theifab.com/laws/latest/the-field-of-play/",
+    "status": "verified"
+  },
+  {
+    "id": "spo-024",
+    "question": "Shaxmatda «rokirovka» qaysi ikki dona ishtirokida bajariladi?",
+    "options": [
+      "Shoh va farzin",
+      "Farzin va rux",
+      "Shoh va rux",
+      "Shoh va ot"
+    ],
+    "answer": 2,
+    "explanation": "Rokirovka — shoh va rux bir yurishda birgalikda o‘rin almashtiradigan maxsus yurish.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/topic/chess",
+    "status": "verified"
+  },
+  {
+    "id": "spo-025",
+    "question": "Golfda standart to‘liq raund nechta chuqurchadan (lunkadan) iborat?",
+    "options": [
+      "9",
+      "12",
+      "18",
+      "24"
+    ],
+    "answer": 2,
+    "explanation": "Golfda standart raund 18 ta chuqurchadan iborat bo‘ladi.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/sports/golf",
+    "status": "verified"
+  },
+  {
+    "id": "spo-026",
+    "question": "O‘zbekiston futbol terma jamoasi tarixda ilk bor qaysi jahon chempionatiga yo‘llanma qo‘lga kiritgan?",
+    "options": [
+      "2026",
+      "2018",
+      "2022",
+      "2014"
+    ],
+    "answer": 0,
+    "explanation": "O‘zbekiston 2025-yil iyun oyida saralash bosqichida yo‘llanmani qo‘lga kiritib, ilk bor 2026-yilgi jahon chempionati ishtirokchisiga aylangan.",
+    "category": "sport",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Uzbekistan_national_football_team",
+    "status": "verified",
+    "asOf": "2026-10"
+  },
+  {
+    "id": "spo-027",
+    "question": "Mustaqil O‘zbekiston uchun birinchi Olimpiya oltin medalini 1994-yilda Lillexammerda kim qo‘lga kiritgan?",
+    "options": [
+      "Artur Taymazov",
+      "Ruslan Chagayev",
+      "Muhammadqodir Abdullayev",
+      "Lina Cheryazova"
+    ],
+    "answer": 3,
+    "explanation": "Fristayl (akrobatika) bo‘yicha Lina Cheryazova 1994-yilgi qishki Olimpiadada mustaqil O‘zbekiston tarixidagi ilk Olimpiya oltinini yutgan.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://www.olympics.com/en/athletes/lina-cheryazova",
+    "status": "verified"
+  },
+  {
+    "id": "spo-028",
+    "question": "Standart futbol darvozasining kengligi (ustunlar orasidagi masofa) qancha?",
+    "options": [
+      "7,00 m",
+      "7,32 m",
+      "7,50 m",
+      "6,40 m"
+    ],
+    "answer": 1,
+    "explanation": "Futbol qoidalariga ko‘ra darvoza ustunlari orasidagi masofa 7,32 m (8 yard), balandligi esa 2,44 m.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://www.theifab.com/laws/latest/the-field-of-play/",
+    "status": "verified"
+  },
+  {
+    "id": "spo-029",
+    "question": "Birinchi qishki Olimpiya o‘yinlari 1924-yilda qaysi shaharda o‘tkazilgan?",
+    "options": [
+      "Sankt-Morits",
+      "Shamoni",
+      "Oslo",
+      "Lillexammer"
+    ],
+    "answer": 1,
+    "explanation": "Birinchi qishki Olimpiya o‘yinlari 1924-yilda Fransiyaning Shamoni shahrida o‘tgan.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://www.olympics.com/en/olympic-games/chamonix-1924",
+    "status": "verified"
+  },
+  {
+    "id": "spo-030",
+    "question": "FIFA (Xalqaro futbol assotsiatsiyalari federatsiyasi) qaysi yilda va qayerda tashkil topgan?",
+    "options": [
+      "1930-yil, Montevideo",
+      "1863-yil, London",
+      "1910-yil, Syurix",
+      "1904-yil, Parij"
+    ],
+    "answer": 3,
+    "explanation": "FIFA 1904-yil 21-mayda Parijda tashkil etilgan; hozirgi qarorgohi Syurixda joylashgan.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://www.fifa.com/about-fifa/organisation/history",
+    "status": "verified"
+  },
+  {
+    "id": "spo-031",
+    "question": "O‘zbekiston futbol terma jamoasi 1994-yilda qaysi shaharda o‘tgan Osiyo o‘yinlarida oltin medalni qo‘lga kiritgan?",
+    "options": [
+      "Xirosima",
+      "Bangkok",
+      "Pusan",
+      "Doha"
+    ],
+    "answer": 0,
+    "explanation": "O‘zbekiston 1994-yilgi Xirosima Osiyo o‘yinlarida futbol bo‘yicha finalda Xitoyni yengib, oltin medalni qo‘lga kiritgan.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Football_at_the_1994_Asian_Games",
+    "status": "verified"
+  },
+  {
+    "id": "spo-032",
+    "question": "FIBA qoidalariga ko‘ra basketbol o‘yini qanday tuzilgan?",
+    "options": [
+      "4 chorak, har biri 12 daqiqa",
+      "2 bo‘lim, har biri 20 daqiqa",
+      "4 chorak, har biri 10 daqiqa",
+      "3 bo‘lim, har biri 15 daqiqa"
+    ],
+    "answer": 2,
+    "explanation": "FIBA qoidalarida o‘yin 4 ta 10 daqiqalik chorakdan iborat; 12 daqiqalik choraklar NBA ga xos.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://www.fiba.basketball/documents/official-basketball-rules",
+    "status": "verified"
+  },
+  {
+    "id": "spo-033",
+    "question": "Voleybolni 1895-yilda AQShda kim ixtiro qilgan?",
+    "options": [
+      "Jeyms Neysmit",
+      "Abner Dabldey",
+      "Uilyam Morgan",
+      "Uolter Uingfild"
+    ],
+    "answer": 2,
+    "explanation": "Voleybolni 1895-yilda Massachusets shtatining Xolyok shahrida Uilyam Jorj Morgan ixtiro qilgan.",
+    "category": "sport",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/sports/volleyball",
+    "status": "verified"
+  }
+]

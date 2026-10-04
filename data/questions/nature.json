@@ -1,0 +1,530 @@
+[
+  {
+    "id": "nat-001",
+    "question": "Yer yuzida yashagan eng katta hayvon qaysi?",
+    "options": [
+      "Ko‘k kit",
+      "Kashalot",
+      "Afrika fili",
+      "Kit akulasi"
+    ],
+    "answer": 0,
+    "explanation": "Ko‘k kit uzunligi 30 metrgacha, vazni 150 tonnadan ortiq bo‘lishi mumkin — u ma’lum bo‘lgan eng yirik hayvondir.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/animal/blue-whale",
+    "status": "verified"
+  },
+  {
+    "id": "nat-002",
+    "question": "Quruqlikdagi eng tez yuguruvchi hayvon qaysi?",
+    "options": [
+      "Gepard",
+      "Sher",
+      "Antilopa-vilorog",
+      "Zebra"
+    ],
+    "answer": 0,
+    "explanation": "Gepard qisqa masofada soatiga taxminan 100–110 km tezlikka erisha oladi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/animal/cheetah-mammal",
+    "status": "verified"
+  },
+  {
+    "id": "nat-003",
+    "question": "Haqiqiy faol parvozga qodir yagona sutemizuvchilar guruhi qaysi?",
+    "options": [
+      "Ko‘rshapalaklar",
+      "Uchar olmaxonlar",
+      "Uchar baliqlar",
+      "Lemurlar"
+    ],
+    "answer": 0,
+    "explanation": "Ko‘rshapalaklarning qanoti barmoqlar orasiga tortilgan teri pardadan iborat; uchar olmaxonlar esa faqat sirpanib ucha oladi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/animal/bat",
+    "status": "verified"
+  },
+  {
+    "id": "nat-004",
+    "question": "Hasharotlarning nechta oyog‘i bo‘ladi?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer": 1,
+    "explanation": "Hasharotlarning uch juft oyog‘i ko‘krak qismiga birikkan; 8 oyoq esa o‘rgimchaksimonlarga xos.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/animal/insect",
+    "status": "verified"
+  },
+  {
+    "id": "nat-006",
+    "question": "O‘simlik barglariga yashil rang beruvchi pigment qaysi?",
+    "options": [
+      "Karotin",
+      "Xlorofill",
+      "Antotsian",
+      "Melanin"
+    ],
+    "answer": 1,
+    "explanation": "Xlorofill yorug‘likning qizil va ko‘k qismini yutib, yashil qismini qaytaradi va fotosintezda asosiy rol o‘ynaydi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/science/chlorophyll",
+    "status": "verified"
+  },
+  {
+    "id": "nat-007",
+    "question": "Hozirgi kunda yashayotgan eng katta qush qaysi?",
+    "options": [
+      "Tuyaqush",
+      "Emu",
+      "Albatros",
+      "Kondor"
+    ],
+    "answer": 0,
+    "explanation": "Afrika tuyaqushi 2,7 m gacha bo‘yga va 150 kg gacha vaznga ega bo‘lishi mumkin; u ucha olmaydi, lekin juda tez yuguradi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/animal/ostrich",
+    "status": "verified"
+  },
+  {
+    "id": "nat-008",
+    "question": "Quyidagi qushlardan qaysi biri ucha olmaydi?",
+    "options": [
+      "Pingvin",
+      "Albatros",
+      "Burgut",
+      "Qaldirg‘och"
+    ],
+    "answer": 0,
+    "explanation": "Pingvinlarning qanotlari suvda suzish uchun eshkaksimon organga aylangan.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/animal/penguin",
+    "status": "verified"
+  },
+  {
+    "id": "nat-009",
+    "question": "Kenguru sutemizuvchilarning qaysi guruhiga mansub?",
+    "options": [
+      "Kemiruvchilar",
+      "Yirtqichlar",
+      "Xaltalilar",
+      "Juft tuyoqlilar"
+    ],
+    "answer": 2,
+    "explanation": "Xaltali hayvonlarning bolasi juda kichik tug‘iladi va ona qornidagi xaltada o‘sishda davom etadi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/animal/kangaroo",
+    "status": "verified"
+  },
+  {
+    "id": "nat-010",
+    "question": "Moos shkalasi bo‘yicha eng qattiq tabiiy mineral qaysi?",
+    "options": [
+      "Korund",
+      "Kvars",
+      "Topaz",
+      "Olmos"
+    ],
+    "answer": 3,
+    "explanation": "Olmos Moos shkalasida 10 ballga ega; u sof ugleroddan tashkil topgan.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/science/diamond-gemstone",
+    "status": "verified"
+  },
+  {
+    "id": "nat-011",
+    "question": "Koala asosan nima bilan oziqlanadi?",
+    "options": [
+      "Bambuk",
+      "Hasharotlar",
+      "Evkalipt barglari",
+      "Mevalar"
+    ],
+    "answer": 2,
+    "explanation": "Koala deyarli faqat evkalipt barglarini yeydi; bu barglar to‘yimliligi past bo‘lgani uchun u kuniga ko‘p soat uxlaydi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/animal/koala",
+    "status": "verified"
+  },
+  {
+    "id": "nat-012",
+    "question": "Quruqlikdagi eng baland bo‘yli hayvon qaysi?",
+    "options": [
+      "Afrika fili",
+      "Jirafa",
+      "Tuya",
+      "Los"
+    ],
+    "answer": 1,
+    "explanation": "Erkak jirafalarning bo‘yi 5,5 metrgacha yetishi mumkin; bo‘yni uzun bo‘lsa-da, unda boshqa sutemizuvchilardagi kabi 7 ta umurtqa bor.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/animal/giraffe",
+    "status": "verified"
+  },
+  {
+    "id": "nat-013",
+    "question": "Bargi tez yopilib, hasharotlarni tutib oladigan yirtqich o‘simlik qaysi?",
+    "options": [
+      "Kaktus",
+      "Nilufar",
+      "Paporotnik",
+      "Venera pashshatutqichi"
+    ],
+    "answer": 3,
+    "explanation": "Venera pashshatutqichi (Dionaea muscipula) azotga kambag‘al tuproqlarda o‘sadi va yetishmayotgan oziq moddalarni hasharotlardan oladi.",
+    "category": "nature",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/plant/Venus-flytrap",
+    "status": "verified"
+  },
+  {
+    "id": "nat-014",
+    "question": "O‘rgimchaklar bo‘g‘imoyoqlilarning qaysi sinfiga mansub?",
+    "options": [
+      "Hasharotlar",
+      "Qisqichbaqasimonlar",
+      "O‘rgimchaksimonlar",
+      "Ko‘poyoqlilar"
+    ],
+    "answer": 2,
+    "explanation": "O‘rgimchaksimonlar (Arachnida) sinfiga o‘rgimchaklar, chayonlar va kanalar kiradi; ularning odatda 4 juft oyog‘i bo‘ladi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/animal/arachnid",
+    "status": "verified"
+  },
+  {
+    "id": "nat-015",
+    "question": "Quyidagi sutemizuvchilardan qaysi biri tuxum qo‘yib ko‘payadi?",
+    "options": [
+      "Kenguru",
+      "Koala",
+      "Delfin",
+      "O‘rdakburun"
+    ],
+    "answer": 3,
+    "explanation": "O‘rdakburun va yexidnalar tuxum qo‘yuvchi sutemizuvchilar — birlamchi hayvonlar (monotremalar) turkumiga kiradi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/animal/platypus",
+    "status": "verified"
+  },
+  {
+    "id": "nat-016",
+    "question": "Moos shkalasi bo‘yicha eng yumshoq mineral qaysi?",
+    "options": [
+      "Talk",
+      "Gips",
+      "Kalsit",
+      "Kvars"
+    ],
+    "answer": 0,
+    "explanation": "Talk Moos shkalasida 1 ballga ega va uni tirnoq bilan ham tirnash mumkin.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/science/Mohs-hardness",
+    "status": "verified"
+  },
+  {
+    "id": "nat-017",
+    "question": "Sakkizoyoqning nechta yuragi bor?",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Sakkizoyoqning ikki yuragi qonni jabralarga, uchinchisi esa butun tanaga haydaydi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/animal/octopus-mollusk",
+    "status": "verified"
+  },
+  {
+    "id": "nat-018",
+    "question": "Tuyaning o‘rkachida asosan nima to‘planadi?",
+    "options": [
+      "Yog‘",
+      "Suv",
+      "Havo",
+      "Qon"
+    ],
+    "answer": 0,
+    "explanation": "O‘rkachdagi yog‘ ozuqa zaxirasi vazifasini bajaradi; tuya suvni o‘rkachida emas, tanasida tejamkorlik bilan saqlaydi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/animal/camel",
+    "status": "verified"
+  },
+  {
+    "id": "nat-019",
+    "question": "Kamalak qanday hodisa tufayli paydo bo‘ladi?",
+    "options": [
+      "Bulutlarning elektr zaryadlanishi",
+      "Atmosferadagi changning yonishi",
+      "Quyosh nurining suv tomchilarida sinishi va spektrga ajralishi",
+      "Yer magnit maydonining nurlanishi"
+    ],
+    "answer": 2,
+    "explanation": "Oq yorug‘lik tomchiga kirganda sinadi, ichki sirtdan qaytadi va turli to‘lqin uzunliklariga ajralib, rangli yoy hosil qiladi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/science/rainbow",
+    "status": "verified"
+  },
+  {
+    "id": "nat-020",
+    "question": "Bofort shkalasi nimani o‘lchash uchun ishlatiladi?",
+    "options": [
+      "Zilzila kuchini",
+      "Shamol kuchini",
+      "Havo namligini",
+      "Mineral qattiqligini"
+    ],
+    "answer": 1,
+    "explanation": "Bofort shkalasi 0 (shtil) dan 12 (dovul) gacha bo‘lgan ballarda shamol kuchini ifodalaydi; uni britaniyalik admiral Frensis Bofort ishlab chiqqan.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/science/Beaufort-scale",
+    "status": "verified"
+  },
+  {
+    "id": "nat-021",
+    "question": "Marjonlar tirik organizmlarning qaysi guruhiga mansub?",
+    "options": [
+      "O‘simliklar",
+      "Zamburug‘lar",
+      "Hayvonlar",
+      "Bakteriyalar"
+    ],
+    "answer": 2,
+    "explanation": "Marjonlar bo‘shliqichlilar tipiga kiruvchi mayda poliplar bo‘lib, ohakli skeleti orqali riflar hosil qiladi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/animal/coral",
+    "status": "verified"
+  },
+  {
+    "id": "nat-022",
+    "question": "Yerni Quyoshning zararli ultrabinafsha nurlaridan himoya qiluvchi ozon qatlami atmosferaning qaysi qatlamida joylashgan?",
+    "options": [
+      "Troposferada",
+      "Mezosferada",
+      "Stratosferada",
+      "Termosferada"
+    ],
+    "answer": 2,
+    "explanation": "Ozon qatlami asosan yer sathidan taxminan 15–35 km balandlikdagi stratosferada joylashgan.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/science/ozone-layer",
+    "status": "verified"
+  },
+  {
+    "id": "nat-023",
+    "question": "Qaysi hayvonlarda nasl (tuxumlar)ni otalari maxsus xaltada ko‘tarib yuradi?",
+    "options": [
+      "Dengiz yulduzlari",
+      "Meduzalar",
+      "Sakkizoyoqlar",
+      "Dengiz otchalari"
+    ],
+    "answer": 3,
+    "explanation": "Urg‘ochi dengiz otchasi tuxumlarni erkakning qornidagi xaltaga qo‘yadi va bolalar o‘sha yerda rivojlanib chiqadi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/animal/sea-horse",
+    "status": "verified"
+  },
+  {
+    "id": "nat-024",
+    "question": "O‘z ozuqasini fotosintez orqali hosil qiluvchi organizmlar ekologiyada qanday ataladi?",
+    "options": [
+      "Produsentlar",
+      "Konsumentlar",
+      "Redusentlar",
+      "Parazitlar"
+    ],
+    "answer": 0,
+    "explanation": "Produsentlar oziq zanjirining birinchi bo‘g‘ini bo‘lib, konsumentlar ular bilan oziqlanadi, redusentlar esa organik qoldiqlarni parchalaydi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/science/food-chain",
+    "status": "verified"
+  },
+  {
+    "id": "nat-025",
+    "question": "Ko‘rshapalaklar qorong‘ida yo‘l topish va o‘lja izlash uchun asosan qanday usuldan foydalanadi?",
+    "options": [
+      "Magnit maydonini sezish",
+      "Exolokatsiya",
+      "Infraqizil ko‘rish",
+      "Hid bilish"
+    ],
+    "answer": 1,
+    "explanation": "Ko‘rshapalaklar yuqori chastotali tovush chiqarib, qaytgan aks-sadoga qarab atrofdagi narsalarning joylashuvini aniqlaydi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/science/echolocation",
+    "status": "verified"
+  },
+  {
+    "id": "nat-026",
+    "question": "Dunyodagi eng katta kaltakesak — Komodo varani tabiiy holda qaysi mamlakatda yashaydi?",
+    "options": [
+      "Avstraliya",
+      "Indoneziya",
+      "Hindiston",
+      "Madagaskar"
+    ],
+    "answer": 1,
+    "explanation": "Komodo varani Indoneziyaning Komodo, Rincha, Flores kabi orollarida yashaydi; uning asosiy yashash joyi UNESCO Jahon merosi ro‘yxatidagi Komodo milliy bog‘idir.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://whc.unesco.org/en/list/609",
+    "status": "verified"
+  },
+  {
+    "id": "nat-027",
+    "question": "Asalarilar uyadagi boshqa asalarilarga ozuqa manbaining yo‘nalishi va masofasini qanday bildiradi?",
+    "options": [
+      "Qanot rangini o‘zgartirib",
+      "Maxsus raqs harakatlari orqali",
+      "Uyaga bargdan belgi olib kelib",
+      "Tovush chiqarmasdan qotib turib"
+    ],
+    "answer": 1,
+    "explanation": "Asalarilarning \"tebranma raqsi\" (waggle dance) yo‘nalishni Quyoshga nisbatan burchak, masofani esa raqs davomiyligi orqali ifodalaydi.",
+    "category": "nature",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Waggle_dance",
+    "status": "verified"
+  },
+  {
+    "id": "nat-028",
+    "question": "Tornadolar kuchini baholash uchun qaysi shkala qo‘llaniladi?",
+    "options": [
+      "Saffir–Simpson shkalasi",
+      "Rixter shkalasi",
+      "Moos shkalasi",
+      "Fujita (EF) shkalasi"
+    ],
+    "answer": 3,
+    "explanation": "Fujita shkalasini 1971-yilda Tetsuya Fujita taklif qilgan; Saffir–Simpson shkalasi esa tropik bo‘ronlar (uraganlar) uchun ishlatiladi.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/science/Fujita-Scale",
+    "status": "verified"
+  },
+  {
+    "id": "nat-029",
+    "question": "Hozirgi kunda o‘lchangan eng baland tirik daraxt — \"Giperion\" qaysi turga mansub?",
+    "options": [
+      "Ulkan evkalipt",
+      "Baobab",
+      "Duglas pixtasi",
+      "Doimiy yashil sekvoya"
+    ],
+    "answer": 3,
+    "explanation": "Giperion Kaliforniyadagi Redvud milliy bog‘ida o‘sadi, balandligi taxminan 116 m; u 2006-yilda topilgan.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Hyperion_(tree)",
+    "status": "verified"
+  },
+  {
+    "id": "nat-030",
+    "question": "Lishayniklar qaysi organizmlarning simbiozidan iborat?",
+    "options": [
+      "Mox va paporotnik",
+      "Hasharot va gulli o‘simlik",
+      "Zamburug‘ va suvo‘ti (yoki siyanobakteriya)",
+      "Virus va bakteriya"
+    ],
+    "answer": 2,
+    "explanation": "Lishaynikda zamburug‘ boshpana va namlik beradi, suvo‘ti yoki siyanobakteriya esa fotosintez orqali ozuqa hosil qiladi.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/science/lichen",
+    "status": "verified"
+  },
+  {
+    "id": "nat-031",
+    "question": "Kvars mineralining kimyoviy tarkibi qanday?",
+    "options": [
+      "CaCO₃ (kalsiy karbonat)",
+      "NaCl (natriy xlorid)",
+      "Al₂O₃ (alyuminiy oksidi)",
+      "SiO₂ (kremniy dioksidi)"
+    ],
+    "answer": 3,
+    "explanation": "Kvars Yer qobig‘ida eng ko‘p tarqalgan minerallardan biri bo‘lib, Moos shkalasida 7 ballga ega.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/science/quartz",
+    "status": "verified"
+  },
+  {
+    "id": "nat-032",
+    "question": "Galit mineralining kundalik hayotdagi nomi nima?",
+    "options": [
+      "Osh tuzi",
+      "Bo‘r",
+      "Gips",
+      "Soda"
+    ],
+    "answer": 0,
+    "explanation": "Galit — natriy xloridning (NaCl) tabiiy kristall shakli, u tosh tuz deb ham ataladi.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/science/halite",
+    "status": "verified"
+  },
+  {
+    "id": "nat-033",
+    "question": "Har yili Arktikadan Antarktikagacha va orqaga uchib, hayvonot dunyosidagi eng uzun mavsumiy migratsiyani amalga oshiradigan qush qaysi?",
+    "options": [
+      "Sayoq albatros",
+      "Arktika chag‘alayi (Sterna paradisaea)",
+      "Oq laylak",
+      "Qishloq qaldirg‘ochi"
+    ],
+    "answer": 1,
+    "explanation": "Arktika chag‘alayi shimolda ko‘payib, janubiy yarimshar yozini Antarktida atrofida o‘tkazadi va yiliga o‘n minglab kilometr yo‘l bosadi.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/animal/Arctic-tern",
+    "status": "verified"
+  },
+  {
+    "id": "nat-034",
+    "question": "Aksolotl — umri davomida lichinkalik belgilarini saqlab qoladigan suvda yashovchi amfibiya — tabiiy holda qaysi mamlakatda uchraydi?",
+    "options": [
+      "Braziliya",
+      "Yaponiya",
+      "Avstraliya",
+      "Meksika"
+    ],
+    "answer": 3,
+    "explanation": "Aksolotl yovvoyi holda deyarli faqat Mexiko shahri yaqinidagi Xochimilko ko‘llar tizimida saqlanib qolgan va yo‘qolib ketish xavfi ostida.",
+    "category": "nature",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/animal/axolotl",
+    "status": "verified"
+  }
+]

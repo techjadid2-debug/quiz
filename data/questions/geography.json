@@ -1,0 +1,530 @@
+[
+  {
+    "id": "geo-001",
+    "question": "Qaysi shahar Kanadaning poytaxti hisoblanadi?",
+    "options": [
+      "Toronto",
+      "Monreal",
+      "Ottava",
+      "Vankuver"
+    ],
+    "answer": 2,
+    "explanation": "Ottava 1857-yilda qirolicha Viktoriya tomonidan poytaxt etib tanlangan; u Ontario provinsiyasida, Ottava daryosi bo‘yida joylashgan.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Ottawa",
+    "status": "verified"
+  },
+  {
+    "id": "geo-002",
+    "question": "Maydoni bo‘yicha dunyodagi eng katta okean qaysi?",
+    "options": [
+      "Atlantika okeani",
+      "Tinch okeani",
+      "Hind okeani",
+      "Shimoliy Muz okeani"
+    ],
+    "answer": 1,
+    "explanation": "Tinch okeani Yer yuzasining qariyb uchdan bir qismini egallaydi va barcha quruqliklar maydonidan kattaroqdir.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Pacific-Ocean",
+    "status": "verified"
+  },
+  {
+    "id": "geo-003",
+    "question": "Dengiz sathidan eng baland ko‘tarilgan tog‘ cho‘qqisi qaysi?",
+    "options": [
+      "K2 (Chogori)",
+      "Kanchenjanga",
+      "Everest (Jomolungma)",
+      "Lxotse"
+    ],
+    "answer": 2,
+    "explanation": "Everest Nepal va Xitoy (Tibet) chegarasida joylashgan; 2020-yilgi rasmiy o‘lchovga ko‘ra balandligi 8848,86 m.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Mount-Everest",
+    "status": "verified"
+  },
+  {
+    "id": "geo-004",
+    "question": "Dunyodagi eng chuqur ko‘l qaysi?",
+    "options": [
+      "Tanganika",
+      "Kaspiy",
+      "Baykal",
+      "Viktoriya"
+    ],
+    "answer": 2,
+    "explanation": "Baykalning eng chuqur joyi 1600 metrdan oshadi; u dunyodagi eng qadimgi ko‘l ham hisoblanadi va UNESCO Jahon merosi ro‘yxatiga kiritilgan.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://whc.unesco.org/en/list/754",
+    "status": "verified"
+  },
+  {
+    "id": "geo-005",
+    "question": "Maydoni bo‘yicha dunyodagi eng katta ko‘l hisoblanadigan, lekin \"dengiz\" deb ataladigan berk suv havzasi qaysi?",
+    "options": [
+      "Orol dengizi",
+      "O‘lik dengiz",
+      "Azov dengizi",
+      "Kaspiy dengizi"
+    ],
+    "answer": 3,
+    "explanation": "Kaspiy okean bilan tutashmagan berk havza bo‘lgani uchun ko‘l hisoblanadi; maydoni 370 ming km² dan ortiq.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Caspian-Sea",
+    "status": "verified"
+  },
+  {
+    "id": "geo-006",
+    "question": "Yevropani Afrikadan ajratib turuvchi, Atlantika okeanini O‘rta yer dengizi bilan bog‘lovchi bo‘g‘oz qaysi?",
+    "options": [
+      "Bosfor bo‘g‘ozi",
+      "Dardanell bo‘g‘ozi",
+      "Gibraltar bo‘g‘ozi",
+      "La-Mansh bo‘g‘ozi"
+    ],
+    "answer": 2,
+    "explanation": "Gibraltar bo‘g‘ozining eng tor joyi taxminan 13 km bo‘lib, Ispaniya va Marokash qirg‘oqlarini ajratadi.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Strait-of-Gibraltar",
+    "status": "verified"
+  },
+  {
+    "id": "geo-007",
+    "question": "Dunyodagi eng katta issiq (tropik) cho‘l qaysi?",
+    "options": [
+      "Kalaxari",
+      "Gobi",
+      "Arabiston cho‘li",
+      "Sahroi Kabir"
+    ],
+    "answer": 3,
+    "explanation": "Sahroi Kabir Shimoliy Afrikada 9 mln km² ga yaqin hududni egallaydi; umuman eng katta cho‘llar esa sovuq qutb cho‘llari — Antarktida va Arktika.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Sahara-desert-Africa",
+    "status": "verified"
+  },
+  {
+    "id": "geo-008",
+    "question": "Qutb hududlaridan tashqaridagi eng quruq cho‘l qaysi?",
+    "options": [
+      "Atakama",
+      "Namib",
+      "Sahroi Kabir",
+      "Mojave"
+    ],
+    "answer": 0,
+    "explanation": "Chili shimolidagi Atakama cho‘lining ayrim joylarida o‘nlab yillar davomida yog‘ingarchilik qayd etilmagan.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Atacama-Desert",
+    "status": "verified"
+  },
+  {
+    "id": "geo-009",
+    "question": "Qaysi shahar Braziliyaning poytaxti hisoblanadi?",
+    "options": [
+      "Rio-de-Janeyro",
+      "Braziliya",
+      "San-Paulu",
+      "Salvador"
+    ],
+    "answer": 1,
+    "explanation": "Braziliya shahri maxsus loyiha asosida qurilib, 1960-yilda poytaxt bo‘lgan; undan oldin poytaxt Rio-de-Janeyro edi.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Brasilia",
+    "status": "verified"
+  },
+  {
+    "id": "geo-010",
+    "question": "Maydoni bo‘yicha dunyodagi eng kichik mustaqil davlat qaysi?",
+    "options": [
+      "Monako",
+      "Vatikan",
+      "San-Marino",
+      "Lixtenshteyn"
+    ],
+    "answer": 1,
+    "explanation": "Vatikanning maydoni taxminan 0,44 km²; u to‘liq Rim shahri ichida joylashgan.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Vatican-City",
+    "status": "verified"
+  },
+  {
+    "id": "geo-011",
+    "question": "Maydoni bo‘yicha dunyodagi eng katta davlat qaysi?",
+    "options": [
+      "Kanada",
+      "Rossiya",
+      "Xitoy",
+      "AQSh"
+    ],
+    "answer": 1,
+    "explanation": "Rossiya 17 mln km² dan ortiq hududni egallaydi va Yevropa hamda Osiyoda joylashgan.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Russia",
+    "status": "verified"
+  },
+  {
+    "id": "geo-012",
+    "question": "Dunyo okeanining eng chuqur nuqtasi — Chellenjer tubi qaysi botiqda joylashgan?",
+    "options": [
+      "Puerto-Riko botig‘i",
+      "Mariana botig‘i",
+      "Tonga botig‘i",
+      "Kuril-Kamchatka botig‘i"
+    ],
+    "answer": 1,
+    "explanation": "Mariana botig‘i Tinch okeanining g‘arbiy qismida joylashgan; Chellenjer tubining chuqurligi taxminan 11 km.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Mariana-Trench",
+    "status": "verified"
+  },
+  {
+    "id": "geo-013",
+    "question": "Quruqlikdagi eng past nuqta (dengiz sathidan 400 m dan ortiq pastda) qayerda joylashgan?",
+    "options": [
+      "Kaspiy dengizi qirg‘og‘i",
+      "Turfon pastqamligi",
+      "O‘lik dengiz qirg‘og‘i",
+      "Assal ko‘li qirg‘og‘i"
+    ],
+    "answer": 2,
+    "explanation": "O‘lik dengiz qirg‘og‘i dengiz sathidan taxminan 430 m pastda; dengiz suvi juda sho‘r bo‘lgani uchun unda odam cho‘kmaydi.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Dead-Sea",
+    "status": "verified"
+  },
+  {
+    "id": "geo-014",
+    "question": "Osiyoni Shimoliy Amerikadan ajratib turuvchi bo‘g‘oz qaysi?",
+    "options": [
+      "Magellan bo‘g‘ozi",
+      "Hormuz bo‘g‘ozi",
+      "Malakka bo‘g‘ozi",
+      "Bering bo‘g‘ozi"
+    ],
+    "answer": 3,
+    "explanation": "Bering bo‘g‘ozi Rossiyaning Chukotka yarimoroli va AQShning Alyaska shtati orasida joylashgan; u daniyalik dengizchi Vitus Bering nomi bilan atalgan.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Bering-Strait",
+    "status": "verified"
+  },
+  {
+    "id": "geo-015",
+    "question": "Qaysi shahar Turkiyaning poytaxti hisoblanadi?",
+    "options": [
+      "Istanbul",
+      "Izmir",
+      "Bursa",
+      "Anqara"
+    ],
+    "answer": 3,
+    "explanation": "Anqara 1923-yilda Turkiya Respublikasi poytaxti etib belgilangan; Istanbul esa mamlakatning eng mashhur shahri bo‘lsa-da, poytaxt emas.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Ankara",
+    "status": "verified"
+  },
+  {
+    "id": "geo-016",
+    "question": "Qaysi shahar Yangi Zelandiyaning poytaxti hisoblanadi?",
+    "options": [
+      "Oklend",
+      "Kraystcherch",
+      "Vellington",
+      "Kvinstaun"
+    ],
+    "answer": 2,
+    "explanation": "Vellington Shimoliy orolning janubiy uchida joylashgan va 1865-yildan poytaxt hisoblanadi.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Wellington-New-Zealand",
+    "status": "verified"
+  },
+  {
+    "id": "geo-017",
+    "question": "Bosh (nolinchi) meridian qaysi joy orqali o‘tadi deb qabul qilingan?",
+    "options": [
+      "Parij",
+      "Madrid",
+      "Berlin",
+      "Grinvich (London)"
+    ],
+    "answer": 3,
+    "explanation": "1884-yilgi Xalqaro meridian konferensiyasida Grinvich rasadxonasi orqali o‘tuvchi meridian bosh meridian sifatida qabul qilingan.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/science/prime-meridian",
+    "status": "verified"
+  },
+  {
+    "id": "geo-018",
+    "question": "Quyidagi davlatlardan qaysi biri orqali ekvator o‘tmaydi?",
+    "options": [
+      "Ekvador",
+      "Meksika",
+      "Braziliya",
+      "Keniya"
+    ],
+    "answer": 1,
+    "explanation": "Ekvator Ekvador, Braziliya va Keniya hududlaridan o‘tadi; Meksika esa butunlay Shimoliy yarimsharda joylashgan.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Equator",
+    "status": "verified"
+  },
+  {
+    "id": "geo-019",
+    "question": "Dunyodagi eng baland sharshara — Anxel sharsharasi qaysi davlatda joylashgan?",
+    "options": [
+      "Kolumbiya",
+      "Braziliya",
+      "Gayana",
+      "Venesuela"
+    ],
+    "answer": 3,
+    "explanation": "Anxel sharsharasining balandligi qariyb 979 m; u Venesueladagi Kanayma milliy bog‘ida joylashgan.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Angel-Falls",
+    "status": "verified"
+  },
+  {
+    "id": "geo-020",
+    "question": "Afrikaning eng baland cho‘qqisi Kilimanjaro qaysi davlatda joylashgan?",
+    "options": [
+      "Tanzaniya",
+      "Keniya",
+      "Uganda",
+      "Efiopiya"
+    ],
+    "answer": 0,
+    "explanation": "Kilimanjaro (5895 m) Tanzaniya shimoli-sharqida, Keniya chegarasi yaqinida joylashgan uyqudagi vulqon massividir.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Kilimanjaro",
+    "status": "verified"
+  },
+  {
+    "id": "geo-021",
+    "question": "Janubiy Amerikaning eng baland cho‘qqisi qaysi?",
+    "options": [
+      "Chimboraso",
+      "Akonkagua",
+      "Uaskaran",
+      "Kotopaxi"
+    ],
+    "answer": 1,
+    "explanation": "Akonkagua (taxminan 6960 m) Argentinadagi And tog‘larida joylashgan va G‘arbiy yarimsharning eng baland nuqtasidir.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Aconcagua",
+    "status": "verified"
+  },
+  {
+    "id": "geo-022",
+    "question": "O‘rta yer dengizini Qizil dengiz bilan qaysi kanal bog‘laydi?",
+    "options": [
+      "Panama kanali",
+      "Suvaysh kanali",
+      "Kil kanali",
+      "Korinf kanali"
+    ],
+    "answer": 1,
+    "explanation": "Suvaysh kanali Misrda joylashgan va 1869-yilda ochilgan; u Yevropa va Osiyo o‘rtasidagi dengiz yo‘lini Afrikani aylanib o‘tmasdan qisqartiradi.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/topic/Suez-Canal",
+    "status": "verified"
+  },
+  {
+    "id": "geo-023",
+    "question": "Bosfor bo‘g‘ozi qaysi ikki suv havzasini bog‘laydi?",
+    "options": [
+      "Egey dengizi va Marmara dengizi",
+      "Qora dengiz va Azov dengizi",
+      "Qora dengiz va Marmara dengizi",
+      "O‘rta yer dengizi va Egey dengizi"
+    ],
+    "answer": 2,
+    "explanation": "Bosfor Istanbul shahrini ikkiga bo‘lib o‘tadi; Marmara dengizini Egey dengizi bilan esa Dardanell bo‘g‘ozi bog‘laydi.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Bosporus",
+    "status": "verified"
+  },
+  {
+    "id": "geo-024",
+    "question": "Dunyodagi eng katta marjon riflari tizimi — Katta To‘siq rifi qaysi davlat qirg‘oqlari bo‘ylab joylashgan?",
+    "options": [
+      "Avstraliya",
+      "Indoneziya",
+      "Filippin",
+      "Yangi Zelandiya"
+    ],
+    "answer": 0,
+    "explanation": "Katta To‘siq rifi Avstraliyaning Kvinslend shtati qirg‘oqlari bo‘ylab 2000 km dan ortiq cho‘zilgan va 1981-yilda UNESCO Jahon merosi ro‘yxatiga kiritilgan.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://whc.unesco.org/en/list/154",
+    "status": "verified"
+  },
+  {
+    "id": "geo-025",
+    "question": "Materik hisoblanmaydigan eng katta orol qaysi?",
+    "options": [
+      "Grenlandiya",
+      "Yangi Gvineya",
+      "Kalimantan (Borneo)",
+      "Madagaskar"
+    ],
+    "answer": 0,
+    "explanation": "Grenlandiyaning maydoni qariyb 2,17 mln km²; Avstraliya esa orol emas, materik hisoblanadi.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Greenland",
+    "status": "verified"
+  },
+  {
+    "id": "geo-026",
+    "question": "Lesoto davlati har tomondan qaysi davlat bilan o‘ralgan?",
+    "options": [
+      "Janubiy Afrika Respublikasi",
+      "Namibiya",
+      "Botsvana",
+      "Zimbabve"
+    ],
+    "answer": 0,
+    "explanation": "Lesoto — butunlay boshqa bitta davlat hududi ichida joylashgan uchta davlatdan biri (qolganlari — Vatikan va San-Marino).",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/place/Lesotho",
+    "status": "verified"
+  },
+  {
+    "id": "geo-027",
+    "question": "Alp tog‘larining eng baland cho‘qqisi qaysi?",
+    "options": [
+      "Matterhorn",
+      "Ayger",
+      "Monblan",
+      "Dyufur cho‘qqisi"
+    ],
+    "answer": 2,
+    "explanation": "Monblan Fransiya va Italiya chegarasida joylashgan, balandligi 4800 metrdan oshadi.",
+    "category": "geography",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Mont-Blanc-mountain-Europe",
+    "status": "verified"
+  },
+  {
+    "id": "geo-028",
+    "question": "Janubiy Amerika materigini Olovli Yer arxipelagidan ajratib turuvchi bo‘g‘oz qaysi?",
+    "options": [
+      "Magellan bo‘g‘ozi",
+      "Bass bo‘g‘ozi",
+      "Kuk bo‘g‘ozi",
+      "Devis bo‘g‘ozi"
+    ],
+    "answer": 0,
+    "explanation": "Bo‘g‘oz 1520-yilda undan birinchi bo‘lib suzib o‘tgan Fernan Magellan nomi bilan atalgan.",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/place/Strait-of-Magellan",
+    "status": "verified"
+  },
+  {
+    "id": "geo-029",
+    "question": "Shimoliy tropik (Saraton tropigi) taxminan qaysi kenglikda joylashgan?",
+    "options": [
+      "66,6° shimoliy kenglik",
+      "45° shimoliy kenglik",
+      "30° shimoliy kenglik",
+      "23,4° shimoliy kenglik"
+    ],
+    "answer": 3,
+    "explanation": "Tropiklar kengligi Yer o‘qining qiyaligiga (taxminan 23,4°) teng; yozgi quyosh turishida Quyosh shu kenglikda tik turadi. 66,6° esa Shimoliy qutb doirasi.",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/place/Tropic-of-Cancer",
+    "status": "verified"
+  },
+  {
+    "id": "geo-030",
+    "question": "Titikaka ko‘li qaysi ikki davlat chegarasida joylashgan?",
+    "options": [
+      "Chili va Argentina",
+      "Ekvador va Peru",
+      "Braziliya va Boliviya",
+      "Peru va Boliviya"
+    ],
+    "answer": 3,
+    "explanation": "Titikaka dengiz sathidan taxminan 3800 m balandlikda joylashgan va kemalar qatnaydigan eng baland ko‘llardan biri hisoblanadi.",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/place/Lake-Titicaca",
+    "status": "verified"
+  },
+  {
+    "id": "geo-031",
+    "question": "Viktoriya sharsharasi qaysi daryoda joylashgan?",
+    "options": [
+      "Zambezi",
+      "Kongo",
+      "Nil",
+      "Niger"
+    ],
+    "answer": 0,
+    "explanation": "Viktoriya sharsharasi Zambiya va Zimbabve chegarasida joylashgan; mahalliy nomi \"Mosi-oa-Tunya\" — \"Momaqaldiroq tutuni\".",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://whc.unesco.org/en/list/509",
+    "status": "verified"
+  },
+  {
+    "id": "geo-032",
+    "question": "Fors ko‘rfazini Ummon ko‘rfazi bilan bog‘lovchi bo‘g‘oz qaysi?",
+    "options": [
+      "Hormuz bo‘g‘ozi",
+      "Bob-ul-Mandab bo‘g‘ozi",
+      "Malakka bo‘g‘ozi",
+      "Tiran bo‘g‘ozi"
+    ],
+    "answer": 0,
+    "explanation": "Hormuz bo‘g‘ozi Eron va Ummon (Musandam yarimoroli) orasida joylashgan; Bob-ul-Mandab esa Qizil dengizni Adan ko‘rfazi bilan bog‘laydi.",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/place/Strait-of-Hormuz",
+    "status": "verified"
+  },
+  {
+    "id": "geo-033",
+    "question": "2005–2006-yillardan beri Myanma poytaxti bo‘lib kelayotgan shahar qaysi?",
+    "options": [
+      "Neypyido",
+      "Yangon",
+      "Mandalay",
+      "Bago"
+    ],
+    "answer": 0,
+    "explanation": "Myanma hukumati 2005-yilda poytaxtni Yangondan maxsus qurilgan Neypyido shahriga ko‘chirgan, nom 2006-yilda rasman e’lon qilingan.",
+    "category": "geography",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/place/Nay-Pyi-Taw",
+    "status": "verified"
+  }
+]

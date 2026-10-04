@@ -1,0 +1,530 @@
+[
+  {
+    "id": "spa-001",
+    "question": "Quyoshga eng yaqin joylashgan sayyora qaysi?",
+    "options": [
+      "Venera",
+      "Merkuriy",
+      "Mars",
+      "Yer"
+    ],
+    "answer": 1,
+    "explanation": "Merkuriy Quyosh atrofini 88 kunda aylanib chiqadi; u Quyosh tizimidagi eng kichik sayyora hamdir.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Mercury_(planet)",
+    "status": "verified"
+  },
+  {
+    "id": "spa-002",
+    "question": "Quyosh tizimidagi eng katta sayyora qaysi?",
+    "options": [
+      "Saturn",
+      "Neptun",
+      "Yupiter",
+      "Uran"
+    ],
+    "answer": 2,
+    "explanation": "Yupiterning massasi Quyosh tizimidagi boshqa barcha sayyoralar massasi yig‘indisidan qariyb 2,5 marta ko‘p.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://science.nasa.gov/jupiter/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-003",
+    "question": "Quyosh tizimidagi eng issiq sayyora qaysi?",
+    "options": [
+      "Venera",
+      "Merkuriy",
+      "Mars",
+      "Yupiter"
+    ],
+    "answer": 0,
+    "explanation": "Venera Quyoshdan Merkuriyga qaraganda uzoqroq bo‘lsa-da, qalin karbonat angidrid atmosferasi tufayli kuchli issiqxona effekti yuzasida qariyb 465 °C harorat hosil qiladi.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://science.nasa.gov/venus/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-004",
+    "question": "Qaysi sayyora «Qizil sayyora» deb ataladi?",
+    "options": [
+      "Yupiter",
+      "Venera",
+      "Merkuriy",
+      "Mars"
+    ],
+    "answer": 3,
+    "explanation": "Mars yuzasidagi tuproq va changda temir oksidlari ko‘p bo‘lgani uchun u qizg‘ish ko‘rinadi.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://science.nasa.gov/mars/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-005",
+    "question": "Dunyodagi birinchi sun’iy yo‘ldosh «Sputnik-1» qaysi yili orbitaga chiqarilgan?",
+    "options": [
+      "1949",
+      "1957",
+      "1961",
+      "1969"
+    ],
+    "answer": 1,
+    "explanation": "«Sputnik-1» SSSR tomonidan 1957-yil 4-oktabrda uchirilgan va kosmik davrning boshlanishi hisoblanadi.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Sputnik_1",
+    "status": "verified"
+  },
+  {
+    "id": "spa-006",
+    "question": "Koinotga uchgan birinchi inson kim?",
+    "options": [
+      "Yuriy Gagarin",
+      "Neil Armstrong",
+      "German Titov",
+      "Aleksey Leonov"
+    ],
+    "answer": 0,
+    "explanation": "Yuriy Gagarin «Vostok-1» kemasida Yer atrofini bir marta aylanib chiqqan, parvoz 108 daqiqa davom etgan.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Yuri_Gagarin",
+    "status": "verified"
+  },
+  {
+    "id": "spa-007",
+    "question": "Oy yuzasiga birinchi bo‘lib qadam qo‘ygan inson kim?",
+    "options": [
+      "Bazz Oldrin",
+      "Maykl Kollinz",
+      "Neil Armstrong",
+      "Yuriy Gagarin"
+    ],
+    "answer": 2,
+    "explanation": "Armstrong 1969-yil iyulda «Apollon-11» missiyasi doirasida Oyga qadam qo‘ygan, undan keyin Bazz Oldrin tushgan.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Neil_Armstrong",
+    "status": "verified"
+  },
+  {
+    "id": "spa-008",
+    "question": "Pluton qaysi yili Xalqaro astronomiya ittifoqi tomonidan «mitti sayyora» toifasiga o‘tkazilgan?",
+    "options": [
+      "1930",
+      "1999",
+      "2015",
+      "2006"
+    ],
+    "answer": 3,
+    "explanation": "Pluton 1930-yilda kashf etilgan; 2006-yilda sayyora ta’rifi qabul qilingach, u mitti sayyora deb tasniflangan.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Pluto",
+    "status": "verified"
+  },
+  {
+    "id": "spa-009",
+    "question": "Qaysi sayyora eng yirik va yorqin halqalar tizimi bilan mashhur?",
+    "options": [
+      "Mars",
+      "Saturn",
+      "Merkuriy",
+      "Venera"
+    ],
+    "answer": 1,
+    "explanation": "Halqalar Yupiter, Uran va Neptunda ham bor, ammo Saturnning muz va tosh bo‘laklaridan iborat halqalari eng katta va eng yaxshi ko‘rinadi.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://science.nasa.gov/saturn/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-010",
+    "question": "«Yorug‘lik yili» nimani o‘lchash birligi?",
+    "options": [
+      "Vaqt",
+      "Yorug‘lik kuchi",
+      "Masofa",
+      "Tezlik"
+    ],
+    "answer": 2,
+    "explanation": "Yorug‘lik yili — yorug‘likning vakuumda bir yilda bosib o‘tadigan masofasi, taxminan 9,46 trillion km.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Light-year",
+    "status": "verified"
+  },
+  {
+    "id": "spa-011",
+    "question": "Quyosh tizimi joylashgan galaktika qanday ataladi?",
+    "options": [
+      "Somon yo‘li",
+      "Andromeda",
+      "Uchburchak galaktikasi",
+      "Katta Magellan buluti"
+    ],
+    "answer": 0,
+    "explanation": "Somon yo‘li — to‘siqli spiral galaktika bo‘lib, unda yuz milliardlab yulduz bor.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Milky_Way",
+    "status": "verified"
+  },
+  {
+    "id": "spa-012",
+    "question": "2006-yildan beri qabul qilingan ta’rifga ko‘ra Quyosh tizimida nechta sayyora bor?",
+    "options": [
+      "7",
+      "9",
+      "10",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "Bular: Merkuriy, Venera, Yer, Mars, Yupiter, Saturn, Uran va Neptun.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Solar_System",
+    "status": "verified"
+  },
+  {
+    "id": "spa-013",
+    "question": "Mirzo Ulug‘bek rasadxonasi qaysi shaharda qurilgan?",
+    "options": [
+      "Buxoro",
+      "Samarqand",
+      "Hirot",
+      "Xiva"
+    ],
+    "answer": 1,
+    "explanation": "Rasadxona 1420-yillarda Samarqandda qurilgan; uning ulkan sekstant qoldig‘i hozirgacha saqlanib qolgan.",
+    "category": "space",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Ulugh_Beg_Observatory",
+    "status": "verified"
+  },
+  {
+    "id": "spa-014",
+    "question": "Yuriy Gagarinning koinotga parvozi qaysi sanada amalga oshgan?",
+    "options": [
+      "4-oktabr 1957-yil",
+      "20-iyul 1969-yil",
+      "12-aprel 1961-yil",
+      "16-iyun 1963-yil"
+    ],
+    "answer": 2,
+    "explanation": "12-aprel Kosmonavtika kuni sifatida nishonlanadi; 2011-yildan BMT uni Xalqaro inson kosmik parvozi kuni deb e’lon qilgan.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Vostok_1",
+    "status": "verified"
+  },
+  {
+    "id": "spa-015",
+    "question": "«Habbl» kosmik teleskopi qaysi yili orbitaga chiqarilgan?",
+    "options": [
+      "1990",
+      "1981",
+      "1998",
+      "2003"
+    ],
+    "answer": 0,
+    "explanation": "Teleskop 1990-yil 24-aprelda «Diskaveri» kemasi yordamida uchirilgan va NASA hamda ESA hamkorligida ishlaydi.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://science.nasa.gov/mission/hubble/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-016",
+    "question": "«Jeyms Uebb» kosmik teleskopi qachon uchirilgan?",
+    "options": [
+      "2018-yil 24-aprel",
+      "2021-yil 25-dekabr",
+      "2019-yil 1-yanvar",
+      "2022-yil 12-iyul"
+    ],
+    "answer": 1,
+    "explanation": "Teleskop Fransuz Gvianasidan «Ariane 5» raketasida uchirilgan; 2022-yil 12-iyulda uning ilk ilmiy tasvirlari e’lon qilingan.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+    "status": "verified"
+  },
+  {
+    "id": "spa-017",
+    "question": "Koinotga uchgan birinchi ayol kim?",
+    "options": [
+      "Salli Rayd",
+      "Svetlana Savitskaya",
+      "Yelena Kondakova",
+      "Valentina Tereshkova"
+    ],
+    "answer": 3,
+    "explanation": "Tereshkova 1963-yil 16-iyunda «Vostok-6» kemasida uchgan va Yer atrofini 48 marta aylanib chiqqan.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Valentina_Tereshkova",
+    "status": "verified"
+  },
+  {
+    "id": "spa-018",
+    "question": "«Apollon-11» missiyasida Neil Armstrong bilan birga Oy yuzasiga tushgan astronavt kim?",
+    "options": [
+      "Bazz Oldrin",
+      "Maykl Kollinz",
+      "Jon Glenn",
+      "Alan Shepard"
+    ],
+    "answer": 0,
+    "explanation": "Maykl Kollinz bu vaqtda Oy orbitasida «Kolumbiya» buyruq modulida qolgan.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Apollo_11",
+    "status": "verified"
+  },
+  {
+    "id": "spa-019",
+    "question": "Quyosh tizimidagi eng yirik vulqon — Olimp tog‘i qaysi sayyorada joylashgan?",
+    "options": [
+      "Venera",
+      "Yer",
+      "Mars",
+      "Merkuriy"
+    ],
+    "answer": 2,
+    "explanation": "Olimp tog‘ining balandligi qariyb 22 km, atrofdagi tekisliklarga nisbatan esa 25 km dan ortiq — bu Everestdan ikki baravardan ham ko‘proq.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://science.nasa.gov/mars/facts/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-020",
+    "question": "Aylanish o‘qi orbitasi tekisligiga deyarli yotiq holatda (taxminan 98°) og‘gan sayyora qaysi?",
+    "options": [
+      "Neptun",
+      "Saturn",
+      "Yupiter",
+      "Uran"
+    ],
+    "answer": 3,
+    "explanation": "Shu sababli Uranning qutblari navbatma-navbat taxminan 42 yil davomida Quyoshga qarab turadi.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://science.nasa.gov/uranus/facts/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-021",
+    "question": "Quyosh yorug‘ligi Yerga taxminan qancha vaqtda yetib keladi?",
+    "options": [
+      "8 sekundda",
+      "8 daqiqada",
+      "1 soatda",
+      "1 sutkada"
+    ],
+    "answer": 1,
+    "explanation": "Quyoshdan Yergacha o‘rtacha 150 million km; yorug‘lik bu masofani qariyb 8 daqiqa 20 sekundda bosib o‘tadi.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Astronomical_unit",
+    "status": "verified"
+  },
+  {
+    "id": "spa-022",
+    "question": "Bir astronomik birlik (a.b.) nimaga teng?",
+    "options": [
+      "Yerdan Quyoshgacha bo‘lgan o‘rtacha masofaga",
+      "Yerdan Oygacha bo‘lgan masofaga",
+      "Yorug‘likning bir yilda bosib o‘tadigan masofasiga",
+      "Quyosh diametriga"
+    ],
+    "answer": 0,
+    "explanation": "2012-yildan astronomik birlik aniq 149 597 870 700 metr deb belgilangan.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Astronomical_unit",
+    "status": "verified"
+  },
+  {
+    "id": "spa-023",
+    "question": "Somon yo‘liga eng yaqin joylashgan yirik spiral galaktika qaysi?",
+    "options": [
+      "Sombrero galaktikasi",
+      "Girdob galaktikasi",
+      "Andromeda galaktikasi",
+      "Katta Magellan buluti"
+    ],
+    "answer": 2,
+    "explanation": "Andromeda bizdan taxminan 2,5 million yorug‘lik yili uzoqlikda; uni qorong‘i osmonda oddiy ko‘z bilan ham ko‘rish mumkin.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Andromeda_Galaxy",
+    "status": "verified"
+  },
+  {
+    "id": "spa-024",
+    "question": "Quyoshdan keyin Yerga eng yaqin yulduz qaysi?",
+    "options": [
+      "Sirius",
+      "Proksima Sentavr",
+      "Vega",
+      "Betelgeyze"
+    ],
+    "answer": 1,
+    "explanation": "Proksima Sentavr bizdan taxminan 4,2 yorug‘lik yili uzoqlikdagi qizil mitti yulduz; Sirius esa tungi osmondagi eng yorqin yulduz.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Proxima_Centauri",
+    "status": "verified"
+  },
+  {
+    "id": "spa-025",
+    "question": "Quyosh markazda turadigan (geliotsentrik) tizimni 1543-yilda nashr etilgan asarida asoslab bergan olim kim?",
+    "options": [
+      "Klavdiy Ptolemey",
+      "Galileo Galiley",
+      "Iogann Kepler",
+      "Nikolay Kopernik"
+    ],
+    "answer": 3,
+    "explanation": "Kopernikning «Osmon sferalarining aylanishi haqida» asari u vafot etgan yili chop etilgan; Ptolemey esa geotsentrik tizim muallifi.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
+    "status": "verified"
+  },
+  {
+    "id": "spa-026",
+    "question": "Qutb yulduzi qaysi yulduz turkumida joylashgan?",
+    "options": [
+      "Katta Ayiq",
+      "Kassiopeya",
+      "Kichik Ayiq",
+      "Orion"
+    ],
+    "answer": 2,
+    "explanation": "Qutb yulduzi Shimoliy osmon qutbiga juda yaqin bo‘lgani uchun deyarli qo‘zg‘almas ko‘rinadi va shimolni aniqlashda qo‘llaniladi.",
+    "category": "space",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Polaris",
+    "status": "verified"
+  },
+  {
+    "id": "spa-027",
+    "question": "Qaysi sayyorada o‘z o‘qi atrofida bir marta to‘liq aylanish davri (yulduz sutkasi) Quyosh atrofida aylanish davridan (yilidan) uzunroq?",
+    "options": [
+      "Mars",
+      "Venera",
+      "Yupiter",
+      "Neptun"
+    ],
+    "answer": 1,
+    "explanation": "Venera o‘z o‘qi atrofida 243 Yer sutkasida aylanadi, Quyosh atrofini esa 225 sutkada aylanib chiqadi; u boshqa sayyoralarga teskari yo‘nalishda aylanadi.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://science.nasa.gov/venus/venus-facts/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-028",
+    "question": "Quyosh tizimidagi eng katta tabiiy yo‘ldosh qaysi?",
+    "options": [
+      "Titan",
+      "Kallisto",
+      "Oy",
+      "Ganimed"
+    ],
+    "answer": 3,
+    "explanation": "Yupiterning yo‘ldoshi Ganimed diametri bo‘yicha Merkuriy sayyorasidan ham katta; o‘z magnit maydoniga ega yagona yo‘ldosh.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://science.nasa.gov/jupiter/jupiter-moons/ganymede/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-029",
+    "question": "Quyosh tizimida zich atmosferaga ega yagona yo‘ldosh — Titan qaysi sayyoraning yo‘ldoshi?",
+    "options": [
+      "Saturn",
+      "Yupiter",
+      "Uran",
+      "Neptun"
+    ],
+    "answer": 0,
+    "explanation": "Titan atmosferasi asosan azotdan iborat; uning yuzasida suyuq metan va etandan iborat ko‘llar bor.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://science.nasa.gov/saturn/moons/titan/",
+    "status": "verified"
+  },
+  {
+    "id": "spa-030",
+    "question": "Galileo Galiley Yupiterning to‘rtta yirik yo‘ldoshini qaysi yili kashf etgan?",
+    "options": [
+      "1543",
+      "1687",
+      "1610",
+      "1781"
+    ],
+    "answer": 2,
+    "explanation": "Io, Yevropa, Ganimed va Kallisto «Galiley yo‘ldoshlari» deb ataladi; bu kashfiyot hamma osmon jismlari ham Yer atrofida aylanmasligini ko‘rsatgan.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Galilean_moons",
+    "status": "verified"
+  },
+  {
+    "id": "spa-031",
+    "question": "Galley kometasi Yerdan qariyb necha yilda bir marta ko‘rinadi?",
+    "options": [
+      "76",
+      "25",
+      "150",
+      "11"
+    ],
+    "answer": 0,
+    "explanation": "Kometa so‘nggi marta 1986-yilda ko‘ringan, keyingi qaytishi 2061-yilga kutilmoqda.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Halley%27s_Comet",
+    "status": "verified"
+  },
+  {
+    "id": "spa-032",
+    "question": "Qaysi sayyora avval matematik hisob-kitoblar asosida bashorat qilinib, so‘ng 1846-yilda teleskopda topilgan?",
+    "options": [
+      "Uran",
+      "Saturn",
+      "Pluton",
+      "Neptun"
+    ],
+    "answer": 3,
+    "explanation": "Urben Leverye Uran orbitasidagi og‘ishlarga qarab yangi sayyora o‘rnini hisoblagan, Iogann Galle uni o‘sha joydan topgan.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Discovery_of_Neptune",
+    "status": "verified"
+  },
+  {
+    "id": "spa-033",
+    "question": "2012-yilda yulduzlararo muhitga chiqqan birinchi inson yaratgan kosmik apparat qaysi?",
+    "options": [
+      "«Pioner-10»",
+      "«Voyajer-1»",
+      "«Yangi ufqlar»",
+      "«Kassini»"
+    ],
+    "answer": 1,
+    "explanation": "1977-yilda uchirilgan «Voyajer-1» 2012-yil avgustida geliopauzani kesib o‘tgan.",
+    "category": "space",
+    "difficulty": "hard",
+    "source": "https://science.nasa.gov/mission/voyager/voyager-1/",
+    "status": "verified"
+  }
+]

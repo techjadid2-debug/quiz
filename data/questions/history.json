@@ -1,0 +1,530 @@
+[
+  {
+    "id": "his-001",
+    "question": "Gizadagi Buyuk piramida qaysi fir’avn uchun qurilgan?",
+    "options": [
+      "Ramzes II",
+      "Exnaton",
+      "Tutanxamon",
+      "Xufu (Xeops)"
+    ],
+    "answer": 3,
+    "explanation": "Buyuk piramida mil. av. XXVI asrda IV sulola fir’avni Xufu uchun qurilgan va Qadimgi dunyoning yetti mo‘jizasidan saqlanib qolgan yagona yodgorlikdir.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/topic/Great-Pyramid-of-Giza",
+    "status": "verified"
+  },
+  {
+    "id": "his-002",
+    "question": "Qadimgi dunyoning mashhur qonunlar to‘plamlaridan biri — Xammurapi qonunlari qaysi davlatga tegishli?",
+    "options": [
+      "Xett podsholigi",
+      "Fors (Ahamoniylar)",
+      "Qadimgi Misr",
+      "Bobil"
+    ],
+    "answer": 3,
+    "explanation": "Xammurapi qonunlari mil. av. XVIII asrda Bobil podshosi Xammurapi davrida tosh ustunga bitilgan; ustun hozir Parijdagi Luvr muzeyida saqlanadi.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/topic/Code-of-Hammurabi",
+    "status": "verified"
+  },
+  {
+    "id": "his-003",
+    "question": "Konstantinopolni 1453-yilda zabt etgan Usmonli sultoni kim?",
+    "options": [
+      "Sulaymon Qonuniy",
+      "Mehmed II (Fotih)",
+      "Salim I",
+      "Boyazid I"
+    ],
+    "answer": 1,
+    "explanation": "1453-yilda Mehmed II Konstantinopolni egallab, Vizantiya imperiyasiga barham bergan va shaharni Usmonli poytaxtiga aylantirgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/event/Fall-of-Constantinople-1453",
+    "status": "verified"
+  },
+  {
+    "id": "his-004",
+    "question": "Kristofor Kolumbning birinchi ekspeditsiyasi Amerika qirg‘oqlariga qaysi yili yetib borgan?",
+    "options": [
+      "1519-yil",
+      "1453-yil",
+      "1498-yil",
+      "1492-yil"
+    ],
+    "answer": 3,
+    "explanation": "Ispaniya toji homiyligidagi Kolumb ekspeditsiyasi 1492-yil oktabrda Bagama orollariga yetib kelgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Christopher-Columbus",
+    "status": "verified"
+  },
+  {
+    "id": "his-005",
+    "question": "Buyuk fransuz inqilobining ramzi bo‘lgan Bastiliya qal’asi qaysi yili ishg‘ol qilingan?",
+    "options": [
+      "1789-yil",
+      "1776-yil",
+      "1799-yil",
+      "1815-yil"
+    ],
+    "answer": 0,
+    "explanation": "Bastiliya 1789-yil 14-iyulda qo‘zg‘olonchilar tomonidan egallangan; 14-iyul hozir Fransiyaning milliy bayrami.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/event/Storming-of-the-Bastille",
+    "status": "verified"
+  },
+  {
+    "id": "his-006",
+    "question": "AQSh Mustaqillik deklaratsiyasi qaysi yili qabul qilingan?",
+    "options": [
+      "1789-yil",
+      "1783-yil",
+      "1776-yil",
+      "1812-yil"
+    ],
+    "answer": 2,
+    "explanation": "Deklaratsiya 1776-yil 4-iyulda Kontinental kongress tomonidan qabul qilingan; asosiy matn muallifi Tomas Jefferson.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/topic/Declaration-of-Independence",
+    "status": "verified"
+  },
+  {
+    "id": "his-007",
+    "question": "Ikkinchi jahon urushi 1939-yil 1-sentabrda Germaniyaning qaysi davlatga hujumi bilan boshlangan?",
+    "options": [
+      "Chexoslovakiya",
+      "Polsha",
+      "SSSR",
+      "Fransiya"
+    ],
+    "answer": 1,
+    "explanation": "Germaniya Polshaga bostirib kirgach, 3-sentabrda Buyuk Britaniya va Fransiya Germaniyaga urush e’lon qilgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/event/World-War-II",
+    "status": "verified"
+  },
+  {
+    "id": "his-008",
+    "question": "1945-yil 6-avgustda atom bombasi tashlangan birinchi shahar qaysi?",
+    "options": [
+      "Osaka",
+      "Nagasaki",
+      "Tokio",
+      "Xirosima"
+    ],
+    "answer": 3,
+    "explanation": "Xirosimaga 6-avgustda, Nagasakiga esa 9-avgustda atom bombasi tashlangan; ko‘p o‘tmay Yaponiya taslim bo‘lgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/event/atomic-bombings-of-Hiroshima-and-Nagasaki",
+    "status": "verified"
+  },
+  {
+    "id": "his-009",
+    "question": "Berlin devori qaysi yili qulagan?",
+    "options": [
+      "1990-yil",
+      "1961-yil",
+      "1989-yil",
+      "1991-yil"
+    ],
+    "answer": 2,
+    "explanation": "Berlin devori 1961-yilda qurilgan va 1989-yil 9-noyabrda chegaralar ochilishi bilan qulagan; Germaniya 1990-yilda birlashgan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/topic/Berlin-Wall",
+    "status": "verified"
+  },
+  {
+    "id": "his-010",
+    "question": "Iskandar Zulqarnaynning (Makedoniyalik Aleksandr) yoshlikdagi ustozi kim bo‘lgan?",
+    "options": [
+      "Aristotel",
+      "Sokrat",
+      "Platon",
+      "Pifagor"
+    ],
+    "answer": 0,
+    "explanation": "Aleksandrning otasi Filipp II o‘g‘liga ustoz qilib Aristotelni taklif qilgan; Aristotel o‘z navbatida Platonning shogirdi edi.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/biography/Alexander-the-Great",
+    "status": "verified"
+  },
+  {
+    "id": "his-011",
+    "question": "AQShdagi Fuqarolar urushi (1861–1865) davrida mamlakat prezidenti kim bo‘lgan?",
+    "options": [
+      "Tomas Jefferson",
+      "Jorj Vashington",
+      "Uliss Grant",
+      "Avraam Linkoln"
+    ],
+    "answer": 3,
+    "explanation": "Avraam Linkoln urush davomida prezident bo‘lgan va 1865-yil aprelda suiqasd natijasida halok bo‘lgan; Grant esa shimolliklar qo‘shini qo‘mondoni edi.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/event/American-Civil-War",
+    "status": "verified"
+  },
+  {
+    "id": "his-012",
+    "question": "Yuz yillik urush (1337–1453) qaysi davlatlar o‘rtasida bo‘lgan?",
+    "options": [
+      "Angliya va Fransiya",
+      "Ispaniya va Portugaliya",
+      "Angliya va Shotlandiya",
+      "Fransiya va Ispaniya"
+    ],
+    "answer": 0,
+    "explanation": "Urush Angliya qirollarining Fransiya taxtiga da’vosi tufayli boshlangan; Janna d’Ark mashhur bo‘lgan bu urush Fransiya g‘alabasi bilan tugagan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/event/Hundred-Years-War",
+    "status": "verified"
+  },
+  {
+    "id": "his-013",
+    "question": "Napoleon Bonapart 1815-yilda qaysi jangda yakuniy mag‘lubiyatga uchragan?",
+    "options": [
+      "Austerlits jangi",
+      "Trafalgar jangi",
+      "Vaterloo jangi",
+      "Borodino jangi"
+    ],
+    "answer": 2,
+    "explanation": "1815-yil 18-iyunda Vaterloo yonida Napoleon Vellington va Blyuxer qo‘shinlaridan yengilib, «Yuz kun» hukmronligi yakunlangan.",
+    "category": "history",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/event/Battle-of-Waterloo",
+    "status": "verified"
+  },
+  {
+    "id": "his-014",
+    "question": "G‘arbiy Rim imperiyasining so‘nggi imperatori Romul Avgustul qaysi yili taxtdan ag‘darilgan?",
+    "options": [
+      "476-yil",
+      "395-yil",
+      "410-yil",
+      "1453-yil"
+    ],
+    "answer": 0,
+    "explanation": "476-yilda german sarkardasi Odoakr Romul Avgustulni taxtdan tushirgan; bu sana an’anaviy ravishda G‘arbiy Rim imperiyasining qulashi deb hisoblanadi.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Romulus-Augustulus",
+    "status": "verified"
+  },
+  {
+    "id": "his-015",
+    "question": "Afrikani aylanib o‘tib, Yevropadan Hindistonga dengiz yo‘lini birinchi bo‘lib ochgan portugal dengizchisi kim?",
+    "options": [
+      "Bartolomeu Dias",
+      "Kristofor Kolumb",
+      "Vasko da Gama",
+      "Ferdinand Magellan"
+    ],
+    "answer": 2,
+    "explanation": "Vasko da Gama 1498-yilda Hindistonning Kalikut shahriga yetib kelgan; Bartolomeu Dias esa 1488-yilda Yaxshi Umid burnini aylanib o‘tgan, ammo Hindistongacha bormagan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Vasco-da-Gama",
+    "status": "verified"
+  },
+  {
+    "id": "his-016",
+    "question": "1914-yilda avstriyalik ershertsog Frans Ferdinand qaysi shaharda o‘ldirilgan va bu Birinchi jahon urushiga turtki bo‘lgan?",
+    "options": [
+      "Belgrad",
+      "Sarayevo",
+      "Budapesht",
+      "Vena"
+    ],
+    "answer": 1,
+    "explanation": "Frans Ferdinand 1914-yil 28-iyunda Sarayevoda Gavrilo Prinsip tomonidan o‘ldirilgan; bir oydan so‘ng Avstriya-Vengriya Serbiyaga urush e’lon qilgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Franz-Ferdinand-Archduke-of-Austria-Este",
+    "status": "verified"
+  },
+  {
+    "id": "his-017",
+    "question": "Birinchi jahon urushidan so‘ng Germaniya bilan Versal tinchlik shartnomasi qaysi yili imzolangan?",
+    "options": [
+      "1920-yil",
+      "1919-yil",
+      "1918-yil",
+      "1923-yil"
+    ],
+    "answer": 1,
+    "explanation": "Versal shartnomasi 1919-yil 28-iyunda imzolangan; jang harakatlari esa 1918-yil 11-noyabrdagi Kompyen sulhi bilan to‘xtatilgan edi.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/event/Treaty-of-Versailles-1919",
+    "status": "verified"
+  },
+  {
+    "id": "his-018",
+    "question": "Birlashgan Millatlar Tashkiloti (BMT) qaysi yili tashkil topgan?",
+    "options": [
+      "1955-yil",
+      "1948-yil",
+      "1919-yil",
+      "1945-yil"
+    ],
+    "answer": 3,
+    "explanation": "BMT Nizomi 1945-yil 24-oktabrda kuchga kirgan; shu kun har yili BMT kuni sifatida nishonlanadi.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/topic/United-Nations",
+    "status": "verified"
+  },
+  {
+    "id": "his-019",
+    "question": "1215-yilda Angliya qiroli Ioann Yersiz imzolagan, qirol hokimiyatini cheklovchi mashhur hujjat qanday nomlanadi?",
+    "options": [
+      "Huquqlar to‘g‘risidagi bill",
+      "Magna Carta (Buyuk erkinliklar xartiyasi)",
+      "Nant edikti",
+      "Vestfaliya sulhi"
+    ],
+    "answer": 1,
+    "explanation": "Magna Carta qirolning ham qonunga bo‘ysunishi g‘oyasini mustahkamlagan va keyinchalik konstitutsiyaviy huquqning ramziga aylangan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/topic/Magna-Carta",
+    "status": "verified"
+  },
+  {
+    "id": "his-020",
+    "question": "Normandiya gersogi Vilgelm Angliyani zabt etgan Gastings jangi qaysi yili bo‘lgan?",
+    "options": [
+      "1096-yil",
+      "1215-yil",
+      "1066-yil",
+      "1154-yil"
+    ],
+    "answer": 2,
+    "explanation": "1066-yil oktabrda Gastings jangida qirol Garold II halok bo‘lgan va Vilgelm «Istilochi» nomi bilan Angliya qiroli bo‘lgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/event/Battle-of-Hastings",
+    "status": "verified"
+  },
+  {
+    "id": "his-021",
+    "question": "Vaterloodagi mag‘lubiyatdan so‘ng Napoleon qaysi orolga surgun qilingan va o‘sha yerda vafot etgan?",
+    "options": [
+      "Muqaddas Yelena oroli",
+      "Sardiniya oroli",
+      "Elba oroli",
+      "Korsika oroli"
+    ],
+    "answer": 0,
+    "explanation": "Napoleon Atlantika okeanidagi Muqaddas Yelena oroliga surgun qilinib, 1821-yilda shu yerda vafot etgan; Elbaga esa u 1814-yilda surgun qilingan edi.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/place/Saint-Helena-island-Atlantic-Ocean",
+    "status": "verified"
+  },
+  {
+    "id": "his-022",
+    "question": "Peloponnes urushi (mil. av. 431–404) asosan qaysi qadimgi yunon polislari o‘rtasida bo‘lgan?",
+    "options": [
+      "Afina va Sparta",
+      "Afina va Makedoniya",
+      "Sparta va Fiva",
+      "Afina va Korinf"
+    ],
+    "answer": 0,
+    "explanation": "Afina boshchiligidagi Delos ittifoqi va Sparta boshchiligidagi Peloponnes ittifoqi o‘rtasidagi urush Spartaning g‘alabasi bilan tugagan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/event/Peloponnesian-War",
+    "status": "verified"
+  },
+  {
+    "id": "his-023",
+    "question": "Yuliy Sezar qaysi yili Rim senatida suiqasd natijasida o‘ldirilgan?",
+    "options": [
+      "milodiy 14-yil",
+      "mil. av. 49-yil",
+      "mil. av. 44-yil",
+      "mil. av. 27-yil"
+    ],
+    "answer": 2,
+    "explanation": "Sezar mil. av. 44-yil 15-martda (Mart idlari) Brut va Kassiy boshchiligidagi senatorlar tomonidan o‘ldirilgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Julius-Caesar",
+    "status": "verified"
+  },
+  {
+    "id": "his-024",
+    "question": "Temuchin qaysi yili qurultoyda Chingizxon deb e’lon qilingan?",
+    "options": [
+      "1240-yil",
+      "1227-yil",
+      "1219-yil",
+      "1206-yil"
+    ],
+    "answer": 3,
+    "explanation": "1206-yilda Onon daryosi bo‘yidagi qurultoyda Temuchin barcha mo‘g‘ul qabilalarining hukmdori — Chingizxon deb e’lon qilingan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Genghis-Khan",
+    "status": "verified"
+  },
+  {
+    "id": "his-025",
+    "question": "Martin Lyuter o‘zining «95 tezis»ini e’lon qilib, Reformatsiyani boshlab bergan yil qaysi?",
+    "options": [
+      "1648-yil",
+      "1492-yil",
+      "1555-yil",
+      "1517-yil"
+    ],
+    "answer": 3,
+    "explanation": "Lyuter 1517-yilda Vittenbergda indulgensiyalar savdosini tanqid qiluvchi 95 tezisini e’lon qilgan, bu protestantizmning paydo bo‘lishiga olib kelgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Martin-Luther",
+    "status": "verified"
+  },
+  {
+    "id": "his-026",
+    "question": "Fillar bilan Alp tog‘laridan oshib o‘tgan sarkarda Gannibal qaysi davlatning qo‘mondoni bo‘lgan?",
+    "options": [
+      "Makedoniya",
+      "Karfagen",
+      "Rim",
+      "Ahamoniylar davlati"
+    ],
+    "answer": 1,
+    "explanation": "Ikkinchi Puni urushida Karfagen sarkardasi Gannibal mil. av. 218-yilda Alp tog‘lari orqali Italiyaga bostirib kirgan.",
+    "category": "history",
+    "difficulty": "medium",
+    "source": "https://www.britannica.com/biography/Hannibal-Carthaginian-general",
+    "status": "verified"
+  },
+  {
+    "id": "his-027",
+    "question": "Magellan Filippin orollarida halok bo‘lgach, dunyo bo‘ylab birinchi suzishni 1522-yilda yakunlagan kapitan kim?",
+    "options": [
+      "Vasko da Gama",
+      "Frensis Dreyk",
+      "Xuan Sebastyan Elkano",
+      "Amerigo Vespuchchi"
+    ],
+    "answer": 2,
+    "explanation": "Magellan 1521-yilda Maktan orolida halok bo‘lgan; ekspeditsiyaning omon qolgan «Viktoriya» kemasini Elkano 1522-yilda Ispaniyaga qaytargan.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/biography/Juan-Sebastian-del-Cano",
+    "status": "verified"
+  },
+  {
+    "id": "his-028",
+    "question": "Makedoniyalik Aleksandr (Iskandar) mil. av. 323-yilda qaysi shaharda vafot etgan?",
+    "options": [
+      "Afina",
+      "Iskandariya",
+      "Bobil",
+      "Pella"
+    ],
+    "answer": 2,
+    "explanation": "Aleksandr Hindiston yurishidan qaytgach, mil. av. 323-yil iyunda Bobilda 32 yoshida vafot etgan.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/biography/Alexander-the-Great",
+    "status": "verified"
+  },
+  {
+    "id": "his-029",
+    "question": "1648-yilgi Vestfaliya sulhi qaysi urushni yakunlagan?",
+    "options": [
+      "Yuz yillik urush",
+      "O‘ttiz yillik urush",
+      "Yetti yillik urush",
+      "Ispan merosi uchun urush"
+    ],
+    "answer": 1,
+    "explanation": "Vestfaliya sulhi 1618-yildan davom etgan O‘ttiz yillik urushni tugatgan va zamonaviy davlat suvereniteti tamoyiliga asos solgan deb hisoblanadi.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/event/Peace-of-Westphalia",
+    "status": "verified"
+  },
+  {
+    "id": "his-030",
+    "question": "1494-yilgi Tordesilyas shartnomasi Yevropadan tashqaridagi yangi yerlarni qaysi ikki davlat o‘rtasida taqsimlagan?",
+    "options": [
+      "Ispaniya va Portugaliya",
+      "Angliya va Fransiya",
+      "Ispaniya va Angliya",
+      "Portugaliya va Niderlandiya"
+    ],
+    "answer": 0,
+    "explanation": "Shartnoma Atlantika okeani orqali chiziq o‘tkazib, undan g‘arbdagi yerlarni Ispaniyaga, sharqdagilarni Portugaliyaga bergan; shu sababli Braziliya portugal tilida so‘zlashadi.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/event/Treaty-of-Tordesillas",
+    "status": "verified"
+  },
+  {
+    "id": "his-031",
+    "question": "Yaponiyada imperator hokimiyatini tiklagan Meydzi restavratsiyasi qaysi yili boshlangan?",
+    "options": [
+      "1868-yil",
+      "1889-yil",
+      "1905-yil",
+      "1853-yil"
+    ],
+    "answer": 0,
+    "explanation": "1868-yilda syogunat tugatilib, hokimiyat imperator Meydziga qaytarilgan; bu Yaponiyaning tezkor modernizatsiyasini boshlab bergan.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/event/Meiji-Restoration",
+    "status": "verified"
+  },
+  {
+    "id": "his-032",
+    "question": "Suvaysh kanali qaysi yili ochilgan?",
+    "options": [
+      "1859-yil",
+      "1869-yil",
+      "1914-yil",
+      "1882-yil"
+    ],
+    "answer": 1,
+    "explanation": "Kanal qurilishi 1859-yilda Ferdinand de Lesseps rahbarligida boshlanib, 1869-yil noyabrda kemalar qatnovi uchun ochilgan.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/topic/Suez-Canal",
+    "status": "verified"
+  },
+  {
+    "id": "his-033",
+    "question": "Mil. av. 490-yilda Marafon jangida yunonlar qaysi davlat qo‘shinini yengishgan?",
+    "options": [
+      "Ahamoniylar (Fors) davlati",
+      "Karfagen",
+      "Rim respublikasi",
+      "Makedoniya"
+    ],
+    "answer": 0,
+    "explanation": "Afinaliklar Marafonda Doro I yuborgan fors qo‘shinini yenggan; g‘alaba xabarini yetkazgan chopar haqidagi rivoyat marafon yugurishiga nom bergan.",
+    "category": "history",
+    "difficulty": "hard",
+    "source": "https://www.britannica.com/event/Battle-of-Marathon",
+    "status": "verified"
+  }
+]

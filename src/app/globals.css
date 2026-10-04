@@ -1,26 +1,80 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Dizayn tokenlari: oq/qora asos + bitta sokin aksent (yashil-ko'k). */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --bg: #ffffff;
+  --surface: #f6f6f5;
+  --fg: #111111;
+  --muted: #5f5f5c;
+  --border: #e4e4e1;
+  --accent: #2f6f68;
+  --accent-fg: #ffffff;
+  --accent-soft: #e6f0ee;
+  --success: #1f7a4d;
+  --success-soft: #e7f4ec;
+  --danger: #b42318;
+  --danger-soft: #fdecea;
+  --ring: #2f6f68;
+}
+
+.dark {
+  --bg: #0c0c0c;
+  --surface: #171717;
+  --fg: #f2f2f0;
+  --muted: #a3a39e;
+  --border: #2a2a28;
+  --accent: #7cc4b9;
+  --accent-fg: #0c0c0c;
+  --accent-soft: #15302c;
+  --success: #6fd3a0;
+  --success-soft: #11291d;
+  --danger: #ff8a80;
+  --danger-soft: #331512;
+  --ring: #7cc4b9;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-fg: var(--fg);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --color-accent: var(--accent);
+  --color-accent-fg: var(--accent-fg);
+  --color-accent-soft: var(--accent-soft);
+  --color-success: var(--success);
+  --color-success-soft: var(--success-soft);
+  --color-danger: var(--danger);
+  --color-danger-soft: var(--danger-soft);
+  --color-ring: var(--ring);
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  color-scheme: light;
+}
+html.dark {
+  color-scheme: dark;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-sans);
+}
+
+:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
 }

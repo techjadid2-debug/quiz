@@ -1,0 +1,530 @@
+[
+  {
+    "id": "art-001",
+    "question": "“Mona Liza” (“Jokonda”) kartinasini kim chizgan?",
+    "options": [
+      "Rafael Santi",
+      "Mikelanjelo",
+      "Leonardo da Vinchi",
+      "Sandro Bottichelli"
+    ],
+    "answer": 2,
+    "explanation": "Leonardo da Vinchi bu portretni XVI asr boshida chizgan; u dunyodagi eng mashhur rangtasvir asarlaridan biri hisoblanadi.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/topic/Mona-Lisa-painting",
+    "status": "verified"
+  },
+  {
+    "id": "art-002",
+    "question": "“Mona Liza” kartinasi hozir qaysi muzeyda saqlanadi?",
+    "options": [
+      "Uffitsi galereyasi (Florensiya)",
+      "Luvr (Parij)",
+      "Prado (Madrid)",
+      "Britaniya muzeyi (London)"
+    ],
+    "answer": 1,
+    "explanation": "Kartina Parijdagi Luvrda saqlanadi; u 1911-yilda o‘g‘irlangan, 1913-yil oxirida Florensiyada topilgan va 1914-yil boshida Luvrga qaytarilgan.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/topic/Mona-Lisa-painting",
+    "status": "verified"
+  },
+  {
+    "id": "art-003",
+    "question": "“Yulduzli tun” kartinasining muallifi kim?",
+    "options": [
+      "Vinsent van Gog",
+      "Klod Mone",
+      "Pol Sezann",
+      "Pol Gogen"
+    ],
+    "answer": 0,
+    "explanation": "Van Gog bu asarni 1889-yilda Sen-Remi-de-Provansdagi shifoxonada chizgan; kartina Nyu-Yorkdagi Zamonaviy san’at muzeyida (MoMA) saqlanadi.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://www.moma.org/collection/works/79802",
+    "status": "verified"
+  },
+  {
+    "id": "art-004",
+    "question": "Dutor nechta torli cholg‘u?",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "“Dutor” nomi forscha “du” (ikki) va “tor” so‘zlaridan olingan; bu uzun dastali ikki torli chertma cholg‘u.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Dutar",
+    "status": "verified"
+  },
+  {
+    "id": "art-005",
+    "question": "Bayram, to‘y va sayillarda chalinadigan uzun mis puflama cholg‘u qanday ataladi?",
+    "options": [
+      "Surnay",
+      "Nay",
+      "Karnay",
+      "Doira"
+    ],
+    "answer": 2,
+    "explanation": "Karnay — Markaziy Osiyoda qadimdan tantanalarda chalinib kelinadigan uzun mis truba; u ko‘pincha surnay va nog‘ora bilan birga chalinadi.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Karnay",
+    "status": "verified"
+  },
+  {
+    "id": "art-006",
+    "question": "Doira qaysi turdagi musiqa cholg‘usi?",
+    "options": [
+      "Torli-chertma cholg‘u",
+      "Urma (zarbli) cholg‘u",
+      "Puflama cholg‘u",
+      "Torli-kamonli cholg‘u"
+    ],
+    "answer": 1,
+    "explanation": "Doira — gardishga teri tortilgan, ichki tomoniga metall halqachalar osilgan chambarak turidagi urma cholg‘u.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Doira",
+    "status": "verified"
+  },
+  {
+    "id": "art-007",
+    "question": "“Shashmaqom” turkumi nechta maqomdan iborat?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "“Shash” forscha “olti” demak; Buzruk, Rost, Navo, Dugoh, Segoh va Iroq maqomlaridan iborat bu turkum UNESCO nomoddiy madaniy merosi ro‘yxatiga kiritilgan.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://ich.unesco.org/en/RL/shashmaqom-music-00089",
+    "status": "verified"
+  },
+  {
+    "id": "art-008",
+    "question": "“Fasllar” nomli to‘rtta skripka konserti turkumining muallifi kim?",
+    "options": [
+      "Iogann Sebastyan Bax",
+      "Georg Fridrix Gendel",
+      "Volfgang Amadey Motsart",
+      "Antonio Vivaldi"
+    ],
+    "answer": 3,
+    "explanation": "Venetsiyalik bastakor Vivaldining “Fasllar” turkumi 1725-yilda nashr etilgan va Barokko musiqasining eng mashhur namunalaridan biri hisoblanadi.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/topic/The-Four-Seasons-by-Vivaldi",
+    "status": "verified"
+  },
+  {
+    "id": "art-009",
+    "question": "“Oqqush ko‘li” baletining musiqasini kim yozgan?",
+    "options": [
+      "Sergey Prokofyev",
+      "Igor Stravinskiy",
+      "Pyotr Chaykovskiy",
+      "Nikolay Rimskiy-Korsakov"
+    ],
+    "answer": 2,
+    "explanation": "Chaykovskiyning bu baleti 1877-yilda Moskvadagi Katta teatrda ilk bor sahnalashtirilgan.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Swan_Lake",
+    "status": "verified"
+  },
+  {
+    "id": "art-010",
+    "question": "Agra shahridagi Tojmahal maqbarasini qaysi hukmdor qurdirgan?",
+    "options": [
+      "Akbar",
+      "Shoh Jahon",
+      "Bobur",
+      "Avrangzeb"
+    ],
+    "answer": 1,
+    "explanation": "Boburiy hukmdor Shoh Jahon Tojmahalni rafiqasi Mumtoz Mahal xotirasiga qurdirgan; majmua 1983-yilda UNESCO Jahon merosi ro‘yxatiga kiritilgan.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://whc.unesco.org/en/list/252",
+    "status": "verified"
+  },
+  {
+    "id": "art-011",
+    "question": "Samarqanddagi Go‘ri Amir maqbarasida kim dafn etilgan?",
+    "options": [
+      "Amir Temur",
+      "Zahiriddin Muhammad Bobur",
+      "Alisher Navoiy",
+      "Ismoil Somoniy"
+    ],
+    "answer": 0,
+    "explanation": "Go‘ri Amir — Temuriylar sulolasining maqbarasi; unda Amir Temur bilan birga Mirzo Ulug‘bek va boshqa temuriylar dafn etilgan.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Gur-e-Amir",
+    "status": "verified"
+  },
+  {
+    "id": "art-012",
+    "question": "“Titanik” (1997) filmining rejissyori kim?",
+    "options": [
+      "Stiven Spilberg",
+      "Kristofer Nolan",
+      "Ridli Skott",
+      "Jeyms Kemeron"
+    ],
+    "answer": 3,
+    "explanation": "Film 11 ta “Oskar” mukofotini olgan — bu “Ben-Gur” va “Uzuklar hukmdori: Qirolning qaytishi” bilan teng rekord.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Titanic_(1997_film)",
+    "status": "verified"
+  },
+  {
+    "id": "art-013",
+    "question": "Ermitaj muzeyi qaysi shaharda joylashgan?",
+    "options": [
+      "Moskva",
+      "Vena",
+      "Sankt-Peterburg",
+      "Berlin"
+    ],
+    "answer": 2,
+    "explanation": "Ermitajga 1764-yilda Yekaterina II asos solgan; muzeyning asosiy binosi — Qishki saroy.",
+    "category": "art",
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/Hermitage_Museum",
+    "status": "verified"
+  },
+  {
+    "id": "art-014",
+    "question": "“Gernika” kartinasining muallifi kim?",
+    "options": [
+      "Salvador Dali",
+      "Pablo Pikasso",
+      "Joan Miro",
+      "Fransisko Goya"
+    ],
+    "answer": 1,
+    "explanation": "Pikasso bu asarni 1937-yilda Basklar shahri Gernikaning bombardimon qilinishiga javoban chizgan; kartina urushga qarshi san’atning ramziga aylangan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Guernica_(Picasso)",
+    "status": "verified"
+  },
+  {
+    "id": "art-015",
+    "question": "Vatikandagi Sikstin kapellasining shiftini kim bezagan?",
+    "options": [
+      "Mikelanjelo",
+      "Leonardo da Vinchi",
+      "Rafael Santi",
+      "Titsian"
+    ],
+    "answer": 0,
+    "explanation": "Mikelanjelo shift freskalarini 1508–1512-yillarda ishlagan; ulardan eng mashhuri — “Odam Atoning yaratilishi”.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling",
+    "status": "verified"
+  },
+  {
+    "id": "art-016",
+    "question": "“Mutafakkir” haykalining muallifi kim?",
+    "options": [
+      "Mikelanjelo",
+      "Antonio Kanova",
+      "Donatello",
+      "Ogyust Roden"
+    ],
+    "answer": 3,
+    "explanation": "Roden bu haykalni dastlab “Do‘zax darvozasi” kompozitsiyasining bir qismi sifatida yaratgan; u Danteni ifodalashi ko‘zda tutilgan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/The_Thinker",
+    "status": "verified"
+  },
+  {
+    "id": "art-017",
+    "question": "“Shodlik qasidasi” (“Ode an die Freude”) qaysi bastakorning 9-simfoniyasi finalida yangraydi?",
+    "options": [
+      "Volfgang Amadey Motsart",
+      "Iogannes Brams",
+      "Lyudvig van Betxoven",
+      "Frans Shubert"
+    ],
+    "answer": 2,
+    "explanation": "Betxoven 9-simfoniyasini (1824) Shiller she’ri asosida yozgan; bu kuy Yevropa madhiyasi sifatida qo‘llaniladi.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)",
+    "status": "verified"
+  },
+  {
+    "id": "art-018",
+    "question": "“Sehrli nay” operasini kim yozgan?",
+    "options": [
+      "Juzeppe Verdi",
+      "Volfgang Amadey Motsart",
+      "Jakomo Puchchini",
+      "Richard Vagner"
+    ],
+    "answer": 1,
+    "explanation": "Motsart operasi 1791-yilda Venada, bastakor vafotidan bir necha hafta oldin sahnalashtirilgan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/The_Magic_Flute",
+    "status": "verified"
+  },
+  {
+    "id": "art-019",
+    "question": "Standart zamonaviy fortepianoda nechta klavish bor?",
+    "options": [
+      "88",
+      "76",
+      "92",
+      "64"
+    ],
+    "answer": 0,
+    "explanation": "Standart fortepiano 52 ta oq va 36 ta qora, jami 88 klavishdan iborat; bu 7 oktavadan ortiq diapazonni beradi.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Piano",
+    "status": "verified"
+  },
+  {
+    "id": "art-020",
+    "question": "Uchli arkalar, qovurg‘ali gumbazlar va katta vitrajli derazalar qaysi me’moriy uslubga xos?",
+    "options": [
+      "Roman uslubi",
+      "Barokko",
+      "Klassitsizm",
+      "Gotika"
+    ],
+    "answer": 3,
+    "explanation": "Gotika uslubi XII asrda Fransiyada paydo bo‘lgan; Parijdagi Notr-Dam sobori uning mashhur namunasidir.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Gothic_architecture",
+    "status": "verified"
+  },
+  {
+    "id": "art-021",
+    "question": "Parijdagi Eyfel minorasi qaysi yili qurib bitkazilgan?",
+    "options": [
+      "1900",
+      "1867",
+      "1889",
+      "1912"
+    ],
+    "answer": 2,
+    "explanation": "Minora Fransuz inqilobining 100 yilligiga bag‘ishlangan 1889-yilgi Butunjahon ko‘rgazmasi uchun qurilgan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+    "status": "verified"
+  },
+  {
+    "id": "art-022",
+    "question": "Quyidagi madrasalardan qaysi biri Samarqanddagi Registon maydonida joylashgan?",
+    "options": [
+      "Ko‘kaldosh",
+      "Sherdor",
+      "Mir Arab",
+      "Barakxon"
+    ],
+    "answer": 1,
+    "explanation": "Registon ansambli uch madrasadan iborat: Ulug‘bek (XV asr), Sherdor va Tillakori (XVII asr).",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Registan",
+    "status": "verified"
+  },
+  {
+    "id": "art-023",
+    "question": "Miniatura ustasi Kamoliddin Behzod Husayn Boyqaro saroyida qaysi shaharda ijod qilib shuhrat qozongan?",
+    "options": [
+      "Hirot",
+      "Samarqand",
+      "Buxoro",
+      "Isfahon"
+    ],
+    "answer": 0,
+    "explanation": "Behzod Hirot miniatura maktabining eng yirik vakili bo‘lgan; 1486-yildan saroy kitobxonasiga rahbarlik qilgan, Alisher Navoiy esa uning homiysi edi.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Kam%C4%81l_ud-D%C4%ABn_Behz%C4%81d",
+    "status": "verified"
+  },
+  {
+    "id": "art-024",
+    "question": "Eriyotgan soatlar tasvirlangan “Xotiraning barqarorligi” (“La persistencia de la memoria”) kartinasining muallifi kim?",
+    "options": [
+      "Rene Magritt",
+      "Maks Ernst",
+      "Pablo Pikasso",
+      "Salvador Dali"
+    ],
+    "answer": 3,
+    "explanation": "Dali 1931-yilda chizgan bu asar syurrealizmning eng taniqli namunasi; u Nyu-Yorkdagi MoMA kolleksiyasida saqlanadi.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/The_Persistence_of_Memory",
+    "status": "verified"
+  },
+  {
+    "id": "art-025",
+    "question": "Aka-uka Lyumyerlar Parijda birinchi pullik ommaviy kinoseansni qaysi yili o‘tkazgan?",
+    "options": [
+      "1885",
+      "1903",
+      "1895",
+      "1910"
+    ],
+    "answer": 2,
+    "explanation": "1895-yil 28-dekabrda Parijdagi “Grand Kafe”da o‘tgan bu seans kino tarixining boshlanishi deb hisoblanadi.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re",
+    "status": "verified"
+  },
+  {
+    "id": "art-026",
+    "question": "“Qichqiriq” kartinasining muallifi kim?",
+    "options": [
+      "Gustav Klimt",
+      "Edvard Munk",
+      "Egon Shile",
+      "Vasiliy Kandinskiy"
+    ],
+    "answer": 1,
+    "explanation": "Norvegiyalik rassom Munk asarning bir necha variantini yaratgan; birinchi rangtasvir varianti 1893-yilda chizilgan va ekspressionizm ramziga aylangan.",
+    "category": "art",
+    "difficulty": "medium",
+    "source": "https://en.wikipedia.org/wiki/The_Scream",
+    "status": "verified"
+  },
+  {
+    "id": "art-027",
+    "question": "Pikassoning “Gernika” kartinasi hozir qaysi muzeyda saqlanadi?",
+    "options": [
+      "Qirolicha Sofiya san’at markazi (Madrid)",
+      "Prado muzeyi (Madrid)",
+      "Pikasso muzeyi (Parij)",
+      "MoMA (Nyu-York)"
+    ],
+    "answer": 0,
+    "explanation": "Kartina uzoq yillar MoMAda saqlangan, 1981-yilda Ispaniyaga qaytarilgan va 1992-yildan Madriddagi Reina Sofiya muzeyida turadi.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Guernica_(Picasso)",
+    "status": "verified"
+  },
+  {
+    "id": "art-028",
+    "question": "Leonardo da Vinchining “So‘nggi kechki ovqat” (“L’Ultima Cena”) devoriy rasmi qayerda joylashgan?",
+    "options": [
+      "Vatikandagi Sikstin kapellasi",
+      "Florensiyadagi Uffitsi galereyasi",
+      "Parijdagi Luvr",
+      "Milandagi Santa-Mariya-delle-Grasie monastiri"
+    ],
+    "answer": 3,
+    "explanation": "Leonardo bu rasmni 1495–1498-yillarda monastir ovqatxonasi devoriga ishlagan; joy 1980-yildan UNESCO Jahon merosi ro‘yxatida.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://whc.unesco.org/en/list/93",
+    "status": "verified"
+  },
+  {
+    "id": "art-029",
+    "question": "“Impressionizm” atamasi qaysi rassomning kartinasi nomidan kelib chiqqan?",
+    "options": [
+      "Eduard Mane",
+      "Ogyust Renuar",
+      "Klod Mone",
+      "Edgar Dega"
+    ],
+    "answer": 2,
+    "explanation": "Mone “Taassurot. Chiqayotgan quyosh” (“Impression, soleil levant”, 1872) kartinasini 1874-yilgi ko‘rgazmada namoyish etgan; tanqidchi uning nomidan butun guruhni masxara qilish uchun foydalangan.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Impression,_Sunrise",
+    "status": "verified"
+  },
+  {
+    "id": "art-030",
+    "question": "Rembrandtning “Tungi qorovul” kartinasi qaysi muzeyda saqlanadi?",
+    "options": [
+      "Luvr (Parij)",
+      "Reyksmuzeum (Amsterdam)",
+      "Ermitaj (Sankt-Peterburg)",
+      "Milliy galereya (London)"
+    ],
+    "answer": 1,
+    "explanation": "Asar 1642-yilda tugatilgan; “Tungi qorovul” nomi keyinchalik qoraygan lak qatlami tufayli paydo bo‘lgan.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/The_Night_Watch",
+    "status": "verified"
+  },
+  {
+    "id": "art-031",
+    "question": "Luvr hovlisidagi shisha piramidaning me’mori kim?",
+    "options": [
+      "I. M. Pey",
+      "Frenk Geri",
+      "Zaha Hadid",
+      "Le Korbyuzye"
+    ],
+    "answer": 0,
+    "explanation": "Xitoy-amerikalik me’mor I. M. Pey loyihasi asosidagi piramida 1989-yilda ochilgan va muzeyning asosiy kirish joyiga aylangan.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Louvre_Pyramid",
+    "status": "verified"
+  },
+  {
+    "id": "art-032",
+    "question": "Kamoliddin Behzod 1522-yildan qaysi shaharda Safaviylar saroy kutubxonasiga rahbarlik qilgan?",
+    "options": [
+      "Isfahon",
+      "Mashhad",
+      "Qazvin",
+      "Tabriz"
+    ],
+    "answer": 3,
+    "explanation": "Shoh Ismoil I Behzodni Safaviylar poytaxti Tabrizdagi saroy kitobxonasi boshlig‘i etib tayinlagan; u shu yerda Safaviy miniaturasi rivojiga katta ta’sir ko‘rsatgan.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Kam%C4%81l_ud-D%C4%ABn_Behz%C4%81d",
+    "status": "verified"
+  },
+  {
+    "id": "art-033",
+    "question": "“Oskar” mukofotining birinchi topshirish marosimi qaysi yili bo‘lib o‘tgan?",
+    "options": [
+      "1927",
+      "1935",
+      "1929",
+      "1921"
+    ],
+    "answer": 2,
+    "explanation": "Birinchi marosim 1929-yil 16-mayda Gollivudda o‘tgan; “Eng yaxshi film” mukofotini “Qanotlar” (Wings) filmi olgan.",
+    "category": "art",
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/1st_Academy_Awards",
+    "status": "verified"
+  }
+]

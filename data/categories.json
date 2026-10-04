@@ -1,0 +1,12 @@
+[
+  { "id": "uzbekistan", "name": "O‘zbekiston", "description": "Tarix, madaniyat, geografiya va davlat ramzlari" },
+  { "id": "history", "name": "Tarix", "description": "Jahon tarixi: sivilizatsiyalar, voqealar, shaxslar" },
+  { "id": "geography", "name": "Geografiya", "description": "Davlatlar, poytaxtlar, daryolar, tog‘lar" },
+  { "id": "science", "name": "Fan va texnologiya", "description": "Fizika, kimyo, biologiya, ixtirolar" },
+  { "id": "literature", "name": "Adabiyot", "description": "O‘zbek va jahon adabiyoti" },
+  { "id": "art", "name": "San’at", "description": "Rassomlik, musiqa, me’morchilik, kino" },
+  { "id": "sport", "name": "Sport", "description": "Olimpiada, futbol, sport tarixi" },
+  { "id": "nature", "name": "Tabiat", "description": "Hayvonlar, o‘simliklar, ekologiya" },
+  { "id": "space", "name": "Koinot", "description": "Sayyoralar, yulduzlar, kosmik tadqiqotlar" },
+  { "id": "logic", "name": "Mantiq", "description": "Mantiqiy va matematik masalalar" }
+]

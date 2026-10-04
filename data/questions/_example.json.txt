@@ -1,0 +1,13 @@
+[
+  {
+    "id": "geo-001",
+    "question": "Qaysi davlatning poytaxti Kanberra?",
+    "options": ["Avstraliya", "Yangi Zelandiya", "Kanada", "Janubiy Afrika"],
+    "answer": 0,
+    "explanation": "Kanberra 1913-yildan Avstraliya poytaxti; Sidney va Melburn o‘rtasidagi murosa sifatida tanlangan.",
+    "category": "geography",
+    "difficulty": "easy",
+    "source": "https://www.britannica.com/place/Canberra",
+    "status": "verified"
+  }
+]
